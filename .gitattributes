@@ -1,10 +1,9 @@
 * text=auto !eol
 /LocaleElements.dtd -text
-/LocaleElements14652.dtd -text
-/LocaleElementsICU.dtd -text
-/LocaleElementsOpenOffice.dtd -text
-/LocaleElementsPOSIX.dtd -text
-/LocaleElementsSupplemental.dtd -text
+common/dtd/ldml.dtd -text
+common/dtd/ldmlICU.dtd -text
+common/dtd/ldmlOpenOffice.dtd -text
+common/dtd/ldmlSupplemental.dtd -text
 /da2.xml svneol=native#text/xml
 external/hp/icu_format/ar_DZ.txt svneol=native#text/plain
 external/hp/icu_format/ar_SA.txt svneol=native#text/plain
@@ -1059,6 +1058,8 @@ external/windows/main/zh_SG.xml svneol=native#text/xml
 external/windows/main/zh_TW.xml svneol=native#text/xml
 /ldml-example.xml svneol=native#text/xml
 /ldml-spec.html svneol=native#text/html
+/ldmlISO14652.dtd -text
+/ldmlPOSIX.dtd -text
 /ldmlSupplemental-example.xml svneol=native#text/xml
 /readme.html svneol=native#text/html
 tools/c/genldml/Readme.txt svneol=native#text/plain
