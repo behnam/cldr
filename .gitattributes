@@ -1,5 +1,9 @@
 * text=auto !eol
 /LocaleElements.dtd -text
+/LocaleElements14652.dtd -text
+/LocaleElementsICU.dtd -text
+/LocaleElementsOpenOffice.dtd -text
+/LocaleElementsPOSIX.dtd -text
 /LocaleElementsSupplemental.dtd -text
 /da2.xml svneol=native#text/xml
 external/hp/icu_format/ar_DZ.txt svneol=native#text/plain
