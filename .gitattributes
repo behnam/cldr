@@ -380,6 +380,7 @@ docs/design/exemplar_collation_check.txt svneol=native#text/plain
 docs/design/formatting/date_combinatorics.html svneol=native#text/html
 docs/design/formatting/gmt_translations.html svneol=native#text/html
 docs/design/formatting/lenient_parsing.htm svneol=native#text/html
+docs/design/formatting/time_zone_categories.txt svneol=native#text/plain
 docs/design/formatting/time_zone_localization.html svneol=native#text/html
 docs/design/formatting/zone_log.html svneol=native#text/html
 docs/design/ldmlValidity.htm svneol=native#text/html
