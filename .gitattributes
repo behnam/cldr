@@ -2491,3 +2491,4 @@ test/zh.xml svneol=native#text/xml
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
+tools/scripts/CLDRWrapper -text
