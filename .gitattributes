@@ -2519,7 +2519,9 @@ tools/java/org/unicode/cldr/util/ISO4217.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/TZID.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/ISO4217.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/TZID.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/language_list.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/lstreg.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/language_list.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/lstreg.txt svneol=native#text/plain
 tools/java/readme.txt svneol=native#text/plain
 tools/scripts/CLDRWrapper -text
