@@ -5,6 +5,7 @@ common/dtd/ldmlICU.dtd -text
 common/dtd/ldmlOpenOffice.dtd -text
 common/dtd/ldmlSupplemental.dtd -text
 /da2.xml svneol=native#text/xml
+docs/design/formatting/gmt_translations.html svneol=native#text/html
 external/hp/icu_format/ar_DZ.txt svneol=native#text/plain
 external/hp/icu_format/ar_SA.txt svneol=native#text/plain
 external/hp/icu_format/bg_BG.txt svneol=native#text/plain
