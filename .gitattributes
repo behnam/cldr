@@ -2745,3 +2745,4 @@ tools/scripts/CLDRWrapper -text
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh
 tools/scripts/sidewaysCharts.sh -text svneol=native#application/x-sh
+tools/scripts/web/bugdiffs -text
