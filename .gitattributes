@@ -228,6 +228,7 @@ common/main/zh_SG.xml svneol=native#text/xml
 common/main/zh_TW.xml svneol=native#text/xml
 common/supplemental/supplementalData.xml svneol=native#text/xml
 /da2.xml svneol=native#text/xml
+/data_formats.html svneol=native#text/html
 docs/design/formatting/gmt_translations.html svneol=native#text/html
 external/aix/icu_format/ar_AE.txt svneol=native#text/plain
 external/aix/icu_format/ar_BH.txt svneol=native#text/plain
