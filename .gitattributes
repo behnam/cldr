@@ -2636,6 +2636,7 @@ test/bg.xml svneol=native#text/xml
 test/bn.xml svneol=native#text/xml
 test/ca.xml svneol=native#text/xml
 test/cs.xml svneol=native#text/xml
+test/cy.xml svneol=native#text/xml
 test/da.xml svneol=native#text/xml
 test/de.xml svneol=native#text/xml
 test/el.xml svneol=native#text/xml
