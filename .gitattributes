@@ -58,6 +58,10 @@ common/collation/tr.xml svneol=native#text/xml
 common/collation/uk.xml svneol=native#text/xml
 common/collation/vi.xml svneol=native#text/xml
 common/collation/zh.xml svneol=native#text/xml
+common/collation/zh_HK.xml svneol=native#text/xml
+common/collation/zh_Hant.xml svneol=native#text/xml
+common/collation/zh_MO.xml svneol=native#text/xml
+common/collation/zh_TW.xml svneol=native#text/xml
 common/dtd/ldml.dtd -text
 common/dtd/ldmlICU.dtd -text
 common/dtd/ldmlOpenOffice.dtd -text
