@@ -1997,6 +1997,7 @@ external/windows/collation/id.xml svneol=native#text/xml
 external/windows/collation/is.xml svneol=native#text/xml
 external/windows/collation/it.xml svneol=native#text/xml
 external/windows/collation/ja.xml svneol=native#text/xml
+external/windows/collation/kk_KZ.xml svneol=native#text/xml
 external/windows/collation/kl.xml svneol=native#text/xml
 external/windows/collation/kn.xml svneol=native#text/xml
 external/windows/collation/ko.xml svneol=native#text/xml
