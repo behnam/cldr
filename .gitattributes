@@ -376,6 +376,7 @@ docs/design/chinese_ordering.htm svneol=native#text/html
 docs/design/eastern_european_collation.htm svneol=native#text/html
 docs/design/exemplar_collation_check.htm svneol=native#text/html
 docs/design/exemplar_collation_check.txt svneol=native#text/plain
+docs/design/formatting/date_combinatorics.html svneol=native#text/html
 docs/design/formatting/gmt_translations.html svneol=native#text/html
 docs/design/formatting/lenient_parsing.htm svneol=native#text/html
 docs/design/formatting/time_zone_localization.html svneol=native#text/html
