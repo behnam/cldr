@@ -1,4 +1,5 @@
 * text=auto !eol
+/XML_Collation_Specification.html svneol=native#text/html
 external/hp/icu_format/ar_DZ.txt svneol=native#text/plain
 external/hp/icu_format/ar_SA.txt svneol=native#text/plain
 external/hp/icu_format/bg_BG.txt svneol=native#text/plain
@@ -1051,3 +1052,4 @@ external/windows/main/zh_MO.xml svneol=native#text/xml
 external/windows/main/zh_SG.xml svneol=native#text/xml
 external/windows/main/zh_TW.xml svneol=native#text/xml
 /localedata.htm svneol=native#text/html
+/xml_collation.htm svneol=native#text/html
