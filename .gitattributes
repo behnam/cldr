@@ -2435,6 +2435,7 @@ external/windows/main/zh_MO.xml svneol=native#text/xml
 external/windows/main/zh_SG.xml svneol=native#text/xml
 external/windows/main/zh_TW.xml svneol=native#text/xml
 /ldml-errata.html svneol=native#text/html
+posix/UTF-8.cm -text
 test/af.xml svneol=native#text/xml
 test/am.xml svneol=native#text/xml
 test/ar.xml svneol=native#text/xml
