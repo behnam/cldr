@@ -39,6 +39,7 @@ common/collation/mt.xml svneol=native#text/xml
 common/collation/nb.xml svneol=native#text/xml
 common/collation/nn.xml svneol=native#text/xml
 common/collation/om.xml svneol=native#text/xml
+common/collation/or.xml svneol=native#text/xml
 common/collation/pa.xml svneol=native#text/xml
 common/collation/pl.xml svneol=native#text/xml
 common/collation/ps.xml svneol=native#text/xml
