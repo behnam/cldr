@@ -350,6 +350,7 @@ common/supplemental/supplementalData.xml svneol=native#text/xml
 /comparison_charts.html svneol=native#text/html
 /data_formats.html svneol=native#text/html
 docs/design/formatting/gmt_translations.html svneol=native#text/html
+docs/design/formatting/lenient_parsing.htm svneol=native#text/html
 docs/design/formatting/time_zone_localization.html svneol=native#text/html
 docs/design/formatting/zone_log.html svneol=native#text/html
 docs/web/comparison_charts.html svneol=native#text/html
