@@ -1,6 +1,5 @@
 * text=auto !eol
 /CLDR_status.html svneol=native#text/html
-/LocaleElements.dtd -text
 common/collation/ar.xml svneol=native#text/xml
 common/collation/ca.xml svneol=native#text/xml
 common/collation/cs.xml svneol=native#text/xml
