@@ -2555,6 +2555,7 @@ posix/ja_JP.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/ka_GE.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/kk_KZ.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/kl_GL.UTF-8.src -text svneol=unset#application/x-wais-source
+posix/km_KH.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/kn_IN.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/ko_KR.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/kw_GB.UTF-8.src -text svneol=unset#application/x-wais-source
