@@ -29,6 +29,7 @@ common/collation/it.xml svneol=native#text/xml
 common/collation/ja.xml svneol=native#text/xml
 common/collation/kk.xml svneol=native#text/xml
 common/collation/kl.xml svneol=native#text/xml
+common/collation/km.xml svneol=native#text/xml
 common/collation/kn.xml svneol=native#text/xml
 common/collation/ko.xml svneol=native#text/xml
 common/collation/lt.xml svneol=native#text/xml
