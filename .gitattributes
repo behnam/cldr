@@ -2310,7 +2310,6 @@ external/windows/main/zh_TW.xml svneol=native#text/xml
 /ldml-errata.html svneol=native#text/html
 /ldml-example.xml svneol=native#text/xml
 /ldml-spec.html svneol=native#text/html
-/ldmlISO14652.dtd -text
 /ldmlPOSIX.dtd -text
 /ldmlSupplemental-example.xml svneol=native#text/xml
 /olson_ids.txt svneol=native#text/plain
