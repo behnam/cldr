@@ -1969,6 +1969,7 @@ external/windows/main/zh_TW.xml svneol=native#text/xml
 /ldmlISO14652.dtd -text
 /ldmlPOSIX.dtd -text
 /ldmlSupplemental-example.xml svneol=native#text/xml
+/olson_ids.txt svneol=native#text/plain
 /readme.html svneol=native#text/html
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
