@@ -1,6 +1,7 @@
 * text=auto !eol
 /LocaleElements.dtd -text
 /XML_Collation_Specification.html svneol=native#text/html
+/da2.xml svneol=native#text/xml
 external/hp/icu_format/ar_DZ.txt svneol=native#text/plain
 external/hp/icu_format/ar_SA.txt svneol=native#text/plain
 external/hp/icu_format/bg_BG.txt svneol=native#text/plain
