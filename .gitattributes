@@ -1055,3 +1055,6 @@ external/windows/main/zh_TW.xml svneol=native#text/xml
 /ldml-example.xml svneol=native#text/xml
 /ldml-spec.html svneol=native#text/html
 /readme.html svneol=native#text/html
+tools/c/genldml/Readme.txt svneol=native#text/plain
+tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
+tools/c/genldml/resources/root.txt svneol=native#text/plain
