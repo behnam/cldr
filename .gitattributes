@@ -19,6 +19,7 @@ common/collation/fi.xml svneol=native#text/xml
 common/collation/fo.xml svneol=native#text/xml
 common/collation/fr.xml svneol=native#text/xml
 common/collation/gu.xml svneol=native#text/xml
+common/collation/haw.xml svneol=native#text/xml
 common/collation/he.xml svneol=native#text/xml
 common/collation/hi.xml svneol=native#text/xml
 common/collation/hr.xml svneol=native#text/xml
