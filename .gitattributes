@@ -2519,12 +2519,18 @@ tools/java/org/unicode/cldr/icu/idList.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/ISO4217.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/TZID.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/TimeZoneAliases.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/backward -text
 tools/java/org/unicode/cldr/util/data/ISO4217.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/TZID.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/TimeZoneAliases.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/backward -text
 tools/java/org/unicode/cldr/util/data/language_list.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/lstreg.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/zone.tab -text
 tools/java/org/unicode/cldr/util/language_list.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/lstreg.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/zone.tab -text
 tools/java/readme.txt svneol=native#text/plain
 tools/scripts/CLDRWrapper -text
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
