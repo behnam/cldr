@@ -571,7 +571,6 @@ external/hp/icu_format/univ.txt svneol=native#text/plain
 external/hp/icu_format/zh_CN.txt svneol=native#text/plain
 external/hp/icu_format/zh_HK.txt svneol=native#text/plain
 external/hp/icu_format/zh_TW.txt svneol=native#text/plain
-external/hp/main/LocaleElements.dtd -text
 external/hp/main/ar_DZ.xml svneol=native#text/xml
 external/hp/main/ar_SA.xml svneol=native#text/xml
 external/hp/main/bg_BG.xml svneol=native#text/xml
@@ -1790,7 +1789,6 @@ external/sunjdk/icu_format/zh.txt svneol=native#text/plain
 external/sunjdk/icu_format/zh_CN.txt svneol=native#text/plain
 external/sunjdk/icu_format/zh_HK.txt svneol=native#text/plain
 external/sunjdk/icu_format/zh_TW.txt svneol=native#text/plain
-external/sunjdk/main/LocaleElements.dtd -text
 external/sunjdk/main/ar.xml svneol=native#text/xml
 external/sunjdk/main/ar_AE.xml svneol=native#text/xml
 external/sunjdk/main/ar_BH.xml svneol=native#text/xml
