@@ -878,7 +878,6 @@ external/ibmjdk/icu_format/zh_CN_HK.txt svneol=native#text/plain
 external/ibmjdk/icu_format/zh_HK.txt svneol=native#text/plain
 external/ibmjdk/icu_format/zh_SG.txt svneol=native#text/plain
 external/ibmjdk/icu_format/zh_TW.txt svneol=native#text/plain
-external/ibmjdk/main/LocaleElements.dtd -text
 external/ibmjdk/main/ar.xml svneol=native#text/xml
 external/ibmjdk/main/ar_AE.xml svneol=native#text/xml
 external/ibmjdk/main/ar_BH.xml svneol=native#text/xml
