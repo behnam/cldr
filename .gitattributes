@@ -2508,3 +2508,4 @@ tools/c/genldml/resources/root.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
 tools/scripts/CLDRWrapper -text
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
+tools/scripts/sidewaysCharts.sh -text svneol=native#application/x-sh
