@@ -2481,6 +2481,8 @@ posix/de_BE.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/de_CH.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/de_DE.ISO8859-15.src -text svneol=unset#application/x-wais-source
 posix/de_DE.UTF-8.src -text svneol=unset#application/x-wais-source
+posix/de_DE@collation=phonebook,currency=DEM.ISO8859-15.src -text svneol=unset#application/x-wais-source
+posix/de_DE@collation=phonebook.ISO8859-15.src -text svneol=unset#application/x-wais-source
 posix/de_LI.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/de_LU.UTF-8.src -text svneol=unset#application/x-wais-source
 posix/dv_MV.UTF-8.src -text svneol=unset#application/x-wais-source
