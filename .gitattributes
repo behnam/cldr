@@ -2316,6 +2316,7 @@ external/windows/main/zh_TW.xml svneol=native#text/xml
 /ldmlSupplemental-example.xml svneol=native#text/xml
 /olson_ids.txt svneol=native#text/plain
 /readme.html svneol=native#text/html
+/styles.css -text svneol=unset#text/css
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
