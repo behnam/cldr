@@ -353,6 +353,7 @@ docs/design/formatting/gmt_translations.html svneol=native#text/html
 docs/design/formatting/lenient_parsing.htm svneol=native#text/html
 docs/design/formatting/time_zone_localization.html svneol=native#text/html
 docs/design/formatting/zone_log.html svneol=native#text/html
+docs/design/multiple_inheritance.html svneol=native#text/html
 docs/web/comparison_charts.html svneol=native#text/html
 docs/web/data_formats.html svneol=native#text/html
 docs/web/filing_bug_reports.html svneol=native#text/html
