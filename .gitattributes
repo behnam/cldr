@@ -2691,6 +2691,7 @@ tools/c/genldml/resources/root.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/idList.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/ISO4217.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/Locales.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/TZID.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/TimeZoneAliases.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/africa -text
@@ -2699,6 +2700,7 @@ tools/java/org/unicode/cldr/util/asia -text
 tools/java/org/unicode/cldr/util/australasia -text
 tools/java/org/unicode/cldr/util/backward -text
 tools/java/org/unicode/cldr/util/data/ISO4217.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/Locales.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/TZID.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/TimeZoneAliases.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/africa -text
