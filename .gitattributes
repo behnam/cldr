@@ -133,6 +133,7 @@ common/main/dv_MV.xml svneol=native#text/xml
 common/main/dz.xml svneol=native#text/xml
 common/main/dz_BT.xml svneol=native#text/xml
 common/main/el.xml svneol=native#text/xml
+common/main/el_CY.xml svneol=native#text/xml
 common/main/el_GR.xml svneol=native#text/xml
 common/main/en.xml svneol=native#text/xml
 common/main/en_AS.xml svneol=native#text/xml
