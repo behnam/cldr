@@ -365,6 +365,7 @@ common/main/zh_Hans_SG.xml svneol=native#text/xml
 common/main/zh_Hant.xml svneol=native#text/xml
 common/main/zh_Hant_HK.xml svneol=native#text/xml
 common/main/zh_Hant_MO.xml svneol=native#text/xml
+common/main/zh_Hant_TW.xml svneol=native#text/xml
 common/main/zh_MO.xml svneol=native#text/xml
 common/main/zh_SG.xml svneol=native#text/xml
 common/main/zh_TW.xml svneol=native#text/xml
