@@ -386,6 +386,7 @@ docs/design/ldmlValidity.htm svneol=native#text/html
 docs/design/liaison_statement.html svneol=native#text/html
 docs/design/minimal_requirements.htm svneol=native#text/html
 docs/design/multiple_inheritance.html svneol=native#text/html
+docs/presentations/cldr_overview.ppt -text svneol=unset#application/vnd.ms-powerpoint
 docs/web/comparison_charts.html svneol=native#text/html
 docs/web/data_formats.html svneol=native#text/html
 docs/web/draft.html svneol=native#text/html
