@@ -2430,7 +2430,6 @@ test/cs_CZ.xml svneol=native#text/xml
 test/da.xml svneol=native#text/xml
 test/da_DK.xml svneol=native#text/xml
 test/de.xml svneol=native#text/xml
-test/de@collation=phonebook.xml svneol=native#text/xml
 test/de_AT.xml svneol=native#text/xml
 test/de_BE.xml svneol=native#text/xml
 test/de_CH.xml svneol=native#text/xml
@@ -2458,7 +2457,6 @@ test/en_ZA.xml svneol=native#text/xml
 test/en_ZW.xml svneol=native#text/xml
 test/eo.xml svneol=native#text/xml
 test/es.xml svneol=native#text/xml
-test/es@collation=traditional.xml svneol=native#text/xml
 test/es_AR.xml svneol=native#text/xml
 test/es_BO.xml svneol=native#text/xml
 test/es_CL.xml svneol=native#text/xml
@@ -2506,7 +2504,6 @@ test/gv.xml svneol=native#text/xml
 test/gv_GB.xml svneol=native#text/xml
 test/he.xml svneol=native#text/xml
 test/hi.xml svneol=native#text/xml
-test/hi@collation=direct.xml svneol=native#text/xml
 test/hi_IN.xml svneol=native#text/xml
 test/hr.xml svneol=native#text/xml
 test/hr_HR.xml svneol=native#text/xml
@@ -2614,9 +2611,6 @@ test/uk_UA.xml svneol=native#text/xml
 test/vi.xml svneol=native#text/xml
 test/vi_VN.xml svneol=native#text/xml
 test/zh.xml svneol=native#text/xml
-test/zh@collation=pinyin.xml svneol=native#text/xml
-test/zh@collation=stroke.xml svneol=native#text/xml
-test/zh@collation=traditional.xml svneol=native#text/xml
 test/zh_CN.xml svneol=native#text/xml
 test/zh_HK.xml svneol=native#text/xml
 test/zh_Hant.xml svneol=native#text/xml
