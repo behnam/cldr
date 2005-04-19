@@ -333,7 +333,6 @@ common/main/sr_Latn_BA.xml svneol=native#text/xml
 common/main/sr_Latn_CS.xml svneol=native#text/xml
 common/main/sr_Latn_YU.xml svneol=native#text/xml
 common/main/sr_YU.xml svneol=native#text/xml
-common/main/supplementalData.xml svneol=native#text/xml
 common/main/sv.xml svneol=native#text/xml
 common/main/sv_FI.xml svneol=native#text/xml
 common/main/sv_SE.xml svneol=native#text/xml
