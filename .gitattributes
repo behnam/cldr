@@ -105,6 +105,7 @@ common/main/as_IN.xml svneol=native#text/xml
 common/main/az.xml svneol=native#text/xml
 common/main/az_AZ.xml svneol=native#text/xml
 common/main/az_Cyrl.xml svneol=native#text/xml
+common/main/az_Cyrl_AZ.xml svneol=native#text/xml
 common/main/az_Latn.xml svneol=native#text/xml
 common/main/az_Latn_AZ.xml svneol=native#text/xml
 common/main/be.xml svneol=native#text/xml
