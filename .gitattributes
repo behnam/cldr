@@ -114,6 +114,7 @@ common/main/bg.xml svneol=native#text/xml
 common/main/bg_BG.xml svneol=native#text/xml
 common/main/bn.xml svneol=native#text/xml
 common/main/bn_IN.xml svneol=native#text/xml
+common/main/bs.xml svneol=native#text/xml
 common/main/byn.xml svneol=native#text/xml
 common/main/byn_ER.xml svneol=native#text/xml
 common/main/ca.xml svneol=native#text/xml
