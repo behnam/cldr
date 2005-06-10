@@ -2817,6 +2817,7 @@ tools/java/org/unicode/cldr/util/data/pacificnew -text
 tools/java/org/unicode/cldr/util/data/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/southamerica -text
 tools/java/org/unicode/cldr/util/data/systemv -text
+tools/java/org/unicode/cldr/util/data/timezoneversion.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/zone.tab -text
 tools/java/org/unicode/cldr/util/etcetera -text
 tools/java/org/unicode/cldr/util/europe -text
@@ -2827,6 +2828,7 @@ tools/java/org/unicode/cldr/util/pacificnew -text
 tools/java/org/unicode/cldr/util/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/southamerica -text
 tools/java/org/unicode/cldr/util/systemv -text
+tools/java/org/unicode/cldr/util/timezoneversion.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/zone.tab -text
 tools/java/readme.txt svneol=native#text/plain
 tools/scripts/CLDRWrapper -text
