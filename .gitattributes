@@ -1966,6 +1966,7 @@ tools/java/build.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/icu/idList.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/ooo/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
