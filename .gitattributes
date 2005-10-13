@@ -407,6 +407,7 @@ docs/design/formatting/zone_log.html svneol=native#text/html
 docs/design/ldmlValidity.htm svneol=native#text/html
 docs/design/ldml_canonical_form.html svneol=native#text/html
 docs/design/liaison_statement.html svneol=native#text/html
+docs/design/lithuanian.jpg -text svneol=unset#image/jpeg
 docs/design/minimal_requirements.htm svneol=native#text/html
 docs/design/multiple_inheritance.html svneol=native#text/html
 docs/presentations/cldr_overview.ppt -text svneol=unset#application/vnd.ms-powerpoint
