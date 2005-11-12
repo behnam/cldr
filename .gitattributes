@@ -2127,6 +2127,7 @@ tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/CanadianAboriginal_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Canadian_Aboriginal_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Cyrillic_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Georgian_Latin.txt svneol=native#text/plain
