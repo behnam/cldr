@@ -120,6 +120,7 @@ common/main/byn.xml svneol=native#text/xml
 common/main/byn_ER.xml svneol=native#text/xml
 common/main/ca.xml svneol=native#text/xml
 common/main/ca_ES.xml svneol=native#text/xml
+common/main/cop.xml svneol=native#text/xml
 common/main/cs.xml svneol=native#text/xml
 common/main/cs_CZ.xml svneol=native#text/xml
 common/main/cy.xml svneol=native#text/xml
