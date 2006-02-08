@@ -1,5 +1,6 @@
 * text=auto !eol
 common/collation/ar.xml svneol=native#text/xml
+common/collation/as.xml svneol=native#text/xml
 common/collation/be.xml svneol=native#text/xml
 common/collation/bg.xml svneol=native#text/xml
 common/collation/ca.xml svneol=native#text/xml
