@@ -34,6 +34,7 @@ common/collation/kl.xml svneol=native#text/xml
 common/collation/km.xml svneol=native#text/xml
 common/collation/kn.xml svneol=native#text/xml
 common/collation/ko.xml svneol=native#text/xml
+common/collation/kok.xml svneol=native#text/xml
 common/collation/lt.xml svneol=native#text/xml
 common/collation/lv.xml svneol=native#text/xml
 common/collation/mk.xml svneol=native#text/xml
