@@ -597,6 +597,7 @@ common/transforms/Thai-Latin.xml svneol=native#text/xml
 common/transforms/Thai-ThaiLogical.xml svneol=native#text/xml
 common/transforms/Thai-ThaiSemi.xml svneol=native#text/xml
 common/transforms/ThaiLogical-Latin.xml svneol=native#text/xml
+docs/attachments/shrii.jpg -text svneol=unset#image/jpeg
 docs/design/C-sharp-LocaleNames.htm svneol=native#text/html
 docs/design/chinese_ordering.htm svneol=native#text/html
 docs/design/config_file.html svneol=native#text/html
