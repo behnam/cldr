@@ -2235,6 +2235,7 @@ tools/java/org/unicode/cldr/util/data/Lao_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Latin_Armenian.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Latin_Ethiopic.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Locales.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/ReadMe.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Syriac_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/TZID.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Thaana_Latin.txt svneol=native#text/plain
