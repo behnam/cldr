@@ -549,7 +549,6 @@ common/transforms/Han-Latin.xml svneol=native#text/xml
 common/transforms/Han-Spacedhan.xml svneol=native#text/xml
 common/transforms/Hangul-Latin.xml svneol=native#text/xml
 common/transforms/Hebrew-Latin.xml svneol=native#text/xml
-common/transforms/Hebrew_Latin.xml svneol=native#text/xml
 common/transforms/Hiragana-Katakana.xml svneol=native#text/xml
 common/transforms/Hiragana-Latin.xml svneol=native#text/xml
 common/transforms/InterIndic-Bengali.xml svneol=native#text/xml
