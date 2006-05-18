@@ -69,7 +69,6 @@ common/collation/zh_HK.xml svneol=native#text/xml
 common/collation/zh_Hant.xml svneol=native#text/xml
 common/collation/zh_MO.xml svneol=native#text/xml
 common/collation/zh_TW.xml svneol=native#text/xml
-common/dtd/characters.dtd -text
 common/dtd/cldrTest.dtd -text
 common/dtd/ldml.dtd -text
 common/dtd/ldmlICIR.dtd -text
