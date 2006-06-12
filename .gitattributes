@@ -495,6 +495,7 @@ common/supplemental/characters.xml svneol=native#text/xml
 common/supplemental/supplementalData.xml svneol=native#text/xml
 common/supplemental/supplementalMetadata.xml svneol=native#text/xml
 common/transforms/All.xml svneol=native#text/xml
+common/transforms/Any-Accents.xml svneol=native#text/xml
 common/transforms/Any-Publishing.xml svneol=native#text/xml
 common/transforms/Arabic-Latin.xml svneol=native#text/xml
 common/transforms/Bengali-Devanagari.xml svneol=native#text/xml
