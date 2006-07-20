@@ -2316,6 +2316,7 @@ tools/java/org/unicode/cldr/util/data/TZID.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Thaana_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Tibetan_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/TimeZoneAliases.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/UnMacroRegions.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/africa -text
 tools/java/org/unicode/cldr/util/data/antarctica -text
 tools/java/org/unicode/cldr/util/data/asia -text
