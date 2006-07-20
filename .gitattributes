@@ -569,6 +569,7 @@ common/transforms/Latin-Gurmukhi.xml svneol=native#text/xml
 common/transforms/Latin-Han.xml svneol=native#text/xml
 common/transforms/Latin-Hangul.xml svneol=native#text/xml
 common/transforms/Latin-InterIndic.xml svneol=native#text/xml
+common/transforms/Latin-Jamo.xml svneol=native#text/xml
 common/transforms/Latin-Kannada.xml svneol=native#text/xml
 common/transforms/Latin-Katakana.xml svneol=native#text/xml
 common/transforms/Latin-Malayalam.xml svneol=native#text/xml
