@@ -2326,6 +2326,7 @@ tools/java/org/unicode/cldr/util/data/australasia -text
 tools/java/org/unicode/cldr/util/data/backward -text
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
+tools/java/org/unicode/cldr/util/data/iso4217raw.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/langtagRegex.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/langtagTest.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/language-subtag-registry -text
