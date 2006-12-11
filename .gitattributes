@@ -2351,6 +2351,7 @@ tools/java/org/unicode/cldr/web/data/root/hand.gif -text svneol=unset#image/gif
 tools/java/org/unicode/cldr/web/data/root/index.jsp -text
 tools/java/org/unicode/cldr/web/data/root/login.jsp -text
 tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text/css
+tools/java/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/readme.txt svneol=native#text/plain
 tools/scripts/CLDRWrapper -text
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
