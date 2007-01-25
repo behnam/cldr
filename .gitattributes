@@ -2361,6 +2361,7 @@ tools/java/org/unicode/cldr/util/data/southamerica -text
 tools/java/org/unicode/cldr/util/data/systemv -text
 tools/java/org/unicode/cldr/util/data/territory_codes.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/timezoneversion.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/zone.tab -text
 tools/java/org/unicode/cldr/web/data/cldr-apps.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/web/data/jars/readme.txt svneol=native#text/plain
