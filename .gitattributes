@@ -2369,10 +2369,14 @@ tools/java/org/unicode/cldr/web/data/jars/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/web/data/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/web/data/root/about.jsp -text
 tools/java/org/unicode/cldr/web/data/root/adduser.jsp -text
-tools/java/org/unicode/cldr/web/data/root/hand.gif -text svneol=unset#image/gif
+tools/java/org/unicode/cldr/web/data/root/hand.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/index.jsp -text
 tools/java/org/unicode/cldr/web/data/root/login.jsp -text
+tools/java/org/unicode/cldr/web/data/root/okay.png -text svneol=unset#image/png
+tools/java/org/unicode/cldr/web/data/root/ques.png -text svneol=unset#image/png
+tools/java/org/unicode/cldr/web/data/root/stop.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text/css
+tools/java/org/unicode/cldr/web/data/root/warn.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/zoom.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/readme.txt svneol=native#text/plain
