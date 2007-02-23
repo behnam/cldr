@@ -2365,6 +2365,7 @@ tools/java/org/unicode/cldr/util/data/prettyPath.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/southamerica -text
 tools/java/org/unicode/cldr/util/data/systemv -text
 tools/java/org/unicode/cldr/util/data/territory_codes.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/test_help_messages.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/timezoneversion.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/zone.tab -text
