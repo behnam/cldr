@@ -2354,6 +2354,7 @@ tools/java/org/unicode/cldr/util/data/antarctica -text
 tools/java/org/unicode/cldr/util/data/asia -text
 tools/java/org/unicode/cldr/util/data/australasia -text
 tools/java/org/unicode/cldr/util/data/backward -text
+tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/currencycodeslist.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
