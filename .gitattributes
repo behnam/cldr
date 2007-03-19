@@ -2374,6 +2374,7 @@ tools/java/org/unicode/cldr/util/data/northamerica -text
 tools/java/org/unicode/cldr/util/data/pacificnew -text
 tools/java/org/unicode/cldr/util/data/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/prettyPath.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/prettyPathZone.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/southamerica -text
 tools/java/org/unicode/cldr/util/data/systemv -text
 tools/java/org/unicode/cldr/util/data/territory_codes.txt svneol=native#text/plain
