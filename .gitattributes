@@ -2392,10 +2392,15 @@ tools/java/org/unicode/cldr/util/data/territory_codes.txt svneol=native#text/pla
 tools/java/org/unicode/cldr/util/data/test_help_messages.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/timezoneversion.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/IPA-Deva.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/transforms/en-IPA-spellout.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/en-IPA.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/internal_English-IPA-backwards.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/internal_baseEnglishToIpa.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/transforms/internal_fixBadIpa.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/internal_matchIpaRules.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/transforms/internal_overrides.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/transforms/internal_raw_IPA-old.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/transforms/internal_raw_IPA.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/und-IPA.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/zone.tab -text
