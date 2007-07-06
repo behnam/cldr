@@ -53,7 +53,6 @@ common/collation/ro.xml svneol=native#text/xml
 common/collation/root.xml svneol=native#text/xml
 common/collation/ru.xml svneol=native#text/xml
 common/collation/sa.xml svneol=native#text/xml
-common/collation/sh.xml svneol=native#text/xml
 common/collation/sk.xml svneol=native#text/xml
 common/collation/sl.xml svneol=native#text/xml
 common/collation/sq.xml svneol=native#text/xml
