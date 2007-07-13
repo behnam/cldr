@@ -2330,6 +2330,7 @@ tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
 tools/java/build.xml svneol=native#text/xml
+tools/java/org/unicode/cldr/common.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/icu/idList.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
