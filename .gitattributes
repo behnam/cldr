@@ -680,6 +680,7 @@ docs/design/minimal_requirements.htm svneol=native#text/html
 docs/design/multiple_inheritance.html svneol=native#text/html
 docs/presentations/cldr_overview.ppt -text svneol=unset#application/vnd.ms-powerpoint
 docs/survey/windows.html svneol=native#text/html
+docs/web/big_red_switch.html svneol=native#text/html
 docs/web/comparison_charts.html svneol=native#text/html
 docs/web/corrigenda.html svneol=native#text/html
 docs/web/data_formats.html svneol=native#text/html
