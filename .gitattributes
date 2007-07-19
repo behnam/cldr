@@ -2375,9 +2375,14 @@ tools/java/org/unicode/cldr/util/data/currencycodeslist.txt svneol=native#text/p
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
 tools/java/org/unicode/cldr/util/data/extraLanguagesAndScripts.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/iso-639-3-macrolanguages.tab -text
 tools/java/org/unicode/cldr/util/data/iso-639-3-macrolanguages_20070205.tab -text
+tools/java/org/unicode/cldr/util/data/iso-639-3-version.tab -text
+tools/java/org/unicode/cldr/util/data/iso-639-3.tab -text
 tools/java/org/unicode/cldr/util/data/iso-639-3_20070205.tab -text
+tools/java/org/unicode/cldr/util/data/iso-639-3_Name_Index.tab -text
 tools/java/org/unicode/cldr/util/data/iso-639-3_Name_Index_20070205.tab -text
+tools/java/org/unicode/cldr/util/data/iso-639-3_Retirements.tab -text
 tools/java/org/unicode/cldr/util/data/iso4217raw.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/langtagRegex.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/langtagTest.txt svneol=native#text/plain
