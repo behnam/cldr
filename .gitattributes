@@ -7,6 +7,7 @@ common/collation/bn.xml svneol=native#text/xml
 common/collation/bo.xml svneol=native#text/xml
 common/collation/ca.xml svneol=native#text/xml
 common/collation/cs.xml svneol=native#text/xml
+common/collation/cy.xml svneol=native#text/xml
 common/collation/da.xml svneol=native#text/xml
 common/collation/de.xml svneol=native#text/xml
 common/collation/dz.xml svneol=native#text/xml
