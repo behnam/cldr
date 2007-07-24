@@ -636,6 +636,7 @@ common/transforms/Oriya-Malayalam.xml svneol=native#text/xml
 common/transforms/Oriya-Tamil.xml svneol=native#text/xml
 common/transforms/Oriya-Telugu.xml svneol=native#text/xml
 common/transforms/Pinyin-NumericPinyin.xml svneol=native#text/xml
+common/transforms/Simplified-Traditional.xml svneol=native#text/xml
 common/transforms/Syriac-Latin.xml svneol=native#text/xml
 common/transforms/Tamil-Bengali.xml svneol=native#text/xml
 common/transforms/Tamil-Devanagari.xml svneol=native#text/xml
