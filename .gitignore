@@ -1,0 +1,3 @@
+tools/java/*.jar
+tools/java/*.war
+tools/java/classes
