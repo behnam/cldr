@@ -687,6 +687,7 @@ common/transforms/Turkmen-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Ukrainian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Uzbek-Latin-BGN.xml svneol=native#text/xml
 docs/attachments/shrii.jpg -text svneol=unset#image/jpeg
+docs/attachments/subdivision_hierarchy.xml svneol=native#text/xml
 docs/design/C-sharp-LocaleNames.htm svneol=native#text/html
 docs/design/chinese_ordering.htm svneol=native#text/html
 docs/design/config_file.html svneol=native#text/html
