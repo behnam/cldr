@@ -2483,6 +2483,8 @@ tools/java/org/unicode/cldr/web/data/root/warn.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/zoom.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/readme.txt svneol=native#text/plain
+tools/python/.project -text
+tools/python/.pydevproject -text
 tools/scripts/CLDRWrapper -text
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh
