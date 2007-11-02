@@ -519,6 +519,7 @@ common/segments/en_US_POSIX.xml svneol=native#text/xml
 common/segments/ja.xml svneol=native#text/xml
 common/segments/root.xml svneol=native#text/xml
 common/supplemental/characters.xml svneol=native#text/xml
+common/supplemental/likelySubtags.xml svneol=native#text/xml
 common/supplemental/supplementalData.xml svneol=native#text/xml
 common/supplemental/supplementalMetadata.xml svneol=native#text/xml
 common/transforms/Amharic-Latin-BGN.xml svneol=native#text/xml
