@@ -2342,6 +2342,7 @@ test/sr.xml svneol=native#text/xml
 test/ss.xml svneol=native#text/xml
 test/ssy.xml svneol=native#text/xml
 test/st.xml svneol=native#text/xml
+test/supplemental/likelySubtagTests.xml svneol=native#text/xml
 test/sv.xml svneol=native#text/xml
 test/sw.xml svneol=native#text/xml
 test/syr.xml svneol=native#text/xml
