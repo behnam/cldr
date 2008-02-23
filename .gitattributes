@@ -2469,6 +2469,7 @@ tools/java/org/unicode/cldr/util/data/zone.tab -text
 tools/java/org/unicode/cldr/util/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/web/data/cldr-apps.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/web/data/jars/readme.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/web/data/readme.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/web/data/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/web/data/root/about.jsp -text
 tools/java/org/unicode/cldr/web/data/root/adduser.jsp -text
@@ -2486,6 +2487,7 @@ tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text
 tools/java/org/unicode/cldr/web/data/root/vote.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/warn.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/zoom.png -text svneol=unset#image/png
+tools/java/org/unicode/cldr/web/data/stops.html svneol=native#text/html
 tools/java/org/unicode/cldr/web/data/stops.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/readme.txt svneol=native#text/plain
