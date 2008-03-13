@@ -1,3 +1,4 @@
 tools/java/*.jar
 tools/java/*.war
+tools/java/build.properties
 tools/java/classes
