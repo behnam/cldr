@@ -2494,6 +2494,7 @@ tools/java/org/unicode/cldr/web/data/root/hand.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/index.jsp -text
 tools/java/org/unicode/cldr/web/data/root/login.jsp -text
 tools/java/org/unicode/cldr/web/data/root/okay.png -text svneol=unset#image/png
+tools/java/org/unicode/cldr/web/data/root/ques-2.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/ques.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/squo.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/star.png -text svneol=unset#image/png
