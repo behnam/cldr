@@ -743,6 +743,7 @@ docs/web/process.html svneol=native#text/html
 docs/web/readme.txt svneol=native#text/plain
 docs/web/repository_access.html svneol=native#text/html
 docs/web/survey_tool.html svneol=native#text/html
+docs/web/survey_tool_known_bugs.html svneol=native#text/html
 docs/web/timezone_ids.html svneol=native#text/html
 docs/web/tr35.html svneol=native#text/html
 docs/web/transliteration_guidelines.html svneol=native#text/html
