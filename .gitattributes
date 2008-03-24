@@ -537,6 +537,7 @@ common/supplemental/metazoneInfo.xml svneol=native#text/xml
 common/supplemental/plurals.xml svneol=native#text/xml
 common/supplemental/supplementalData.xml svneol=native#text/xml
 common/supplemental/supplementalMetadata.xml svneol=native#text/xml
+common/supplemental/telephoneCodeData.xml svneol=native#text/xml
 common/transforms/Amharic-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Any-Accents.xml svneol=native#text/xml
 common/transforms/Any-Publishing.xml svneol=native#text/xml
