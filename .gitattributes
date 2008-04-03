@@ -2444,6 +2444,7 @@ tools/java/org/unicode/cldr/util/data/australasia -text
 tools/java/org/unicode/cldr/util/data/backward -text
 tools/java/org/unicode/cldr/util/data/chart_messages.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/currency_codes_list-1.htm svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/currencycodeslist.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
