@@ -359,6 +359,7 @@ common/main/my_MM.xml svneol=native#text/xml
 common/main/nb.xml svneol=native#text/xml
 common/main/nb_NO.xml svneol=native#text/xml
 common/main/ne.xml svneol=native#text/xml
+common/main/ne_IN.xml svneol=native#text/xml
 common/main/ne_NP.xml svneol=native#text/xml
 common/main/nl.xml svneol=native#text/xml
 common/main/nl_BE.xml svneol=native#text/xml
