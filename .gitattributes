@@ -478,6 +478,7 @@ common/main/to.xml svneol=native#text/xml
 common/main/to_TO.xml svneol=native#text/xml
 common/main/tr.xml svneol=native#text/xml
 common/main/tr_TR.xml svneol=native#text/xml
+common/main/trv.xml svneol=native#text/xml
 common/main/ts.xml svneol=native#text/xml
 common/main/ts_ZA.xml svneol=native#text/xml
 common/main/tt.xml svneol=native#text/xml
