@@ -2420,6 +2420,7 @@ tools/java/org/unicode/cldr/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
+tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
