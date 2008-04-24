@@ -2521,6 +2521,7 @@ tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text
 tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/index.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_characters.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
