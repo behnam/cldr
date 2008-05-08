@@ -68,6 +68,7 @@ common/collation/th.xml svneol=native#text/xml
 common/collation/to.xml svneol=native#text/xml
 common/collation/tr.xml svneol=native#text/xml
 common/collation/uk.xml svneol=native#text/xml
+common/collation/ur.xml svneol=native#text/xml
 common/collation/vi.xml svneol=native#text/xml
 common/collation/zh.xml svneol=native#text/xml
 common/collation/zh_Hant.xml svneol=native#text/xml
