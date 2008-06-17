@@ -46,6 +46,7 @@ common/collation/mk.xml svneol=native#text/xml
 common/collation/ml.xml svneol=native#text/xml
 common/collation/mr.xml svneol=native#text/xml
 common/collation/mt.xml svneol=native#text/xml
+common/collation/my.xml svneol=native#text/xml
 common/collation/nb.xml svneol=native#text/xml
 common/collation/nn.xml svneol=native#text/xml
 common/collation/om.xml svneol=native#text/xml
