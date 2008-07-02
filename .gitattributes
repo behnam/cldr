@@ -736,6 +736,7 @@ docs/survey/vetting.html svneol=native#text/html
 docs/survey/walkthrough.html svneol=native#text/html
 docs/survey/windows.html svneol=native#text/html
 docs/web/big_red_switch.html svneol=native#text/html
+docs/web/charts.html svneol=native#text/html
 docs/web/cldr.css -text svneol=unset#text/css
 docs/web/comparison_charts.html svneol=native#text/html
 docs/web/corrigenda.html svneol=native#text/html
