@@ -2487,6 +2487,7 @@ tools/java/org/unicode/cldr/util/data/language_list.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/language_script_raw.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/lstreg-4646bis-draft-04.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/lstreg.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/moribund_languages.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/northamerica -text
 tools/java/org/unicode/cldr/util/data/pacificnew -text
 tools/java/org/unicode/cldr/util/data/package.html svneol=native#text/html
