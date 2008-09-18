@@ -2473,8 +2473,13 @@ tools/java/org/unicode/cldr/util/data/currency_codes_list-1.htm svneol=native#te
 tools/java/org/unicode/cldr/util/data/currencycodeslist.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
+tools/java/org/unicode/cldr/util/data/external/alternate_country_names.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/factbook_literacy.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/un_literacy.csv -text
+tools/java/org/unicode/cldr/util/data/external/us_census.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/world_bank_data.csv -text
 tools/java/org/unicode/cldr/util/data/extraLanguagesAndScripts.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/iso-639-3-macrolanguages.tab -text
