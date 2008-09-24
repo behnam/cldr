@@ -245,6 +245,7 @@ common/main/gez_ER.xml svneol=native#text/xml
 common/main/gez_ET.xml svneol=native#text/xml
 common/main/gl.xml svneol=native#text/xml
 common/main/gl_ES.xml svneol=native#text/xml
+common/main/gsw.xml svneol=native#text/xml
 common/main/gu.xml svneol=native#text/xml
 common/main/gu_IN.xml svneol=native#text/xml
 common/main/gv.xml svneol=native#text/xml
