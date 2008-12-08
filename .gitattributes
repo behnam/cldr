@@ -543,7 +543,6 @@ common/rbnf/da.xml svneol=native#text/xml
 common/rbnf/de.xml svneol=native#text/xml
 common/rbnf/el.xml svneol=native#text/xml
 common/rbnf/en.xml svneol=native#text/xml
-common/rbnf/en_GB.xml svneol=native#text/xml
 common/rbnf/eo.xml svneol=native#text/xml
 common/rbnf/es.xml svneol=native#text/xml
 common/rbnf/et.xml svneol=native#text/xml
