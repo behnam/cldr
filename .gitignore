@@ -2,3 +2,4 @@ tools/java/*.jar
 tools/java/*.war
 tools/java/build.properties
 tools/java/classes
+tools/java/org/unicode/cldr/web/Junk.java
