@@ -591,6 +591,7 @@ common/segments/root.xml svneol=native#text/xml
 common/supplemental/characters.xml svneol=native#text/xml
 common/supplemental/likelySubtags.xml svneol=native#text/xml
 common/supplemental/metazoneInfo.xml svneol=native#text/xml
+common/supplemental/numberingSystems.xml svneol=native#text/xml
 common/supplemental/plurals.xml svneol=native#text/xml
 common/supplemental/supplementalData.xml svneol=native#text/xml
 common/supplemental/supplementalMetadata.xml svneol=native#text/xml
