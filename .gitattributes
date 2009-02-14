@@ -783,6 +783,7 @@ docs/design/liaison_statement.html svneol=native#text/html
 docs/design/lithuanian.jpg -text svneol=unset#image/jpeg
 docs/design/minimal_requirements.htm svneol=native#text/html
 docs/design/multiple_inheritance.html svneol=native#text/html
+docs/presentations/Portuguese_External.pdf -text svneol=unset#application/pdf
 docs/presentations/Portuguese_External.ppt -text svneol=unset#application/vnd.ms-powerpoint
 docs/presentations/cldr_overview.ppt -text svneol=unset#application/vnd.ms-powerpoint
 docs/survey/known_bugs.html svneol=native#text/html
