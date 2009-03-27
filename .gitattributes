@@ -2487,6 +2487,7 @@ tools/java/org/unicode/cldr/draft/GeneratePickerData.txt svneol=native#text/plai
 tools/java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/UnicodeSetBuilderTests.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/UnicodeSetStates.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/draft/idnaContextRules.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/normalizeForMatchExceptions.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]African[!!-~]Scripts.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]American[!!-~]Scripts.html svneol=native#text/html
