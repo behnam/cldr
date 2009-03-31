@@ -2508,6 +2508,7 @@ tools/java/org/unicode/cldr/draft/UnicodeSetBuilderTests.txt svneol=native#text/
 tools/java/org/unicode/cldr/draft/UnicodeSetStates.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/idnaContextRules.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/idnaTestCases.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/draft/idnaTestLog.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/normalizeForMatchExceptions.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]African[!!-~]Scripts.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]American[!!-~]Scripts.html svneol=native#text/html
