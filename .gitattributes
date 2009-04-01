@@ -334,7 +334,6 @@ common/main/ln_CD.xml svneol=native#text/xml
 common/main/ln_CG.xml svneol=native#text/xml
 common/main/lo.xml svneol=native#text/xml
 common/main/lo_LA.xml svneol=native#text/xml
-common/main/log.txt svneol=native#text/plain
 common/main/lt.xml svneol=native#text/xml
 common/main/lt_LT.xml svneol=native#text/xml
 common/main/lv.xml svneol=native#text/xml
