@@ -619,6 +619,7 @@ common/segments/el.xml svneol=native#text/xml
 common/segments/en_US_POSIX.xml svneol=native#text/xml
 common/segments/ja.xml svneol=native#text/xml
 common/segments/root.xml svneol=native#text/xml
+common/segments/th.xml svneol=native#text/xml
 common/supplemental/characters.xml svneol=native#text/xml
 common/supplemental/likelySubtags.xml svneol=native#text/xml
 common/supplemental/metazoneInfo.xml svneol=native#text/xml
