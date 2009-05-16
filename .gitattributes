@@ -2682,6 +2682,7 @@ tools/java/org/unicode/cldr/web/data/root/star.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/stop.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/index.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_characters.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
