@@ -2688,8 +2688,10 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/r_characters.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/report_top.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/stcontext.jspf -text
 tools/java/org/unicode/cldr/web/data/root/vote.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/warn.png -text svneol=unset#image/png
