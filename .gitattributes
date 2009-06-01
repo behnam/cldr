@@ -2682,9 +2682,18 @@ tools/java/org/unicode/cldr/web/data/root/squo.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/star.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/stop.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text/css
+tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_days.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_months.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/currency_format.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_format.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_separator.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/group_separator.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/index.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_days.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_months.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/numbering_system.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_characters.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
@@ -2695,6 +2704,8 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_top.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/stcontext.jspf -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/wide_days.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/wide_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/vote.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/warn.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/xpath.jsp -text
