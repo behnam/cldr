@@ -2672,6 +2672,7 @@ tools/java/org/unicode/cldr/web/data/root/adduser.jsp -text
 tools/java/org/unicode/cldr/web/data/root/disp.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/feed.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/hand.png -text svneol=unset#image/png
+tools/java/org/unicode/cldr/web/data/root/header.jspf -text
 tools/java/org/unicode/cldr/web/data/root/index.jsp -text
 tools/java/org/unicode/cldr/web/data/root/login.jsp -text
 tools/java/org/unicode/cldr/web/data/root/okay.png -text svneol=unset#image/png
@@ -2689,6 +2690,7 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_menu.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_top.jspf -text
