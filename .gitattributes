@@ -2686,6 +2686,7 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/GMT_format.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_days.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/am_pm.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/characters.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/currency_format.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
@@ -2695,11 +2696,11 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_separator.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/eras.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/group_separator.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/index.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/language_country.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/local_currency.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_days.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/numbering_system.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/r_characters.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
