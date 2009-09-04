@@ -2591,6 +2591,7 @@ tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
+tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
