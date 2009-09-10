@@ -2537,6 +2537,79 @@ c2323/test/zu.xml svneol=native#text/xml
 c2323/tools/c/genldml/Readme.txt svneol=native#text/plain
 c2323/tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 c2323/tools/c/genldml/resources/root.txt svneol=native#text/plain
+c2323/tools/cldr-apps/.classpath -text
+c2323/tools/cldr-apps/.project -text
+c2323/tools/cldr-apps/.settings/.jsdtscope -text
+c2323/tools/cldr-apps/.settings/org.eclipse.jdt.core.prefs -text
+c2323/tools/cldr-apps/.settings/org.eclipse.wst.common.component -text
+c2323/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+c2323/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+c2323/tools/cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+c2323/tools/cldr-apps/WebContent/about.jsp -text
+c2323/tools/cldr-apps/WebContent/adduser.jsp -text
+c2323/tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/header.jspf -text
+c2323/tools/cldr-apps/WebContent/index.jsp -text
+c2323/tools/cldr-apps/WebContent/login.jsp -text
+c2323/tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/squo.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/star.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+c2323/tools/cldr-apps/WebContent/tmpl/GMT_format.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/abbreviated_days.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/abbreviated_months.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/am_pm.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/characters.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/currency_format.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/dataitems_header.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/datarow_short.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/date_formats.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/decimal_format.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/decimal_separator.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/eras.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/group_separator.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/index.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/language_country.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/local_currency.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/narrow_days.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/narrow_months.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/numbering_system.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/r_directiontest.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/r_months.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/r_numbers.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/r_steps.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/r_steps_menu.jspf -text
+c2323/tools/cldr-apps/WebContent/tmpl/report.jspf -text
+c2323/tools/cldr-apps/WebContent/tmpl/report_menu.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/report_top.jspf -text
+c2323/tools/cldr-apps/WebContent/tmpl/stcontext.jspf -text
+c2323/tools/cldr-apps/WebContent/tmpl/time_formats.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/wide_days.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/wide_months.jsp -text
+c2323/tools/cldr-apps/WebContent/tmpl/yes_no.jsp -text
+c2323/tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/WebContent/xpath.jsp -text
+c2323/tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/data/cldr-apps.xml svneol=native#text/xml
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/data/jars/readme.txt svneol=native#text/plain
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/data/readme-staging.txt svneol=native#text/plain
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/data/readme.css -text svneol=unset#text/css
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/data/readme.txt svneol=native#text/plain
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/data/stops.html svneol=native#text/html
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/data/stops.txt svneol=native#text/plain
+c2323/tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
+c2323/tools/java/.classpath -text
+c2323/tools/java/.externalToolBuilders/cldr-jar.launch -text
+c2323/tools/java/.project -text
+c2323/tools/java/.settings/org.eclipse.jdt.core.prefs -text
+c2323/tools/java/.settings/org.eclipse.wst.common.component -text
+c2323/tools/java/META-INF/MANIFEST.MF -text
 c2323/tools/java/build.xml svneol=native#text/xml
 c2323/tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
 c2323/tools/java/org/unicode/cldr/common.css -text svneol=unset#text/css
@@ -2676,65 +2749,6 @@ c2323/tools/java/org/unicode/cldr/util/data/transforms/und-IPA.txt svneol=native
 c2323/tools/java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
 c2323/tools/java/org/unicode/cldr/util/data/zone.tab -text
 c2323/tools/java/org/unicode/cldr/util/package.html svneol=native#text/html
-c2323/tools/java/org/unicode/cldr/web/data/cldr-apps.xml svneol=native#text/xml
-c2323/tools/java/org/unicode/cldr/web/data/jars/readme.txt svneol=native#text/plain
-c2323/tools/java/org/unicode/cldr/web/data/readme-staging.txt svneol=native#text/plain
-c2323/tools/java/org/unicode/cldr/web/data/readme.css -text svneol=unset#text/css
-c2323/tools/java/org/unicode/cldr/web/data/readme.txt svneol=native#text/plain
-c2323/tools/java/org/unicode/cldr/web/data/root/about.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/adduser.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/disp.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/feed.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/hand.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/header.jspf -text
-c2323/tools/java/org/unicode/cldr/web/data/root/index.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/login.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/okay.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/ques-2.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/ques.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/squo.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/star.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/stop.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text/css
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/GMT_format.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_days.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_months.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/am_pm.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/characters.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/currency_format.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/date_formats.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_format.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_separator.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/eras.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/group_separator.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/index.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/language_country.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/local_currency.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_days.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_months.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/numbering_system.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_menu.jspf -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/report_top.jspf -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/stcontext.jspf -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/time_formats.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/wide_days.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/wide_months.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/tmpl/yes_no.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/vote.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/warn.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/root/xpath.jsp -text
-c2323/tools/java/org/unicode/cldr/web/data/root/zoom.png -text svneol=unset#image/png
-c2323/tools/java/org/unicode/cldr/web/data/stops.html svneol=native#text/html
-c2323/tools/java/org/unicode/cldr/web/data/stops.txt svneol=native#text/plain
-c2323/tools/java/org/unicode/cldr/web/package.html svneol=native#text/html
 c2323/tools/java/readme.txt svneol=native#text/plain
 c2323/tools/python/.project -text
 c2323/tools/python/.pydevproject -text
