@@ -1,0 +1,5 @@
+c2323/tools/java/*.jar
+c2323/tools/java/*.war
+c2323/tools/java/build.properties
+c2323/tools/java/classes
+c2323/tools/java/org/unicode/cldr/web/Junk.java
