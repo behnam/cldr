@@ -6,7 +6,6 @@ common/collation/az.xml svneol=native#text/xml
 common/collation/be.xml svneol=native#text/xml
 common/collation/bg.xml svneol=native#text/xml
 common/collation/bn.xml svneol=native#text/xml
-common/collation/bn_IN.xml svneol=native#text/xml
 common/collation/ca.xml svneol=native#text/xml
 common/collation/cs.xml svneol=native#text/xml
 common/collation/cy.xml svneol=native#text/xml
