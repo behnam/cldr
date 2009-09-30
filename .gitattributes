@@ -341,6 +341,7 @@ common/main/ku_Arab_SY.xml svneol=native#text/xml
 common/main/ku_IQ.xml svneol=native#text/xml
 common/main/ku_IR.xml svneol=native#text/xml
 common/main/ku_Latn.xml svneol=native#text/plain
+common/main/ku_Latn_SY.xml -text
 common/main/ku_Latn_TR.xml svneol=native#text/xml
 common/main/ku_SY.xml svneol=native#text/xml
 common/main/ku_TR.xml svneol=native#text/xml
