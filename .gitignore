@@ -4,3 +4,9 @@ c2323/tools/java/*.jar
 c2323/tools/java/*.war
 c2323/tools/java/build.properties
 c2323/tools/java/classes
+r2358alt/tools/java/*.jar
+r2358alt/tools/java/*.war
+r2358alt/tools/java/build.properties
+r2358alt/tools/java/classes
+r2358alt/tools/java/org/unicode/cldr/web/Junk.java
+r2358alt/tools/java/org/unicode/cldr/web/data/jars/*.jar
