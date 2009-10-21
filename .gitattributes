@@ -2724,6 +2724,7 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_complete.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_menu.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
