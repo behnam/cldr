@@ -2718,6 +2718,7 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/language_country.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/local_currency.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_days.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_months.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/new.jsp -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/web/data/root/tmpl/numbering_system.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
