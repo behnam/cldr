@@ -1,0 +1,5 @@
+maint-1-7/tools/java/*.jar
+maint-1-7/tools/java/*.war
+maint-1-7/tools/java/build.properties
+maint-1-7/tools/java/classes
+maint-1-7/tools/java/org/unicode/cldr/web/Junk.java
