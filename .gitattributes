@@ -2713,7 +2713,10 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/am_pm.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/characters.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/currency_format.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_close_table_code.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_open_table_code.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short_code.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/date_formats.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/day_periods.jsp -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/web/data/root/tmpl/debug_jsp.jspf -text
