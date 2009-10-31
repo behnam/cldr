@@ -2717,6 +2717,7 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_close_table_code.jsp -tex
 tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_open_table_code.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short_code.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short_prettypath.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/date_formats.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/day_periods.jsp -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/web/data/root/tmpl/debug_jsp.jspf -text
