@@ -206,6 +206,7 @@ common/main/en_ZA.xml svneol=native#text/xml
 common/main/en_ZW.xml svneol=native#text/xml
 common/main/eo.xml svneol=native#text/plain
 common/main/es.xml svneol=native#text/plain
+common/main/es_419.xml -text
 common/main/es_AR.xml svneol=native#text/plain
 common/main/es_BO.xml svneol=native#text/xml
 common/main/es_CL.xml svneol=native#text/plain
