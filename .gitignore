@@ -4,3 +4,4 @@ tools/java/build.properties
 tools/java/classes
 tools/java/org/unicode/cldr/web/Junk.java
 tools/java/org/unicode/cldr/web/data/jars/*.jar
+tools/java/org/unicode/cldr/web/data/root/tmpl/r_srltest.jsp

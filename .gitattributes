@@ -2594,6 +2594,8 @@ tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
 tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/package.html svneol=native#text/html
+tools/java/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain
+tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain
@@ -2703,22 +2705,31 @@ tools/java/org/unicode/cldr/web/data/root/tmpl/am_pm.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/characters.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/currency_format.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_close_table_code.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_open_table_code.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short_code.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short_prettypath.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/date_formats.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/day_periods.jsp -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/web/data/root/tmpl/debug_jsp.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_format.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_separator.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/eras.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/group_separator.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/index.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/language_country.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/list_patterns.jsp -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/web/data/root/tmpl/local_currency.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_days.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_months.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/new.jsp -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/web/data/root/tmpl/numbering_system.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps.jsp -text
+tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_complete.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_menu.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
 tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
