@@ -78,6 +78,7 @@ maint-1-7/common/collation/zh.xml svneol=native#text/xml
 maint-1-7/common/collation/zh_Hant.xml svneol=native#text/xml
 maint-1-7/common/dtd/cldrTest.dtd -text
 maint-1-7/common/dtd/ldml.dtd -text
+maint-1-7/common/dtd/ldmlBCP47.dtd -text
 maint-1-7/common/dtd/ldmlICIR.dtd -text
 maint-1-7/common/dtd/ldmlICU.dtd -text
 maint-1-7/common/dtd/ldmlOpenOffice.dtd -text
