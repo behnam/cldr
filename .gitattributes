@@ -1,4 +1,10 @@
 * text=auto !eol
+maint-1-7/common/bcp47/calendar.xml svneol=native#text/xml
+maint-1-7/common/bcp47/collation.xml svneol=native#text/xml
+maint-1-7/common/bcp47/currency.xml svneol=native#text/xml
+maint-1-7/common/bcp47/number.xml svneol=native#text/xml
+maint-1-7/common/bcp47/timezone.xml svneol=native#text/xml
+maint-1-7/common/bcp47/variant.xml svneol=native#text/xml
 maint-1-7/common/collation/af.xml svneol=native#text/xml
 maint-1-7/common/collation/ar.xml svneol=native#text/xml
 maint-1-7/common/collation/as.xml svneol=native#text/xml
