@@ -1,4 +1,10 @@
 * text=auto !eol
+common/bcp47/calendar.xml svneol=native#text/xml
+common/bcp47/collation.xml svneol=native#text/xml
+common/bcp47/currency.xml svneol=native#text/xml
+common/bcp47/number.xml svneol=native#text/xml
+common/bcp47/timezone.xml svneol=native#text/xml
+common/bcp47/variant.xml svneol=native#text/xml
 common/collation/af.xml svneol=native#text/xml
 common/collation/ar.xml svneol=native#text/xml
 common/collation/as.xml svneol=native#text/xml
@@ -85,6 +91,7 @@ common/collation/zh.xml svneol=native#text/xml
 common/collation/zh_Hant.xml svneol=native#text/xml
 common/dtd/cldrTest.dtd -text
 common/dtd/ldml.dtd -text
+common/dtd/ldmlBCP47.dtd -text
 common/dtd/ldmlICIR.dtd -text
 common/dtd/ldmlICU.dtd -text
 common/dtd/ldmlOpenOffice.dtd -text
