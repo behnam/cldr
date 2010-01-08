@@ -1,0 +1,7 @@
+t1958/tools/java/*.jar
+t1958/tools/java/*.war
+t1958/tools/java/build.properties
+t1958/tools/java/classes
+t1958/tools/java/org/unicode/cldr/web/Junk.java
+t1958/tools/java/org/unicode/cldr/web/data/jars/*.jar
+t1958/tools/java/org/unicode/cldr/web/data/root/tmpl/r_srltest.jsp
