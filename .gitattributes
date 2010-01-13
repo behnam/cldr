@@ -675,6 +675,7 @@ t1958/common/supplemental/postalCodeData.xml svneol=native#text/xml
 t1958/common/supplemental/supplementalData.xml svneol=native#text/xml
 t1958/common/supplemental/supplementalMetadata.xml svneol=native#text/plain
 t1958/common/supplemental/telephoneCodeData.xml svneol=native#text/xml
+t1958/common/supplemental/wintz.xml svneol=native#text/xml
 t1958/common/transforms/Amharic-Latin-BGN.xml svneol=native#text/xml
 t1958/common/transforms/Any-Accents.xml svneol=native#text/xml
 t1958/common/transforms/Any-Publishing.xml svneol=native#text/xml
