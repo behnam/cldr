@@ -446,6 +446,7 @@ common/main/pt.xml svneol=native#text/plain
 common/main/pt_BR.xml svneol=native#text/xml
 common/main/pt_GW.xml -text
 common/main/pt_PT.xml svneol=native#text/plain
+common/main/rm.xml svneol=native#text/plain
 common/main/ro.xml svneol=native#text/plain
 common/main/ro_MD.xml svneol=native#text/xml
 common/main/ro_RO.xml svneol=native#text/xml
