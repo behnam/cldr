@@ -2722,6 +2722,8 @@ tools/java/org/unicode/cldr/web/data/readme.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/web/data/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/web/data/root/about.jsp -text
 tools/java/org/unicode/cldr/web/data/root/adduser.jsp -text
+tools/java/org/unicode/cldr/web/data/root/bar0.png -text
+tools/java/org/unicode/cldr/web/data/root/bar1.png -text
 tools/java/org/unicode/cldr/web/data/root/disp.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/feed.png -text svneol=unset#image/png
 tools/java/org/unicode/cldr/web/data/root/hand.png -text svneol=unset#image/png
