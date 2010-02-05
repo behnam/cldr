@@ -546,7 +546,6 @@ common/main/ug_Arab_CN.xml svneol=native#text/xml
 common/main/ug_CN.xml svneol=native#text/xml
 common/main/uk.xml svneol=native#text/plain
 common/main/uk_UA.xml svneol=native#text/xml
-common/main/und.xml svneol=native#text/plain
 common/main/ur.xml svneol=native#text/plain
 common/main/ur_IN.xml svneol=native#text/xml
 common/main/ur_PK.xml svneol=native#text/xml
