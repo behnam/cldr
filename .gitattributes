@@ -2630,6 +2630,7 @@ tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/pl
 tools/java/org/unicode/cldr/unittest/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain
+tools/java/org/unicode/cldr/util/IsoRegionData.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain
