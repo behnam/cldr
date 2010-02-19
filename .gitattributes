@@ -153,7 +153,6 @@ common/main/cch.xml svneol=native#text/plain
 common/main/cch_NG.xml svneol=native#text/xml
 common/main/chr.xml svneol=native#text/xml
 common/main/chr_US.xml svneol=native#text/xml
-common/main/cop.xml svneol=native#text/plain
 common/main/cs.xml svneol=native#text/plain
 common/main/cs_CZ.xml svneol=native#text/xml
 common/main/cy.xml svneol=native#text/plain
