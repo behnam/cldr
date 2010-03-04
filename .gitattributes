@@ -2619,6 +2619,7 @@ tools/java/org/unicode/cldr/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/CheckMetazones.java -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
+tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
@@ -2629,6 +2630,7 @@ tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/pl
 tools/java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/package.html svneol=native#text/html
+tools/java/org/unicode/cldr/util/Builder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/ElementAttributeInfo.java svneol=native#text/plain
