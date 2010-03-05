@@ -1,0 +1,7 @@
+collation/tools/java/*.jar
+collation/tools/java/*.war
+collation/tools/java/build.properties
+collation/tools/java/classes
+collation/tools/java/org/unicode/cldr/web/Junk.java
+collation/tools/java/org/unicode/cldr/web/data/jars/*.jar
+collation/tools/java/org/unicode/cldr/web/data/root/tmpl/r_srltest.jsp
