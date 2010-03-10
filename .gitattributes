@@ -2688,6 +2688,7 @@ tools/java/org/unicode/cldr/test/CheckMetazones.java -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain
+tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
