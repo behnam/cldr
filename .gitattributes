@@ -356,7 +356,6 @@ common/main/ku.xml svneol=native#text/plain
 common/main/ku_Arab.xml svneol=native#text/xml
 common/main/ku_Arab_IQ.xml svneol=native#text/xml
 common/main/ku_Arab_IR.xml svneol=native#text/xml
-common/main/ku_Arab_SY.xml svneol=native#text/xml
 common/main/ku_IQ.xml svneol=native#text/xml
 common/main/ku_IR.xml svneol=native#text/xml
 common/main/ku_Latn.xml svneol=native#text/plain
