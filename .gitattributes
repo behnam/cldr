@@ -2150,333 +2150,333 @@ external/windows/main/zh_SG.xml svneol=native#text/xml
 external/windows/main/zh_TW.xml svneol=native#text/xml
 posix/README -text
 posix/UTF-8.cm -text
-posix/aa_DJ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/aa_ER.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/aa_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/af_NA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/af_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ak_GH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/am_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_AE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_BH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_DZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_EG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_IQ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_JO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_KW.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_LB.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_LY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_MA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_OM.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_QA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_SA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_SD.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_SY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_TN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ar_YE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/as_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/asa_TZ.UTF-8.src -text
-posix/az_Cyrl_AZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/az_Latn_AZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/be_BY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/bem_ZM.UTF-8.src -text
-posix/bez_TZ.UTF-8.src -text
-posix/bg_BG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/bm_ML.UTF-8.src -text
-posix/bn_BD.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/bn_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/bo_CN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/bo_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/br_FR.UTF-8.src -text
-posix/bs_BA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/byn_ER.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ca_ES.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/cch_NG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/cgg_UG.UTF-8.src -text
-posix/chr_US.UTF-8.src -text
-posix/cs_CZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/cy_GB.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/da_DK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/dav_KE.UTF-8.src -text
-posix/de_AT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/de_BE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/de_CH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/de_DE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/de_LI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/de_LU.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/dv_MV.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/dz_BT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ebu_KE.UTF-8.src -text
-posix/ee_GH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ee_TG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/el_CY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/el_GR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_AS.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_AU.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_BE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_BW.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_BZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_CA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_GB.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_GU.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_HK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_IE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_JM.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_MH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_MP.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_MT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_MU.UTF-8.src -text
-posix/en_NA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_NZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_PH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_PK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_SG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_TT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_UM.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_US.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_US_POSIX.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_VI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/en_ZW.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_AR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_BO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_CL.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_CO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_CR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_DO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_EC.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_ES.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_GQ.UTF-8.src -text
-posix/es_GT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_HN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_MX.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_NI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_PA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_PE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_PR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_PY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_SV.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_US.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_UY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/es_VE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/et_EE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/eu_ES.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fa_AF.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fa_IR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ff_SN.UTF-8.src -text
-posix/fi_FI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fil_PH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fo_FO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fr_BE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fr_BL.UTF-8.src -text
-posix/fr_CA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fr_CF.UTF-8.src -text
-posix/fr_CH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fr_CI.UTF-8.src -text
-posix/fr_CM.UTF-8.src -text
-posix/fr_FR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fr_GN.UTF-8.src -text
-posix/fr_GP.UTF-8.src -text
-posix/fr_LU.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fr_MC.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fr_MF.UTF-8.src -text
-posix/fr_MG.UTF-8.src -text
-posix/fr_ML.UTF-8.src -text
-posix/fr_MQ.UTF-8.src -text
-posix/fr_NE.UTF-8.src -text
-posix/fr_RE.UTF-8.src -text
-posix/fr_SN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/fur_IT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ga_IE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/gaa_GH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/gez_ER.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/gez_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/gl_ES.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/gsw_CH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/gu_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/guz_KE.UTF-8.src -text
-posix/gv_GB.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ha_Arab_NG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ha_Arab_SD.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ha_Latn_GH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ha_Latn_NE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ha_Latn_NG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/haw_US.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/he_IL.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/hi_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/hr_HR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/hu_HU.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/hy_AM.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/id_ID.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ig_NG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ii_CN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/is_IS.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/it_CH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/it_IT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ja_JP.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/jmc_TZ.UTF-8.src -text
-posix/ka_GE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kab_DZ.UTF-8.src -text
-posix/kaj_NG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kam_KE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kcg_NG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kde_TZ.UTF-8.src -text
-posix/kea_CV.UTF-8.src -text
-posix/kfo_CI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/khq_ML.UTF-8.src -text
-posix/ki_KE.UTF-8.src -text
-posix/kk_Cyrl_KZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kl_GL.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kln_KE.UTF-8.src -text
-posix/km_KH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kn_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ko_KR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kok_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kpe_GN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kpe_LR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ksb_TZ.UTF-8.src -text
-posix/ksh_DE.UTF-8.src -text
-posix/ku_Arab_IQ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ku_Arab_IR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ku_Latn_SY.UTF-8.src -text
-posix/ku_Latn_TR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/kw_GB.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ky_KG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/lag_TZ.UTF-8.src -text
-posix/lg_UG.UTF-8.src -text
-posix/ln_CD.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ln_CG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/lo_LA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/lt_LT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/luo_KE.UTF-8.src -text
-posix/luy_KE.UTF-8.src -text
-posix/lv_LV.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/mas_KE.UTF-8.src -text
-posix/mas_TZ.UTF-8.src -text
-posix/mer_KE.UTF-8.src -text
-posix/mfe_MU.UTF-8.src -text
-posix/mg_MG.UTF-8.src -text
-posix/mi_NZ.UTF-8.src -text
-posix/mk_MK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ml_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/mn_Cyrl_MN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/mn_Mong_CN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/mr_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ms_BN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ms_MY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/mt_MT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/my_MM.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/naq_NA.UTF-8.src -text
-posix/nb_NO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/nd_ZW.UTF-8.src -text
-posix/nds_DE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ne_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ne_NP.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/nl_BE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/nl_NL.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/nn_NO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/nr_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/nso_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ny_MW.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/nyn_UG.UTF-8.src -text
-posix/oc_FR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/om_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/om_KE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/or_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/pa_Arab_PK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/pa_Guru_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/pl_PL.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ps_AF.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/pt_BR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/pt_GW.UTF-8.src -text
-posix/pt_MZ.UTF-8.src -text
-posix/pt_PT.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/rm_CH.UTF-8.src -text
-posix/ro_MD.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ro_RO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/rof_TZ.UTF-8.src -text
-posix/ru_MD.UTF-8.src -text
-posix/ru_RU.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ru_UA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/rw_RW.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/rwk_TZ.UTF-8.src -text
-posix/sa_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/saq_KE.UTF-8.src -text
-posix/se_FI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/se_NO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/seh_MZ.UTF-8.src -text
-posix/ses_ML.UTF-8.src -text
-posix/sg_CF.UTF-8.src -text
-posix/shi_Latn_MA.UTF-8.src -text
-posix/shi_Tfng_MA.UTF-8.src -text
-posix/si_LK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sid_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sk_SK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sl_SI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sn_ZW.UTF-8.src -text
-posix/so_DJ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/so_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/so_KE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/so_SO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sq_AL.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sr_Cyrl_BA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sr_Cyrl_ME.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sr_Cyrl_RS.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sr_Latn_BA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sr_Latn_ME.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sr_Latn_RS.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ss_SZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ss_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ssy_ER.UTF-8.src -text
-posix/st_LS.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/st_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sv_FI.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sv_SE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sw_KE.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/sw_TZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/syr_SY.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ta_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ta_LK.UTF-8.src -text
-posix/te_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/teo_KE.UTF-8.src -text
-posix/teo_UG.UTF-8.src -text
-posix/tg_Cyrl_TJ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/tg_TJ.UTF-8.src -text
-posix/th_TH.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ti_ER.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ti_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/tig_ER.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/tn_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/to_TO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/tr_TR.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/trv_TW.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ts_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/tt_RU.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/tzm_Latn_MA.UTF-8.src -text
-posix/ug_Arab_CN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/uk_UA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ur_IN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ur_PK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/uz_Arab_AF.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/uz_Cyrl_UZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/uz_Latn_UZ.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/ve_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/vi_VN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/vun_TZ.UTF-8.src -text
-posix/wal_ET.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/wo_Latn_SN.UTF-8.src -text
-posix/xh_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/xog_UG.UTF-8.src -text
-posix/yo_NG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zh_Hans_CN.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zh_Hans_HK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zh_Hans_MO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zh_Hans_SG.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zh_Hant_HK.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zh_Hant_MO.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zh_Hant_TW.UTF-8.src -text svneol=unset#application/x-wais-source
-posix/zu_ZA.UTF-8.src -text svneol=unset#application/x-wais-source
+posix/aa_DJ.UTF-8.src svneol=native#text/plain
+posix/aa_ER.UTF-8.src svneol=native#text/plain
+posix/aa_ET.UTF-8.src svneol=native#text/plain
+posix/af_NA.UTF-8.src svneol=native#text/plain
+posix/af_ZA.UTF-8.src svneol=native#text/plain
+posix/ak_GH.UTF-8.src svneol=native#text/plain
+posix/am_ET.UTF-8.src svneol=native#text/plain
+posix/ar_AE.UTF-8.src svneol=native#text/plain
+posix/ar_BH.UTF-8.src svneol=native#text/plain
+posix/ar_DZ.UTF-8.src svneol=native#text/plain
+posix/ar_EG.UTF-8.src svneol=native#text/plain
+posix/ar_IQ.UTF-8.src svneol=native#text/plain
+posix/ar_JO.UTF-8.src svneol=native#text/plain
+posix/ar_KW.UTF-8.src svneol=native#text/plain
+posix/ar_LB.UTF-8.src svneol=native#text/plain
+posix/ar_LY.UTF-8.src svneol=native#text/plain
+posix/ar_MA.UTF-8.src svneol=native#text/plain
+posix/ar_OM.UTF-8.src svneol=native#text/plain
+posix/ar_QA.UTF-8.src svneol=native#text/plain
+posix/ar_SA.UTF-8.src svneol=native#text/plain
+posix/ar_SD.UTF-8.src svneol=native#text/plain
+posix/ar_SY.UTF-8.src svneol=native#text/plain
+posix/ar_TN.UTF-8.src svneol=native#text/plain
+posix/ar_YE.UTF-8.src svneol=native#text/plain
+posix/as_IN.UTF-8.src svneol=native#text/plain
+posix/asa_TZ.UTF-8.src svneol=native#text/plain
+posix/az_Cyrl_AZ.UTF-8.src svneol=native#text/plain
+posix/az_Latn_AZ.UTF-8.src svneol=native#text/plain
+posix/be_BY.UTF-8.src svneol=native#text/plain
+posix/bem_ZM.UTF-8.src svneol=native#text/plain
+posix/bez_TZ.UTF-8.src svneol=native#text/plain
+posix/bg_BG.UTF-8.src svneol=native#text/plain
+posix/bm_ML.UTF-8.src svneol=native#text/plain
+posix/bn_BD.UTF-8.src svneol=native#text/plain
+posix/bn_IN.UTF-8.src svneol=native#text/plain
+posix/bo_CN.UTF-8.src svneol=native#text/plain
+posix/bo_IN.UTF-8.src svneol=native#text/plain
+posix/br_FR.UTF-8.src svneol=native#text/plain
+posix/bs_BA.UTF-8.src svneol=native#text/plain
+posix/byn_ER.UTF-8.src svneol=native#text/plain
+posix/ca_ES.UTF-8.src svneol=native#text/plain
+posix/cch_NG.UTF-8.src svneol=native#text/plain
+posix/cgg_UG.UTF-8.src svneol=native#text/plain
+posix/chr_US.UTF-8.src svneol=native#text/plain
+posix/cs_CZ.UTF-8.src svneol=native#text/plain
+posix/cy_GB.UTF-8.src svneol=native#text/plain
+posix/da_DK.UTF-8.src svneol=native#text/plain
+posix/dav_KE.UTF-8.src svneol=native#text/plain
+posix/de_AT.UTF-8.src svneol=native#text/plain
+posix/de_BE.UTF-8.src svneol=native#text/plain
+posix/de_CH.UTF-8.src svneol=native#text/plain
+posix/de_DE.UTF-8.src svneol=native#text/plain
+posix/de_LI.UTF-8.src svneol=native#text/plain
+posix/de_LU.UTF-8.src svneol=native#text/plain
+posix/dv_MV.UTF-8.src svneol=native#text/plain
+posix/dz_BT.UTF-8.src svneol=native#text/plain
+posix/ebu_KE.UTF-8.src svneol=native#text/plain
+posix/ee_GH.UTF-8.src svneol=native#text/plain
+posix/ee_TG.UTF-8.src svneol=native#text/plain
+posix/el_CY.UTF-8.src svneol=native#text/plain
+posix/el_GR.UTF-8.src svneol=native#text/plain
+posix/en_AS.UTF-8.src svneol=native#text/plain
+posix/en_AU.UTF-8.src svneol=native#text/plain
+posix/en_BE.UTF-8.src svneol=native#text/plain
+posix/en_BW.UTF-8.src svneol=native#text/plain
+posix/en_BZ.UTF-8.src svneol=native#text/plain
+posix/en_CA.UTF-8.src svneol=native#text/plain
+posix/en_GB.UTF-8.src svneol=native#text/plain
+posix/en_GU.UTF-8.src svneol=native#text/plain
+posix/en_HK.UTF-8.src svneol=native#text/plain
+posix/en_IE.UTF-8.src svneol=native#text/plain
+posix/en_IN.UTF-8.src svneol=native#text/plain
+posix/en_JM.UTF-8.src svneol=native#text/plain
+posix/en_MH.UTF-8.src svneol=native#text/plain
+posix/en_MP.UTF-8.src svneol=native#text/plain
+posix/en_MT.UTF-8.src svneol=native#text/plain
+posix/en_MU.UTF-8.src svneol=native#text/plain
+posix/en_NA.UTF-8.src svneol=native#text/plain
+posix/en_NZ.UTF-8.src svneol=native#text/plain
+posix/en_PH.UTF-8.src svneol=native#text/plain
+posix/en_PK.UTF-8.src svneol=native#text/plain
+posix/en_SG.UTF-8.src svneol=native#text/plain
+posix/en_TT.UTF-8.src svneol=native#text/plain
+posix/en_UM.UTF-8.src svneol=native#text/plain
+posix/en_US.UTF-8.src svneol=native#text/plain
+posix/en_US_POSIX.UTF-8.src svneol=native#text/plain
+posix/en_VI.UTF-8.src svneol=native#text/plain
+posix/en_ZA.UTF-8.src svneol=native#text/plain
+posix/en_ZW.UTF-8.src svneol=native#text/plain
+posix/es_AR.UTF-8.src svneol=native#text/plain
+posix/es_BO.UTF-8.src svneol=native#text/plain
+posix/es_CL.UTF-8.src svneol=native#text/plain
+posix/es_CO.UTF-8.src svneol=native#text/plain
+posix/es_CR.UTF-8.src svneol=native#text/plain
+posix/es_DO.UTF-8.src svneol=native#text/plain
+posix/es_EC.UTF-8.src svneol=native#text/plain
+posix/es_ES.UTF-8.src svneol=native#text/plain
+posix/es_GQ.UTF-8.src svneol=native#text/plain
+posix/es_GT.UTF-8.src svneol=native#text/plain
+posix/es_HN.UTF-8.src svneol=native#text/plain
+posix/es_MX.UTF-8.src svneol=native#text/plain
+posix/es_NI.UTF-8.src svneol=native#text/plain
+posix/es_PA.UTF-8.src svneol=native#text/plain
+posix/es_PE.UTF-8.src svneol=native#text/plain
+posix/es_PR.UTF-8.src svneol=native#text/plain
+posix/es_PY.UTF-8.src svneol=native#text/plain
+posix/es_SV.UTF-8.src svneol=native#text/plain
+posix/es_US.UTF-8.src svneol=native#text/plain
+posix/es_UY.UTF-8.src svneol=native#text/plain
+posix/es_VE.UTF-8.src svneol=native#text/plain
+posix/et_EE.UTF-8.src svneol=native#text/plain
+posix/eu_ES.UTF-8.src svneol=native#text/plain
+posix/fa_AF.UTF-8.src svneol=native#text/plain
+posix/fa_IR.UTF-8.src svneol=native#text/plain
+posix/ff_SN.UTF-8.src svneol=native#text/plain
+posix/fi_FI.UTF-8.src svneol=native#text/plain
+posix/fil_PH.UTF-8.src svneol=native#text/plain
+posix/fo_FO.UTF-8.src svneol=native#text/plain
+posix/fr_BE.UTF-8.src svneol=native#text/plain
+posix/fr_BL.UTF-8.src svneol=native#text/plain
+posix/fr_CA.UTF-8.src svneol=native#text/plain
+posix/fr_CF.UTF-8.src svneol=native#text/plain
+posix/fr_CH.UTF-8.src svneol=native#text/plain
+posix/fr_CI.UTF-8.src svneol=native#text/plain
+posix/fr_CM.UTF-8.src svneol=native#text/plain
+posix/fr_FR.UTF-8.src svneol=native#text/plain
+posix/fr_GN.UTF-8.src svneol=native#text/plain
+posix/fr_GP.UTF-8.src svneol=native#text/plain
+posix/fr_LU.UTF-8.src svneol=native#text/plain
+posix/fr_MC.UTF-8.src svneol=native#text/plain
+posix/fr_MF.UTF-8.src svneol=native#text/plain
+posix/fr_MG.UTF-8.src svneol=native#text/plain
+posix/fr_ML.UTF-8.src svneol=native#text/plain
+posix/fr_MQ.UTF-8.src svneol=native#text/plain
+posix/fr_NE.UTF-8.src svneol=native#text/plain
+posix/fr_RE.UTF-8.src svneol=native#text/plain
+posix/fr_SN.UTF-8.src svneol=native#text/plain
+posix/fur_IT.UTF-8.src svneol=native#text/plain
+posix/ga_IE.UTF-8.src svneol=native#text/plain
+posix/gaa_GH.UTF-8.src svneol=native#text/plain
+posix/gez_ER.UTF-8.src svneol=native#text/plain
+posix/gez_ET.UTF-8.src svneol=native#text/plain
+posix/gl_ES.UTF-8.src svneol=native#text/plain
+posix/gsw_CH.UTF-8.src svneol=native#text/plain
+posix/gu_IN.UTF-8.src svneol=native#text/plain
+posix/guz_KE.UTF-8.src svneol=native#text/plain
+posix/gv_GB.UTF-8.src svneol=native#text/plain
+posix/ha_Arab_NG.UTF-8.src svneol=native#text/plain
+posix/ha_Arab_SD.UTF-8.src svneol=native#text/plain
+posix/ha_Latn_GH.UTF-8.src svneol=native#text/plain
+posix/ha_Latn_NE.UTF-8.src svneol=native#text/plain
+posix/ha_Latn_NG.UTF-8.src svneol=native#text/plain
+posix/haw_US.UTF-8.src svneol=native#text/plain
+posix/he_IL.UTF-8.src svneol=native#text/plain
+posix/hi_IN.UTF-8.src svneol=native#text/plain
+posix/hr_HR.UTF-8.src svneol=native#text/plain
+posix/hu_HU.UTF-8.src svneol=native#text/plain
+posix/hy_AM.UTF-8.src svneol=native#text/plain
+posix/id_ID.UTF-8.src svneol=native#text/plain
+posix/ig_NG.UTF-8.src svneol=native#text/plain
+posix/ii_CN.UTF-8.src svneol=native#text/plain
+posix/is_IS.UTF-8.src svneol=native#text/plain
+posix/it_CH.UTF-8.src svneol=native#text/plain
+posix/it_IT.UTF-8.src svneol=native#text/plain
+posix/ja_JP.UTF-8.src svneol=native#text/plain
+posix/jmc_TZ.UTF-8.src svneol=native#text/plain
+posix/ka_GE.UTF-8.src svneol=native#text/plain
+posix/kab_DZ.UTF-8.src svneol=native#text/plain
+posix/kaj_NG.UTF-8.src svneol=native#text/plain
+posix/kam_KE.UTF-8.src svneol=native#text/plain
+posix/kcg_NG.UTF-8.src svneol=native#text/plain
+posix/kde_TZ.UTF-8.src svneol=native#text/plain
+posix/kea_CV.UTF-8.src svneol=native#text/plain
+posix/kfo_CI.UTF-8.src svneol=native#text/plain
+posix/khq_ML.UTF-8.src svneol=native#text/plain
+posix/ki_KE.UTF-8.src svneol=native#text/plain
+posix/kk_Cyrl_KZ.UTF-8.src svneol=native#text/plain
+posix/kl_GL.UTF-8.src svneol=native#text/plain
+posix/kln_KE.UTF-8.src svneol=native#text/plain
+posix/km_KH.UTF-8.src svneol=native#text/plain
+posix/kn_IN.UTF-8.src svneol=native#text/plain
+posix/ko_KR.UTF-8.src svneol=native#text/plain
+posix/kok_IN.UTF-8.src svneol=native#text/plain
+posix/kpe_GN.UTF-8.src svneol=native#text/plain
+posix/kpe_LR.UTF-8.src svneol=native#text/plain
+posix/ksb_TZ.UTF-8.src svneol=native#text/plain
+posix/ksh_DE.UTF-8.src svneol=native#text/plain
+posix/ku_Arab_IQ.UTF-8.src svneol=native#text/plain
+posix/ku_Arab_IR.UTF-8.src svneol=native#text/plain
+posix/ku_Latn_SY.UTF-8.src svneol=native#text/plain
+posix/ku_Latn_TR.UTF-8.src svneol=native#text/plain
+posix/kw_GB.UTF-8.src svneol=native#text/plain
+posix/ky_KG.UTF-8.src svneol=native#text/plain
+posix/lag_TZ.UTF-8.src svneol=native#text/plain
+posix/lg_UG.UTF-8.src svneol=native#text/plain
+posix/ln_CD.UTF-8.src svneol=native#text/plain
+posix/ln_CG.UTF-8.src svneol=native#text/plain
+posix/lo_LA.UTF-8.src svneol=native#text/plain
+posix/lt_LT.UTF-8.src svneol=native#text/plain
+posix/luo_KE.UTF-8.src svneol=native#text/plain
+posix/luy_KE.UTF-8.src svneol=native#text/plain
+posix/lv_LV.UTF-8.src svneol=native#text/plain
+posix/mas_KE.UTF-8.src svneol=native#text/plain
+posix/mas_TZ.UTF-8.src svneol=native#text/plain
+posix/mer_KE.UTF-8.src svneol=native#text/plain
+posix/mfe_MU.UTF-8.src svneol=native#text/plain
+posix/mg_MG.UTF-8.src svneol=native#text/plain
+posix/mi_NZ.UTF-8.src svneol=native#text/plain
+posix/mk_MK.UTF-8.src svneol=native#text/plain
+posix/ml_IN.UTF-8.src svneol=native#text/plain
+posix/mn_Cyrl_MN.UTF-8.src svneol=native#text/plain
+posix/mn_Mong_CN.UTF-8.src svneol=native#text/plain
+posix/mr_IN.UTF-8.src svneol=native#text/plain
+posix/ms_BN.UTF-8.src svneol=native#text/plain
+posix/ms_MY.UTF-8.src svneol=native#text/plain
+posix/mt_MT.UTF-8.src svneol=native#text/plain
+posix/my_MM.UTF-8.src svneol=native#text/plain
+posix/naq_NA.UTF-8.src svneol=native#text/plain
+posix/nb_NO.UTF-8.src svneol=native#text/plain
+posix/nd_ZW.UTF-8.src svneol=native#text/plain
+posix/nds_DE.UTF-8.src svneol=native#text/plain
+posix/ne_IN.UTF-8.src svneol=native#text/plain
+posix/ne_NP.UTF-8.src svneol=native#text/plain
+posix/nl_BE.UTF-8.src svneol=native#text/plain
+posix/nl_NL.UTF-8.src svneol=native#text/plain
+posix/nn_NO.UTF-8.src svneol=native#text/plain
+posix/nr_ZA.UTF-8.src svneol=native#text/plain
+posix/nso_ZA.UTF-8.src svneol=native#text/plain
+posix/ny_MW.UTF-8.src svneol=native#text/plain
+posix/nyn_UG.UTF-8.src svneol=native#text/plain
+posix/oc_FR.UTF-8.src svneol=native#text/plain
+posix/om_ET.UTF-8.src svneol=native#text/plain
+posix/om_KE.UTF-8.src svneol=native#text/plain
+posix/or_IN.UTF-8.src svneol=native#text/plain
+posix/pa_Arab_PK.UTF-8.src svneol=native#text/plain
+posix/pa_Guru_IN.UTF-8.src svneol=native#text/plain
+posix/pl_PL.UTF-8.src svneol=native#text/plain
+posix/ps_AF.UTF-8.src svneol=native#text/plain
+posix/pt_BR.UTF-8.src svneol=native#text/plain
+posix/pt_GW.UTF-8.src svneol=native#text/plain
+posix/pt_MZ.UTF-8.src svneol=native#text/plain
+posix/pt_PT.UTF-8.src svneol=native#text/plain
+posix/rm_CH.UTF-8.src svneol=native#text/plain
+posix/ro_MD.UTF-8.src svneol=native#text/plain
+posix/ro_RO.UTF-8.src svneol=native#text/plain
+posix/rof_TZ.UTF-8.src svneol=native#text/plain
+posix/ru_MD.UTF-8.src svneol=native#text/plain
+posix/ru_RU.UTF-8.src svneol=native#text/plain
+posix/ru_UA.UTF-8.src svneol=native#text/plain
+posix/rw_RW.UTF-8.src svneol=native#text/plain
+posix/rwk_TZ.UTF-8.src svneol=native#text/plain
+posix/sa_IN.UTF-8.src svneol=native#text/plain
+posix/saq_KE.UTF-8.src svneol=native#text/plain
+posix/se_FI.UTF-8.src svneol=native#text/plain
+posix/se_NO.UTF-8.src svneol=native#text/plain
+posix/seh_MZ.UTF-8.src svneol=native#text/plain
+posix/ses_ML.UTF-8.src svneol=native#text/plain
+posix/sg_CF.UTF-8.src svneol=native#text/plain
+posix/shi_Latn_MA.UTF-8.src svneol=native#text/plain
+posix/shi_Tfng_MA.UTF-8.src svneol=native#text/plain
+posix/si_LK.UTF-8.src svneol=native#text/plain
+posix/sid_ET.UTF-8.src svneol=native#text/plain
+posix/sk_SK.UTF-8.src svneol=native#text/plain
+posix/sl_SI.UTF-8.src svneol=native#text/plain
+posix/sn_ZW.UTF-8.src svneol=native#text/plain
+posix/so_DJ.UTF-8.src svneol=native#text/plain
+posix/so_ET.UTF-8.src svneol=native#text/plain
+posix/so_KE.UTF-8.src svneol=native#text/plain
+posix/so_SO.UTF-8.src svneol=native#text/plain
+posix/sq_AL.UTF-8.src svneol=native#text/plain
+posix/sr_Cyrl_BA.UTF-8.src svneol=native#text/plain
+posix/sr_Cyrl_ME.UTF-8.src svneol=native#text/plain
+posix/sr_Cyrl_RS.UTF-8.src svneol=native#text/plain
+posix/sr_Latn_BA.UTF-8.src svneol=native#text/plain
+posix/sr_Latn_ME.UTF-8.src svneol=native#text/plain
+posix/sr_Latn_RS.UTF-8.src svneol=native#text/plain
+posix/ss_SZ.UTF-8.src svneol=native#text/plain
+posix/ss_ZA.UTF-8.src svneol=native#text/plain
+posix/ssy_ER.UTF-8.src svneol=native#text/plain
+posix/st_LS.UTF-8.src svneol=native#text/plain
+posix/st_ZA.UTF-8.src svneol=native#text/plain
+posix/sv_FI.UTF-8.src svneol=native#text/plain
+posix/sv_SE.UTF-8.src svneol=native#text/plain
+posix/sw_KE.UTF-8.src svneol=native#text/plain
+posix/sw_TZ.UTF-8.src svneol=native#text/plain
+posix/syr_SY.UTF-8.src svneol=native#text/plain
+posix/ta_IN.UTF-8.src svneol=native#text/plain
+posix/ta_LK.UTF-8.src svneol=native#text/plain
+posix/te_IN.UTF-8.src svneol=native#text/plain
+posix/teo_KE.UTF-8.src svneol=native#text/plain
+posix/teo_UG.UTF-8.src svneol=native#text/plain
+posix/tg_Cyrl_TJ.UTF-8.src svneol=native#text/plain
+posix/tg_TJ.UTF-8.src svneol=native#text/plain
+posix/th_TH.UTF-8.src svneol=native#text/plain
+posix/ti_ER.UTF-8.src svneol=native#text/plain
+posix/ti_ET.UTF-8.src svneol=native#text/plain
+posix/tig_ER.UTF-8.src svneol=native#text/plain
+posix/tn_ZA.UTF-8.src svneol=native#text/plain
+posix/to_TO.UTF-8.src svneol=native#text/plain
+posix/tr_TR.UTF-8.src svneol=native#text/plain
+posix/trv_TW.UTF-8.src svneol=native#text/plain
+posix/ts_ZA.UTF-8.src svneol=native#text/plain
+posix/tt_RU.UTF-8.src svneol=native#text/plain
+posix/tzm_Latn_MA.UTF-8.src svneol=native#text/plain
+posix/ug_Arab_CN.UTF-8.src svneol=native#text/plain
+posix/uk_UA.UTF-8.src svneol=native#text/plain
+posix/ur_IN.UTF-8.src svneol=native#text/plain
+posix/ur_PK.UTF-8.src svneol=native#text/plain
+posix/uz_Arab_AF.UTF-8.src svneol=native#text/plain
+posix/uz_Cyrl_UZ.UTF-8.src svneol=native#text/plain
+posix/uz_Latn_UZ.UTF-8.src svneol=native#text/plain
+posix/ve_ZA.UTF-8.src svneol=native#text/plain
+posix/vi_VN.UTF-8.src svneol=native#text/plain
+posix/vun_TZ.UTF-8.src svneol=native#text/plain
+posix/wal_ET.UTF-8.src svneol=native#text/plain
+posix/wo_Latn_SN.UTF-8.src svneol=native#text/plain
+posix/xh_ZA.UTF-8.src svneol=native#text/plain
+posix/xog_UG.UTF-8.src svneol=native#text/plain
+posix/yo_NG.UTF-8.src svneol=native#text/plain
+posix/zh_Hans_CN.UTF-8.src svneol=native#text/plain
+posix/zh_Hans_HK.UTF-8.src svneol=native#text/plain
+posix/zh_Hans_MO.UTF-8.src svneol=native#text/plain
+posix/zh_Hans_SG.UTF-8.src svneol=native#text/plain
+posix/zh_Hant_HK.UTF-8.src svneol=native#text/plain
+posix/zh_Hant_MO.UTF-8.src svneol=native#text/plain
+posix/zh_Hant_TW.UTF-8.src svneol=native#text/plain
+posix/zu_ZA.UTF-8.src svneol=native#text/plain
 test/aa.xml svneol=native#text/xml
 test/af.xml svneol=native#text/xml
 test/ak.xml svneol=native#text/xml
