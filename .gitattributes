@@ -2703,6 +2703,7 @@ tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/common.css -text svneol=unset#text/css
+tools/java/org/unicode/cldr/draft/FormatSpecialData.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/GeneratePickerData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/JsonConverter.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
