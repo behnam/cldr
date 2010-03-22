@@ -3,3 +3,10 @@ maint-1-7/tools/java/*.war
 maint-1-7/tools/java/build.properties
 maint-1-7/tools/java/classes
 maint-1-7/tools/java/org/unicode/cldr/web/Junk.java
+maint-1-8/tools/java/*.jar
+maint-1-8/tools/java/*.war
+maint-1-8/tools/java/build.properties
+maint-1-8/tools/java/classes
+maint-1-8/tools/java/org/unicode/cldr/web/Junk.java
+maint-1-8/tools/java/org/unicode/cldr/web/data/jars/*.jar
+maint-1-8/tools/java/org/unicode/cldr/web/data/root/tmpl/r_srltest.jsp
