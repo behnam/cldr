@@ -2757,6 +2757,48 @@ c2323/tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 c2323/tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh
 c2323/tools/scripts/sidewaysCharts.sh -text svneol=native#application/x-sh
 c2323/tools/scripts/web/bugdiffs -text
+cldr-apps/.classpath -text svneol=unset#text/plain
+cldr-apps/.project -text svneol=unset#text/plain
+cldr-apps/.settings/.jsdtscope -text
+cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.wst.common.component -text
+cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+cldr-apps/docs/readme-eclipse.txt -text svneol=unset#text/plain
+cldr-apps/docs/readme-jars.txt -text svneol=unset#text/plain
+cldr-apps/docs/readme-staging.txt -text svneol=unset#text/plain
+cldr-apps/docs/readme.css -text svneol=unset#text/plain
+cldr-apps/docs/readme.txt -text svneol=unset#text/plain
+cldr-apps/docs/stops.html -text svneol=unset#text/plain
+cldr-apps/docs/stops.txt -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/AttributeChoice.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/CLDRDBSourceFactory.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/CLDRFileCache.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/CookieSession.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/DataSection.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/DefaultDataSubmissionResultHandler.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/IntHash.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/JspWebContext.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/LocaleChangeRegistry.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/LocaleTree.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/MailSender.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/OldUserRegistry.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/Race.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/Registerable.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/STPoolingListener.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/SummarizingSubmissionResultHandler.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/SurveyForum.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/SurveyMain.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/SurveyThread.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/URLWebContext.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/UserRegistry.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/Vetting.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/WebContext.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/XPathTable.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/package.html -text svneol=unset#text/plain
 r2358alt/common/collation/af.xml svneol=native#text/xml
 r2358alt/common/collation/ar.xml svneol=native#text/xml
 r2358alt/common/collation/as.xml svneol=native#text/xml
