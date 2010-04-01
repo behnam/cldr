@@ -2762,12 +2762,54 @@ cldr-apps/.project -text svneol=unset#text/plain
 cldr-apps/.settings/.jsdtscope -text
 cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
 cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.jst.jsp.core.prefs -text
 cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
 cldr-apps/.settings/org.eclipse.wst.common.component -text
 cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
 cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
 cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/dataitems_header.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_close_table_code.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_open_table_code.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_short.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_code.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_prettypath.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/date_formats.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/day_periods.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/decimal_format.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/eras.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/yes_no.jsp -text
 cldr-apps/WebContent/WEB-INF/web.xml svneol=native#text/xml
 cldr-apps/WebContent/about.jsp -text
 cldr-apps/WebContent/adduser.jsp -text
@@ -2786,47 +2828,6 @@ cldr-apps/WebContent/squo.png -text svneol=unset#image/png
 cldr-apps/WebContent/star.png -text svneol=unset#image/png
 cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
-cldr-apps/WebContent/tmpl/GMT_format.jsp -text
-cldr-apps/WebContent/tmpl/abbreviated_days.jsp -text
-cldr-apps/WebContent/tmpl/abbreviated_months.jsp -text
-cldr-apps/WebContent/tmpl/am_pm.jsp -text
-cldr-apps/WebContent/tmpl/characters.jsp -text
-cldr-apps/WebContent/tmpl/currency_format.jsp -text
-cldr-apps/WebContent/tmpl/dataitems_header.jsp -text
-cldr-apps/WebContent/tmpl/datarow_close_table_code.jsp -text
-cldr-apps/WebContent/tmpl/datarow_open_table_code.jsp -text
-cldr-apps/WebContent/tmpl/datarow_short.jsp -text
-cldr-apps/WebContent/tmpl/datarow_short_code.jsp -text
-cldr-apps/WebContent/tmpl/datarow_short_prettypath.jsp -text
-cldr-apps/WebContent/tmpl/date_formats.jsp -text
-cldr-apps/WebContent/tmpl/day_periods.jsp -text svneol=unset#text/plain
-cldr-apps/WebContent/tmpl/debug_jsp.jspf -text
-cldr-apps/WebContent/tmpl/decimal_format.jsp -text
-cldr-apps/WebContent/tmpl/decimal_separator.jsp -text
-cldr-apps/WebContent/tmpl/eras.jsp -text
-cldr-apps/WebContent/tmpl/group_separator.jsp -text
-cldr-apps/WebContent/tmpl/index.jsp -text
-cldr-apps/WebContent/tmpl/language_country.jsp -text
-cldr-apps/WebContent/tmpl/list_patterns.jsp -text svneol=unset#text/plain
-cldr-apps/WebContent/tmpl/local_currency.jsp -text
-cldr-apps/WebContent/tmpl/narrow_days.jsp -text
-cldr-apps/WebContent/tmpl/narrow_months.jsp -text
-cldr-apps/WebContent/tmpl/new.jsp -text svneol=unset#text/plain
-cldr-apps/WebContent/tmpl/numbering_system.jsp -text
-cldr-apps/WebContent/tmpl/r_directiontest.jsp -text
-cldr-apps/WebContent/tmpl/r_months.jsp -text
-cldr-apps/WebContent/tmpl/r_numbers.jsp -text
-cldr-apps/WebContent/tmpl/r_steps.jsp -text
-cldr-apps/WebContent/tmpl/r_steps_complete.jspf -text
-cldr-apps/WebContent/tmpl/r_steps_menu.jspf -text
-cldr-apps/WebContent/tmpl/report.jspf -text
-cldr-apps/WebContent/tmpl/report_menu.jsp -text
-cldr-apps/WebContent/tmpl/report_top.jspf -text
-cldr-apps/WebContent/tmpl/stcontext.jspf -text
-cldr-apps/WebContent/tmpl/time_formats.jsp -text
-cldr-apps/WebContent/tmpl/wide_days.jsp -text
-cldr-apps/WebContent/tmpl/wide_months.jsp -text
-cldr-apps/WebContent/tmpl/yes_no.jsp -text
 cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 cldr-apps/WebContent/warn.png -text svneol=unset#image/png
 cldr-apps/WebContent/xpath.jsp -text

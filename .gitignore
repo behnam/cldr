@@ -4,7 +4,7 @@ c2323/tools/java/*.jar
 c2323/tools/java/*.war
 c2323/tools/java/build.properties
 c2323/tools/java/classes
-cldr-apps/WebContent/tmpl/r_srltest.jsp
+cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 cldr-apps/build
 r2358alt/tools/java/*.jar
 r2358alt/tools/java/*.war
