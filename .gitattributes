@@ -3919,7 +3919,6 @@ maint-1-8/test/sr_Latn.xml svneol=native#text/plain
 maint-1-8/test/ss.xml svneol=native#text/xml
 maint-1-8/test/ssy.xml svneol=native#text/xml
 maint-1-8/test/st.xml svneol=native#text/xml
-maint-1-8/test/supplemental/likelySubtagTests.xml svneol=native#text/xml
 maint-1-8/test/sv.xml svneol=native#text/xml
 maint-1-8/test/sw.xml svneol=native#text/xml
 maint-1-8/test/syr.xml svneol=native#text/xml
