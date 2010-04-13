@@ -2698,6 +2698,89 @@ test/zu.xml svneol=native#text/xml
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
+tools/cldr-apps/.classpath -text svneol=unset#text/plain
+tools/cldr-apps/.project -text svneol=unset#text/plain
+tools/cldr-apps/.settings/.jsdtscope -text
+tools/cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+tools/cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+tools/cldr-apps/.settings/org.eclipse.jst.jsp.core.prefs -text
+tools/cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
+tools/cldr-apps/.settings/org.eclipse.wst.common.component -text
+tools/cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
+tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+tools/cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+tools/cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/dataitems_header.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/datarow_close_table_code.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/datarow_open_table_code.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/datarow_short.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_code.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_prettypath.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/date_formats.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/day_periods.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/decimal_format.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/eras.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/yes_no.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/web.xml svneol=native#text/xml
+tools/cldr-apps/WebContent/about.jsp -text
+tools/cldr-apps/WebContent/adduser.jsp -text
+tools/cldr-apps/WebContent/bar0.png -text
+tools/cldr-apps/WebContent/bar1.png -text
+tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/header.jspf -text
+tools/cldr-apps/WebContent/index.jsp -text
+tools/cldr-apps/WebContent/login.jsp -text
+tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/squo.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/star.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/xpath.jsp -text
+tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
+tools/cldr-apps/docs/readme-eclipse.txt -text svneol=unset#text/plain
+tools/cldr-apps/docs/readme-jars-old.txt svneol=native#text/plain
+tools/cldr-apps/docs/readme-staging.txt svneol=native#text/plain
+tools/cldr-apps/docs/readme.css -text svneol=unset#text/css
+tools/cldr-apps/docs/readme.txt svneol=native#text/plain
+tools/cldr-apps/docs/stops.html svneol=native#text/html
+tools/cldr-apps/docs/stops.txt svneol=native#text/plain
+tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html

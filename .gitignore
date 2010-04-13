@@ -1,3 +1,5 @@
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+tools/cldr-apps/build
 tools/java/*.jar
 tools/java/*.war
 tools/java/build.properties
