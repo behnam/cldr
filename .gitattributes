@@ -2773,8 +2773,7 @@ tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/xpath.jsp -text
 tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
-tools/cldr-apps/docs/readme-eclipse.txt -text svneol=unset#text/plain
-tools/cldr-apps/docs/readme-jars-old.txt svneol=native#text/plain
+tools/cldr-apps/build-sample.properties -text
 tools/cldr-apps/docs/readme-staging.txt svneol=native#text/plain
 tools/cldr-apps/docs/readme.css -text svneol=unset#text/css
 tools/cldr-apps/docs/readme.txt svneol=native#text/plain
@@ -2933,76 +2932,6 @@ tools/java/org/unicode/cldr/util/data/transforms/und-IPA.txt svneol=native#text/
 tools/java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/zone.tab -text
 tools/java/org/unicode/cldr/util/package.html svneol=native#text/html
-tools/java/org/unicode/cldr/web/data/cldr-apps.xml svneol=native#text/xml
-tools/java/org/unicode/cldr/web/data/jars/readme.txt svneol=native#text/plain
-tools/java/org/unicode/cldr/web/data/readme-staging.txt svneol=native#text/plain
-tools/java/org/unicode/cldr/web/data/readme.css -text svneol=unset#text/css
-tools/java/org/unicode/cldr/web/data/readme.txt svneol=native#text/plain
-tools/java/org/unicode/cldr/web/data/root/about.jsp -text
-tools/java/org/unicode/cldr/web/data/root/adduser.jsp -text
-tools/java/org/unicode/cldr/web/data/root/bar0.png -text
-tools/java/org/unicode/cldr/web/data/root/bar1.png -text
-tools/java/org/unicode/cldr/web/data/root/disp.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/feed.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/hand.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/header.jspf -text
-tools/java/org/unicode/cldr/web/data/root/index.jsp -text
-tools/java/org/unicode/cldr/web/data/root/login.jsp -text
-tools/java/org/unicode/cldr/web/data/root/okay.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/ques-2.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/ques.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/squo.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/star.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/stop.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/surveytool.css -text svneol=unset#text/css
-tools/java/org/unicode/cldr/web/data/root/tmpl/GMT_format.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_days.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/abbreviated_months.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/am_pm.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/characters.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/currency_format.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/dataitems_header.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_close_table_code.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_open_table_code.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short_code.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/datarow_short_prettypath.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/date_formats.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/day_periods.jsp -text svneol=unset#text/plain
-tools/java/org/unicode/cldr/web/data/root/tmpl/debug_jsp.jspf -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_format.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/decimal_separator.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/eras.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/group_separator.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/index.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/language_country.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/list_patterns.jsp -text svneol=unset#text/plain
-tools/java/org/unicode/cldr/web/data/root/tmpl/local_currency.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_days.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/narrow_months.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/new.jsp -text svneol=unset#text/plain
-tools/java/org/unicode/cldr/web/data/root/tmpl/numbering_system.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/r_directiontest.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/r_months.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/r_numbers.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_complete.jspf -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/r_steps_menu.jspf -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/report.jspf -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/report_menu.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/report_top.jspf -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/stcontext.jspf -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/time_formats.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/wide_days.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/wide_months.jsp -text
-tools/java/org/unicode/cldr/web/data/root/tmpl/yes_no.jsp -text
-tools/java/org/unicode/cldr/web/data/root/vote.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/warn.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/root/xpath.jsp -text
-tools/java/org/unicode/cldr/web/data/root/zoom.png -text svneol=unset#image/png
-tools/java/org/unicode/cldr/web/data/stops.html svneol=native#text/html
-tools/java/org/unicode/cldr/web/data/stops.txt svneol=native#text/plain
-tools/java/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/readme.txt svneol=native#text/plain
 tools/python/.project -text
 tools/python/.pydevproject -text
