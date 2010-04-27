@@ -2776,9 +2776,9 @@ tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
 tools/cldr-apps/build-sample.properties -text
 tools/cldr-apps/docs/readme-staging.txt svneol=native#text/plain
 tools/cldr-apps/docs/readme.css -text svneol=unset#text/css
-tools/cldr-apps/docs/readme.txt svneol=native#text/plain
 tools/cldr-apps/docs/stops.html svneol=native#text/html
 tools/cldr-apps/docs/stops.txt svneol=native#text/plain
+tools/cldr-apps/readme.txt svneol=native#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
