@@ -3,6 +3,5 @@ tools/cldr-apps/build
 tools/cldr-apps/build.properties
 tools/cldr-apps/cldr-apps.war
 tools/java/*.jar
-tools/java/*.war
 tools/java/build.properties
 tools/java/classes
