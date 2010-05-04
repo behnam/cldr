@@ -2699,9 +2699,12 @@ tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
 tools/cldr-apps/.classpath -text svneol=unset#text/plain
+tools/cldr-apps/.factorypath -text
 tools/cldr-apps/.project -text svneol=unset#text/plain
 tools/cldr-apps/.settings/.jsdtscope -text
+tools/cldr-apps/.settings/org.eclipse.jdt.apt.core.prefs -text
 tools/cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+tools/cldr-apps/.settings/org.eclipse.jst.common.project.facet.core.prefs -text
 tools/cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
 tools/cldr-apps/.settings/org.eclipse.jst.jsp.core.prefs -text
 tools/cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
