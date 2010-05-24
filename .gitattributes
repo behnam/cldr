@@ -19,7 +19,6 @@ common/collation/da.xml svneol=native#text/xml
 common/collation/de.xml svneol=native#text/xml
 common/collation/dz.xml svneol=native#text/xml
 common/collation/el.xml svneol=native#text/xml
-common/collation/en_BE.xml svneol=native#text/xml
 common/collation/eo.xml svneol=native#text/xml
 common/collation/es.xml svneol=native#text/xml
 common/collation/et.xml svneol=native#text/xml
