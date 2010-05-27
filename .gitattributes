@@ -725,6 +725,7 @@ common/transforms/Gurmukhi-Malayalam.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Oriya.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Tamil.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Telugu.xml svneol=native#text/xml
+common/transforms/Han-Latin-Names.xml -text
 common/transforms/Han-Latin.xml svneol=native#text/xml
 common/transforms/Han-Spacedhan.xml svneol=native#text/xml
 common/transforms/Hangul-Latin.xml svneol=native#text/xml
