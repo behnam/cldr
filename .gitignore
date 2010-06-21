@@ -7,3 +7,4 @@ tools/cldr-apps/doc
 tools/java/*.jar
 tools/java/build.properties
 tools/java/classes
+tools/java/out
