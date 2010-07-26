@@ -1,3 +1,13 @@
+collation-100726/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+collation-100726/tools/cldr-apps/build
+collation-100726/tools/cldr-apps/build.properties
+collation-100726/tools/cldr-apps/cldr-apps-docs.jar
+collation-100726/tools/cldr-apps/cldr-apps.war
+collation-100726/tools/cldr-apps/doc
+collation-100726/tools/java/*.jar
+collation-100726/tools/java/build.properties
+collation-100726/tools/java/classes
+collation-100726/tools/java/out
 collation/tools/java/*.jar
 collation/tools/java/*.war
 collation/tools/java/build.properties
