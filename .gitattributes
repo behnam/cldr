@@ -2742,6 +2742,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
