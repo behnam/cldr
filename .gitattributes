@@ -72,7 +72,6 @@ common/collation/sq.xml svneol=native#text/xml
 common/collation/sr.xml svneol=native#text/xml
 common/collation/sr_Latn.xml svneol=native#text/xml
 common/collation/sv.xml svneol=native#text/xml
-common/collation/sw.xml svneol=native#text/xml
 common/collation/ta.xml svneol=native#text/xml
 common/collation/te.xml svneol=native#text/xml
 common/collation/th.xml svneol=native#text/xml
