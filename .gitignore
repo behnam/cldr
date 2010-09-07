@@ -1,0 +1,10 @@
+cldr-1-9m02/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+cldr-1-9m02/tools/cldr-apps/build
+cldr-1-9m02/tools/cldr-apps/build.properties
+cldr-1-9m02/tools/cldr-apps/cldr-apps-docs.jar
+cldr-1-9m02/tools/cldr-apps/cldr-apps.war
+cldr-1-9m02/tools/cldr-apps/doc
+cldr-1-9m02/tools/java/*.jar
+cldr-1-9m02/tools/java/build.properties
+cldr-1-9m02/tools/java/classes
+cldr-1-9m02/tools/java/out
