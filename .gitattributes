@@ -2731,6 +2731,7 @@ tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
@@ -2770,6 +2771,7 @@ tools/cldr-apps/WebContent/adduser.jsp -text
 tools/cldr-apps/WebContent/bar0.png -text
 tools/cldr-apps/WebContent/bar1.png -text
 tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/dojoroot/dojo/dojo.js -text
 tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
@@ -2792,6 +2794,7 @@ tools/cldr-apps/docs/readme.css -text svneol=unset#text/css
 tools/cldr-apps/docs/stops.html svneol=native#text/html
 tools/cldr-apps/docs/stops.txt svneol=native#text/plain
 tools/cldr-apps/readme.txt svneol=native#text/plain
+tools/cldr-apps/src/org/json/license.html svneol=native#text/html
 tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
