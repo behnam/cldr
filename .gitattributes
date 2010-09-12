@@ -12,6 +12,7 @@ cldr-1-9m02/common/collation/az.xml svneol=native#text/xml
 cldr-1-9m02/common/collation/be.xml svneol=native#text/xml
 cldr-1-9m02/common/collation/bg.xml svneol=native#text/xml
 cldr-1-9m02/common/collation/bn.xml svneol=native#text/xml
+cldr-1-9m02/common/collation/bs.xml -text
 cldr-1-9m02/common/collation/ca.xml svneol=native#text/xml
 cldr-1-9m02/common/collation/cs.xml svneol=native#text/xml
 cldr-1-9m02/common/collation/cy.xml svneol=native#text/xml
