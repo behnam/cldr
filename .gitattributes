@@ -770,6 +770,7 @@ common/transforms/Katakana-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Kazakh-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Kirghiz-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Korean-Latin-BGN.xml svneol=native#text/xml
+common/transforms/Latin-ASCII.xml -text
 common/transforms/Latin-Armenian.xml svneol=native#text/xml
 common/transforms/Latin-Bengali.xml svneol=native#text/xml
 common/transforms/Latin-ConjoiningJamo.xml svneol=native#text/xml
