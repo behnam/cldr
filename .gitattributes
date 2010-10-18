@@ -20,6 +20,8 @@ common/collation/da.xml svneol=native#text/xml
 common/collation/de.xml svneol=native#text/xml
 common/collation/dz.xml svneol=native#text/xml
 common/collation/el.xml svneol=native#text/xml
+common/collation/en.xml -text
+common/collation/en_US.xml -text
 common/collation/eo.xml svneol=native#text/xml
 common/collation/es.xml svneol=native#text/xml
 common/collation/et.xml svneol=native#text/xml
@@ -28,6 +30,7 @@ common/collation/fa_AF.xml svneol=native#text/xml
 common/collation/fi.xml svneol=native#text/xml
 common/collation/fil.xml svneol=native#text/xml
 common/collation/fo.xml svneol=native#text/xml
+common/collation/fr.xml svneol=native#text/xml
 common/collation/gu.xml svneol=native#text/xml
 common/collation/ha.xml svneol=native#text/xml
 common/collation/haw.xml svneol=native#text/xml
