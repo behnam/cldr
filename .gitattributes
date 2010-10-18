@@ -665,6 +665,7 @@ common/rbnf/zh.xml svneol=native#text/xml
 common/rbnf/zh_Hant.xml svneol=native#text/xml
 common/segments/el.xml svneol=native#text/xml
 common/segments/en_US_POSIX.xml svneol=native#text/xml
+common/segments/he.xml -text
 common/segments/ja.xml svneol=native#text/xml
 common/segments/root.xml svneol=native#text/xml
 common/segments/th.xml svneol=native#text/xml
