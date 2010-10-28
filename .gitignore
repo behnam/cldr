@@ -12,3 +12,13 @@ r2358alt/tools/java/build.properties
 r2358alt/tools/java/classes
 r2358alt/tools/java/org/unicode/cldr/web/Junk.java
 r2358alt/tools/java/org/unicode/cldr/web/data/jars/*.jar
+st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+st3094/tools/cldr-apps/build
+st3094/tools/cldr-apps/build.properties
+st3094/tools/cldr-apps/cldr-apps-docs.jar
+st3094/tools/cldr-apps/cldr-apps.war
+st3094/tools/cldr-apps/doc
+st3094/tools/java/*.jar
+st3094/tools/java/build.properties
+st3094/tools/java/classes
+st3094/tools/java/out
