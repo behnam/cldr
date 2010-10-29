@@ -8359,7 +8359,7 @@ st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
-st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jspf -text
+st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
