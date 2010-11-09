@@ -8340,6 +8340,7 @@ st3094/tools/cldr-apps/.classpath -text svneol=unset#text/plain
 st3094/tools/cldr-apps/.factorypath -text
 st3094/tools/cldr-apps/.project -text svneol=unset#text/plain
 st3094/tools/cldr-apps/.settings/.jsdtscope -text
+st3094/tools/cldr-apps/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
 st3094/tools/cldr-apps/.settings/org.eclipse.jdt.apt.core.prefs -text
 st3094/tools/cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
 st3094/tools/cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
@@ -8351,6 +8352,7 @@ st3094/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -te
 st3094/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
 st3094/tools/cldr-apps/WebContent/META-INF/MANIFEST.MF -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
@@ -8383,6 +8385,7 @@ st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
