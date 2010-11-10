@@ -8358,6 +8358,7 @@ st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+st3094/tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
@@ -8393,6 +8394,7 @@ st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
