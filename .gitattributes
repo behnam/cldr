@@ -8393,6 +8393,7 @@ st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
