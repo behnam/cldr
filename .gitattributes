@@ -8394,6 +8394,7 @@ st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
@@ -8430,6 +8431,7 @@ st3094/tools/cldr-apps/docs/stops.html svneol=native#text/html
 st3094/tools/cldr-apps/docs/stops.txt svneol=native#text/plain
 st3094/tools/cldr-apps/readme.txt svneol=native#text/plain
 st3094/tools/cldr-apps/src/org/json/license.html svneol=native#text/html
+st3094/tools/cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
 st3094/tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 st3094/tools/java/build.xml svneol=native#text/xml
 st3094/tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
