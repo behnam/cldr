@@ -8351,6 +8351,7 @@ st3094/tools/cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -
 st3094/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 st3094/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
 st3094/tools/cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+st3094/tools/cldr-apps/WebContent/SampleNumber.jsp -text svneol=unset#text/plain
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
 st3094/tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
