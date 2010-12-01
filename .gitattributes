@@ -2224,6 +2224,7 @@ posix/ar_TN.UTF-8.src svneol=native#text/plain
 posix/ar_YE.UTF-8.src svneol=native#text/plain
 posix/as_IN.UTF-8.src svneol=native#text/plain
 posix/asa_TZ.UTF-8.src svneol=native#text/plain
+posix/az_Arab_IR.UTF-8.src -text
 posix/az_Cyrl_AZ.UTF-8.src svneol=native#text/plain
 posix/az_Latn_AZ.UTF-8.src svneol=native#text/plain
 posix/be_BY.UTF-8.src svneol=native#text/plain
@@ -2236,6 +2237,7 @@ posix/bn_IN.UTF-8.src svneol=native#text/plain
 posix/bo_CN.UTF-8.src svneol=native#text/plain
 posix/bo_IN.UTF-8.src svneol=native#text/plain
 posix/br_FR.UTF-8.src svneol=native#text/plain
+posix/brx_IN.UTF-8.src -text
 posix/bs_BA.UTF-8.src svneol=native#text/plain
 posix/byn_ER.UTF-8.src svneol=native#text/plain
 posix/ca_ES.UTF-8.src svneol=native#text/plain
@@ -2317,15 +2319,24 @@ posix/fi_FI.UTF-8.src svneol=native#text/plain
 posix/fil_PH.UTF-8.src svneol=native#text/plain
 posix/fo_FO.UTF-8.src svneol=native#text/plain
 posix/fr_BE.UTF-8.src svneol=native#text/plain
+posix/fr_BF.UTF-8.src -text
+posix/fr_BI.UTF-8.src -text
+posix/fr_BJ.UTF-8.src -text
 posix/fr_BL.UTF-8.src svneol=native#text/plain
 posix/fr_CA.UTF-8.src svneol=native#text/plain
+posix/fr_CD.UTF-8.src -text
 posix/fr_CF.UTF-8.src svneol=native#text/plain
+posix/fr_CG.UTF-8.src -text
 posix/fr_CH.UTF-8.src svneol=native#text/plain
 posix/fr_CI.UTF-8.src svneol=native#text/plain
 posix/fr_CM.UTF-8.src svneol=native#text/plain
+posix/fr_DJ.UTF-8.src -text
 posix/fr_FR.UTF-8.src svneol=native#text/plain
+posix/fr_GA.UTF-8.src -text
 posix/fr_GN.UTF-8.src svneol=native#text/plain
 posix/fr_GP.UTF-8.src svneol=native#text/plain
+posix/fr_GQ.UTF-8.src -text
+posix/fr_KM.UTF-8.src -text
 posix/fr_LU.UTF-8.src svneol=native#text/plain
 posix/fr_MC.UTF-8.src svneol=native#text/plain
 posix/fr_MF.UTF-8.src svneol=native#text/plain
@@ -2334,7 +2345,10 @@ posix/fr_ML.UTF-8.src svneol=native#text/plain
 posix/fr_MQ.UTF-8.src svneol=native#text/plain
 posix/fr_NE.UTF-8.src svneol=native#text/plain
 posix/fr_RE.UTF-8.src svneol=native#text/plain
+posix/fr_RW.UTF-8.src -text
 posix/fr_SN.UTF-8.src svneol=native#text/plain
+posix/fr_TD.UTF-8.src -text
+posix/fr_TG.UTF-8.src -text
 posix/fur_IT.UTF-8.src svneol=native#text/plain
 posix/ga_IE.UTF-8.src svneol=native#text/plain
 posix/gaa_GH.UTF-8.src svneol=native#text/plain
@@ -2375,6 +2389,7 @@ posix/kfo_CI.UTF-8.src svneol=native#text/plain
 posix/khq_ML.UTF-8.src svneol=native#text/plain
 posix/ki_KE.UTF-8.src svneol=native#text/plain
 posix/kk_Cyrl_KZ.UTF-8.src svneol=native#text/plain
+posix/kk_KZ.UTF-8.src -text
 posix/kl_GL.UTF-8.src svneol=native#text/plain
 posix/kln_KE.UTF-8.src svneol=native#text/plain
 posix/km_KH.UTF-8.src svneol=native#text/plain
@@ -2436,6 +2451,7 @@ posix/pa_Arab_PK.UTF-8.src svneol=native#text/plain
 posix/pa_Guru_IN.UTF-8.src svneol=native#text/plain
 posix/pl_PL.UTF-8.src svneol=native#text/plain
 posix/ps_AF.UTF-8.src svneol=native#text/plain
+posix/pt_AO.UTF-8.src -text
 posix/pt_BR.UTF-8.src svneol=native#text/plain
 posix/pt_GW.UTF-8.src svneol=native#text/plain
 posix/pt_MZ.UTF-8.src svneol=native#text/plain
@@ -2490,7 +2506,6 @@ posix/te_IN.UTF-8.src svneol=native#text/plain
 posix/teo_KE.UTF-8.src svneol=native#text/plain
 posix/teo_UG.UTF-8.src svneol=native#text/plain
 posix/tg_Cyrl_TJ.UTF-8.src svneol=native#text/plain
-posix/tg_TJ.UTF-8.src svneol=native#text/plain
 posix/th_TH.UTF-8.src svneol=native#text/plain
 posix/ti_ER.UTF-8.src svneol=native#text/plain
 posix/ti_ET.UTF-8.src svneol=native#text/plain
