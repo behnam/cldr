@@ -10,3 +10,13 @@ maint-1-8/tools/java/classes
 maint-1-8/tools/java/org/unicode/cldr/web/Junk.java
 maint-1-8/tools/java/org/unicode/cldr/web/data/jars/*.jar
 maint-1-8/tools/java/org/unicode/cldr/web/data/root/tmpl/r_srltest.jsp
+maint-1-9/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+maint-1-9/tools/cldr-apps/build
+maint-1-9/tools/cldr-apps/build.properties
+maint-1-9/tools/cldr-apps/cldr-apps-docs.jar
+maint-1-9/tools/cldr-apps/cldr-apps.war
+maint-1-9/tools/cldr-apps/doc
+maint-1-9/tools/java/*.jar
+maint-1-9/tools/java/build.properties
+maint-1-9/tools/java/classes
+maint-1-9/tools/java/out
