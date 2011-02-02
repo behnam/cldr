@@ -2840,6 +2840,112 @@ cldr-apps/docs/readme.txt svneol=native#text/plain
 cldr-apps/docs/stops.html svneol=native#text/html
 cldr-apps/docs/stops.txt svneol=native#text/plain
 cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
+mess3465/cldr-apps/.classpath -text svneol=unset#text/plain
+mess3465/cldr-apps/.factorypath -text
+mess3465/cldr-apps/.project -text svneol=unset#text/plain
+mess3465/cldr-apps/.settings/.jsdtscope -text
+mess3465/cldr-apps/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
+mess3465/cldr-apps/.settings/org.eclipse.jdt.apt.core.prefs -text
+mess3465/cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+mess3465/cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+mess3465/cldr-apps/.settings/org.eclipse.jst.jsp.core.prefs -text
+mess3465/cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
+mess3465/cldr-apps/.settings/org.eclipse.wst.common.component -text
+mess3465/cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
+mess3465/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+mess3465/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+mess3465/cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+mess3465/cldr-apps/WebContent/SampleNumber.jsp -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+mess3465/cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
+mess3465/cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
+mess3465/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
+mess3465/cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
+mess3465/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+mess3465/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/dataitems_header.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/datarow_close_table_code.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/datarow_open_table_code.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/datarow_short.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_code.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_prettypath.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/date_formats.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/day_periods.jsp -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/decimal_format.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/eras.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/menu_top.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/yes_no.jsp -text
+mess3465/cldr-apps/WebContent/WEB-INF/web.xml svneol=native#text/xml
+mess3465/cldr-apps/WebContent/about.jsp -text
+mess3465/cldr-apps/WebContent/adduser.jsp -text
+mess3465/cldr-apps/WebContent/bar0.png -text
+mess3465/cldr-apps/WebContent/bar1.png -text
+mess3465/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/dojoroot/dojo/dojo.js -text
+mess3465/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/header.jspf -text
+mess3465/cldr-apps/WebContent/index.jsp -text
+mess3465/cldr-apps/WebContent/login.jsp -text
+mess3465/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/squo.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/star.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+mess3465/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+mess3465/cldr-apps/WebContent/xpath.jsp -text
+mess3465/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
+mess3465/cldr-apps/build-sample.properties -text
+mess3465/cldr-apps/docs/readme-staging.txt svneol=native#text/plain
+mess3465/cldr-apps/docs/readme.css -text svneol=unset#text/css
+mess3465/cldr-apps/docs/stops.html svneol=native#text/html
+mess3465/cldr-apps/docs/stops.txt svneol=native#text/plain
+mess3465/cldr-apps/readme.txt svneol=native#text/plain
+mess3465/cldr-apps/src/org/json/license.html svneol=native#text/html
+mess3465/cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/InterestSort.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
+mess3465/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 r2358alt/common/collation/af.xml svneol=native#text/xml
 r2358alt/common/collation/ar.xml svneol=native#text/xml
 r2358alt/common/collation/as.xml svneol=native#text/xml

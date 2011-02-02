@@ -6,6 +6,12 @@ c2323/tools/java/build.properties
 c2323/tools/java/classes
 cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 cldr-apps/build
+mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+mess3465/cldr-apps/build
+mess3465/cldr-apps/build.properties
+mess3465/cldr-apps/cldr-apps-docs.jar
+mess3465/cldr-apps/cldr-apps.war
+mess3465/cldr-apps/doc
 r2358alt/tools/java/*.jar
 r2358alt/tools/java/*.war
 r2358alt/tools/java/build.properties
