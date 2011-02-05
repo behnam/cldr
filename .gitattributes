@@ -84,6 +84,7 @@ common/collation/tn.xml svneol=native#text/xml
 common/collation/to.xml svneol=native#text/xml
 common/collation/tr.xml svneol=native#text/xml
 common/collation/uk.xml svneol=native#text/xml
+common/collation/und_Hani.xml svneol=native#text/xml
 common/collation/ur.xml svneol=native#text/xml
 common/collation/vi.xml svneol=native#text/xml
 common/collation/wo.xml svneol=native#text/xml
