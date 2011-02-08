@@ -2777,6 +2777,7 @@ tools/cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text sv
 tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
 tools/cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+tools/cldr-apps/WebContent/STLogo.png -text
 tools/cldr-apps/WebContent/SampleNumber.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
