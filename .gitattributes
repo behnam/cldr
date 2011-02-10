@@ -2840,12 +2840,19 @@ tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
 tools/cldr-apps/WebContent/index.jsp -text
+tools/cldr-apps/WebContent/js/g.bar.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/g.dot.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/g.line.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/login.jsp -text
 tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/squo.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/star.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/statistics.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
