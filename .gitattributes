@@ -2940,6 +2940,8 @@ tools/java/org/unicode/cldr/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/CheckMetazones.java -text
 tools/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/test/OutdatedPaths.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/test/outdated.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
@@ -2982,6 +2984,7 @@ tools/java/org/unicode/cldr/util/LanguageTagCanonicalizer.java -text svneol=unse
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/PathStarrer.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/RegexLookup.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/StringId.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain
