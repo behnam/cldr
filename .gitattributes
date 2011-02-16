@@ -2939,6 +2939,7 @@ tools/java/org/unicode/cldr/ooo/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/CheckMetazones.java -text
+tools/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
@@ -2962,6 +2963,7 @@ tools/java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plai
 tools/java/org/unicode/cldr/unittest/TestBCP47.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestComparisonBuilder.java svneol=native#text/plain
+tools/java/org/unicode/cldr/unittest/TestCoverageLevel.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestDtdCompatibility.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestInheritance.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestPathsModule.java svneol=native#text/plain
