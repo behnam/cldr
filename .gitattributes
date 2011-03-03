@@ -2878,6 +2878,7 @@ tools/cldr-apps/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/p
 tools/cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/StackTracker.java -text svneol=unset#text/plain
+tools/cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
