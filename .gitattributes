@@ -2996,6 +2996,7 @@ tools/java/org/unicode/cldr/util/PathStarrer.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/RegexLookup.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/StringId.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain
+tools/java/org/unicode/cldr/util/VettingViewer.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/CanadianAboriginal_Latin.txt svneol=native#text/plain
