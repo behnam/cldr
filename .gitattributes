@@ -3111,6 +3111,7 @@ tools/java/org/unicode/cldr/util/data/transforms/und-IPA.txt svneol=native#text/
 tools/java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/zone.tab -text
 tools/java/org/unicode/cldr/util/package.html svneol=native#text/html
+tools/java/org/unicode/cldr/util/vettingViewerHead.txt -text svneol=unset#text/plain
 tools/java/readme.txt svneol=native#text/plain
 tools/python/.project -text
 tools/python/.pydevproject -text
