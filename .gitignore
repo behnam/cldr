@@ -6,6 +6,17 @@ c2323/tools/java/build.properties
 c2323/tools/java/classes
 cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 cldr-apps/build
+locale2544/tools/cldr-apps/WebContent/Thumbs.db
+locale2544/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+locale2544/tools/cldr-apps/build
+locale2544/tools/cldr-apps/build.properties
+locale2544/tools/cldr-apps/cldr-apps-docs.jar
+locale2544/tools/cldr-apps/cldr-apps.war
+locale2544/tools/cldr-apps/doc
+locale2544/tools/java/*.jar
+locale2544/tools/java/build.properties
+locale2544/tools/java/classes
+locale2544/tools/java/out
 mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 mess3465/cldr-apps/build
 mess3465/cldr-apps/build.properties
