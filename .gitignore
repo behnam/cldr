@@ -39,3 +39,14 @@ st3094/tools/java/*.jar
 st3094/tools/java/build.properties
 st3094/tools/java/classes
 st3094/tools/java/out
+sync3577/tools/cldr-apps/WebContent/Thumbs.db
+sync3577/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+sync3577/tools/cldr-apps/build
+sync3577/tools/cldr-apps/build.properties
+sync3577/tools/cldr-apps/cldr-apps-docs.jar
+sync3577/tools/cldr-apps/cldr-apps.war
+sync3577/tools/cldr-apps/doc
+sync3577/tools/java/*.jar
+sync3577/tools/java/build.properties
+sync3577/tools/java/classes
+sync3577/tools/java/out
