@@ -2968,6 +2968,7 @@ tools/java/org/unicode/cldr/tool/wsb-dtd.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/xmb-dtd.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/xmbHandling.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/xmbPlaceholders.txt -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/xmbSkip.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/RegexTransform.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plain
