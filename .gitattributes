@@ -2977,6 +2977,7 @@ tools/java/org/unicode/cldr/unittest/TestBCP47.java -text svneol=unset#text/plai
 tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestComparisonBuilder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestCoverageLevel.txt -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/unittest/TestDisplayAndInputProcessor.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestDtdCompatibility.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestExampleGenerator.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestInheritance.java -text svneol=unset#text/plain
