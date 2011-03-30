@@ -2956,6 +2956,7 @@ tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Southeast[!!-~]A
 tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Symbol.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/PickerData.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/icu/SupplementalMetadataConverter.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/icu/idList.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
