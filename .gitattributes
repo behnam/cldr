@@ -2788,6 +2788,8 @@ tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
+tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
 tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
@@ -2839,6 +2841,7 @@ tools/cldr-apps/WebContent/adduser.jsp -text
 tools/cldr-apps/WebContent/bar0.png -text
 tools/cldr-apps/WebContent/bar1.png -text
 tools/cldr-apps/WebContent/chat.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/check.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/conf.png -text
 tools/cldr-apps/WebContent/conf2.png -text
 tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
@@ -2862,7 +2865,9 @@ tools/cldr-apps/WebContent/star.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/statistics-org.jsp -text
 tools/cldr-apps/WebContent/statistics.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+tools/cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/xpath.jsp -text
