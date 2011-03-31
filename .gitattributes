@@ -2998,6 +2998,7 @@ tools/java/org/unicode/cldr/unittest/TestDisplayAndInputProcessor.java -text svn
 tools/java/org/unicode/cldr/unittest/TestDtdCompatibility.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestExampleGenerator.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestInheritance.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/unittest/TestLdml2ICU.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestOutdatedPaths.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestPathsModule.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestScriptMetadata.java -text svneol=unset#text/plain
