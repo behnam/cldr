@@ -2969,6 +2969,7 @@ tools/java/org/unicode/cldr/test/CheckMetazones.java -text
 tools/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/OutdatedPaths.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/outdated.data -text
+tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
