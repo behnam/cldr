@@ -95,6 +95,7 @@
 3669reset-cldr-apps/WebContent/okay.png -text svneol=unset#image/png
 3669reset-cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
 3669reset-cldr-apps/WebContent/ques.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/reset.jsp -text
 3669reset-cldr-apps/WebContent/squo.png -text svneol=unset#image/png
 3669reset-cldr-apps/WebContent/star.png -text svneol=unset#image/png
 3669reset-cldr-apps/WebContent/statistics-org.jsp -text

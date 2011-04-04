@@ -4,6 +4,7 @@
 3669reset-cldr-apps/build.properties
 3669reset-cldr-apps/cldr-apps-docs.jar
 3669reset-cldr-apps/cldr-apps.war
+3669reset-cldr-apps/derby.log
 3669reset-cldr-apps/doc
 c2323/tools/cldr-apps/build
 c2323/tools/cldr-apps/src/org/unicode/cldr/web/Junk.java
