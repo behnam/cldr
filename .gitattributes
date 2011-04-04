@@ -1,4 +1,142 @@
 * text=auto !eol
+3669reset-cldr-apps/.classpath -text svneol=unset#text/plain
+3669reset-cldr-apps/.factorypath -text
+3669reset-cldr-apps/.project -text svneol=unset#text/plain
+3669reset-cldr-apps/.settings/.jsdtscope -text
+3669reset-cldr-apps/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
+3669reset-cldr-apps/.settings/org.eclipse.jdt.apt.core.prefs -text
+3669reset-cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+3669reset-cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+3669reset-cldr-apps/.settings/org.eclipse.jst.jsp.core.prefs -text
+3669reset-cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
+3669reset-cldr-apps/.settings/org.eclipse.wst.common.component -text
+3669reset-cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
+3669reset-cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+3669reset-cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+3669reset-cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+3669reset-cldr-apps/WebContent/STLogo.png -text
+3669reset-cldr-apps/WebContent/SampleNumber.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+3669reset-cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
+3669reset-cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
+3669reset-cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
+3669reset-cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
+3669reset-cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+3669reset-cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
+3669reset-cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+3669reset-cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/dataitems_header.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/datarow_close_table_code.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/datarow_open_table_code.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/datarow_short.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_code.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_prettypath.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/date_formats.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/day_periods.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/decimal_format.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/eras.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/menu_top.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/yes_no.jsp -text
+3669reset-cldr-apps/WebContent/WEB-INF/web.xml svneol=native#text/xml
+3669reset-cldr-apps/WebContent/about.jsp -text
+3669reset-cldr-apps/WebContent/adduser.jsp -text
+3669reset-cldr-apps/WebContent/bar0.png -text
+3669reset-cldr-apps/WebContent/bar1.png -text
+3669reset-cldr-apps/WebContent/chat.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/check.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/conf.png -text
+3669reset-cldr-apps/WebContent/conf2.png -text
+3669reset-cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/dojoroot/dojo/dojo.js -text
+3669reset-cldr-apps/WebContent/feed.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/hand.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/header.jspf -text
+3669reset-cldr-apps/WebContent/index.jsp -text
+3669reset-cldr-apps/WebContent/js/g.bar.js -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/js/g.dot.js -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/js/g.line.js -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/login.jsp -text
+3669reset-cldr-apps/WebContent/okay.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/ques.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/squo.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/star.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/statistics-org.jsp -text
+3669reset-cldr-apps/WebContent/statistics.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/stop.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+3669reset-cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
+3669reset-cldr-apps/WebContent/vote.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+3669reset-cldr-apps/WebContent/xpath.jsp -text
+3669reset-cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
+3669reset-cldr-apps/build-sample.properties -text
+3669reset-cldr-apps/docs/readme-staging.txt svneol=native#text/plain
+3669reset-cldr-apps/docs/readme.css -text svneol=unset#text/css
+3669reset-cldr-apps/docs/stops.html svneol=native#text/html
+3669reset-cldr-apps/docs/stops.txt svneol=native#text/plain
+3669reset-cldr-apps/readme.txt svneol=native#text/plain
+3669reset-cldr-apps/src/org/json/license.html svneol=native#text/html
+3669reset-cldr-apps/src/org/unicode/cldr/unittest/web/OldTestMain.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/unittest/web/TestAll.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/unittest/web/TestCacheAndDataSource.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/unittest/web/TestIntHash.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/DBUtils.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/ErrorCheckManager.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/InterestSort.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/MuxedSource.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/StackTracker.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
+3669reset-cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 c2323/common/collation/af.xml svneol=native#text/xml
 c2323/common/collation/ar.xml svneol=native#text/xml
 c2323/common/collation/as.xml svneol=native#text/xml

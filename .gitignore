@@ -1,3 +1,10 @@
+3669reset-cldr-apps/WebContent/Thumbs.db
+3669reset-cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+3669reset-cldr-apps/build
+3669reset-cldr-apps/build.properties
+3669reset-cldr-apps/cldr-apps-docs.jar
+3669reset-cldr-apps/cldr-apps.war
+3669reset-cldr-apps/doc
 c2323/tools/cldr-apps/build
 c2323/tools/cldr-apps/src/org/unicode/cldr/web/Junk.java
 c2323/tools/java/*.jar
