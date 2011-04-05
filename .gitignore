@@ -4,6 +4,7 @@ tools/cldr-apps/build
 tools/cldr-apps/build.properties
 tools/cldr-apps/cldr-apps-docs.jar
 tools/cldr-apps/cldr-apps.war
+tools/cldr-apps/derby.log
 tools/cldr-apps/doc
 tools/java/*.jar
 tools/java/build.properties
