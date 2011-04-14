@@ -2870,6 +2870,7 @@ tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
 tools/cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/xpath.jsp -text
 tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
