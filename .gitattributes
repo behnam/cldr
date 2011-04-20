@@ -2787,6 +2787,7 @@ tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/jspf/session.jspf -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
@@ -2869,6 +2870,7 @@ tools/cldr-apps/WebContent/statistics.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+tools/cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
