@@ -2872,6 +2872,7 @@ tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
 tools/cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
