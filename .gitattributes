@@ -192,6 +192,7 @@ common/main/en_Dsrt.xml svneol=native#text/plain
 common/main/en_Dsrt_US.xml svneol=native#text/xml
 common/main/en_GB.xml svneol=native#text/plain
 common/main/en_GU.xml svneol=native#text/xml
+common/main/en_GY.xml -text
 common/main/en_HK.xml svneol=native#text/xml
 common/main/en_IE.xml svneol=native#text/plain
 common/main/en_IN.xml svneol=native#text/xml
@@ -267,6 +268,7 @@ common/main/fr_CM.xml -text
 common/main/fr_DJ.xml -text
 common/main/fr_FR.xml svneol=native#text/xml
 common/main/fr_GA.xml -text
+common/main/fr_GF.xml -text
 common/main/fr_GN.xml -text
 common/main/fr_GP.xml -text
 common/main/fr_GQ.xml -text
@@ -283,6 +285,7 @@ common/main/fr_RW.xml -text
 common/main/fr_SN.xml svneol=native#text/xml
 common/main/fr_TD.xml -text
 common/main/fr_TG.xml -text
+common/main/fr_YT.xml -text
 common/main/fur.xml svneol=native#text/plain
 common/main/fur_IT.xml svneol=native#text/xml
 common/main/ga.xml svneol=native#text/plain
