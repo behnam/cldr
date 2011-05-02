@@ -927,6 +927,7 @@ common/transforms/Korean-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Latin-ASCII.xml -text
 common/transforms/Latin-Armenian.xml svneol=native#text/xml
 common/transforms/Latin-Bengali.xml svneol=native#text/xml
+common/transforms/Latin-Bopomofo.xml -text
 common/transforms/Latin-ConjoiningJamo.xml svneol=native#text/xml
 common/transforms/Latin-Devanagari.xml svneol=native#text/xml
 common/transforms/Latin-Ethiopic.xml svneol=native#text/xml
