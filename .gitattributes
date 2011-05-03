@@ -3135,6 +3135,7 @@ tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text
 tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateXMB.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/tool/index.css -text
