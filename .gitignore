@@ -20,3 +20,15 @@ maint-1-9/tools/java/*.jar
 maint-1-9/tools/java/build.properties
 maint-1-9/tools/java/classes
 maint-1-9/tools/java/out
+maint-2-0/tools/cldr-apps/WebContent/Thumbs.db
+maint-2-0/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+maint-2-0/tools/cldr-apps/build
+maint-2-0/tools/cldr-apps/build.properties
+maint-2-0/tools/cldr-apps/cldr-apps-docs.jar
+maint-2-0/tools/cldr-apps/cldr-apps.war
+maint-2-0/tools/cldr-apps/derby.log
+maint-2-0/tools/cldr-apps/doc
+maint-2-0/tools/java/*.jar
+maint-2-0/tools/java/build.properties
+maint-2-0/tools/java/classes
+maint-2-0/tools/java/out
