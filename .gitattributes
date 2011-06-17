@@ -3134,16 +3134,19 @@ tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/CheckForCopy.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CheckMetazones.java -text
 tools/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/test/DateOrder.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/OutdatedPaths.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/outdated.data -text
 tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateXMB.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/LikelySubtags.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
