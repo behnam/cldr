@@ -3173,6 +3173,7 @@ tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/pl
 tools/java/org/unicode/cldr/unittest/RegexTransform.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestBCP47.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/unittest/TestCanonicalIds.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestComparisonBuilder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestCoverageLevel.txt -text svneol=unset#text/plain
