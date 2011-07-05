@@ -3306,6 +3306,7 @@ tools/java/org/unicode/cldr/util/data/test/sk_FONIPA-ja.txt -text svneol=unset#t
 tools/java/org/unicode/cldr/util/data/test/zh_Latn_PINYIN-ru.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/test_help_messages.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/timezoneversion.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/tlds-alpha-by-domain.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/IPA-Deva.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/en-IPA-spellout.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/transforms/en-IPA.txt svneol=native#text/plain
