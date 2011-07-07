@@ -1,3 +1,5 @@
+/.classpath
+/.project
 common/.project
 common/collation/und*.xml
 common/main/und*.xml

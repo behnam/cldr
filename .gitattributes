@@ -1,6 +1,4 @@
 * text=auto !eol
-/.classpath -text svneol=unset#text/plain
-/.project -text svneol=unset#text/plain
 common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
