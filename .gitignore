@@ -1,0 +1,17 @@
+resolver/.classpath
+resolver/.project
+resolver/common/.project
+resolver/common/collation/und*.xml
+resolver/common/main/und*.xml
+resolver/tools/cldr-apps/WebContent/Thumbs.db
+resolver/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+resolver/tools/cldr-apps/build
+resolver/tools/cldr-apps/build.properties
+resolver/tools/cldr-apps/cldr-apps-docs.jar
+resolver/tools/cldr-apps/cldr-apps.war
+resolver/tools/cldr-apps/derby.log
+resolver/tools/cldr-apps/doc
+resolver/tools/java/*.jar
+resolver/tools/java/build.properties
+resolver/tools/java/classes
+resolver/tools/java/out
