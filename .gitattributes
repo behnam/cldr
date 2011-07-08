@@ -3161,6 +3161,7 @@ resolver/tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 resolver/tools/java/org/unicode/cldr/tool/index.css -text
 resolver/tools/java/org/unicode/cldr/tool/modify_config.txt -text svneol=unset#text/plain
 resolver/tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
+resolver/tools/java/org/unicode/cldr/tool/partialresolver/CldrPartialResolver.java -text
 resolver/tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 resolver/tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
 resolver/tools/java/org/unicode/cldr/tool/wsb-dtd.xml -text svneol=unset#text/plain
