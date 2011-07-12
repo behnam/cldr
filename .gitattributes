@@ -3163,6 +3163,7 @@ resolver/tools/java/org/unicode/cldr/tool/modify_config.txt -text svneol=unset#t
 resolver/tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
 resolver/tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 resolver/tools/java/org/unicode/cldr/tool/resolver/CldrResolver.java -text
+resolver/tools/java/org/unicode/cldr/tool/resolver/ResolutionType.java -text
 resolver/tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
 resolver/tools/java/org/unicode/cldr/tool/wsb-dtd.xml -text svneol=unset#text/plain
 resolver/tools/java/org/unicode/cldr/tool/xmb-dtd.xml -text svneol=unset#text/plain
