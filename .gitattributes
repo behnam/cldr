@@ -3148,12 +3148,14 @@ tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/GenerateBcp47Text.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateXMB.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/LikelySubtags.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/LocaleReplacements.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
@@ -3259,6 +3261,7 @@ tools/java/org/unicode/cldr/util/data/langtagTest.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/language-subtag-registry -text
 tools/java/org/unicode/cldr/util/data/language_list.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/language_script_raw.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/localeReplacements.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/lstreg.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/moribund_languages.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/northamerica -text
