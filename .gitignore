@@ -20,6 +20,11 @@ maint-1-9/tools/java/*.jar
 maint-1-9/tools/java/build.properties
 maint-1-9/tools/java/classes
 maint-1-9/tools/java/out
+maint-2-0/.classpath
+maint-2-0/.project
+maint-2-0/common/.project
+maint-2-0/common/collation/und*.xml
+maint-2-0/common/main/und*.xml
 maint-2-0/tools/cldr-apps/WebContent/Thumbs.db
 maint-2-0/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 maint-2-0/tools/cldr-apps/build
