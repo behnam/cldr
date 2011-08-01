@@ -3166,6 +3166,7 @@ resolver/tools/java/org/unicode/cldr/tool/resolver/CldrResolver.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/ResolutionType.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/FullResolutionTests.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NoCodeFallbackTests.java -text
+resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/ResolverTestUtils.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/SimpleResolutionTests.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/TestAll.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/UnitTests.java -text
