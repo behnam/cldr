@@ -3169,7 +3169,6 @@ resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NoCodeFallbackTests.
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/ResolverTestUtils.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/SimpleResolutionTests.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/TestAll.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/UnitTests.java -text
 resolver/tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
 resolver/tools/java/org/unicode/cldr/tool/wsb-dtd.xml -text svneol=unset#text/plain
 resolver/tools/java/org/unicode/cldr/tool/xmb-dtd.xml -text svneol=unset#text/plain
