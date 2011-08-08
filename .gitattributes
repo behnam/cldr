@@ -4,6 +4,7 @@ common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
 common/bcp47/number.xml svneol=native#text/xml
 common/bcp47/timezone.xml svneol=native#text/xml
+common/bcp47/transform.xml -text svneol=unset#text/plain
 common/bcp47/variant.xml svneol=native#text/xml
 common/collation/af.xml svneol=native#text/xml
 common/collation/ar.xml svneol=native#text/xml
