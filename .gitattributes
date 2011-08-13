@@ -412,3 +412,17 @@ scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 scripts/platformDiffTool.sh -text svneol=native#application/x-sh
 scripts/sidewaysCharts.sh -text svneol=native#application/x-sh
 scripts/web/bugdiffs -text
+st2/src/META-INF/jdoconfig.xml -text svneol=unset#text/plain
+st2/src/log4j.properties -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/SurveyToolOnAppEngine.gwt.xml -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/client/GreetingService.java -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/client/GreetingServiceAsync.java -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/client/SurveyToolOnAppEngine.java -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/server/CLDRDataSetUp.java -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/server/GreetingServiceImpl.java -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/server/LocaleWrapper.java -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/server/PersistentXMLSource.java -text svneol=unset#text/plain
+st2/src/org/unicode/cldr/surveytool2/shared/FieldVerifier.java -text svneol=unset#text/plain
+st2/war/SurveyToolOnAppEngine.css -text svneol=unset#text/plain
+st2/war/SurveyToolOnAppEngine.html -text svneol=unset#text/plain
+st2/war/WEB-INF/appengine-web.xml -text svneol=unset#text/plain
