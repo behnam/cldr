@@ -3165,15 +3165,12 @@ resolver/tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 resolver/tools/java/org/unicode/cldr/tool/resolver/CldrResolver.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/ResolutionType.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/ResolverUtils.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/FullResolutionTests.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NewFullResolutionTest.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NewNoCodeFallbackTest.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NewSimpleResolutionTest.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NoCodeFallbackTests.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NonSimpleResolutionTest.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/ResolverTest.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/ResolverTestUtils.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/SimpleResolutionTests.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/TestAll.java -text
 resolver/tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
 resolver/tools/java/org/unicode/cldr/tool/wsb-dtd.xml -text svneol=unset#text/plain
