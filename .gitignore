@@ -10,3 +10,9 @@ java/*.jar
 java/build.properties
 java/classes
 java/out
+st2/test/org/unicode/cldr/surveytool/server/CloudFactoryTest.java
+st2/war/WEB-INF/1.9.1
+st2/war/WEB-INF/appengine-generated
+st2/war/WEB-INF/deploy
+st2/war/WEB-INF/lib
+st2/war/surveytool
