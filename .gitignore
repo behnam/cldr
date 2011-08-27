@@ -3,6 +3,7 @@
 common/.project
 common/collation/und*.xml
 common/main/und*.xml
+docs/presentations/.~lock*
 tools/cldr-apps/WebContent/Thumbs.db
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 tools/cldr-apps/build
