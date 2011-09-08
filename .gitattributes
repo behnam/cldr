@@ -3142,10 +3142,10 @@ tools/java/org/unicode/cldr/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/CheckForCopy.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CheckMetazones.java -text
+tools/java/org/unicode/cldr/test/CompactDecimalFormat.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/DateOrder.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/OutdatedPaths.java -text svneol=unset#text/plain
-tools/java/org/unicode/cldr/test/ShortNumberFormat.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/outdated.data -text
 tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
