@@ -320,6 +320,8 @@ common/main/ga.xml svneol=native#text/xml
 common/main/ga_IE.xml svneol=native#text/xml
 common/main/gaa.xml svneol=native#text/xml
 common/main/gaa_GH.xml svneol=native#text/xml
+common/main/gd.xml -text
+common/main/gd_GB.xml -text
 common/main/gl.xml svneol=native#text/xml
 common/main/gl_ES.xml svneol=native#text/xml
 common/main/gsw.xml svneol=native#text/xml
