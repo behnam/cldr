@@ -2685,6 +2685,7 @@ seed/main/kpe_GN.xml svneol=native#text/xml
 seed/main/kpe_LR.xml svneol=native#text/xml
 seed/main/mi.xml svneol=native#text/xml
 seed/main/mi_NZ.xml svneol=native#text/xml
+seed/main/nnh.xml svneol=native#text/plain
 seed/main/ny.xml svneol=native#text/xml
 seed/main/ny_MW.xml svneol=native#text/xml
 seed/main/sa.xml svneol=native#text/xml
