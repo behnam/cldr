@@ -1015,7 +1015,6 @@ docs/design/minimal_requirements.htm svneol=native#text/html
 docs/design/multiple_inheritance.html svneol=native#text/html
 docs/presentations/Portuguese_External.pdf -text svneol=unset#application/pdf
 docs/presentations/Portuguese_External.ppt -text svneol=unset#application/vnd.ms-powerpoint
-docs/presentations/cldr_overview.odp -text svneol=unset#application/vnd.oasis.opendocument.presentation
 docs/presentations/cldr_overview.pdf -text svneol=unset#application/pdf
 docs/rfc/draft-davis-t-langtag-ext.css -text svneol=unset#text/plain
 docs/rfc/draft-davis-t-langtag-ext.html -text svneol=unset#text/html
