@@ -3066,6 +3066,7 @@ tools/cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#te
 tools/cldr-apps/src/org/unicode/cldr/web/DBUtils.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/ErrorCheckManager.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/InterestSort.java -text svneol=unset#text/plain
+tools/cldr-apps/src/org/unicode/cldr/web/MetazoneSortMode.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/MuxedSource.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
