@@ -2979,6 +2979,152 @@ cldr-apps/docs/readme.txt svneol=native#text/plain
 cldr-apps/docs/stops.html svneol=native#text/html
 cldr-apps/docs/stops.txt svneol=native#text/plain
 cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
+cldrapps-inmem-4182/.classpath -text svneol=unset#text/plain
+cldrapps-inmem-4182/.factorypath -text
+cldrapps-inmem-4182/.project -text svneol=unset#text/plain
+cldrapps-inmem-4182/.settings/.jsdtscope -text
+cldrapps-inmem-4182/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
+cldrapps-inmem-4182/.settings/org.eclipse.jdt.apt.core.prefs -text
+cldrapps-inmem-4182/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+cldrapps-inmem-4182/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+cldrapps-inmem-4182/.settings/org.eclipse.jst.jsp.core.prefs -text
+cldrapps-inmem-4182/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
+cldrapps-inmem-4182/.settings/org.eclipse.wst.common.component -text
+cldrapps-inmem-4182/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
+cldrapps-inmem-4182/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+cldrapps-inmem-4182/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+cldrapps-inmem-4182/WebContent/META-INF/MANIFEST.MF -text
+cldrapps-inmem-4182/WebContent/STLogo.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/SampleNumber.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/report.jspf -text
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/report_top.jspf -text
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/session.jspf -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/jspf/stcontext.jspf -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tags/st/menu.tag -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/ajax_status.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/am_pm.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/characters.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/currency_format.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/dataitems_header.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/datarow_close_table_code.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/datarow_open_table_code.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/datarow_short.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/datarow_short_code.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/datarow_short_prettypath.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/date_formats.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/day_periods.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/decimal_format.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/eras.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/index.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/language_country.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/menu_top.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/r_englishchanged.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/r_months.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/r_steps.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/st_top.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/stnotices.jspf -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/wide_days.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/wide_months.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/yes_no.jsp -text
+cldrapps-inmem-4182/WebContent/WEB-INF/web.xml svneol=native#text/xml
+cldrapps-inmem-4182/WebContent/about.jsp -text
+cldrapps-inmem-4182/WebContent/adduser.jsp -text
+cldrapps-inmem-4182/WebContent/bar0.png -text
+cldrapps-inmem-4182/WebContent/bar1.png -text
+cldrapps-inmem-4182/WebContent/chat.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/check.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/conf.png -text
+cldrapps-inmem-4182/WebContent/conf2.png -text
+cldrapps-inmem-4182/WebContent/disp.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/dojoroot/dojo/dojo.js -text
+cldrapps-inmem-4182/WebContent/feed.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/hand.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/header.jspf -text
+cldrapps-inmem-4182/WebContent/index.jsp -text
+cldrapps-inmem-4182/WebContent/js/g.bar.js -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/js/g.dot.js -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/js/g.line.js -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/js/g.pie.js -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/js/g.raphael.js -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/js/raphael.js -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/login.jsp -text
+cldrapps-inmem-4182/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/okay.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/output-status.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/ques-2.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/ques.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/squo.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/star.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/statistics-org.jsp -text
+cldrapps-inmem-4182/WebContent/statistics.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/stop.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/submit.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/surveytool.css -text svneol=unset#text/css
+cldrapps-inmem-4182/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/upload.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/vote.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/vsummary.jsp -text svneol=unset#text/plain
+cldrapps-inmem-4182/WebContent/warn.png -text svneol=unset#image/png
+cldrapps-inmem-4182/WebContent/xpath.jsp -text
+cldrapps-inmem-4182/WebContent/zoom.png -text svneol=unset#image/png
+cldrapps-inmem-4182/build-sample.properties -text
+cldrapps-inmem-4182/docs/readme-staging.txt svneol=native#text/plain
+cldrapps-inmem-4182/docs/readme.css -text svneol=unset#text/css
+cldrapps-inmem-4182/docs/stops.html svneol=native#text/html
+cldrapps-inmem-4182/docs/stops.txt svneol=native#text/plain
+cldrapps-inmem-4182/readme.txt svneol=native#text/plain
+cldrapps-inmem-4182/src/org/json/license.html svneol=native#text/html
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/OldTestMain.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestAll.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestCacheAndDataSource.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestIntHash.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/CalendarSortMode.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/DBUtils.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/ErrorCheckManager.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/InterestSort.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/MetazoneSortMode.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/MuxedSource.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/StackTracker.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/StatisticsUtils.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/package.html svneol=native#text/html
 locale2544/.classpath -text svneol=unset#text/plain
 locale2544/.project -text svneol=unset#text/plain
 locale2544/common/bcp47/calendar.xml svneol=native#text/xml
