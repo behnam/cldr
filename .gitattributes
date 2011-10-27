@@ -3004,8 +3004,12 @@ cldrapps-inmem-4182/WebContent/WEB-INF/jspf/report.jspf -text
 cldrapps-inmem-4182/WebContent/WEB-INF/jspf/report_top.jspf -text
 cldrapps-inmem-4182/WebContent/WEB-INF/jspf/session.jspf -text svneol=unset#text/plain
 cldrapps-inmem-4182/WebContent/WEB-INF/jspf/stcontext.jspf -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/activation.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/derby.jar -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/mail.jar -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/rome.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/tags/st/menu.tag -text
 cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
@@ -3101,6 +3105,7 @@ cldrapps-inmem-4182/docs/stops.html svneol=native#text/html
 cldrapps-inmem-4182/docs/stops.txt svneol=native#text/plain
 cldrapps-inmem-4182/readme.txt svneol=native#text/plain
 cldrapps-inmem-4182/src/org/json/license.html svneol=native#text/html
+cldrapps-inmem-4182/src/org/unicode/cldr/tool/web/VoteDataExpander.java -text
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/OldTestMain.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestAll.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestCacheAndDataSource.java -text svneol=unset#text/plain
