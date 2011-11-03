@@ -3081,6 +3081,8 @@ tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/ListFormatterTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
 tools/java/com/ibm/icu/text/ListFormatter.java -text svneol=unset#text/plain
+tools/java/libs/icu4j.jar -text
+tools/java/libs/utilities.jar -text
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/common.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/draft/CharEncoder.java svneol=native#text/plain
