@@ -112,6 +112,7 @@ common/main/ak_GH.xml svneol=native#text/xml
 common/main/am.xml svneol=native#text/xml
 common/main/am_ET.xml svneol=native#text/xml
 common/main/ar.xml svneol=native#text/xml
+common/main/ar_001.xml -text
 common/main/ar_AE.xml svneol=native#text/xml
 common/main/ar_BH.xml svneol=native#text/xml
 common/main/ar_DZ.xml svneol=native#text/xml
