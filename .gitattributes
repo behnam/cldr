@@ -3200,6 +3200,7 @@ tools/java/org/unicode/cldr/unittest/TestOutdatedPaths.java -text svneol=unset#t
 tools/java/org/unicode/cldr/unittest/TestPathsModule.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestScriptMetadata.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestUExtension.java svneol=native#text/plain
+tools/java/org/unicode/cldr/unittest/TestXMLSource.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/data/common/main/root.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/package.html svneol=native#text/html
