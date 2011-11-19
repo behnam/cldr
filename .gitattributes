@@ -3113,6 +3113,9 @@ cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestIntHash.java -text svn
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/web/BallotBox.java -text
+cldrapps-inmem-4182/src/org/unicode/cldr/web/BallotBoxFactory.java -text
+cldrapps-inmem-4182/src/org/unicode/cldr/web/BallotBoxVoteNotAcceptedException.java -text
 cldrapps-inmem-4182/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/web/CalendarSortMode.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#text/plain
