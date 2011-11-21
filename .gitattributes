@@ -290,6 +290,7 @@ decoupling/java/org/unicode/cldr/util/PluralSnapshot.java -text svneol=unset#tex
 decoupling/java/org/unicode/cldr/util/RegexLookup.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/util/RegexUtilities.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/util/SimpleFactory.java -text svneol=unset#text/plain
+decoupling/java/org/unicode/cldr/util/SimpleXMLSource.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/util/StringId.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/util/Transformer.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain
