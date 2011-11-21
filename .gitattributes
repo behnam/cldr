@@ -1,0 +1,415 @@
+* text=auto !eol
+cldr-apps/.classpath -text svneol=unset#text/plain
+cldr-apps/.factorypath -text
+cldr-apps/.project -text svneol=unset#text/plain
+cldr-apps/.settings/.jsdtscope -text
+cldr-apps/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.jdt.apt.core.prefs -text
+cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.jst.jsp.core.prefs -text
+cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.wst.common.component -text
+cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
+cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+cldr-apps/WebContent/META-INF/MANIFEST.MF -text
+cldr-apps/WebContent/STLogo.png -text svneol=unset#image/png
+cldr-apps/WebContent/SampleNumber.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
+cldr-apps/WebContent/WEB-INF/jspf/session.jspf -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
+cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
+cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/dataitems_header.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_close_table_code.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_open_table_code.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_short.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_code.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_prettypath.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/date_formats.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/day_periods.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/decimal_format.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/eras.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/menu_top.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/stnotices.jspf -text svneol=unset#text/plain
+cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
+cldr-apps/WebContent/WEB-INF/tmpl/yes_no.jsp -text
+cldr-apps/WebContent/WEB-INF/web.xml svneol=native#text/xml
+cldr-apps/WebContent/about.jsp -text
+cldr-apps/WebContent/adduser.jsp -text
+cldr-apps/WebContent/bar0.png -text
+cldr-apps/WebContent/bar1.png -text
+cldr-apps/WebContent/chat.png -text svneol=unset#image/png
+cldr-apps/WebContent/check.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/conf.png -text
+cldr-apps/WebContent/conf2.png -text
+cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+cldr-apps/WebContent/dojoroot/dojo/dojo.js -text
+cldr-apps/WebContent/feed.png -text svneol=unset#image/png
+cldr-apps/WebContent/hand.png -text svneol=unset#image/png
+cldr-apps/WebContent/header.jspf -text
+cldr-apps/WebContent/index.jsp -text
+cldr-apps/WebContent/js/g.bar.js -text svneol=unset#text/plain
+cldr-apps/WebContent/js/g.dot.js -text svneol=unset#text/plain
+cldr-apps/WebContent/js/g.line.js -text svneol=unset#text/plain
+cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
+cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
+cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
+cldr-apps/WebContent/login.jsp -text
+cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/okay.png -text svneol=unset#image/png
+cldr-apps/WebContent/output-status.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
+cldr-apps/WebContent/ques.png -text svneol=unset#image/png
+cldr-apps/WebContent/squo.png -text svneol=unset#image/png
+cldr-apps/WebContent/star.png -text svneol=unset#image/png
+cldr-apps/WebContent/statistics-org.jsp -text
+cldr-apps/WebContent/statistics.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/stop.png -text svneol=unset#image/png
+cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/vote.png -text svneol=unset#image/png
+cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
+cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+cldr-apps/WebContent/xpath.jsp -text
+cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
+cldr-apps/build-sample.properties -text
+cldr-apps/docs/readme-staging.txt svneol=native#text/plain
+cldr-apps/docs/readme.css -text svneol=unset#text/css
+cldr-apps/docs/stops.html svneol=native#text/html
+cldr-apps/docs/stops.txt svneol=native#text/plain
+cldr-apps/readme.txt svneol=native#text/plain
+cldr-apps/src/org/json/license.html svneol=native#text/html
+cldr-apps/src/org/unicode/cldr/unittest/web/OldTestMain.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/unittest/web/TestAll.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/unittest/web/TestCacheAndDataSource.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/unittest/web/TestIntHash.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/DBUtils.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/ErrorCheckManager.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/InterestSort.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/MetazoneSortMode.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/MuxedSource.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/StackTracker.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
+cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
+cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
+java/build.xml svneol=native#text/xml
+java/com/ibm/icu/dev/test/ListFormatterTest.java -text svneol=unset#text/plain
+java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
+java/com/ibm/icu/text/ListFormatter.java -text svneol=unset#text/plain
+java/libs/icu4j.jar -text
+java/libs/utilities.jar -text
+java/org/unicode/cldr/ant/package.html svneol=native#text/html
+java/org/unicode/cldr/common.css -text svneol=unset#text/css
+java/org/unicode/cldr/draft/CharEncoder.java svneol=native#text/plain
+java/org/unicode/cldr/draft/CodePoints.java svneol=native#text/plain
+java/org/unicode/cldr/draft/ExemplarInfo.java svneol=native#text/plain
+java/org/unicode/cldr/draft/FileUtilities.java -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/FormatSpecialData.java svneol=native#text/plain
+java/org/unicode/cldr/draft/GenerateLanguageData.java -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/GeneratePickerData.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/Ids.java svneol=native#text/plain
+java/org/unicode/cldr/draft/Iterables.java svneol=native#text/plain
+java/org/unicode/cldr/draft/JsonConverter.java svneol=native#text/plain
+java/org/unicode/cldr/draft/LDMLConverter.java -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/RBChecker.java -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/RadicalStroke.java svneol=native#text/plain
+java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/ScriptMetadata.java -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/Script_Metadata.csv -text
+java/org/unicode/cldr/draft/TestMixedScript.java -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/UnicodeMapBuilder.java svneol=native#text/plain
+java/org/unicode/cldr/draft/UnicodeSetBuilderTests.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/UnicodeSetStates.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/idnaContextRules.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/idnaTestCases.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/idnaTestLog.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/ldml2icu.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/ldml2icu_header.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/draft/normalizeForMatchExceptions.txt svneol=native#text/plain
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]African[!!-~]Scripts.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]American[!!-~]Scripts.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Format[!!-~]&[!!-~]Whitespace.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]-[!!-~]Other.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]1-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]10-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]11..17-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]2-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]3-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]4-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]5-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]6-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]7-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]8-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Han[!!-~]9-Stroke[!!-~]Radicals.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Hangul.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Invisibles.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Latin.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Middle[!!-~]Eastern[!!-~]Scripts.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Modifier.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Number.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Other[!!-~]East[!!-~]Asian[!!-~]Scripts.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Other[!!-~]European[!!-~]Scripts.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Punctuation.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]South[!!-~]Asian[!!-~]Scripts.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Southeast[!!-~]Asian[!!-~]Scripts.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Symbol.html svneol=native#text/html
+java/org/unicode/cldr/draft/picker/PickerData.css -text svneol=unset#text/css
+java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
+java/org/unicode/cldr/icu/SupplementalMetadataConverter.java -text svneol=unset#text/plain
+java/org/unicode/cldr/icu/idList.txt svneol=native#text/plain
+java/org/unicode/cldr/icu/package.html svneol=native#text/html
+java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
+java/org/unicode/cldr/ooo/package.html svneol=native#text/html
+java/org/unicode/cldr/ooo/readme.txt svneol=native#text/plain
+java/org/unicode/cldr/package.html svneol=native#text/html
+java/org/unicode/cldr/posix/package.html svneol=native#text/html
+java/org/unicode/cldr/test/CheckForCopy.java -text svneol=unset#text/plain
+java/org/unicode/cldr/test/CheckMetazones.java -text
+java/org/unicode/cldr/test/CompactDecimalFormat.java -text svneol=unset#text/plain
+java/org/unicode/cldr/test/CompactDecimalFormatData.java -text svneol=unset#text/plain
+java/org/unicode/cldr/test/CompactDecimalFormatTest.java -text svneol=unset#text/plain
+java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
+java/org/unicode/cldr/test/DateOrder.java -text svneol=unset#text/plain
+java/org/unicode/cldr/test/OutdatedPaths.java -text svneol=unset#text/plain
+java/org/unicode/cldr/test/outdated.data -text
+java/org/unicode/cldr/test/outdatedEnglish.data -text
+java/org/unicode/cldr/test/package.html svneol=native#text/html
+java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/GenerateBcp47Text.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain
+java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain
+java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain
+java/org/unicode/cldr/tool/GenerateXMB.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/LikelySubtags.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/LocaleReplacements.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
+java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
+java/org/unicode/cldr/tool/index.css -text
+java/org/unicode/cldr/tool/modify_config.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/package.html svneol=native#text/html
+java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
+java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
+java/org/unicode/cldr/tool/wsb-dtd.xml -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/xmb-dtd.xml -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/xmbHandling.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/xmbPlaceholders.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/tool/xmbSkip.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain
+java/org/unicode/cldr/unittest/RegexTransform.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plain
+java/org/unicode/cldr/unittest/TestBCP47.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestCanonicalIds.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain
+java/org/unicode/cldr/unittest/TestComparisonBuilder.java svneol=native#text/plain
+java/org/unicode/cldr/unittest/TestCoverageLevel.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestDisplayAndInputProcessor.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestDtdCompatibility.java svneol=native#text/plain
+java/org/unicode/cldr/unittest/TestExampleGenerator.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestInheritance.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestLdml2ICU.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestLruMap.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestOutdatedPaths.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestPathsModule.java svneol=native#text/plain
+java/org/unicode/cldr/unittest/TestScriptMetadata.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/TestUExtension.java svneol=native#text/plain
+java/org/unicode/cldr/unittest/TestXMLSource.java -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/data/common/main/root.xml -text svneol=unset#text/plain
+java/org/unicode/cldr/unittest/package.html svneol=native#text/html
+java/org/unicode/cldr/util/Builder.java svneol=native#text/plain
+java/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain
+java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain
+java/org/unicode/cldr/util/DiscreteComparator.java svneol=native#text/plain
+java/org/unicode/cldr/util/ElementAttributeInfo.java svneol=native#text/plain
+java/org/unicode/cldr/util/Factory.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/IsoRegionData.java svneol=native#text/plain
+java/org/unicode/cldr/util/LanguageTagCanonicalizer.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/Level.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/LruMap.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
+java/org/unicode/cldr/util/PathDescription.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/PathStarrer.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/PluralSnapshot.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/RegexLookup.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/RegexUtilities.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/SimpleFactory.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/StringId.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/Transformer.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain
+java/org/unicode/cldr/util/VettingViewer.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/With.java -text svneol=unset#text/plain
+java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/CanadianAboriginal_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Canadian_Aboriginal_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Cyrillic_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Georgian_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/ISO-639-2_values_8bits.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/ISO4217.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Khmer_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Lao_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Latin_Armenian.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Latin_Ethiopic.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Locales.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/ReadMe.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Syriac_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/TZID.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Thaana_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/Tibetan_Latin.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/TimeZoneAliases.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/UnMacroRegions.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/africa -text
+java/org/unicode/cldr/util/data/antarctica -text
+java/org/unicode/cldr/util/data/asia -text
+java/org/unicode/cldr/util/data/australasia -text
+java/org/unicode/cldr/util/data/backward -text
+java/org/unicode/cldr/util/data/chart_messages.html svneol=native#text/html
+java/org/unicode/cldr/util/data/country_language_population_raw.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/currency_codes_list-1.htm svneol=native#text/html
+java/org/unicode/cldr/util/data/currencycodeslist.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/etcetera -text
+java/org/unicode/cldr/util/data/europe -text
+java/org/unicode/cldr/util/data/external/Iso639-5.html svneol=native#text/html
+java/org/unicode/cldr/util/data/external/alternate_country_names.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/external/factbook_literacy.html svneol=native#text/html
+java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/external/un_literacy.csv -text
+java/org/unicode/cldr/util/data/external/us_census.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/external/world_bank_data.csv -text
+java/org/unicode/cldr/util/data/extraLanguagesAndScripts.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/iso-639-3-macrolanguages.tab -text
+java/org/unicode/cldr/util/data/iso-639-3-version.tab -text
+java/org/unicode/cldr/util/data/iso-639-3.tab -text
+java/org/unicode/cldr/util/data/iso-639-3_Name_Index.tab -text
+java/org/unicode/cldr/util/data/iso-639-3_Retirements.tab -text
+java/org/unicode/cldr/util/data/iso4217raw.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/langtagRegex.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/langtagTest.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/language-subtag-registry -text
+java/org/unicode/cldr/util/data/language_list.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/language_script_raw.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/localeReplacements.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/lstreg.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/moribund_languages.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/northamerica -text
+java/org/unicode/cldr/util/data/pacificnew -text
+java/org/unicode/cldr/util/data/package.html svneol=native#text/html
+java/org/unicode/cldr/util/data/prettyPath.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/prettyPathZone.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/southamerica -text
+java/org/unicode/cldr/util/data/st_sysmsg.html svneol=native#text/html
+java/org/unicode/cldr/util/data/systemv -text
+java/org/unicode/cldr/util/data/territory_codes.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/test/IPA-XSampa.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/XSampa-IPA.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/cs-cs_FONIPA.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/cs-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/cs-ko.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/cs_FONIPA-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/cs_FONIPA-ko.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es-am.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es-es_FONIPA.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es-zh.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es_419-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es_419-zh.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es_FONIPA-am.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es_FONIPA-es_419_FONIPA.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es_FONIPA-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/es_FONIPA-zh.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/it-am.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/it-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/ja_Latn-ko.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/ja_Latn-ru.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/pl-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/pl-pl_FONIPA.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/pl_FONIPA-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/ro-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/ro-ro_FONIPA.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/ro_FONIPA-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/ru-ja.txt -text svneol=unset#application/octet-stream
+java/org/unicode/cldr/util/data/test/ru-zh.txt -text svneol=unset#application/octet-stream
+java/org/unicode/cldr/util/data/test/sk-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/sk-sk_FONIPA.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/sk_FONIPA-ja.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test/zh_Latn_PINYIN-ru.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/test_help_messages.html svneol=native#text/html
+java/org/unicode/cldr/util/data/timezoneversion.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/tlds-alpha-by-domain.txt -text svneol=unset#text/plain
+java/org/unicode/cldr/util/data/transforms/IPA-Deva.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/en-IPA-spellout.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/en-IPA.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/internal_English-IPA-backwards.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/internal_baseEnglishToIpa.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/internal_fixBadIpa.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/internal_matchIpaRules.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/internal_overrides.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/internal_raw_IPA-old.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/internal_raw_IPA.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/transforms/und-IPA.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
+java/org/unicode/cldr/util/data/zone.tab -text
+java/org/unicode/cldr/util/package.html svneol=native#text/html
+java/org/unicode/cldr/util/vettingView.css -text
+java/org/unicode/cldr/util/vettingView.js -text
+java/org/unicode/cldr/util/vettingViewerHead.txt -text svneol=unset#text/plain
+java/readme.txt svneol=native#text/plain

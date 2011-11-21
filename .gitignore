@@ -1,0 +1,12 @@
+cldr-apps/WebContent/Thumbs.db
+cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+cldr-apps/build
+cldr-apps/build.properties
+cldr-apps/cldr-apps-docs.jar
+cldr-apps/cldr-apps.war
+cldr-apps/derby.log
+cldr-apps/doc
+java/*.jar
+java/build.properties
+java/classes
+java/out
