@@ -1,0 +1,12 @@
+decoupling/cldr-apps/WebContent/Thumbs.db
+decoupling/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+decoupling/cldr-apps/build
+decoupling/cldr-apps/build.properties
+decoupling/cldr-apps/cldr-apps-docs.jar
+decoupling/cldr-apps/cldr-apps.war
+decoupling/cldr-apps/derby.log
+decoupling/cldr-apps/doc
+decoupling/java/*.jar
+decoupling/java/build.properties
+decoupling/java/classes
+decoupling/java/out
