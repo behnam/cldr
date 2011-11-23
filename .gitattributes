@@ -223,6 +223,7 @@ decoupling/java/org/unicode/cldr/test/CompactDecimalFormatData.java -text svneol
 decoupling/java/org/unicode/cldr/test/CompactDecimalFormatTest.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/test/DateOrder.java -text svneol=unset#text/plain
+decoupling/java/org/unicode/cldr/test/FactoryCheckCLDR.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/test/OutdatedPaths.java -text svneol=unset#text/plain
 decoupling/java/org/unicode/cldr/test/outdated.data -text
 decoupling/java/org/unicode/cldr/test/outdatedEnglish.data -text
