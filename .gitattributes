@@ -3110,6 +3110,7 @@ cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/OldTestMain.java -text svn
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestAll.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestCacheAndDataSource.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestIntHash.java -text svneol=unset#text/plain
+cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestSTFactory.java -text
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
