@@ -3154,6 +3154,7 @@ tools/java/org/unicode/cldr/test/CompactDecimalFormatData.java -text svneol=unse
 tools/java/org/unicode/cldr/test/CompactDecimalFormatTest.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/DateOrder.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/test/FactoryCheckCLDR.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/OutdatedPaths.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/outdated.data -text
 tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
@@ -3221,6 +3222,7 @@ tools/java/org/unicode/cldr/util/PluralSnapshot.java -text svneol=unset#text/pla
 tools/java/org/unicode/cldr/util/RegexLookup.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/RegexUtilities.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/SimpleFactory.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/SimpleXMLSource.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/StringId.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/Transformer.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain
