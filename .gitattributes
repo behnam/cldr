@@ -3008,7 +3008,9 @@ cldrapps-inmem-4182/WebContent/WEB-INF/lib/activation.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/lib/derby.jar -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/jdom-1.1.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/lib/mail.jar -text
+cldrapps-inmem-4182/WebContent/WEB-INF/lib/rome-1.0.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/lib/rome.jar -text
 cldrapps-inmem-4182/WebContent/WEB-INF/tags/st/menu.tag -text
 cldrapps-inmem-4182/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
