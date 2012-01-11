@@ -3126,7 +3126,6 @@ cldrapps-inmem-4182/src/org/unicode/cldr/web/DBUtils.java -text svneol=unset#tex
 cldrapps-inmem-4182/src/org/unicode/cldr/web/ErrorCheckManager.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/web/InterestSort.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/web/MetazoneSortMode.java -text svneol=unset#text/plain
-cldrapps-inmem-4182/src/org/unicode/cldr/web/MuxedSource.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
 cldrapps-inmem-4182/src/org/unicode/cldr/web/STFactory.java -text
