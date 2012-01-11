@@ -6261,6 +6261,9 @@ cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/unittest/web/T
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/BallotBox.java -text
+cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/BallotBoxFactory.java -text
+cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/BallotBoxVoteNotAcceptedException.java -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#text/plain
@@ -6271,6 +6274,7 @@ cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/MetazoneSo
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/MuxedSource.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/STFactory.java -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/StackTracker.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java -text svneol=unset#text/plain
