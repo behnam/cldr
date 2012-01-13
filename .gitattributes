@@ -3173,8 +3173,12 @@ tools/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/session.jspf -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+tools/cldr-apps/WebContent/WEB-INF/lib/activation.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+tools/cldr-apps/WebContent/WEB-INF/lib/jdom-1.1.jar -text
+tools/cldr-apps/WebContent/WEB-INF/lib/mail.jar -text
+tools/cldr-apps/WebContent/WEB-INF/lib/rome-1.0.jar -text
 tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
