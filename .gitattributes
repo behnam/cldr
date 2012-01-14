@@ -3394,6 +3394,7 @@ tools/java/org/unicode/cldr/tool/LikelySubtags.java -text svneol=unset#text/plai
 tools/java/org/unicode/cldr/tool/LocaleReplacements.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/ShowCoverageLevels.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/tool/index.css -text
