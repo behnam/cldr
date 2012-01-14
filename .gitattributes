@@ -3383,6 +3383,7 @@ tools/java/org/unicode/cldr/test/outdated.data -text
 tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/FixDelimiters.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBcp47Text.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
@@ -3396,6 +3397,7 @@ tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowCoverageLevels.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
+tools/java/org/unicode/cldr/tool/delimiterFixes.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/tool/index.css -text
 tools/java/org/unicode/cldr/tool/modify_config.txt -text svneol=unset#text/plain
