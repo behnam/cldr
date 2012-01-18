@@ -238,6 +238,7 @@ common/collation/cy.xml svneol=native#text/xml
 common/collation/da.xml svneol=native#text/xml
 common/collation/de.xml svneol=native#text/xml
 common/collation/dz.xml svneol=native#text/xml
+common/collation/ee.xml svneol=native#text/xml
 common/collation/el.xml svneol=native#text/xml
 common/collation/en.xml svneol=native#text/xml
 common/collation/en_US.xml svneol=native#text/xml
