@@ -6437,6 +6437,7 @@ cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/RegexLookup.java -
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/RegexUtilities.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/SimpleFactory.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/SimpleXMLSource.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/StackTracker.java -text
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/StringId.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/Transformer.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain
