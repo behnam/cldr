@@ -6189,7 +6189,6 @@ cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_mont
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
-cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
@@ -6276,7 +6275,6 @@ cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/NameSort.j
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/STFactory.java -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
-cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/StackTracker.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=unset#text/plain
