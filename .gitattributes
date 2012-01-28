@@ -3424,6 +3424,7 @@ tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/pl
 tools/java/org/unicode/cldr/unittest/RegexTransform.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestBCP47.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/unittest/TestBcp47Numbers.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestBcp47Transforms.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestCanonicalIds.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
