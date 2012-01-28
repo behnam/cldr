@@ -6295,6 +6295,7 @@ cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/FileUtilities.jav
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/FormatSpecialData.java svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/GenerateLanguageData.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/GeneratePickerData.txt svneol=native#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/IdentifierInfo.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/Ids.java svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/Iterables.java svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/JsonConverter.java svneol=native#text/plain
@@ -6308,6 +6309,7 @@ cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/TestMixedScript.j
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/UnicodeMapBuilder.java svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/UnicodeSetBuilderTests.txt svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/UnicodeSetStates.txt svneol=native#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/UnmodifiableBitSet.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/idnaContextRules.txt svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/idnaTestCases.txt svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/draft/idnaTestLog.txt svneol=native#text/plain
@@ -6365,6 +6367,7 @@ cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/test/outdated.data -tex
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/FixDelimiters.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/GenerateBcp47Text.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
@@ -6376,7 +6379,9 @@ cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/LikelySubtags.java
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/LocaleReplacements.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/ShowCoverageLevels.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/delimiterFixes.txt -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/index.css -text
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/tool/modify_config.txt -text svneol=unset#text/plain
@@ -6392,6 +6397,8 @@ cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/LanguageInfoTe
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/RegexTransform.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestBCP47.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestBcp47Numbers.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestBcp47Transforms.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestCanonicalIds.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain
@@ -6400,6 +6407,7 @@ cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestCoverageLe
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestDisplayAndInputProcessor.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestDtdCompatibility.java svneol=native#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestExampleGenerator.java -text svneol=unset#text/plain
+cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestIdentifierInfo.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestInheritance.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestLdml2ICU.java -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/java/org/unicode/cldr/unittest/TestLruMap.java -text svneol=unset#text/plain
