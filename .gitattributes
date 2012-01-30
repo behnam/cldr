@@ -6156,7 +6156,9 @@ cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.j
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/activation.jar -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/derby-10.8.2.2.jar -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/jdom-1.1.jar -text
+cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/license-derby.txt -text svneol=unset#text/plain
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/mail.jar -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/lib/rome-1.0.jar -text
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
