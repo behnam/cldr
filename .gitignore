@@ -26,6 +26,7 @@ cldrapps-inmem-4182-darbtejn/tools/cldr-apps/build
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/build.properties
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/cldr-apps-docs.jar
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/cldr-apps.war
+cldrapps-inmem-4182-darbtejn/tools/cldr-apps/cldr_db_test
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/derby.log
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/doc
 cldrapps-inmem-4182-darbtejn/tools/java/*.jar
