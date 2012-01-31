@@ -16,6 +16,9 @@ cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 cldr-apps/build
 cldrapps-inmem-4182-darbtejn/.classpath
 cldrapps-inmem-4182-darbtejn/.project
+cldrapps-inmem-4182-darbtejn/common/.project
+cldrapps-inmem-4182-darbtejn/common/collation/und*.xml
+cldrapps-inmem-4182-darbtejn/common/main/und*.xml
 cldrapps-inmem-4182-darbtejn/docs/presentations/.~lock*
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/Thumbs.db
 cldrapps-inmem-4182-darbtejn/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
