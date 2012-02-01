@@ -2903,6 +2903,7 @@ seed/main/ha_Arab_NG.xml svneol=native#text/xml
 seed/main/ha_Arab_SD.xml svneol=native#text/xml
 seed/main/ha_SD.xml svneol=native#text/xml
 seed/main/iu.xml svneol=native#text/xml
+seed/main/jgo.xml -text svneol=unset#text/plain
 seed/main/kpe.xml svneol=native#text/xml
 seed/main/kpe_GN.xml svneol=native#text/xml
 seed/main/kpe_LR.xml svneol=native#text/xml
