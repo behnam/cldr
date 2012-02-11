@@ -291,6 +291,7 @@ common/collation/pa.xml svneol=native#text/xml
 common/collation/pl.xml svneol=native#text/xml
 common/collation/ps.xml svneol=native#text/xml
 common/collation/ro.xml svneol=native#text/xml
+common/collation/root.xml svneol=native#text/xml
 common/collation/ru.xml svneol=native#text/xml
 common/collation/se.xml svneol=native#text/xml
 common/collation/si.xml svneol=native#text/xml
