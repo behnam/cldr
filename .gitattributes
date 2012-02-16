@@ -3221,6 +3221,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/row.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/show_voting.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
