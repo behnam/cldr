@@ -3311,8 +3311,10 @@ tools/cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=un
 tools/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/build.xml svneol=native#text/xml
+tools/java/com/ibm/icu/dev/test/GenderListTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/ListFormatterTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
+tools/java/com/ibm/icu/text/GenderInfo.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormatter.java -text svneol=unset#text/plain
 tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities.jar -text
