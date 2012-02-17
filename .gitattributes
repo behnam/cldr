@@ -3228,6 +3228,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/stnotices.jspf -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/usermenu.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/yes_no.jsp -text
