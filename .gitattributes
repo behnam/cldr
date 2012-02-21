@@ -3311,11 +3311,12 @@ tools/cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=un
 tools/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/build.xml svneol=native#text/xml
-tools/java/com/ibm/icu/dev/test/GenderListTest.java -text svneol=unset#text/plain
-tools/java/com/ibm/icu/dev/test/ListFormatterTest.java -text svneol=unset#text/plain
+tools/java/com/ibm/icu/dev/test/GenderInfoTest.java -text svneol=unset#text/plain
+tools/java/com/ibm/icu/dev/test/ListFormatTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
 tools/java/com/ibm/icu/text/GenderInfo.java -text svneol=unset#text/plain
-tools/java/com/ibm/icu/text/ListFormatter.java -text svneol=unset#text/plain
+tools/java/com/ibm/icu/text/ListFormat.java -text svneol=unset#text/plain
+tools/java/com/ibm/icu/text/ListFormatData.java -text svneol=unset#text/plain
 tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities.jar -text
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
@@ -3390,6 +3391,7 @@ tools/java/org/unicode/cldr/test/CheckForCopy.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CheckMetazones.java -text
 tools/java/org/unicode/cldr/test/CompactDecimalFormat.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CompactDecimalFormatData.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/test/CompactDecimalFormatData2.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CompactDecimalFormatTest.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CoverageLevel2.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/DateOrder.java -text svneol=unset#text/plain
@@ -3399,6 +3401,7 @@ tools/java/org/unicode/cldr/test/outdated.data -text
 tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/ExtractListInfo.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/FixDelimiters.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBcp47Text.java -text svneol=unset#text/plain
@@ -3428,6 +3431,7 @@ tools/java/org/unicode/cldr/tool/xmbHandling.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/xmbPlaceholders.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/xmbSkip.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain
+tools/java/org/unicode/cldr/unittest/LanguageTest.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/RegexTransform.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestAttributes.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestBCP47.java -text svneol=unset#text/plain
