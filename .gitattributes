@@ -3237,6 +3237,8 @@ tools/cldr-apps/WebContent/about.jsp -text
 tools/cldr-apps/WebContent/adduser.jsp -text
 tools/cldr-apps/WebContent/bar0.png -text
 tools/cldr-apps/WebContent/bar1.png -text
+tools/cldr-apps/WebContent/browse.jsp -text
+tools/cldr-apps/WebContent/browse_results.jsp -text
 tools/cldr-apps/WebContent/chat.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/check.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/conf.png -text
