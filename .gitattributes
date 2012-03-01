@@ -2900,6 +2900,7 @@ seed/main/mn_Mong_CN.xml -text svneol=unset#text/plain
 seed/main/nds.xml -text svneol=unset#text/plain
 seed/main/nds_DE.xml -text svneol=unset#text/plain
 seed/main/nnh.xml svneol=native#text/plain
+seed/main/nnh_CM.xml -text svneol=unset#text/plain
 seed/main/ny.xml svneol=native#text/xml
 seed/main/ny_MW.xml svneol=native#text/xml
 seed/main/oc.xml -text svneol=unset#text/plain
