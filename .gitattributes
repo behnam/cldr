@@ -3250,6 +3250,7 @@ tools/cldr-apps/WebContent/chat.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/check.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/conf.png -text
 tools/cldr-apps/WebContent/conf2.png -text
+tools/cldr-apps/WebContent/createAndLogin.jsp -text
 tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dojoroot/dojo/dojo.js -text
 tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
