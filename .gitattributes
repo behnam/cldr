@@ -2641,6 +2641,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_monkey.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
