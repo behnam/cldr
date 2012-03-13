@@ -2631,6 +2631,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/eras.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/generalinfo.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/hidden.html -text svneol=unset#text/html
 tools/cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
@@ -2646,6 +2647,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp -text svneol=unset#
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_monkey.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_rxt.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
@@ -2684,6 +2686,7 @@ tools/cldr-apps/WebContent/js/g.line.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/login.jsp -text
 tools/cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
