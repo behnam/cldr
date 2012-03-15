@@ -2850,6 +2850,7 @@ tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text
 tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateUnicodeCounts.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateXMB.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/LanguageCodeConverter.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/LikelySubtags.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/LocaleReplacements.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
@@ -2955,6 +2956,7 @@ tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
 tools/java/org/unicode/cldr/util/data/external/Iso639-5.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/external/alternate_country_names.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/alternate_language_names.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_literacy.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
