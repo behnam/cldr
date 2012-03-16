@@ -11020,12 +11020,9 @@ maint-21/common/collation/yo.xml svneol=native#text/xml
 maint-21/common/collation/zh.xml svneol=native#text/xml
 maint-21/common/collation/zh_Hant.xml svneol=native#text/xml
 maint-21/common/dtd/cldrTest.dtd -text
-maint-21/common/dtd/ldml.dtd -text
-maint-21/common/dtd/ldmlBCP47.dtd -text
 maint-21/common/dtd/ldmlICIR.dtd -text
 maint-21/common/dtd/ldmlICU.dtd -text
 maint-21/common/dtd/ldmlOpenOffice.dtd -text
-maint-21/common/dtd/ldmlSupplemental.dtd -text
 maint-21/common/main/aa.xml svneol=native#text/xml
 maint-21/common/main/aa_DJ.xml svneol=native#text/xml
 maint-21/common/main/aa_ER.xml svneol=native#text/xml
@@ -11914,14 +11911,14 @@ maint-21/docs/presentations/Portuguese_External.pdf -text svneol=unset#applicati
 maint-21/docs/presentations/Portuguese_External.ppt -text svneol=unset#application/vnd.ms-powerpoint
 maint-21/docs/presentations/cldr_overview.pdf -text svneol=unset#application/pdf
 maint-21/docs/presentations/cldr_overview.ppt -text svneol=unset#application/vnd.ms-office
-maint-21/docs/rfc/draft-davis-t-langtag-ext.css -text svneol=unset#text/plain
+maint-21/docs/rfc/draft-davis-t-langtag-ext.css svneol=native#text/plain
 maint-21/docs/rfc/draft-davis-t-langtag-ext.html -text svneol=unset#text/html
 maint-21/docs/rfc/draft-davis-t-langtag-ext.txt -text svneol=unset#text/plain
-maint-21/docs/rfc/draft-davis-t-langtag-ext.xml -text svneol=unset#text/plain
+maint-21/docs/rfc/draft-davis-t-langtag-ext.xml svneol=native#text/plain
 maint-21/docs/rfc/draft-davis-u-langtag-ext-00.html svneol=native#text/html
 maint-21/docs/rfc/draft-davis-u-langtag-ext-00.txt svneol=native#text/plain
 maint-21/docs/rfc/draft-davis-u-langtag-ext-00.xml svneol=native#text/plain
-maint-21/docs/rfc/draft-davis-u-langtag-ext-04.xml -text svneol=unset#text/plain
+maint-21/docs/rfc/draft-davis-u-langtag-ext-04.xml svneol=native#text/plain
 maint-21/docs/rfc/notes.txt -text svneol=unset#text/plain
 maint-21/docs/rfc/rfc2629.dtd -text svneol=unset#text/plain
 maint-21/docs/survey/known_bugs.html svneol=native#text/html
@@ -13584,7 +13581,7 @@ maint-21/seed/main/ha_Arab_NG.xml svneol=native#text/xml
 maint-21/seed/main/ha_Arab_SD.xml svneol=native#text/xml
 maint-21/seed/main/ha_SD.xml svneol=native#text/xml
 maint-21/seed/main/iu.xml svneol=native#text/xml
-maint-21/seed/main/jgo.xml -text svneol=unset#text/plain
+maint-21/seed/main/jgo.xml svneol=native#text/plain
 maint-21/seed/main/kaj.xml -text svneol=unset#text/plain
 maint-21/seed/main/kaj_NG.xml -text svneol=unset#text/plain
 maint-21/seed/main/kcg.xml -text svneol=unset#text/plain
@@ -13870,11 +13867,10 @@ maint-21/tools/cldr-apps/.settings/org.eclipse.wst.common.component -text
 maint-21/tools/cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
 maint-21/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 maint-21/tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
-maint-21/tools/cldr-apps/WebContent/META-INF/MANIFEST.MF -text
 maint-21/tools/cldr-apps/WebContent/STLogo.png -text svneol=unset#image/png
-maint-21/tools/cldr-apps/WebContent/SampleNumber.jsp -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/WebContent/SampleNumber.jsp svneol=native#text/plain
 maint-21/tools/cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
-maint-21/tools/cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf svneol=native#text/plain
 maint-21/tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
@@ -13886,7 +13882,7 @@ maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -te
 maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/derby-10.8.2.2.jar -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/jdom-1.1.jar -text
-maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/license-derby.txt -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/license-derby.txt svneol=native#text/plain
 maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/mail.jar -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/lib/rome-1.0.jar -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
@@ -13921,7 +13917,7 @@ maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
 maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_admin_xpt.jsp -text svneol=unset#text/plain
 maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
-maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp svneol=native#text/plain
 maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 maint-21/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
@@ -13964,8 +13960,7 @@ maint-21/tools/cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
 maint-21/tools/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
 maint-21/tools/cldr-apps/WebContent/squo.png -text svneol=unset#image/png
 maint-21/tools/cldr-apps/WebContent/star.png -text svneol=unset#image/png
-maint-21/tools/cldr-apps/WebContent/statistics-org.jsp -text
-maint-21/tools/cldr-apps/WebContent/statistics.jsp -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/WebContent/statistics.jsp svneol=native#text/plain
 maint-21/tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 maint-21/tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 maint-21/tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
@@ -13991,22 +13986,22 @@ maint-21/tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestIntHash.java -tex
 maint-21/tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
 maint-21/tools/cldr-apps/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneol=unset#text/plain
 maint-21/tools/cldr-apps/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/DBUtils.java -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/DBUtils.java svneol=native#text/plain
 maint-21/tools/cldr-apps/src/org/unicode/cldr/web/ErrorCheckManager.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/InterestSort.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/MetazoneSortMode.java -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/InterestSort.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/MetazoneSortMode.java svneol=native#text/plain
 maint-21/tools/cldr-apps/src/org/unicode/cldr/web/MuxedSource.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/NameSort.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/Partition.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/SortMode.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/StackTracker.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/NameSort.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/Partition.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/SortMode.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/StackTracker.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java svneol=native#text/plain
 maint-21/tools/cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=unset#text/plain
-maint-21/tools/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java svneol=native#text/plain
+maint-21/tools/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java svneol=native#text/plain
 maint-21/tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 maint-21/tools/java/build.xml svneol=native#text/xml
 maint-21/tools/java/com/ibm/icu/dev/test/ListFormatterTest.java -text svneol=unset#text/plain
@@ -14071,9 +14066,9 @@ maint-21/tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Punctua
 maint-21/tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]South[!!-~]Asian[!!-~]Scripts.html svneol=native#text/html
 maint-21/tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Southeast[!!-~]Asian[!!-~]Scripts.html svneol=native#text/html
 maint-21/tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Symbol.html svneol=native#text/html
-maint-21/tools/java/org/unicode/cldr/draft/picker/PickerData.css -text svneol=unset#text/css
+maint-21/tools/java/org/unicode/cldr/draft/picker/PickerData.css svneol=native#text/css
 maint-21/tools/java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
-maint-21/tools/java/org/unicode/cldr/icu/SupplementalMetadataConverter.java -text svneol=unset#text/plain
+maint-21/tools/java/org/unicode/cldr/icu/SupplementalMetadataConverter.java svneol=native#text/plain
 maint-21/tools/java/org/unicode/cldr/icu/idList.txt svneol=native#text/plain
 maint-21/tools/java/org/unicode/cldr/icu/package.html svneol=native#text/html
 maint-21/tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
@@ -14083,7 +14078,6 @@ maint-21/tools/java/org/unicode/cldr/package.html svneol=native#text/html
 maint-21/tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 maint-21/tools/java/org/unicode/cldr/test/CasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-21/tools/java/org/unicode/cldr/test/CheckForCopy.java -text svneol=unset#text/plain
-maint-21/tools/java/org/unicode/cldr/test/CheckMetazones.java -text
 maint-21/tools/java/org/unicode/cldr/test/CompactDecimalFormat.java -text svneol=unset#text/plain
 maint-21/tools/java/org/unicode/cldr/test/CompactDecimalFormatData.java -text svneol=unset#text/plain
 maint-21/tools/java/org/unicode/cldr/test/CompactDecimalFormatTest.java -text svneol=unset#text/plain
@@ -14110,7 +14104,7 @@ maint-21/tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#t
 maint-21/tools/java/org/unicode/cldr/tool/ShowCoverageLevels.java -text svneol=unset#text/plain
 maint-21/tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 maint-21/tools/java/org/unicode/cldr/tool/delimiterFixes.txt -text svneol=unset#text/plain
-maint-21/tools/java/org/unicode/cldr/tool/errors.css -text svneol=unset#text/css
+maint-21/tools/java/org/unicode/cldr/tool/errors.css svneol=native#text/css
 maint-21/tools/java/org/unicode/cldr/tool/index.css -text
 maint-21/tools/java/org/unicode/cldr/tool/modify_config.txt -text svneol=unset#text/plain
 maint-21/tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
@@ -14207,15 +14201,8 @@ maint-21/tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svn
 maint-21/tools/java/org/unicode/cldr/util/data/external/factbook_literacy.html svneol=native#text/html
 maint-21/tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
 maint-21/tools/java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=native#text/plain
-maint-21/tools/java/org/unicode/cldr/util/data/external/un_literacy.csv -text
 maint-21/tools/java/org/unicode/cldr/util/data/external/us_census.txt svneol=native#text/plain
-maint-21/tools/java/org/unicode/cldr/util/data/external/world_bank_data.csv -text
 maint-21/tools/java/org/unicode/cldr/util/data/extraLanguagesAndScripts.txt svneol=native#text/plain
-maint-21/tools/java/org/unicode/cldr/util/data/iso-639-3-macrolanguages.tab -text
-maint-21/tools/java/org/unicode/cldr/util/data/iso-639-3-version.tab -text
-maint-21/tools/java/org/unicode/cldr/util/data/iso-639-3.tab -text
-maint-21/tools/java/org/unicode/cldr/util/data/iso-639-3_Name_Index.tab -text
-maint-21/tools/java/org/unicode/cldr/util/data/iso-639-3_Retirements.tab -text
 maint-21/tools/java/org/unicode/cldr/util/data/iso4217raw.txt svneol=native#text/plain
 maint-21/tools/java/org/unicode/cldr/util/data/langtagRegex.txt svneol=native#text/plain
 maint-21/tools/java/org/unicode/cldr/util/data/langtagTest.txt svneol=native#text/plain
