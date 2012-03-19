@@ -3075,6 +3075,7 @@ tools/java/org/unicode/cldr/draft/Iterables.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/JsonConverter.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/LDMLConverter.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/draft/LdmlLocaleMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/PluralsMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/RBChecker.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/draft/RadicalStroke.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
