@@ -2986,7 +2986,7 @@ tools/cldr-apps/WebContent/dojoroot/dojo/topic.js -text svneol=unset#application
 tools/cldr-apps/WebContent/dojoroot/dojo/touch.js -text svneol=unset#application/javascript
 tools/cldr-apps/WebContent/dojoroot/dojo/uacss.js -text svneol=unset#application/javascript
 tools/cldr-apps/WebContent/dojoroot/dojo/window.js -text svneol=unset#application/javascript
-tools/cldr-apps/WebContent/dojoroot/surveyTool/nls/stui.js -text svneol=unset#application/javascript
+tools/cldr-apps/WebContent/dojoroot/surveyTool/nls/stui.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
