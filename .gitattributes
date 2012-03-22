@@ -2590,6 +2590,8 @@ tools/cldr-apps/.settings/org.eclipse.wst.common.component -text
 tools/cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml -text svneol=unset#text/plain
 tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+tools/cldr-apps/WebContent/AdminAjax.jsp -text
+tools/cldr-apps/WebContent/AdminPanel.jsp -text
 tools/cldr-apps/WebContent/RefreshRow.jsp -text
 tools/cldr-apps/WebContent/STLogo.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/SampleNumber.jsp svneol=native#text/plain
@@ -2613,7 +2615,6 @@ tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
-tools/cldr-apps/WebContent/WEB-INF/tmpl/adminpanel.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
