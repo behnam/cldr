@@ -3337,8 +3337,6 @@ tools/cldr-apps/WebContent/login.jsp -text
 tools/cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/output-status.jsp -text svneol=unset#text/plain
-tools/cldr-apps/WebContent/peak.png -text svneol=unset#image/png
-tools/cldr-apps/WebContent/peakfill.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/rado.png -text svneol=unset#image/png
@@ -3358,8 +3356,6 @@ tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/xpath.jsp -text
 tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
 tools/cldr-apps/build-sample.properties -text
-tools/cldr-apps/docs/image-sources/peak.intaglio -text
-tools/cldr-apps/docs/image-sources/peak.svg -text
 tools/cldr-apps/docs/readme-staging.txt svneol=native#text/plain
 tools/cldr-apps/docs/readme.css -text svneol=unset#text/css
 tools/cldr-apps/docs/stops.html svneol=native#text/html
