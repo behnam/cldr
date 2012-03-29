@@ -1,3 +1,7 @@
+converter/java/*.jar
+converter/java/build.properties
+converter/java/classes
+converter/java/out
 decoupling/cldr-apps/WebContent/Thumbs.db
 decoupling/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 decoupling/cldr-apps/build
