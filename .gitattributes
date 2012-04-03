@@ -791,6 +791,8 @@ common/main/swc_CD.xml svneol=native#text/xml
 common/main/ta.xml svneol=native#text/xml
 common/main/ta_IN.xml svneol=native#text/xml
 common/main/ta_LK.xml svneol=native#text/xml
+common/main/ta_MY.xml -text
+common/main/ta_SG.xml -text
 common/main/te.xml svneol=native#text/xml
 common/main/te_IN.xml svneol=native#text/xml
 common/main/teo.xml svneol=native#text/xml
