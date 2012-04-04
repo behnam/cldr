@@ -3016,6 +3016,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/manage.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/menu_top.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
