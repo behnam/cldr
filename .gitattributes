@@ -2900,6 +2900,7 @@ seed/main/ha_Arab_NG.xml svneol=native#text/xml
 seed/main/ha_Arab_SD.xml svneol=native#text/xml
 seed/main/ha_SD.xml svneol=native#text/xml
 seed/main/iu.xml svneol=native#text/xml
+seed/main/iu_CA.xml svneol=native#text/xml
 seed/main/jgo.xml svneol=native#text/plain
 seed/main/jgo_CM.xml -text svneol=unset#text/plain
 seed/main/kaj.xml -text svneol=unset#text/plain
