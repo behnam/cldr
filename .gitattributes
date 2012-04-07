@@ -3423,6 +3423,7 @@ tools/cldr-apps/src/org/unicode/cldr/unittest/web/perf/NullPerf.java -text svneo
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/perf/PerfTest.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java svneol=native#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java svneol=native#text/plain
+tools/cldr-apps/src/org/unicode/cldr/web/ChunkyReader.java -text
 tools/cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java svneol=native#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/DBUtils.java svneol=native#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/InterestSort.java svneol=native#text/plain
