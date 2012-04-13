@@ -3394,7 +3394,6 @@ tools/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/rado.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/radx.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/squo.png -text svneol=unset#image/png
-tools/cldr-apps/WebContent/srl.jsp -text
 tools/cldr-apps/WebContent/star.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/statistics.jsp svneol=native#text/plain
 tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
