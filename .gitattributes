@@ -3557,6 +3557,7 @@ tools/java/org/unicode/cldr/tool/Option.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ReadXMB.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowChildren.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowCoverageLevels.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/ShowKeyboards.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowLocaleCoverage.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/delimiterFixes.txt -text svneol=unset#text/plain
