@@ -3395,6 +3395,7 @@ tools/cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/login.jsp -text
+tools/cldr-apps/WebContent/myvotes.jsp -text
 tools/cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/output-status.jsp -text svneol=unset#text/plain
