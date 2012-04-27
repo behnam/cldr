@@ -15,6 +15,7 @@ tools/cldr-apps/cldr-apps.war
 tools/cldr-apps/cldr_db_test
 tools/cldr-apps/derby.log
 tools/cldr-apps/doc
+tools/cldr-apps/nbbuild
 tools/java/*.jar
 tools/java/build.properties
 tools/java/classes
