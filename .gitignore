@@ -52,6 +52,17 @@ locale2544/tools/java/*.jar
 locale2544/tools/java/build.properties
 locale2544/tools/java/classes
 locale2544/tools/java/out
+mem4686_cldr-apps/WebContent/Thumbs.db
+mem4686_cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+mem4686_cldr-apps/WebContent/srl.jsp
+mem4686_cldr-apps/build
+mem4686_cldr-apps/build.properties
+mem4686_cldr-apps/cldr-apps-docs.jar
+mem4686_cldr-apps/cldr-apps.war
+mem4686_cldr-apps/cldr_db_test
+mem4686_cldr-apps/derby.log
+mem4686_cldr-apps/doc
+mem4686_cldr-apps/nbbuild
 mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 mess3465/cldr-apps/build
 mess3465/cldr-apps/build.properties
