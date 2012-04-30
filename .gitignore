@@ -61,6 +61,7 @@ mem4686_cldr-apps/cldr-apps-docs.jar
 mem4686_cldr-apps/cldr-apps.war
 mem4686_cldr-apps/cldr_db_test
 mem4686_cldr-apps/derby.log
+mem4686_cldr-apps/dist
 mem4686_cldr-apps/doc
 mem4686_cldr-apps/nbbuild
 mess3465/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
