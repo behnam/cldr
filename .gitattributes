@@ -3665,6 +3665,8 @@ tools/java/org/unicode/cldr/util/data/antarctica -text
 tools/java/org/unicode/cldr/util/data/asia -text
 tools/java/org/unicode/cldr/util/data/australasia -text
 tools/java/org/unicode/cldr/util/data/backward -text
+tools/java/org/unicode/cldr/util/data/births/outdated.data -text
+tools/java/org/unicode/cldr/util/data/births/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/util/data/chart_messages.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/currency_codes_list-1.htm svneol=native#text/html
@@ -3692,6 +3694,7 @@ tools/java/org/unicode/cldr/util/data/moribund_languages.txt svneol=native#text/
 tools/java/org/unicode/cldr/util/data/northamerica -text
 tools/java/org/unicode/cldr/util/data/pacificnew -text
 tools/java/org/unicode/cldr/util/data/package.html svneol=native#text/html
+tools/java/org/unicode/cldr/util/data/paths/missingOk.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/prettyPath.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/prettyPathZone.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/southamerica -text
