@@ -2881,6 +2881,7 @@ keyboards/windows/zh-Hant-HK-t-k0-windows.xml -text svneol=unset#text/plain
 keyboards/windows/zh-Hant-MO-t-k0-windows.xml -text svneol=unset#text/plain
 keyboards/windows/zh-Hant-t-k0-windows.xml -text svneol=unset#text/plain
 seed/collation/sa.xml svneol=native#text/xml
+seed/collation/tk.xml -text
 seed/collation/wo.xml svneol=native#text/xml
 seed/main/ast.xml svneol=native#text/xml
 seed/main/ast_ES.xml svneol=native#text/xml
@@ -2949,6 +2950,9 @@ seed/main/sid.xml -text svneol=unset#text/plain
 seed/main/sid_ET.xml -text svneol=unset#text/plain
 seed/main/syr.xml svneol=native#text/xml
 seed/main/syr_SY.xml svneol=native#text/xml
+seed/main/tk.xml -text
+seed/main/tk_Latn.xml -text
+seed/main/tk_Latn_TM.xml -text
 seed/main/trv.xml -text svneol=unset#text/plain
 seed/main/trv_TW.xml -text svneol=unset#text/plain
 seed/main/tt.xml svneol=native#text/xml
