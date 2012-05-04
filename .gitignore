@@ -83,6 +83,7 @@ mem4686bis/tools/cldr-apps/derby.log
 mem4686bis/tools/cldr-apps/doc
 mem4686bis/tools/cldr-apps/nbbuild
 mem4686bis/tools/java/*.jar
+mem4686bis/tools/java/.build.properties.swp
 mem4686bis/tools/java/build.properties
 mem4686bis/tools/java/classes
 mem4686bis/tools/java/out
