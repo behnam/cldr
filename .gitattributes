@@ -2981,6 +2981,7 @@ seed/main/ug.xml svneol=native#text/xml
 seed/main/ug_Arab.xml svneol=native#text/xml
 seed/main/ug_Arab_CN.xml svneol=native#text/xml
 seed/main/ug_CN.xml svneol=native#text/xml
+seed/main/vo.xml svneol=native#text/xml
 seed/main/wo.xml svneol=native#text/xml
 seed/main/wo_Latn.xml svneol=native#text/xml
 seed/main/wo_Latn_SN.xml svneol=native#text/xml
