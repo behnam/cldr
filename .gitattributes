@@ -2737,6 +2737,7 @@ keyboards/osx/uk-t-k0-osx.xml -text svneol=unset#text/plain
 keyboards/osx/uz-Arab-t-k0-osx.xml -text svneol=unset#text/plain
 keyboards/osx/vi-t-k0-osx.xml -text svneol=unset#text/plain
 keyboards/und/_platform.xml -text svneol=unset#text/plain
+keyboards/und/ee-t-k0-und.xml -text svneol=unset#text/plain
 keyboards/windows/_platform.xml -text svneol=unset#text/plain
 keyboards/windows/ar-t-k0-windows-102key.xml -text svneol=unset#text/plain
 keyboards/windows/ar-t-k0-windows-azerty.xml -text svneol=unset#text/plain
