@@ -3575,6 +3575,7 @@ tools/java/org/unicode/cldr/test/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/CollectExemplars.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/DumpCoverage.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ExtractListInfo.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/FixDelimiters.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
