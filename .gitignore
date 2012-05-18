@@ -18,6 +18,8 @@ tools/cldr-apps/dist
 tools/cldr-apps/doc
 tools/cldr-apps/nbbuild
 tools/java/*.jar
+tools/java/build
 tools/java/build.properties
 tools/java/classes
+tools/java/dist
 tools/java/out
