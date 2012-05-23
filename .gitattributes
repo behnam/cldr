@@ -3623,6 +3623,7 @@ tools/java/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plai
 tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestComparisonBuilder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestCoverageLevel.txt -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/unittest/TestDateOrder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestDisplayAndInputProcessor.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/TestDtdCompatibility.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestExampleGenerator.java -text svneol=unset#text/plain
