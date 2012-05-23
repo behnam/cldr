@@ -531,6 +531,7 @@ common/main/fr_CH.xml svneol=native#text/xml
 common/main/fr_CI.xml svneol=native#text/xml
 common/main/fr_CM.xml svneol=native#text/xml
 common/main/fr_DJ.xml svneol=native#text/xml
+common/main/fr_DZ.xml -text
 common/main/fr_FR.xml svneol=native#text/xml
 common/main/fr_GA.xml svneol=native#text/xml
 common/main/fr_GF.xml svneol=native#text/xml
@@ -539,6 +540,7 @@ common/main/fr_GP.xml svneol=native#text/xml
 common/main/fr_GQ.xml svneol=native#text/xml
 common/main/fr_KM.xml svneol=native#text/xml
 common/main/fr_LU.xml svneol=native#text/xml
+common/main/fr_MA.xml -text
 common/main/fr_MC.xml svneol=native#text/xml
 common/main/fr_MF.xml svneol=native#text/xml
 common/main/fr_MG.xml svneol=native#text/xml
@@ -552,6 +554,7 @@ common/main/fr_SC.xml -text
 common/main/fr_SN.xml svneol=native#text/xml
 common/main/fr_TD.xml svneol=native#text/xml
 common/main/fr_TG.xml svneol=native#text/xml
+common/main/fr_TN.xml -text
 common/main/fr_YT.xml svneol=native#text/xml
 common/main/fur.xml svneol=native#text/xml
 common/main/fur_IT.xml svneol=native#text/xml
