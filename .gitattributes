@@ -3467,6 +3467,7 @@ tools/cldr-apps/src/org/unicode/cldr/unittest/web/OldTestMain.java -text svneol=
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestAll.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestIntHash.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestSTFactory.java -text
+tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestUserSettingsData.java -text
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestXPathTable.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/data/TestSTFactory.dtd -text
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/data/TestSTFactory.xml svneol=native#text/xml
