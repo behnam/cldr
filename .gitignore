@@ -6,6 +6,10 @@ common/main/und*.xml
 docs/presentations/.~lock*
 seed/.project
 tools/SurveyConsole/.settings
+tools/SurveyConsole/WebContent/js/dojo/build-report.txt
+tools/SurveyConsole/WebContent/js/dojo/dijit
+tools/SurveyConsole/WebContent/js/dojo/dojo-release-*
+tools/SurveyConsole/WebContent/js/dojo/dojox
 tools/SurveyConsole/WebContent/js/surveyconfig.js
 tools/SurveyConsole/build
 tools/SurveyConsole/push.*
