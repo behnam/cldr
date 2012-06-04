@@ -2996,6 +2996,13 @@ seed/main/wo.xml svneol=native#text/xml
 seed/main/wo_Latn.xml svneol=native#text/xml
 seed/main/wo_Latn_SN.xml svneol=native#text/xml
 seed/main/wo_SN.xml svneol=native#text/xml
+tools/SurveyConsole/.classpath -text
+tools/SurveyConsole/.project -text
+tools/SurveyConsole/WebContent/META-INF/MANIFEST.MF -text
+tools/SurveyConsole/WebContent/css/surveytool.css svneol=native#text/css
+tools/SurveyConsole/WebContent/index.html svneol=native#text/html
+tools/SurveyConsole/WebContent/js/dojo/dojo.js -text
+tools/SurveyConsole/WebContent/js/surveyconsole.js -text
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
