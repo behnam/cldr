@@ -5,6 +5,10 @@ common/collation/und*.xml
 common/main/und*.xml
 docs/presentations/.~lock*
 seed/.project
+tools/SurveyConsole/.settings
+tools/SurveyConsole/WebContent/js/surveyconfig.js
+tools/SurveyConsole/build
+tools/SurveyConsole/push.*
 tools/cldr-apps/WebContent/Thumbs.db
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 tools/cldr-apps/WebContent/srl.jsp
