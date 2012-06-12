@@ -3761,10 +3761,12 @@ tools/cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/login.jsp -text
+tools/cldr-apps/WebContent/missing.png -text
 tools/cldr-apps/WebContent/myvotes.jsp -text
 tools/cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/output-status.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/provisional.png -text
 tools/cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/ques.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/rado.png -text svneol=unset#image/png
@@ -3777,6 +3779,7 @@ tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
 tools/cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/unconfirmed.png -text
 tools/cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
