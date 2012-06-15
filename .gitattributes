@@ -4006,6 +4006,7 @@ tools/java/org/unicode/cldr/util/PathDescription.java -text svneol=unset#text/pl
 tools/java/org/unicode/cldr/util/PathHeader.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/PathStarrer.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/PatternPlaceholders.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/PluralRulesUtil.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/PluralSnapshot.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/RegexLookup.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/RegexUtilities.java -text svneol=unset#text/plain
