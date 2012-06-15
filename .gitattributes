@@ -3827,7 +3827,6 @@ tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
 tools/java/com/ibm/icu/text/GenderInfo.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormat.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormatData.java -text svneol=unset#text/plain
-tools/java/com/ibm/icu/text/PluralRulesUtil.java -text svneol=unset#text/plain
 tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities.jar -text
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
