@@ -3907,6 +3907,7 @@ tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/test/CasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckForCopy.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CheckLogicalGroupings.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/test/CheckWidths.java -text
 tools/java/org/unicode/cldr/test/CompactDecimalFormat.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CompactDecimalFormatData.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CompactDecimalFormatTest.java -text svneol=unset#text/plain
@@ -3986,6 +3987,7 @@ tools/java/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset
 tools/java/org/unicode/cldr/unittest/data/common/main/root.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/data/xmb/en.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/package.html svneol=native#text/html
+tools/java/org/unicode/cldr/util/ApproximateWidth.java -text
 tools/java/org/unicode/cldr/util/Builder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/CLDRInfo.java -text
@@ -4020,6 +4022,7 @@ tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/VettingViewer.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/With.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/ApproximateWidth.txt -text
 tools/java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/CanadianAboriginal_Latin.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Canadian_Aboriginal_Latin.txt svneol=native#text/plain
