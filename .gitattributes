@@ -3831,6 +3831,7 @@ tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities.jar -text
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/common.css -text svneol=unset#text/css
+tools/java/org/unicode/cldr/draft/Categories.txt -text
 tools/java/org/unicode/cldr/draft/CharEncoder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/CodePoints.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/EnumLookup.java -text svneol=unset#text/plain
@@ -3855,6 +3856,7 @@ tools/java/org/unicode/cldr/draft/RadicalStroke.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/ScriptMetadata.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/draft/TestMixedScript.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/draft/Typology.java -text
 tools/java/org/unicode/cldr/draft/UnicodeMapBuilder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/UnicodeSetBuilderTests.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/UnicodeSetStates.txt svneol=native#text/plain
