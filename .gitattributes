@@ -3927,6 +3927,7 @@ tools/java/org/unicode/cldr/tool/DumpCoverage.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ExtractListInfo.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/FixDelimiters.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateAliases.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/GenerateApproximateWidths.java -text
 tools/java/org/unicode/cldr/tool/GenerateBcp47Text.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain
