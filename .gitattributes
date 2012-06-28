@@ -3879,6 +3879,8 @@ tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/GenderInfoTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/ListFormatTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
+tools/java/com/ibm/icu/text/DateIntervalFormat.java -text
+tools/java/com/ibm/icu/text/DateTimePatternGenerator.java -text
 tools/java/com/ibm/icu/text/GenderInfo.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormat.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormatData.java -text svneol=unset#text/plain
@@ -4052,6 +4054,7 @@ tools/java/org/unicode/cldr/util/Builder.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/CLDRInfo.java -text
 tools/java/org/unicode/cldr/util/Containment.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/DateTimeFormats.java -text
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/DeprecationChecker.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/DiscreteComparator.java svneol=native#text/plain
