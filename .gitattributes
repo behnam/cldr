@@ -68,6 +68,7 @@ converter/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Symbol.html 
 converter/java/org/unicode/cldr/draft/picker/PickerData.css svneol=native#text/css
 converter/java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
 converter/java/org/unicode/cldr/icu/IcuData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+converter/java/org/unicode/cldr/icu/IcuDataSplitter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 converter/java/org/unicode/cldr/icu/IcuTextWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 converter/java/org/unicode/cldr/icu/LdmlLocaleMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 converter/java/org/unicode/cldr/icu/LdmlMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
