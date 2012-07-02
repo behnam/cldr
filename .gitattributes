@@ -3880,8 +3880,6 @@ tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/GenderInfoTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/ListFormatTest.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
-tools/java/com/ibm/icu/text/DateIntervalFormat.java -text
-tools/java/com/ibm/icu/text/DateTimePatternGenerator.java -text
 tools/java/com/ibm/icu/text/GenderInfo.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormat.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormatData.java -text svneol=unset#text/plain
