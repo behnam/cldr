@@ -242,6 +242,7 @@ common/collation/be.xml svneol=native#text/xml
 common/collation/bg.xml svneol=native#text/xml
 common/collation/bn.xml svneol=native#text/xml
 common/collation/bs.xml svneol=native#text/xml
+common/collation/bs_Cyrl.xml -text
 common/collation/ca.xml svneol=native#text/xml
 common/collation/cs.xml svneol=native#text/xml
 common/collation/cy.xml svneol=native#text/xml
@@ -395,7 +396,10 @@ common/main/br_FR.xml svneol=native#text/xml
 common/main/brx.xml svneol=native#text/xml
 common/main/brx_IN.xml svneol=native#text/xml
 common/main/bs.xml svneol=native#text/xml
-common/main/bs_BA.xml svneol=native#text/xml
+common/main/bs_Cyrl.xml -text
+common/main/bs_Cyrl_BA.xml -text
+common/main/bs_Latn.xml -text
+common/main/bs_Latn_BA.xml -text
 common/main/byn.xml svneol=native#text/xml
 common/main/byn_ER.xml svneol=native#text/xml
 common/main/ca.xml svneol=native#text/xml
