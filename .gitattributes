@@ -347,6 +347,7 @@ common/main/ar_DZ.xml svneol=native#text/xml
 common/main/ar_EG.xml svneol=native#text/xml
 common/main/ar_EH.xml -text
 common/main/ar_ER.xml -text
+common/main/ar_IL.xml -text
 common/main/ar_IQ.xml svneol=native#text/xml
 common/main/ar_JO.xml svneol=native#text/xml
 common/main/ar_KM.xml -text
