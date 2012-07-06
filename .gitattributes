@@ -4020,6 +4020,7 @@ tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/wsb-dtd.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/xmb-dtd.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/xmbSkip.txt -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/unittest/CheckYear.java -text
 tools/java/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/LanguageTest.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/RegexTransform.java -text svneol=unset#text/plain
