@@ -3955,12 +3955,14 @@ tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Southeast[!!-~]A
 tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Symbol.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/PickerData.css svneol=native#text/css
 tools/java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/icu/Bcp47Mapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/CompareIcuOutput.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/icu/IcuData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/IcuDataSplitter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/IcuTextWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/LdmlMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/LocaleMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/icu/MapperUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/NewLdml2IcuConverter.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/icu/PluralsMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/SupplementalMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
