@@ -701,7 +701,9 @@ common/main/lag_TZ.xml svneol=native#text/xml
 common/main/lg.xml svneol=native#text/xml
 common/main/lg_UG.xml svneol=native#text/xml
 common/main/ln.xml svneol=native#text/xml
+common/main/ln_AO.xml -text
 common/main/ln_CD.xml svneol=native#text/xml
+common/main/ln_CF.xml -text
 common/main/ln_CG.xml svneol=native#text/xml
 common/main/lo.xml svneol=native#text/xml
 common/main/lo_LA.xml svneol=native#text/xml
