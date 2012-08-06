@@ -788,6 +788,7 @@ common/main/pt_AO.xml svneol=native#text/xml
 common/main/pt_BR.xml svneol=native#text/xml
 common/main/pt_CV.xml svneol=native#text/xml
 common/main/pt_GW.xml svneol=native#text/xml
+common/main/pt_MO.xml -text
 common/main/pt_MZ.xml svneol=native#text/xml
 common/main/pt_PT.xml svneol=native#text/xml
 common/main/pt_ST.xml svneol=native#text/xml
