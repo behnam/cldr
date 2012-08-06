@@ -361,6 +361,7 @@ common/main/ar_PS.xml svneol=native#text/xml
 common/main/ar_QA.xml svneol=native#text/xml
 common/main/ar_SA.xml svneol=native#text/xml
 common/main/ar_SD.xml svneol=native#text/xml
+common/main/ar_SO.xml -text
 common/main/ar_SY.xml svneol=native#text/xml
 common/main/ar_TD.xml svneol=native#text/xml
 common/main/ar_TN.xml svneol=native#text/xml
