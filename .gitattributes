@@ -2979,6 +2979,7 @@ keyboards/windows/zh-SG-t-k0-windows.xml -text svneol=unset#text/plain
 keyboards/windows/zh-t-k0-windows.xml -text svneol=unset#text/plain
 seed/collation/sa.xml svneol=native#text/xml
 seed/collation/tk.xml -text
+seed/collation/vo.xml -text
 seed/collation/wo.xml svneol=native#text/xml
 seed/main/ast.xml svneol=native#text/xml
 seed/main/ast_ES.xml svneol=native#text/xml
