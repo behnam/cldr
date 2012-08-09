@@ -3963,6 +3963,7 @@ tools/java/org/unicode/cldr/draft/picker/PickerData.css svneol=native#text/css
 tools/java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/icu/Bcp47Mapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/CompareIcuOutput.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/icu/DayPeriodsMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/IcuData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/IcuDataSplitter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/IcuTextWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
