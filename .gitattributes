@@ -982,6 +982,7 @@ common/main/zh_Hant_MO.xml svneol=native#text/xml
 common/main/zh_Hant_TW.xml svneol=native#text/xml
 common/main/zu.xml svneol=native#text/xml
 common/main/zu_ZA.xml svneol=native#text/xml
+common/properties/scriptMetadata.txt -text
 common/rbnf/af.xml svneol=native#text/xml
 common/rbnf/am.xml svneol=native#text/xml
 common/rbnf/ar.xml svneol=native#text/xml
@@ -3903,6 +3904,7 @@ tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain
 tools/java/com/ibm/icu/text/GenderInfo.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormat.java -text svneol=unset#text/plain
 tools/java/com/ibm/icu/text/ListFormatData.java -text svneol=unset#text/plain
+tools/java/how_to_notes.txt -text
 tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities.jar -text
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
@@ -4015,6 +4017,8 @@ tools/java/org/unicode/cldr/tool/GenerateBirth.java -text svneol=unset#text/plai
 tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain
+tools/java/org/unicode/cldr/tool/GenerateScriptMetadata.java -text
+tools/java/org/unicode/cldr/tool/GenerateScriptMetadata.txt -text
 tools/java/org/unicode/cldr/tool/GenerateUnicodeCounts.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateXMB.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/LanguageCodeConverter.java -text svneol=unset#text/plain
