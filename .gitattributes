@@ -3907,6 +3907,7 @@ tools/java/com/ibm/icu/text/ListFormatData.java -text svneol=unset#text/plain
 tools/java/how_to_notes.txt -text
 tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities.jar -text
+tools/java/libs/xercesImpl.jar -text
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/common.css -text svneol=unset#text/css
 tools/java/org/unicode/cldr/draft/Categories.txt -text
