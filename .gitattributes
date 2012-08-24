@@ -3001,6 +3001,7 @@ keyboards/windows/zh-Hant-t-k0-windows.xml -text svneol=unset#text/plain
 keyboards/windows/zh-MO-t-k0-windows.xml -text svneol=unset#text/plain
 keyboards/windows/zh-SG-t-k0-windows.xml -text svneol=unset#text/plain
 keyboards/windows/zh-t-k0-windows.xml -text svneol=unset#text/plain
+/readme.html -text
 seed/collation/sa.xml svneol=native#text/xml
 seed/collation/tk.xml -text
 seed/collation/vo.xml -text
@@ -4242,6 +4243,7 @@ tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh
 tools/scripts/sidewaysCharts.sh -text svneol=native#application/x-sh
 tools/scripts/web/bugdiffs -text
+/unicode-license.txt -text
 voting/2.0/ids/userIds.xml svneol=native#text/xml
 voting/2.0/ids/xpathIds.xml svneol=native#text/xml
 voting/2.0/main/af.xml svneol=native#text/xml
