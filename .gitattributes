@@ -1,4 +1,5 @@
 * text=auto !eol
+/apache-license.txt -text
 common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
@@ -2620,6 +2621,7 @@ external/windows/main/zh_HK.xml svneol=native#text/xml
 external/windows/main/zh_MO.xml svneol=native#text/xml
 external/windows/main/zh_SG.xml svneol=native#text/xml
 external/windows/main/zh_TW.xml svneol=native#text/xml
+/icu-license.html -text
 keyboards/android/_platform.xml svneol=native#text/plain
 keyboards/android/ar-t-k0-android-600dpi.xml svneol=native#text/plain
 keyboards/android/ar-t-k0-android-768dpi.xml svneol=native#text/plain
