@@ -4005,6 +4005,7 @@ tools/java/org/unicode/cldr/draft/JsonConverter.java svneol=native#text/plain%3B
 tools/java/org/unicode/cldr/draft/Keyboard.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/KeyboardModifierSet.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/MainCache.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/ManualChanges.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/Misc.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/NormalizedIdentifierParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/Parser.java svneol=native#text/plain%3Bcharset%3Dutf-8
