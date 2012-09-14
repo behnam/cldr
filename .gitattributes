@@ -3394,7 +3394,7 @@ tools/SurveyConsole/WebContent/js/surveyconsole.js -text
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
-tools/cldr-apps/.classpath -text svneol=unset#text/plain
+tools/cldr-apps/.classpath svneol=native#text/plain
 tools/cldr-apps/.factorypath -text
 tools/cldr-apps/.project -text svneol=unset#text/plain
 tools/cldr-apps/.settings/.jsdtscope -text
@@ -3964,12 +3964,13 @@ tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/java/build.xml svneol=native#text/xml
 tools/java/com/ibm/icu/dev/test/GenderInfoTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/dev/test/ListFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/com/ibm/icu/dev/test/util/PrettyPrinter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/GenderInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/how_to_notes.txt svneol=native#text/plain
+tools/java/libs/icu4j-src.jar -text
 tools/java/libs/icu4j.jar -text
+tools/java/libs/utilities-src.jar -text
 tools/java/libs/utilities.jar -text
 tools/java/libs/xercesImpl.jar -text
 tools/java/org/unicode/cldr/ant/CLDRBuild.java svneol=native#text/plain%3Bcharset%3Dutf-8
