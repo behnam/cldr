@@ -4160,6 +4160,7 @@ tools/java/org/unicode/cldr/posix/POSIX_LCMonetary.java svneol=native#text/plain
 tools/java/org/unicode/cldr/posix/POSIX_LCNumeric.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/posix/POSIX_LCTime.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/posix/package.html svneol=native#text/html
+tools/java/org/unicode/cldr/test/BuildIcuCompactDecimalFormat.java -text
 tools/java/org/unicode/cldr/test/CLDRTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckAlt.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4184,6 +4185,7 @@ tools/java/org/unicode/cldr/test/CheckWidths.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/test/CheckZones.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CompactDecimalFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CompactDecimalFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/test/CompactDecimalFormatData2.java -text
 tools/java/org/unicode/cldr/test/CompactDecimalFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/ConsoleCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CoverageLevel.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4451,6 +4453,7 @@ tools/java/org/unicode/cldr/util/Transformer.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/VerifyCompactNumbers.java -text
 tools/java/org/unicode/cldr/util/VettingViewer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VoteResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/With.java svneol=native#text/plain%3Bcharset%3Dutf-8
