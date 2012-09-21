@@ -4214,6 +4214,7 @@ tools/java/org/unicode/cldr/test/TestTransformsSimple.java svneol=native#text/pl
 tools/java/org/unicode/cldr/test/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/AddPopulationData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CLDRCompare.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/CLDRFileTransformer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CLDRFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CLDRModify.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CheckEnglishCurrencyNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
