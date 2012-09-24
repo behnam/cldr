@@ -198,6 +198,7 @@ t5297/java/org/unicode/cldr/posix/POSIX_LCMonetary.java svneol=native#text/plain
 t5297/java/org/unicode/cldr/posix/POSIX_LCNumeric.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/posix/POSIX_LCTime.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/posix/package.html svneol=native#text/html
+t5297/java/org/unicode/cldr/test/BuildIcuCompactDecimalFormat.java -text
 t5297/java/org/unicode/cldr/test/CLDRTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/test/CasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/test/CheckAlt.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -222,6 +223,7 @@ t5297/java/org/unicode/cldr/test/CheckWidths.java svneol=native#text/plain%3Bcha
 t5297/java/org/unicode/cldr/test/CheckZones.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/test/CompactDecimalFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/test/CompactDecimalFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+t5297/java/org/unicode/cldr/test/CompactDecimalFormatData2.java -text
 t5297/java/org/unicode/cldr/test/CompactDecimalFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/test/ConsoleCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/test/CoverageLevel.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -250,6 +252,7 @@ t5297/java/org/unicode/cldr/test/TestTransformsSimple.java svneol=native#text/pl
 t5297/java/org/unicode/cldr/test/package.html svneol=native#text/html
 t5297/java/org/unicode/cldr/tool/AddPopulationData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/tool/CLDRCompare.java svneol=native#text/plain%3Bcharset%3Dutf-8
+t5297/java/org/unicode/cldr/tool/CLDRFileTransformer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/tool/CLDRFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/tool/CLDRModify.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/tool/CheckEnglishCurrencyNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -489,6 +492,7 @@ t5297/java/org/unicode/cldr/util/Transformer.java svneol=native#text/plain%3Bcha
 t5297/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+t5297/java/org/unicode/cldr/util/VerifyCompactNumbers.java -text
 t5297/java/org/unicode/cldr/util/VettingViewer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/util/VoteResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t5297/java/org/unicode/cldr/util/With.java svneol=native#text/plain%3Bcharset%3Dutf-8
