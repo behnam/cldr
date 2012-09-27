@@ -4234,6 +4234,7 @@ tools/java/org/unicode/cldr/tool/ExtractMessages.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/tool/FallbackIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/FallbackIteratorDataGenerator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/FilterCharacterFallbacks.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/FilterFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/FixDelimiters.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateAliases.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateApproximateWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
