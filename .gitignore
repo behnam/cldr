@@ -4,7 +4,6 @@ common/.project
 common/collation/und*.xml
 common/main/und*.xml
 seed/.project
-specs/presentations/.~lock*
 tools/SurveyConsole/.settings
 tools/SurveyConsole/WebContent/js/dojo/build-report.txt
 tools/SurveyConsole/WebContent/js/dojo/dijit
