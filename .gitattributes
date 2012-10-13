@@ -2762,7 +2762,6 @@ tools/java/org/unicode/cldr/draft/idnaTestLog.txt svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/draft/normalizeForMatchExceptions.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/picker/CharData-localizations.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/picker/CharData.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/draft/picker/PickerData[!!-~]-[!!-~]Format[!!-~]&[!!-~]Whitespace.html svneol=native#text/html%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/picker/PickerData.css svneol=native#text/css
 tools/java/org/unicode/cldr/draft/picker/PickerData_African_Scripts.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/PickerData_American_Scripts.html svneol=native#text/html
