@@ -3015,6 +3015,8 @@ tools/java/org/unicode/cldr/tool/ShowLocaleCoverage.java svneol=native#text/plai
 tools/java/org/unicode/cldr/tool/SimpleLocaleParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/TablePrinter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/VettingAdder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/bytype-index.css -text
+tools/java/org/unicode/cldr/tool/bytype-index.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/delimiterFixes.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/errors.css svneol=native#text/css
@@ -3023,7 +3025,10 @@ tools/java/org/unicode/cldr/tool/keyboards.css -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/modify_config.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/tool/summary-index.css -text
+tools/java/org/unicode/cldr/tool/summary-index.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
+tools/java/org/unicode/cldr/tool/transforms-index.css -text
 tools/java/org/unicode/cldr/tool/wsb-dtd.xml svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/xmb-dtd.xml svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/xmbSkip.txt svneol=native#text/plain
@@ -3182,6 +3187,7 @@ tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VerifyCompactNumbers.java -text
+tools/java/org/unicode/cldr/util/VerifyZones.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VettingViewer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VoteResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/With.java svneol=native#text/plain%3Bcharset%3Dutf-8
