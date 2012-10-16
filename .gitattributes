@@ -3021,6 +3021,7 @@ tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/delimiterFixes.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/errors.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/index.css -text
+tools/java/org/unicode/cldr/tool/keyboards-index.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/keyboards.css -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/modify_config.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
