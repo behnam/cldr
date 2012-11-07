@@ -1831,6 +1831,7 @@ specs/ldml/repository_access.html svneol=native#text/html%3Bcharset%3Dutf-8
 specs/ldml/survey_tool.html svneol=native#text/html%3Bcharset%3Dutf-8
 specs/ldml/survey_tool_known_bugs.html svneol=native#text/html
 specs/ldml/timezone_ids.html svneol=native#text/html%3Bcharset%3Dutf-8
+specs/ldml/tr35-collation.html svneol=native#text/html
 specs/ldml/tr35.html svneol=native#text/html%3Bcharset%3Dutf-8
 specs/ldml/transliteration_guidelines.html svneol=native#text/html%3Bcharset%3Dutf-8
 specs/ldml/version/1.2.html svneol=native#text/html%3Bcharset%3Dutf-8
