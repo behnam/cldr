@@ -2197,6 +2197,7 @@ tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
 tools/cldr-apps/WebContent/AdminAjax.jsp -text
 tools/cldr-apps/WebContent/AdminPanel.jsp -text
+tools/cldr-apps/WebContent/CLDR23Tool.jsp -text
 tools/cldr-apps/WebContent/DataExport.jsp -text
 tools/cldr-apps/WebContent/RefreshRow.jsp -text
 tools/cldr-apps/WebContent/STLogo.png -text svneol=unset#image/png
@@ -2702,6 +2703,7 @@ tools/cldr-apps/src/org/unicode/cldr/web/CLDRProgressIndicator.java svneol=nativ
 tools/cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/ChunkyReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-apps/src/org/unicode/cldr/web/CompareCLDRFile.java -text
 tools/cldr-apps/src/org/unicode/cldr/web/CookieSession.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/DBUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/DataSection.java svneol=native#text/plain%3Bcharset%3Dutf-8
