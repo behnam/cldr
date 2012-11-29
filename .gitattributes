@@ -1298,6 +1298,11 @@ common/transforms/sk-ja.xml svneol=native#text/xml
 common/transforms/sk-sk_FONIPA.xml svneol=native#text/xml
 common/transforms/sk_FONIPA-ja.xml svneol=native#text/xml
 common/transforms/zh_Latn_PINYIN-ru.xml svneol=native#text/xml
+common/uca/CollationTest_CLDR_NON_IGNORABLE.txt svneol=native#text/plain
+common/uca/CollationTest_CLDR_SHIFTED.txt svneol=native#text/plain
+common/uca/FractionalUCA.txt svneol=native#text/plain
+common/uca/UCA_Rules.txt svneol=native#text/plain
+common/uca/allkeys_CLDR.txt svneol=native#text/plain
 /icu-license.html -text
 keyboards/android/_platform.xml svneol=native#text/plain
 keyboards/android/ar-t-k0-android-600dpi.xml svneol=native#text/plain
