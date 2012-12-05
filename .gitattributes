@@ -2639,6 +2639,7 @@ tools/cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
+tools/cldr-apps/WebContent/lock.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/login.jsp -text
 tools/cldr-apps/WebContent/missing.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/myvotes.jsp -text
