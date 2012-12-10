@@ -24,6 +24,7 @@ tools/cldr-apps/derby.log
 tools/cldr-apps/dist
 tools/cldr-apps/doc
 tools/cldr-apps/nbbuild
+tools/cldr-apps/testing_cldr_home
 tools/java/*.jar
 tools/java/.build.properties.swp
 tools/java/build
