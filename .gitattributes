@@ -3039,6 +3039,7 @@ tools/java/org/unicode/cldr/tool/GenerateScriptMetadata.java svneol=native#text/
 tools/java/org/unicode/cldr/tool/GenerateScriptMetadata.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateSidewaysView.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateStatistics.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GenerateSupplementalZoneData.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateTempDateData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateTransformCharts.java svneol=native#text/plain%3Bcharset%3Dutf-8
