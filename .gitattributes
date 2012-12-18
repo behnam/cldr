@@ -3293,8 +3293,9 @@ tools/java/org/unicode/cldr/util/data/births/outdated.data -text
 tools/java/org/unicode/cldr/util/data/births/outdatedEnglish.data -text
 tools/java/org/unicode/cldr/util/data/chart_messages.html svneol=native#text/html%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/data/currency_codes_list-1.htm svneol=native#text/html%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/data/currencycodeslist.txt svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/data/dl_cldr_extensions.xml -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/data/dl_iso_table_a1.xml -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/data/dl_iso_tables_a3.xml -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
 tools/java/org/unicode/cldr/util/data/external/Iso639-5.html svneol=native#text/html%3Bcharset%3Dutf-8
