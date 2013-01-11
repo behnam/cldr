@@ -2653,6 +2653,7 @@ tools/cldr-apps/WebContent/login.jsp -text
 tools/cldr-apps/WebContent/missing.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/myvotes.jsp -text
 tools/cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/numbers.jsp -text
 tools/cldr-apps/WebContent/okay.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/output-status.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/provisional.png -text svneol=unset#image/png
