@@ -2285,6 +2285,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_compact.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_datetime.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp svneol=native#text/plain
@@ -2294,6 +2295,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_rxt.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_zones.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/row.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/show_voting.jsp -text
@@ -2790,6 +2792,7 @@ tools/java/org/unicode/cldr/draft/Compacter.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/draft/CompoundTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/EnumLookup.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ExemplarInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/ExtractCountItems.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/FileUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/FilteredTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/FixArchaic.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -3008,6 +3011,7 @@ tools/java/org/unicode/cldr/tool/CldrNode.java svneol=native#text/plain%3Bcharse
 tools/java/org/unicode/cldr/tool/CollectExemplars.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/CompareStockDatetime.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ConvertLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ConvertXTB.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CountItems.java svneol=native#text/plain%3Bcharset%3Dutf-8
