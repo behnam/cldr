@@ -748,9 +748,10 @@ common/main/ml_IN.xml svneol=native#text/xml
 common/main/mr.xml svneol=native#text/xml
 common/main/mr_IN.xml svneol=native#text/xml
 common/main/ms.xml svneol=native#text/xml
-common/main/ms_BN.xml svneol=native#text/xml
-common/main/ms_MY.xml svneol=native#text/xml
-common/main/ms_SG.xml svneol=native#text/xml
+common/main/ms_Latn.xml -text
+common/main/ms_Latn_BN.xml -text
+common/main/ms_Latn_MY.xml -text
+common/main/ms_Latn_SG.xml -text
 common/main/mt.xml svneol=native#text/xml
 common/main/mt_MT.xml svneol=native#text/xml
 common/main/mua.xml svneol=native#text/xml
@@ -1794,6 +1795,8 @@ seed/main/mn_Cyrl_MN.xml svneol=native#text/xml
 seed/main/mn_Mong.xml svneol=native#text/xml
 seed/main/mn_Mong_CN.xml svneol=native#text/xml
 seed/main/ms_Arab.xml -text
+seed/main/ms_Arab_BN.xml -text
+seed/main/ms_Arab_MY.xml -text
 seed/main/nds.xml svneol=native#text/xml
 seed/main/nds_DE.xml svneol=native#text/xml
 seed/main/ny.xml svneol=native#text/xml
