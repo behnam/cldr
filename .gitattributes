@@ -1828,6 +1828,7 @@ seed/main/wo.xml svneol=native#text/xml
 seed/main/wo_Latn.xml svneol=native#text/xml
 seed/main/wo_Latn_SN.xml svneol=native#text/xml
 seed/main/wo_SN.xml svneol=native#text/xml
+seed/main/yo_BJ.xml -text
 specs/ldml/big_red_switch.html svneol=native#text/html
 specs/ldml/charts.html svneol=native#text/html
 specs/ldml/cldr.css -text svneol=unset#text/css
