@@ -3234,6 +3234,7 @@ tools/java/org/unicode/cldr/util/PrettyPath.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/RandomStringGenerator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/RangeAbbreviator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ReferenceStringSearch.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/RegexFileParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/RegexLookup.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/RegexUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Segmenter.java svneol=native#text/plain%3Bcharset%3Dutf-8
