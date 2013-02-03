@@ -1777,7 +1777,8 @@ seed/main/ha_Arab_NG.xml svneol=native#text/xml
 seed/main/ha_Arab_SD.xml svneol=native#text/xml
 seed/main/ha_SD.xml svneol=native#text/xml
 seed/main/iu.xml svneol=native#text/xml
-seed/main/iu_CA.xml svneol=native#text/xml
+seed/main/iu_Cans.xml -text
+seed/main/iu_Cans_CA.xml -text
 seed/main/kaj.xml svneol=native#text/xml
 seed/main/kaj_NG.xml svneol=native#text/xml
 seed/main/kcg.xml svneol=native#text/xml
