@@ -2984,7 +2984,6 @@ tools/java/org/unicode/cldr/test/CompactDecimalFormatData.java svneol=native#tex
 tools/java/org/unicode/cldr/test/CompactDecimalFormatData2.java -text
 tools/java/org/unicode/cldr/test/CompactDecimalFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/ConsoleCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/test/CoverageLevel.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CoverageLevel2.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/DateOrder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/DisplayAndInputProcessor.java svneol=native#text/plain%3Bcharset%3Dutf-8
