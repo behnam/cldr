@@ -3383,6 +3383,7 @@ tools/java/org/unicode/cldr/util/data/test/sk-ja.txt svneol=native#text/plain%3B
 tools/java/org/unicode/cldr/util/data/test/sk-sk_FONIPA.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/test/sk_FONIPA-ja.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/test/zh_Latn_PINYIN-ru.txt svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/data/testLdml2Icu.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/test_help_messages.html svneol=native#text/html%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/timezoneversion.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/tlds-alpha-by-domain.txt svneol=native#text/plain
