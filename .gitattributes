@@ -1280,6 +1280,8 @@ common/transforms/cs-ja.xml svneol=native#text/xml
 common/transforms/cs-ko.xml svneol=native#text/xml
 common/transforms/cs_FONIPA-ja.xml svneol=native#text/xml
 common/transforms/cs_FONIPA-ko.xml svneol=native#text/xml
+common/transforms/el-Lower.xml svneol=native#text/xml
+common/transforms/el-Title.xml svneol=native#text/xml
 common/transforms/el-Upper.xml -text
 common/transforms/es-am.xml svneol=native#text/xml
 common/transforms/es-es_FONIPA.xml svneol=native#text/xml
@@ -1308,6 +1310,8 @@ common/transforms/ru-zh.xml svneol=native#text/xml
 common/transforms/sk-ja.xml svneol=native#text/xml
 common/transforms/sk-sk_FONIPA.xml svneol=native#text/xml
 common/transforms/sk_FONIPA-ja.xml svneol=native#text/xml
+common/transforms/tr-Lower.xml svneol=native#text/xml
+common/transforms/tr-Title.xml svneol=native#text/xml
 common/transforms/tr-Upper.xml -text
 common/transforms/zh_Latn_PINYIN-ru.xml svneol=native#text/xml
 common/uca/CollationTest_CLDR_NON_IGNORABLE.txt svneol=native#text/plain
