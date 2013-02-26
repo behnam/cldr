@@ -2904,6 +2904,7 @@ tools/java/org/unicode/cldr/icu/DayPeriodsMapper.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/icu/DeprecatedConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/ExtractICUData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/FixEras.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/icu/GenerateISO639LanguageTables.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/icu/ICU2LDMLWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/ICUID.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/ICULog.java svneol=native#text/plain%3Bcharset%3Dutf-8
