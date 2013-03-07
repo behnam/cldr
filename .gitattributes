@@ -138,6 +138,579 @@
 3669reset-cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java -text svneol=unset#text/plain
 3669reset-cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java -text svneol=unset#text/plain
 3669reset-cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
+branch4568.cldr-apps/.classpath svneol=native#text/plain
+branch4568.cldr-apps/.factorypath -text
+branch4568.cldr-apps/.project -text svneol=unset#text/plain
+branch4568.cldr-apps/.settings/.jsdtscope -text
+branch4568.cldr-apps/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
+branch4568.cldr-apps/.settings/org.eclipse.jdt.apt.core.prefs -text
+branch4568.cldr-apps/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+branch4568.cldr-apps/.settings/org.eclipse.jdt.ui.prefs -text
+branch4568.cldr-apps/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs -text svneol=unset#text/plain
+branch4568.cldr-apps/.settings/org.eclipse.jst.jsp.core.prefs -text
+branch4568.cldr-apps/.settings/org.eclipse.ltk.core.refactoring.prefs -text svneol=unset#text/plain
+branch4568.cldr-apps/.settings/org.eclipse.wst.common.component -text
+branch4568.cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml svneol=native#text/plain
+branch4568.cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
+branch4568.cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+branch4568.cldr-apps/WebContent/AdminAjax.jsp -text
+branch4568.cldr-apps/WebContent/AdminPanel.jsp -text
+branch4568.cldr-apps/WebContent/CLDR23Tool.jsp -text
+branch4568.cldr-apps/WebContent/DataExport.jsp -text
+branch4568.cldr-apps/WebContent/RefreshRow.jsp -text
+branch4568.cldr-apps/WebContent/STLogo.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/SampleNumber.jsp svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/r_steps_menu.jspf -text
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/report.jspf -text
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/report_top.jspf -text
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/session.jspf -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/activation.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/antlr-runtime-3.4.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/derby-10.8.2.2.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/jdom-1.1.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/jna-3.4.0.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-apache-commons.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-derby.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-jdom.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-mail.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-rome.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-svnkit.d/LICENSE-ANTLR.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-svnkit.d/LICENSE-JAVAHL.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-svnkit.d/LICENSE-JNA.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-svnkit.d/LICENSE-SEQUENCE.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-svnkit.d/LICENSE-SQLJET.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-svnkit.d/LICENSE-TRILEAD.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/license-svnkit.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/mail.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/readme.txt svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/lib/rome-1.0.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/sequence-library-1.0.1.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/sqljet-1.1.0.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/svnkit-1.7.4.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/svnkit-cli-1.7.4.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/svnkit-javahl16-1.7.4.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/lib/trilead-ssh2-1.0.0-build214.jar -text
+branch4568.cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/ajax_status.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/am_pm.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/characters.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/currency_format.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/dataitems_header.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/datarow_close_table_code.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/datarow_open_table_code.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/datarow_short.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_code.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/datarow_short_prettypath.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/date_formats.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/day_periods.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/decimal_format.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/decimal_separator.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/eras.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/generalinfo.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/hidden.html svneol=native#text/html
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/manage.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/menu_top.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/narrow_days.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/narrow_months.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/new.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/numbering_system.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/numbers.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_compact.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_datetime.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_directiontest.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_englishchanged.jsp svneol=native#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_monkey.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_months.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_rxt.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/r_zones.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/row.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/show_voting.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/stnotices.jspf -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/usermenu.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/wide_months.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/yes_no.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/web.xml svneol=native#text/xml
+branch4568.cldr-apps/WebContent/about.jsp -text
+branch4568.cldr-apps/WebContent/adduser.jsp -text
+branch4568.cldr-apps/WebContent/approved.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/bar0.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/bar1.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/browse.jsp -text
+branch4568.cldr-apps/WebContent/browse_results.jsp -text
+branch4568.cldr-apps/WebContent/chat.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/check.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/conf.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/conf2.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/contributed.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/createAndLogin.jsp -text
+branch4568.cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/AdapterRegistry.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/DeferredList.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/Evented.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/LICENSE -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/NodeList-data.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/NodeList-dom.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/NodeList-fx.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/NodeList-html.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/NodeList-manipulate.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/NodeList-traverse.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/OpenAjax.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/Stateful.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/Color.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/Deferred.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/NodeList.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/array.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/browser.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/config.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/configFirefoxExtension.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/configNode.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/configRhino.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/configSpidermonkey.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/connect.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/declare.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/event.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/fx.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/html.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/json.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/kernel.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/lang.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/loader.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/query.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/sniff.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/unload.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/url.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/window.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_base/xhr.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/LICENSE -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/errorIcon.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/firebug.css -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/firebug.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/infoIcon.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/tab_lft_norm.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/tab_lft_over.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/tab_rgt_norm.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/tab_rgt_over.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/_firebug/warningIcon.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/aspect.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/back.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/behavior.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cache.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/LICENSE -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/README -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/monetary.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ar/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ar/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ar/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ar/hebrew.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ar/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ar/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ca/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ca/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ca/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/cs/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/cs/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/cs/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/da/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/da/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/da/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/da/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/da/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/de/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/de/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/de/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/de/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/de/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/el/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/el/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/el/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/el/hebrew.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/el/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-au/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-au/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-au/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-ca/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-ca/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-gb/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-gb/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-gb/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en-gb/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/en/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/es/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/es/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/es/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/es/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/es/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fi/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fi/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fi/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fi/hebrew.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fi/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fi/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fr-ch/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fr-ch/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fr/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fr/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/fr/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/he/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/he/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/he/hebrew.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/he/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/he/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/hebrew.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/hu/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/hu/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/hu/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/it/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/it/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/it/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ja/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ja/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ja/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ko/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ko/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ko/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/nb/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/nb/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/nb/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/nl/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/nl/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/nl/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pl/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pl/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pl/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pt-pt/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pt-pt/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pt/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pt/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/pt/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ro/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ro/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ro/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ro/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ru/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ru/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/ru/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sk/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sk/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sk/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sl/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sl/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sl/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sv/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sv/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/sv/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/th/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/th/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/th/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/th/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/tr/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/tr/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/tr/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hant/buddhist.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hant/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hant/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hant/islamic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hant/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hk/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hk/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-hk/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-tw/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh-tw/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh/gregorian.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/nls/zh/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cldr/supplemental.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/cookie.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/currency.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/ItemFileReadStore.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/ItemFileWriteStore.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/ObjectStore.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/api/Identity.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/api/Notification.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/api/Read.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/api/Request.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/api/Write.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/util/filter.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/util/simpleFetch.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/data/util/sorter.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/date.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/date/locale.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/date/stamp.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/AutoSource.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Avatar.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Container.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Manager.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Moveable.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Mover.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Selector.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Source.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/Target.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/TimedMoveable.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/autoscroll.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/common.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dnd/move.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dojo.js -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dojo.profile.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom-attr.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom-class.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom-construct.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom-form.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom-geometry.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom-prop.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom-style.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/dom.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/domReady.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/fx.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/fx/Toggler.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/fx/easing.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/gears.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/has.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/hash.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/html.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/i18n.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/io-query.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/io/iframe.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/io/script.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/jaxer.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/json.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/keys.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/loadInit.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/main.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/mouse.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/ar/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/az/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/ca/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/cs/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/da/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/de/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/el/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/es/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/fi/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/fr/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/he/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/hr/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/hu/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/it/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/ja/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/kk/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/ko/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/nb/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/nl/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/pl/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/pt-pt/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/pt/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/ro/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/ru/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/sk/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/sl/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/sv/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/th/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/tr/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/zh-tw/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/nls/zh/colors.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/number.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/on.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/package.json -text svneol=unset#application/json
+branch4568.cldr-apps/WebContent/dojoroot/dojo/parser.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/query.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/ready.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/regexp.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/require.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/LICENSE -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/_modules.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/blank.gif -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/blank.html svneol=native#text/html
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/dnd.css -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/dojo.css -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/iframe_history.html svneol=native#text/html
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/images/dndCopy.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/images/dndMove.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/images/dndNoCopy.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/resources/images/dndNoMove.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/dojoroot/dojo/rpc/JsonService.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/rpc/JsonpService.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/rpc/RpcService.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/selector/_loader.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/selector/acme.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/selector/lite.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/Cache.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/DataStore.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/JsonRest.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/Memory.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/Observable.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/README -text
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/api/Store.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/util/QueryResults.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/store/util/SimpleQueryEngine.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/string.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/text.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/topic.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/touch.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/uacss.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/dojo/window.js -text svneol=unset#application/javascript
+branch4568.cldr-apps/WebContent/dojoroot/surveyTool/nls/stui.js -text svneol=unset#text/javascript
+branch4568.cldr-apps/WebContent/feed.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/hand.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/header.jspf -text
+branch4568.cldr-apps/WebContent/index.jsp -text
+branch4568.cldr-apps/WebContent/js/g.bar.js -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/js/g.dot.js -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/js/g.line.js -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
+branch4568.cldr-apps/WebContent/lock.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/login.jsp -text
+branch4568.cldr-apps/WebContent/missing.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/myvotes.jsp -text
+branch4568.cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/numbers.jsp -text
+branch4568.cldr-apps/WebContent/okay.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/output-status.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/provisional.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/ques-2.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/ques.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/rado.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/radx.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/squo.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/star.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/statistics.jsp svneol=native#text/plain
+branch4568.cldr-apps/WebContent/stop.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+branch4568.cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/unconfirmed.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/vote.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+branch4568.cldr-apps/WebContent/xpath.jsp -text
+branch4568.cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
+branch4568.cldr-apps/build-sample.properties -text
+branch4568.cldr-apps/docs/readme-staging.txt svneol=native#text/plain
+branch4568.cldr-apps/docs/readme.css -text svneol=unset#text/css
+branch4568.cldr-apps/docs/stops.html svneol=native#text/html%3Bcharset%3Dutf-8
+branch4568.cldr-apps/docs/stops.txt svneol=native#text/plain
+branch4568.cldr-apps/readme.txt svneol=native#text/plain
+branch4568.cldr-apps/src/org/json/CDL.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/Cookie.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/CookieList.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/HTTP.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/HTTPTokener.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONArray.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONException.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONML.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONObject.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONString.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONStringer.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONTokener.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/JSONWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/Test.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/XML.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/XMLTokener.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/json/license.html svneol=native#text/html
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/OldTestMain.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/TestAll.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/TestIntHash.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/TestSTFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/TestUserSettingsData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/TestXPathTable.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/data/TestSTFactory.dtd -text
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/data/TestSTFactory.xml svneol=native#text/xml
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/perf/NullPerf.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/unittest/web/perf/PerfTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/util/CLDRConfigImpl.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/AttributeChoice.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/BallotBox.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/BallotBoxFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/BallotBoxVoteNotAcceptedException.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/BaseAndPrefixMatcher.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/CLDRProgressIndicator.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/CalendarSortMode.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/ChunkyReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/CodeSortMode.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/CompareCLDRFile.java -text
+branch4568.cldr-apps/src/org/unicode/cldr/web/CookieSession.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/DBUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/DataSection.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/DataSubmissionResultHandler.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/DataTester.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/DefaultDataSubmissionResultHandler.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/DisputePageManager.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/EphemeralSettings.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/ExampleBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/IntHash.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/InterestSort.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/JspWebContext.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/LocaleChangeRegistry.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/LocaleTree.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/MailSender.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/MetazoneSortMode.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/MutableStamp.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/NameSort.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/OutputFileManager.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/Partition.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/PathHeaderSort.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/Race.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/Registerable.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/STFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/STPoolingListener.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SortMode.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/Stamp.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/StatisticsUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SummarizingSubmissionResultHandler.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SurveyAjax.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SurveyForum.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SurveyLog.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SurveyMain.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SurveyMenus.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SurveyProgressManager.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/SurveyThread.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/URLWebContext.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/UserRegistry.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/UserSettings.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/UserSettingsData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/VettingViewerQueue.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/WebContext.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/XPathTable.java svneol=native#text/plain%3Bcharset%3Dutf-8
+branch4568.cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 c2323/common/collation/af.xml svneol=native#text/xml
 c2323/common/collation/ar.xml svneol=native#text/xml
 c2323/common/collation/as.xml svneol=native#text/xml
