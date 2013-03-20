@@ -153,6 +153,7 @@ branch4568.cldr-apps/.settings/org.eclipse.wst.common.component -text
 branch4568.cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml svneol=native#text/plain
 branch4568.cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 branch4568.cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+branch4568.cldr-apps/.settings/org.eclipse.wst.xsl.core.prefs -text
 branch4568.cldr-apps/WebContent/AdminAjax.jsp -text
 branch4568.cldr-apps/WebContent/AdminPanel.jsp -text
 branch4568.cldr-apps/WebContent/CLDR23Tool.jsp -text
@@ -197,6 +198,7 @@ branch4568.cldr-apps/WebContent/WEB-INF/lib/svnkit-cli-1.7.4.jar -text
 branch4568.cldr-apps/WebContent/WEB-INF/lib/svnkit-javahl16-1.7.4.jar -text
 branch4568.cldr-apps/WebContent/WEB-INF/lib/trilead-ssh2-1.0.0-build214.jar -text
 branch4568.cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/DynamicDataSection.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
@@ -245,6 +247,8 @@ branch4568.cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/row.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/show_voting.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/st_footer.jsp -text
+branch4568.cldr-apps/WebContent/WEB-INF/tmpl/st_header.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
 branch4568.cldr-apps/WebContent/WEB-INF/tmpl/stnotices.jspf -text svneol=unset#text/plain
