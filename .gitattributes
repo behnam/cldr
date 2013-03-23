@@ -5520,6 +5520,7 @@ branch4568.cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
 branch4568.cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
 branch4568.cldr-apps/WebContent/unconfirmed.png -text svneol=unset#image/png
 branch4568.cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
+branch4568.cldr-apps/WebContent/v.jsp -text
 branch4568.cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 branch4568.cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
 branch4568.cldr-apps/WebContent/warn.png -text svneol=unset#image/png
