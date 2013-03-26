@@ -2238,6 +2238,7 @@ tools/cldr-apps/.settings/org.eclipse.wst.common.component -text
 tools/cldr-apps/.settings/org.eclipse.wst.common.project.facet.core.xml svneol=native#text/plain
 tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.container -text
 tools/cldr-apps/.settings/org.eclipse.wst.jsdt.ui.superType.name -text
+tools/cldr-apps/.settings/org.eclipse.wst.xsl.core.prefs -text
 tools/cldr-apps/WebContent/AdminAjax.jsp -text
 tools/cldr-apps/WebContent/AdminPanel.jsp -text
 tools/cldr-apps/WebContent/CLDR23Tool.jsp -text
@@ -2282,6 +2283,7 @@ tools/cldr-apps/WebContent/WEB-INF/lib/svnkit-cli-1.7.4.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/svnkit-javahl16-1.7.4.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/trilead-ssh2-1.0.0-build214.jar -text
 tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/DynamicDataSection.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_days.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/abbreviated_months.jsp -text
@@ -2330,6 +2332,8 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/row.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/show_voting.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/small_login.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/st_footer.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/st_header.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/stnotices.jspf -text svneol=unset#text/plain
@@ -7601,6 +7605,7 @@ tools/cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/unconfirmed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/upload.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/v.jsp -text
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
