@@ -8216,6 +8216,7 @@ tools/java/org/unicode/cldr/util/data/ApproximateWidth.txt svneol=native#text/pl
 tools/java/org/unicode/cldr/util/data/Arabic_Latin.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/CanadianAboriginal_Latin.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/Canadian_Aboriginal_Latin.txt svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/data/CheckCLDR-exceptions.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/Cyrillic_Latin.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/Georgian_Latin.txt svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/data/ISO-639-2_values_8bits.txt svneol=native#text/plain%3Bcharset%3Dutf-8
