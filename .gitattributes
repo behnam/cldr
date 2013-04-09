@@ -7983,6 +7983,7 @@ tools/java/org/unicode/cldr/tool/GenerateKaraList.java svneol=native#text/plain%
 tools/java/org/unicode/cldr/tool/GenerateLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateLikelySubtagTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateMaximalLocales.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GeneratePluralList.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateScriptMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateScriptMetadata.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateSeedDurations.java svneol=native#text/plain%3Bcharset%3Dutf-8
