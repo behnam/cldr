@@ -490,6 +490,7 @@ common/main/en_LR.xml svneol=native#text/xml
 common/main/en_LS.xml svneol=native#text/xml
 common/main/en_MG.xml svneol=native#text/xml
 common/main/en_MH.xml svneol=native#text/xml
+common/main/en_MO.xml -text
 common/main/en_MP.xml svneol=native#text/xml
 common/main/en_MT.xml svneol=native#text/xml
 common/main/en_MU.xml svneol=native#text/xml
