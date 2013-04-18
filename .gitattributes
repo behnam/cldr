@@ -7878,6 +7878,7 @@ tools/java/org/unicode/cldr/icu/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/icu/timezone_aliases.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/json/CldrItem.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/json/CldrNode.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/json/JSON_config.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/json/Ldml2JsonConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/json/LdmlConvertRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/package.html svneol=native#text/html
