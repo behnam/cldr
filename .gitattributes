@@ -414,6 +414,8 @@ common/main/byn_ER.xml svneol=native#text/xml
 common/main/ca.xml svneol=native#text/xml
 common/main/ca_AD.xml svneol=native#text/xml
 common/main/ca_ES.xml svneol=native#text/xml
+common/main/ca_FR.xml -text
+common/main/ca_IT.xml -text
 common/main/cgg.xml svneol=native#text/xml
 common/main/cgg_UG.xml svneol=native#text/xml
 common/main/chr.xml svneol=native#text/xml
