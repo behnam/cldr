@@ -1774,6 +1774,7 @@ keyboards/windows/zh-MO-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/zh-SG-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/zh-t-k0-windows.xml svneol=native#text/xml
 /readme.html svneol=native#text/html
+seed/collation/lkt.xml -text
 seed/collation/sa.xml svneol=native#text/xml
 seed/collation/tk.xml svneol=native#text/xml
 seed/collation/vo.xml svneol=native#text/xml
@@ -1812,6 +1813,8 @@ seed/main/kpe_LR.xml svneol=native#text/xml
 seed/main/ku.xml svneol=native#text/xml
 seed/main/ku_Latn.xml svneol=native#text/xml
 seed/main/ku_Latn_TR.xml svneol=native#text/xml
+seed/main/lkt.xml -text
+seed/main/lkt_US.xml -text
 seed/main/mi.xml svneol=native#text/xml
 seed/main/mi_NZ.xml svneol=native#text/xml
 seed/main/mn_Mong.xml svneol=native#text/xml
