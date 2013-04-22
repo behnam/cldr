@@ -8141,6 +8141,7 @@ tools/java/org/unicode/cldr/util/DeprecationChecker.java svneol=native#text/plai
 tools/java/org/unicode/cldr/util/Dictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DictionaryStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DiscreteComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/DtdData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DualWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ElementAttributeInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/EnumNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
