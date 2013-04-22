@@ -8032,6 +8032,7 @@ tools/java/org/unicode/cldr/tool/ShowZoneEquivalences.java svneol=native#text/pl
 tools/java/org/unicode/cldr/tool/SimpleLocaleParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/TablePrinter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/VettingAdder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/WritePluralRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/bytype-index.css -text
 tools/java/org/unicode/cldr/tool/bytype-index.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
