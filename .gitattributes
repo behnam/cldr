@@ -123,6 +123,7 @@ common/casing/kw.xml svneol=native#text/xml
 common/casing/ky.xml svneol=native#text/xml
 common/casing/lag.xml svneol=native#text/xml
 common/casing/lg.xml svneol=native#text/xml
+common/casing/lkt.xml -text
 common/casing/ln.xml svneol=native#text/xml
 common/casing/lo.xml svneol=native#text/xml
 common/casing/lt.xml svneol=native#text/xml
