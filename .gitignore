@@ -18,6 +18,7 @@ tools/cldr-apps/WebContent/srl.jsp
 tools/cldr-apps/build
 tools/cldr-apps/build.properties
 tools/cldr-apps/cldr-apps-docs.jar
+tools/cldr-apps/cldr-apps.jar
 tools/cldr-apps/cldr-apps.war
 tools/cldr-apps/cldr_db_test
 tools/cldr-apps/derby.log
