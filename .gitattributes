@@ -7939,6 +7939,7 @@ tools/java/org/unicode/cldr/test/OutdatedPaths.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/test/PrintTransitions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/QuickCheck.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/SimpleTestCache.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/test/TestCLDRLocale.dtd -text
 tools/java/org/unicode/cldr/test/TestCLDRTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/TestCLDRUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/TestCache.java svneol=native#text/plain%3Bcharset%3Dutf-8
