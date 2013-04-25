@@ -7939,9 +7939,7 @@ tools/java/org/unicode/cldr/test/OutdatedPaths.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/test/PrintTransitions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/QuickCheck.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/SimpleTestCache.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/test/TestCLDRLocale.dtd -text
 tools/java/org/unicode/cldr/test/TestCLDRTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/test/TestCLDRUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/TestCache.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/TestMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/TestMetazones.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8072,6 +8070,7 @@ tools/java/org/unicode/cldr/unittest/TestBasic.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/unittest/TestBcp47Numbers.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestBcp47Transforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestCLDRFile.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/unittest/TestCLDRUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestCanonicalIds.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8113,6 +8112,7 @@ tools/java/org/unicode/cldr/unittest/TestUExtension.java svneol=native#text/plai
 tools/java/org/unicode/cldr/unittest/TestUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestVariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestXMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/unittest/data/TestCLDRLocale.dtd -text
 tools/java/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/unittest/data/common/main/root.xml svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/data/xmb/en.xml svneol=native#text/plain
