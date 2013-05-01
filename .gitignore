@@ -12,6 +12,9 @@ resolver/tools/cldr-apps/cldr-apps.war
 resolver/tools/cldr-apps/derby.log
 resolver/tools/cldr-apps/doc
 resolver/tools/java/*.jar
+resolver/tools/java/.build.properties.swp
+resolver/tools/java/build
 resolver/tools/java/build.properties
 resolver/tools/java/classes
+resolver/tools/java/dist
 resolver/tools/java/out
