@@ -3407,9 +3407,7 @@ resolver/tools/java/org/unicode/cldr/tool/resolver/ResolutionType.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/ResolverUtils.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/FullResolutionTest.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NoCodeFallbackTest.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NonSimpleResolutionTest.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/ResolverTest.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/ResolverTestUtils.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/SimpleResolutionTest.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/TestAll.java -text
 resolver/tools/java/org/unicode/cldr/tool/summary-index.css -text
