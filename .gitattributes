@@ -3405,11 +3405,6 @@ resolver/tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 resolver/tools/java/org/unicode/cldr/tool/resolver/CldrResolver.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/ResolutionType.java -text
 resolver/tools/java/org/unicode/cldr/tool/resolver/ResolverUtils.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/FullResolutionTest.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/NoCodeFallbackTest.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/ResolverTest.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/SimpleResolutionTest.java -text
-resolver/tools/java/org/unicode/cldr/tool/resolver/unittest/TestAll.java -text
 resolver/tools/java/org/unicode/cldr/tool/summary-index.css -text
 resolver/tools/java/org/unicode/cldr/tool/summary-index.html svneol=native#text/html
 resolver/tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
@@ -3438,6 +3433,7 @@ resolver/tools/java/org/unicode/cldr/unittest/TestCLDRUtils.java svneol=native#t
 resolver/tools/java/org/unicode/cldr/unittest/TestCanonicalIds.java svneol=native#text/plain%3Bcharset%3Dutf-8
 resolver/tools/java/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 resolver/tools/java/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
+resolver/tools/java/org/unicode/cldr/unittest/TestCldrResolver.java -text
 resolver/tools/java/org/unicode/cldr/unittest/TestCollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 resolver/tools/java/org/unicode/cldr/unittest/TestCollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 resolver/tools/java/org/unicode/cldr/unittest/TestComparisonBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
