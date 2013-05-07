@@ -1907,7 +1907,10 @@ specs/rfc/draft-davis-u-langtag-ext-00.txt svneol=native#text/plain
 specs/rfc/draft-davis-u-langtag-ext-00.xml svneol=native#text/plain
 specs/rfc/draft-davis-u-langtag-ext-04.xml svneol=native#text/plain
 specs/rfc/notes.txt svneol=native#text/plain
+specs/rfc/rfc2629-other.ent -text svneol=unset#text/plain
+specs/rfc/rfc2629-xhtml.ent -text svneol=unset#text/plain
 specs/rfc/rfc2629.dtd -text svneol=unset#text/plain
+specs/rfc/rfc2629.xslt -text svneol=unset#text/plain
 tools/SurveyConsole/.classpath -text
 tools/SurveyConsole/.project -text
 tools/SurveyConsole/WebContent/META-INF/MANIFEST.MF -text
