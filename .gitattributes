@@ -7927,10 +7927,6 @@ tools/java/org/unicode/cldr/test/CheckNew.java svneol=native#text/plain%3Bcharse
 tools/java/org/unicode/cldr/test/CheckNumbers.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckZones.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/test/CompactDecimalFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/test/CompactDecimalFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/test/CompactDecimalFormatData2.java -text
-tools/java/org/unicode/cldr/test/CompactDecimalFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/ConsoleCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CoverageLevel2.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/DateOrder.java svneol=native#text/plain%3Bcharset%3Dutf-8
