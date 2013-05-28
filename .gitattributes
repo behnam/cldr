@@ -8184,6 +8184,7 @@ tools/java/org/unicode/cldr/util/PathStarrer.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/PathUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PatternPlaceholders.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PluralRulesUtil.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/PluralSamples.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PluralSnapshot.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Predicate.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PreferredAndAllowedHour.java svneol=native#text/plain%3Bcharset%3Dutf-8
