@@ -7589,6 +7589,7 @@ tools/cldr-apps/WebContent/dojoroot/surveyTool/nls/stui.js -text svneol=unset#te
 tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
+tools/cldr-apps/WebContent/helpHtml.jsp -text
 tools/cldr-apps/WebContent/index.jsp -text
 tools/cldr-apps/WebContent/js/g.bar.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.dot.js -text svneol=unset#text/plain
