@@ -2237,6 +2237,17 @@ tools/SurveyConsole/WebContent/js/surveyconsole.js -text
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
+tools/cldr-apps-watcher/Readme.md -text
+tools/cldr-apps-watcher/app.js svneol=native#text/javascript
+tools/cldr-apps-watcher/config/SOMEHOST.json -text
+tools/cldr-apps-watcher/config/default.json -text
+tools/cldr-apps-watcher/package.json -text
+tools/cldr-apps-watcher/public/javascripts/stwatcher-client.js svneol=native#text/javascript
+tools/cldr-apps-watcher/public/stylesheets/style.css svneol=native#text/css
+tools/cldr-apps-watcher/routes/index.js svneol=native#text/javascript
+tools/cldr-apps-watcher/routes/stwatcher.js svneol=native#text/javascript
+tools/cldr-apps-watcher/views/index.jade -text
+tools/cldr-apps-watcher/views/layout.jade -text
 tools/cldr-apps/.classpath svneol=native#text/plain
 tools/cldr-apps/.factorypath -text
 tools/cldr-apps/.project -text svneol=unset#text/plain
