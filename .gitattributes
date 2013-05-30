@@ -1780,6 +1780,7 @@ seed/collation/sa.xml svneol=native#text/xml
 seed/collation/tk.xml svneol=native#text/xml
 seed/collation/vo.xml svneol=native#text/xml
 seed/collation/wo.xml svneol=native#text/xml
+seed/collation/yi.xml -text
 seed/main/bss.xml svneol=native#text/xml
 seed/main/bss_CM.xml svneol=native#text/xml
 seed/main/cch.xml svneol=native#text/xml
@@ -1854,6 +1855,7 @@ seed/main/wo.xml svneol=native#text/xml
 seed/main/wo_Latn.xml svneol=native#text/xml
 seed/main/wo_Latn_SN.xml svneol=native#text/xml
 seed/main/wo_SN.xml svneol=native#text/xml
+seed/main/yi.xml -text
 seed/main/yo_BJ.xml svneol=native#text/xml
 seed/main/zgh.xml svneol=native#text/xml
 seed/main/zgh_MA.xml svneol=native#text/xml
