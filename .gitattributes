@@ -230,6 +230,7 @@ common/casing/wal.xml svneol=native#text/xml
 common/casing/xh.xml svneol=native#text/xml
 common/casing/xog.xml svneol=native#text/xml
 common/casing/yav.xml svneol=native#text/xml
+common/casing/yi.xml -text
 common/casing/yo.xml svneol=native#text/xml
 common/casing/zgh.xml svneol=native#text/xml
 common/casing/zh.xml svneol=native#text/xml
