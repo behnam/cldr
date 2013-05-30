@@ -2284,6 +2284,7 @@ tools/cldr-apps/WebContent/WEB-INF/jspf/session.jspf -text svneol=unset#text/pla
 tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/lib/activation.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/antlr-runtime-3.4.jar -text
+tools/cldr-apps/WebContent/WEB-INF/lib/commons-codec-1.8.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/derby-10.8.2.2.jar -text
