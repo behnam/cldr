@@ -7849,6 +7849,7 @@ tools/java/org/unicode/cldr/draft/picker/subblocks_blocks.html svneol=native#tex
 tools/java/org/unicode/cldr/icu/BaseTimeZoneDataConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/Bcp47Mapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/CheckIBMCoverage.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/icu/CollationMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/CompareIcuOutput.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/ConvertTransforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/icu/DayPeriodsMapper.java svneol=native#text/plain%3Bcharset%3Dutf-8
