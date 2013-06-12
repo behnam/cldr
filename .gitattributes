@@ -2387,6 +2387,7 @@ tools/cldr-apps/WebContent/conf2.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/contributed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/createAndLogin.jsp -text
 tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/dnah.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dojoroot/dijit/BackgroundIframe.js svneol=native#text/javascript
 tools/cldr-apps/WebContent/dojoroot/dijit/Calendar.js svneol=native#text/javascript
 tools/cldr-apps/WebContent/dojoroot/dijit/CalendarLite.js svneol=native#text/javascript
