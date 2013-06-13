@@ -8112,6 +8112,7 @@ tools/java/org/unicode/cldr/unittest/TestExamples.java svneol=native#text/plain%
 tools/java/org/unicode/cldr/unittest/TestExamples.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestExternalCodeAPIs.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestFallbackIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/unittest/TestFmwkPlus.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestIdentifierInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestInheritance.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestIntMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
