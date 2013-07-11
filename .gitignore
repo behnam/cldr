@@ -38,4 +38,8 @@ tools/java/build
 tools/java/build.properties
 tools/java/classes
 tools/java/dist
+tools/java/org/unicode/cldr/icu/Result.java
+tools/java/org/unicode/cldr/icu/Test.java
+tools/java/org/unicode/cldr/icu/TestStax.java
+tools/java/org/unicode/cldr/icu/XPathMatcherTree.java
 tools/java/out
