@@ -8146,6 +8146,7 @@ tools/java/org/unicode/cldr/util/CLDRInfo.java svneol=native#text/plain%3Bcharse
 tools/java/org/unicode/cldr/util/CLDRLocale.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CLDRTransforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CachingEntityResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/ChainedMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharacterFallbacks.java svneol=native#text/plain%3Bcharset%3Dutf-8
