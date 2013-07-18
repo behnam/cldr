@@ -7987,6 +7987,7 @@ tools/java/org/unicode/cldr/tool/FilterCharacterFallbacks.java svneol=native#tex
 tools/java/org/unicode/cldr/tool/FilterFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/FindPreferredHours.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/FixDelimiters.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/FixTransformNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateAliases.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateAllCharts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateApproximateWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
