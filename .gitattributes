@@ -1314,6 +1314,7 @@ common/transforms/sk_FONIPA-ja.xml svneol=native#text/xml
 common/transforms/tr-Lower.xml svneol=native#text/xml
 common/transforms/tr-Title.xml svneol=native#text/xml
 common/transforms/tr-Upper.xml svneol=native#text/xml
+common/transforms/uz_Cyrl-uz_Latn.xml svneol=native#text/xml
 common/transforms/zh_Latn_PINYIN-ru.xml svneol=native#text/xml
 common/uca/CollationTest_CLDR_NON_IGNORABLE.txt svneol=native#text/plain
 common/uca/CollationTest_CLDR_SHIFTED.txt svneol=native#text/plain
