@@ -7160,6 +7160,7 @@ common.ver6375/collation/wae.xml svneol=native#text/xml
 common.ver6375/collation/yo.xml svneol=native#text/xml
 common.ver6375/collation/zh.xml svneol=native#text/xml
 common.ver6375/collation/zh_Hant.xml svneol=native#text/xml
+common.ver6375/dtd/cldrInfo.dtd -text
 common.ver6375/dtd/cldrTest.dtd -text
 common.ver6375/dtd/ldmlICIR.dtd -text
 common.ver6375/dtd/ldmlICU.dtd -text
