@@ -41,6 +41,9 @@ cldrapps-inmem-4182/cldr-apps-docs.jar
 cldrapps-inmem-4182/cldr-apps.war
 cldrapps-inmem-4182/derby.log
 cldrapps-inmem-4182/doc
+common.ver6375/.project
+common.ver6375/collation/und*.xml
+common.ver6375/main/und*.xml
 locale2544/tools/cldr-apps/WebContent/Thumbs.db
 locale2544/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 locale2544/tools/cldr-apps/build
