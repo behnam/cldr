@@ -110,6 +110,7 @@ common/casing/kw.xml svneol=native#text/xml
 common/casing/ky.xml svneol=native#text/xml
 common/casing/lag.xml svneol=native#text/xml
 common/casing/lg.xml svneol=native#text/xml
+common/casing/lkt.xml svneol=native#text/xml
 common/casing/ln.xml svneol=native#text/xml
 common/casing/lo.xml svneol=native#text/xml
 common/casing/lt.xml svneol=native#text/xml
@@ -211,6 +212,7 @@ common/casing/xh.xml svneol=native#text/xml
 common/casing/xog.xml svneol=native#text/xml
 common/casing/yav.xml svneol=native#text/xml
 common/casing/yo.xml svneol=native#text/xml
+common/casing/zgh.xml svneol=native#text/xml
 common/casing/zh.xml svneol=native#text/xml
 common/casing/zh_Hans_HK.xml svneol=native#text/xml
 common/casing/zh_Hans_MO.xml svneol=native#text/xml
@@ -701,6 +703,8 @@ common/main/lag.xml svneol=native#text/xml
 common/main/lag_TZ.xml svneol=native#text/xml
 common/main/lg.xml svneol=native#text/xml
 common/main/lg_UG.xml svneol=native#text/xml
+common/main/lkt.xml -text
+common/main/lkt_US.xml -text
 common/main/ln.xml svneol=native#text/xml
 common/main/ln_AO.xml svneol=native#text/xml
 common/main/ln_CD.xml svneol=native#text/xml
@@ -962,7 +966,10 @@ common/main/xog_UG.xml svneol=native#text/xml
 common/main/yav.xml svneol=native#text/xml
 common/main/yav_CM.xml svneol=native#text/xml
 common/main/yo.xml svneol=native#text/xml
+common/main/yo_BJ.xml svneol=native#text/xml
 common/main/yo_NG.xml svneol=native#text/xml
+common/main/zgh.xml svneol=native#text/xml
+common/main/zgh_MA.xml svneol=native#text/xml
 common/main/zh.xml svneol=native#text/xml
 common/main/zh_Hans.xml svneol=native#text/xml
 common/main/zh_Hans_CN.xml svneol=native#text/xml
@@ -1802,8 +1809,6 @@ seed/main/kpe_LR.xml svneol=native#text/xml
 seed/main/ku.xml svneol=native#text/xml
 seed/main/ku_Latn.xml svneol=native#text/xml
 seed/main/ku_Latn_TR.xml svneol=native#text/xml
-seed/main/lkt.xml -text
-seed/main/lkt_US.xml -text
 seed/main/mi.xml svneol=native#text/xml
 seed/main/mi_NZ.xml svneol=native#text/xml
 seed/main/mn_Mong.xml svneol=native#text/xml
@@ -1843,9 +1848,6 @@ seed/main/wo_Latn.xml svneol=native#text/xml
 seed/main/wo_Latn_SN.xml svneol=native#text/xml
 seed/main/wo_SN.xml svneol=native#text/xml
 seed/main/yi.xml -text
-seed/main/yo_BJ.xml svneol=native#text/xml
-seed/main/zgh.xml svneol=native#text/xml
-seed/main/zgh_MA.xml svneol=native#text/xml
 specs/ldml/big_red_switch.html svneol=native#text/html
 specs/ldml/charts.html svneol=native#text/html
 specs/ldml/cldr.css -text svneol=unset#text/css
