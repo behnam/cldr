@@ -123,3 +123,14 @@ sync3577/tools/java/*.jar
 sync3577/tools/java/build.properties
 sync3577/tools/java/classes
 sync3577/tools/java/out
+toolsjava.6521ver/*.jar
+toolsjava.6521ver/.build.properties.swp
+toolsjava.6521ver/build
+toolsjava.6521ver/build.properties
+toolsjava.6521ver/classes
+toolsjava.6521ver/dist
+toolsjava.6521ver/org/unicode/cldr/icu/Result.java
+toolsjava.6521ver/org/unicode/cldr/icu/Test.java
+toolsjava.6521ver/org/unicode/cldr/icu/TestStax.java
+toolsjava.6521ver/org/unicode/cldr/icu/XPathMatcherTree.java
+toolsjava.6521ver/out
