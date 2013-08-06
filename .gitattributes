@@ -250,6 +250,7 @@ common/collation/fil.xml svneol=native#text/xml
 common/collation/fo.xml svneol=native#text/xml
 common/collation/fr.xml svneol=native#text/xml
 common/collation/fr_CA.xml svneol=native#text/xml
+common/collation/gl.xml -text
 common/collation/gu.xml svneol=native#text/xml
 common/collation/ha.xml svneol=native#text/xml
 common/collation/haw.xml svneol=native#text/xml
