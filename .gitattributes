@@ -8026,6 +8026,7 @@ tools/java/org/unicode/cldr/tool/GenerateTransform.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateTransformCharts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateUnicodeCounts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateXMB.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GeneratedPluralSamples.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GetChanges.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GetDescriptions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GetLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
