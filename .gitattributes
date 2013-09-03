@@ -1371,6 +1371,7 @@ common/uca/CollationTest_CLDR_SHIFTED.txt svneol=native#text/plain
 common/uca/FractionalUCA.txt svneol=native#text/plain
 common/uca/UCA_Rules.txt svneol=native#text/plain
 common/uca/allkeys_CLDR.txt svneol=native#text/plain
+common/uca/allkeys_DUCET.txt svneol=native#text/plain
 /icu-license.html svneol=native#text/html
 keyboards/android/_platform.xml svneol=native#text/xml
 keyboards/android/ar-t-k0-android-600dpi.xml svneol=native#text/xml
