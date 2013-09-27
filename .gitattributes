@@ -155,6 +155,7 @@ common/casing/os.xml svneol=native#text/xml
 common/casing/pa.xml svneol=native#text/xml
 common/casing/pa_Arab.xml svneol=native#text/xml
 common/casing/pl.xml svneol=native#text/xml
+common/casing/prg.xml svneol=native#text/xml
 common/casing/ps.xml svneol=native#text/xml
 common/casing/pt.xml svneol=native#text/xml
 common/casing/pt_PT.xml svneol=native#text/xml
