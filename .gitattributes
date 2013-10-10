@@ -269,6 +269,7 @@
 6740cldrapps.setup/WebContent/browse_results.jsp -text
 6740cldrapps.setup/WebContent/chat.png -text svneol=unset#image/png
 6740cldrapps.setup/WebContent/check.jsp -text svneol=unset#text/plain
+6740cldrapps.setup/WebContent/cldr-setup.jsp -text svneol=unset#text/plain
 6740cldrapps.setup/WebContent/conf.png -text svneol=unset#image/png
 6740cldrapps.setup/WebContent/conf2.png -text svneol=unset#image/png
 6740cldrapps.setup/WebContent/contributed.png -text svneol=unset#image/png
