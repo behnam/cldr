@@ -8538,6 +8538,8 @@
 5215refactor/tools/cldr-apps/docs/readme.css -text svneol=unset#text/css
 5215refactor/tools/cldr-apps/docs/stops.html svneol=native#text/html%3Bcharset%3Dutf-8
 5215refactor/tools/cldr-apps/docs/stops.txt svneol=native#text/plain
+5215refactor/tools/cldr-apps/libs/license-liquibase.txt -text svneol=unset#text/plain
+5215refactor/tools/cldr-apps/libs/liquibase.jar -text
 5215refactor/tools/cldr-apps/readme.txt svneol=native#text/plain
 5215refactor/tools/cldr-apps/src/org/json/CDL.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/cldr-apps/src/org/json/Cookie.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8622,6 +8624,17 @@
 5215refactor/tools/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/cldr-apps/src/org/unicode/cldr/web/XPathTable.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
+5215refactor/tools/cldr-core/.classpath -text svneol=unset#text/plain
+5215refactor/tools/cldr-core/libs/icu4j-src.jar -text
+5215refactor/tools/cldr-core/libs/icu4j.jar -text
+5215refactor/tools/cldr-core/libs/utilities-src.jar -text
+5215refactor/tools/cldr-core/libs/utilities.jar -text
+5215refactor/tools/cldr-core/libs/xercesImpl.jar -text
+5215refactor/tools/cldr-core/src/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain%3Bcharset%3Dutf-8
+5215refactor/tools/cldr-core/src/org/unicode/cldr/util/DtdData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+5215refactor/tools/cldr-core/src/org/unicode/cldr/util/XMLFileReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
+5215refactor/tools/cldr-core/src/org/unicode/cldr/util/XMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
+5215refactor/tools/cldr-core/src/org/unicode/cldr/util/XPathParts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/build.xml svneol=native#text/xml
 5215refactor/tools/java/com/ibm/icu/dev/test/GenderInfoTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/com/ibm/icu/dev/test/ListFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8630,11 +8643,6 @@
 5215refactor/tools/java/com/ibm/icu/text/ListFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/find-unrun-tests.sh -text
 5215refactor/tools/java/how_to_notes.txt svneol=native#text/plain
-5215refactor/tools/java/libs/icu4j-src.jar -text
-5215refactor/tools/java/libs/icu4j.jar -text
-5215refactor/tools/java/libs/utilities-src.jar -text
-5215refactor/tools/java/libs/utilities.jar -text
-5215refactor/tools/java/libs/xercesImpl.jar -text
 5215refactor/tools/java/org/unicode/cldr/ant/CLDRBuild.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/ant/CLDRConverterTool.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
@@ -9048,7 +9056,6 @@
 5215refactor/tools/java/org/unicode/cldr/util/BoilerplateUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/Builder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/CLDRConfig.java svneol=native#text/plain%3Bcharset%3Dutf-8
-5215refactor/tools/java/org/unicode/cldr/util/CLDRFile.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/CLDRFileBuiltConstants.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/CLDRInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/CLDRLocale.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9073,7 +9080,6 @@
 5215refactor/tools/java/org/unicode/cldr/util/Dictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/DictionaryStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/DiscreteComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
-5215refactor/tools/java/org/unicode/cldr/util/DtdData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/DtdDataCheck.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/DualWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/ElementAttributeInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9153,11 +9159,8 @@
 5215refactor/tools/java/org/unicode/cldr/util/With.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
 5215refactor/tools/java/org/unicode/cldr/util/XChoiceFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
-5215refactor/tools/java/org/unicode/cldr/util/XMLFileReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
-5215refactor/tools/java/org/unicode/cldr/util/XMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/XMLValidator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/XMessageFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
-5215refactor/tools/java/org/unicode/cldr/util/XPathParts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/XPathTokenizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/ZoneInflections.java svneol=native#text/plain%3Bcharset%3Dutf-8
 5215refactor/tools/java/org/unicode/cldr/util/ZoneParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
