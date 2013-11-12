@@ -9007,6 +9007,7 @@ tools/java/org/unicode/cldr/util/Timer.java svneol=native#text/plain%3Bcharset%3
 tools/java/org/unicode/cldr/util/TimezoneFormatter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Transformer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VerifyCompactNumbers.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9066,9 +9067,15 @@ tools/java/org/unicode/cldr/util/data/dl_iso_table_a1.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/util/data/dl_iso_table_a3.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart1.csv -text
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart2.csv -text
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv -text
+tools/java/org/unicode/cldr/util/data/external/Cities-CountryCapitals.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/Cities-Over1M.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/Iso639-5.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/external/alternate_country_names.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/alternate_language_names.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/alternate_locode_name.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_literacy.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
