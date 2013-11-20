@@ -1147,6 +1147,7 @@ common/supplemental/likelySubtags.xml svneol=native#text/xml
 common/supplemental/metaZones.xml svneol=native#text/xml
 common/supplemental/numberingSystems.xml svneol=native#text/xml
 common/supplemental/ordinals.xml svneol=native#text/xml
+common/supplemental/pluralRanges.xml svneol=native#text/xml
 common/supplemental/plurals.xml svneol=native#text/xml
 common/supplemental/postalCodeData.xml svneol=native#text/xml
 common/supplemental/supplementalData.xml svneol=native#text/xml
