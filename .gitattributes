@@ -9081,6 +9081,7 @@ tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=nativ
 tools/java/org/unicode/cldr/util/data/external/factbook_literacy.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/subdivisionData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/us_census.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/extraLanguagesAndScripts.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/iso4217raw.txt svneol=native#text/plain
