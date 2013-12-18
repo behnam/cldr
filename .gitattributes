@@ -3173,6 +3173,7 @@ tools/cldr-apps/WebContent/browse.jsp -text
 tools/cldr-apps/WebContent/browse_results.jsp -text
 tools/cldr-apps/WebContent/chat.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/check.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/cldr-setup.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/conf.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/conf2.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/contributed.png -text svneol=unset#image/png
