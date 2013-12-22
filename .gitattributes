@@ -8825,6 +8825,7 @@ tools/java/org/unicode/cldr/tool/GenerateKaraList.java svneol=native#text/plain%
 tools/java/org/unicode/cldr/tool/GenerateLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateLikelySubtagTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateMaximalLocales.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GeneratePluralConfirmation.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GeneratePluralList.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GeneratePluralRanges.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateReformattedXml.java svneol=native#text/plain%3Bcharset%3Dutf-8
