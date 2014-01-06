@@ -3166,6 +3166,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/st_header.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/st_top.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/stepsmenu_top.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/stnotices.jspf -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/testlogin.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/time_formats.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/usermenu.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/wide_days.jsp -text
