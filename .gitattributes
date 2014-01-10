@@ -1132,6 +1132,7 @@ common/rbnf/zh_Hant_HK.xml svneol=native#text/xml
 common/segments/de.xml svneol=native#text/xml
 common/segments/el.xml svneol=native#text/xml
 common/segments/en.xml svneol=native#text/xml
+common/segments/en_US.xml -text
 common/segments/en_US_POSIX.xml svneol=native#text/xml
 common/segments/es.xml svneol=native#text/xml
 common/segments/fi.xml svneol=native#text/xml
