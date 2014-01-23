@@ -12460,7 +12460,7 @@
 6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/commons-codec-1.8.jar -text
 6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
 6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
-6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/derby-10.8.2.2.jar -text
+6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/derby-10.10.1.1.jar -text
 6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/jdom-1.1.jar -text
 6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/jna-3.4.0.jar -text
 6946derby/tools/cldr-apps/WebContent/WEB-INF/lib/license-apache-commons.txt svneol=native#text/plain
