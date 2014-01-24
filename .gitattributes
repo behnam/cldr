@@ -8954,6 +8954,7 @@ tools/java/org/unicode/cldr/unittest/TestPathHeader.java svneol=native#text/plai
 tools/java/org/unicode/cldr/unittest/TestPaths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestPathsModule.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestPerf.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/unittest/TestPluralRuleGeneration.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestRangeAbbreviator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestReferenceStringSearch.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestScriptMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
