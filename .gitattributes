@@ -8971,6 +8971,7 @@ tools/java/org/unicode/cldr/unittest/TestFmwkPlus.java svneol=native#text/plain%
 tools/java/org/unicode/cldr/unittest/TestIdentifierInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestInheritance.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestIntMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/unittest/TestKeyboard.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestKeyboardModifierSet.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestLdml2ICU.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestLocalCurrency.java svneol=native#text/plain%3Bcharset%3Dutf-8
