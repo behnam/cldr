@@ -18,6 +18,7 @@ tools/cldr-apps-watcher/config/gdx.json
 tools/cldr-apps-watcher/config/runtime.json
 tools/cldr-apps-watcher/loopy.sh
 tools/cldr-apps-watcher/node_modules
+tools/cldr-apps/WebContent/*.esproj
 tools/cldr-apps/WebContent/Thumbs.db
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 tools/cldr-apps/WebContent/srl.jsp
