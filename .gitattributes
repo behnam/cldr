@@ -3101,6 +3101,7 @@ tools/cldr-apps/WebContent/AdminAjax.jsp -text
 tools/cldr-apps/WebContent/AdminPanel.jsp -text
 tools/cldr-apps/WebContent/CLDR23Tool.jsp -text
 tools/cldr-apps/WebContent/DataExport.jsp -text
+tools/cldr-apps/WebContent/EmbeddedReport.jsp -text
 tools/cldr-apps/WebContent/RefreshRow.jsp -text
 tools/cldr-apps/WebContent/STLogo.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/SampleNumber.jsp svneol=native#text/plain
