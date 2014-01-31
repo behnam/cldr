@@ -2405,6 +2405,7 @@ keyboards/osx/km-t-k0-osx.xml -text
 keyboards/osx/kn-t-k0-osx-qwerty.xml -text
 keyboards/osx/kn-t-k0-osx.xml -text
 keyboards/osx/ku-t-k0-osx.xml -text
+keyboards/osx/lt-t-k0-osx-var.xml -text
 keyboards/osx/lt-t-k0-osx.xml svneol=native#text/xml
 keyboards/osx/lv-t-k0-osx.xml svneol=native#text/xml
 keyboards/osx/mi-t-k0-osx.xml svneol=native#text/xml
