@@ -9092,6 +9092,7 @@ tools/java/org/unicode/cldr/util/ExtractCollationRules.java svneol=native#text/p
 tools/java/org/unicode/cldr/util/Factory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/FindDTDOrder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ICUServiceBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/InputStreamFactory.java -text
 tools/java/org/unicode/cldr/util/IntMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/InternalCldrException.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Iso639Data.java svneol=native#text/plain%3Bcharset%3Dutf-8
