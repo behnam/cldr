@@ -8729,6 +8729,7 @@ tools/java/org/unicode/cldr/draft/picker/PickerData_Southeast_Asian_Scripts.html
 tools/java/org/unicode/cldr/draft/picker/PickerData_Symbol.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/blocks_subblocks.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/header.html svneol=native#text/html
+tools/java/org/unicode/cldr/draft/picker/index.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/picker/subblocks_blocks.html svneol=native#text/html
 tools/java/org/unicode/cldr/icu/BaseTimeZoneDataConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
