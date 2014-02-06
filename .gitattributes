@@ -9038,7 +9038,6 @@ tools/java/org/unicode/cldr/unittest/TestReferenceStringSearch.java svneol=nativ
 tools/java/org/unicode/cldr/unittest/TestScriptMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestSupplementalInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/unittest/TestTimeEnd.java -text
 tools/java/org/unicode/cldr/unittest/TestTransforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestUCharacterIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestUExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
