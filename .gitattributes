@@ -411,6 +411,7 @@ common/main/byn_ER.xml svneol=native#text/xml
 common/main/ca.xml svneol=native#text/xml
 common/main/ca_AD.xml svneol=native#text/xml
 common/main/ca_ES.xml svneol=native#text/xml
+common/main/ca_ES_VALENCIA.xml svneol=native#text/xml
 common/main/ca_FR.xml svneol=native#text/xml
 common/main/ca_IT.xml svneol=native#text/xml
 common/main/cgg.xml svneol=native#text/xml
