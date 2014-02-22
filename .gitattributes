@@ -285,6 +285,7 @@ common/collation/km.xml svneol=native#text/xml
 common/collation/kn.xml svneol=native#text/xml
 common/collation/ko.xml svneol=native#text/xml
 common/collation/kok.xml svneol=native#text/xml
+common/collation/ku.xml svneol=native#text/xml
 common/collation/ky.xml svneol=native#text/xml
 common/collation/lkt.xml svneol=native#text/xml
 common/collation/ln.xml svneol=native#text/xml
