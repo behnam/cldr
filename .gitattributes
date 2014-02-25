@@ -2706,6 +2706,8 @@ seed/main/ha_Arab.xml svneol=native#text/xml
 seed/main/ha_Arab_NG.xml svneol=native#text/xml
 seed/main/ha_Arab_SD.xml svneol=native#text/xml
 seed/main/ha_SD.xml svneol=native#text/xml
+seed/main/hsb.xml -text
+seed/main/hsb_DE.xml -text
 seed/main/iu.xml svneol=native#text/xml
 seed/main/iu_Cans.xml svneol=native#text/xml
 seed/main/iu_Cans_CA.xml svneol=native#text/xml
