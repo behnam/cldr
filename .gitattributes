@@ -9037,7 +9037,6 @@ tools/java/org/unicode/cldr/unittest/TestCoverageLevel.txt svneol=native#text/pl
 tools/java/org/unicode/cldr/unittest/TestDTDAttributes.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestDateOrder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestDisplayAndInputProcessor.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/unittest/TestDtdCompatibility.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestExampleGenerator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestExamples.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/unittest/TestExternalCodeAPIs.java svneol=native#text/plain%3Bcharset%3Dutf-8
