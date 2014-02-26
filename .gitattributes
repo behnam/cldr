@@ -9171,7 +9171,6 @@ tools/java/org/unicode/cldr/util/StateDictionaryBuilder.java svneol=native#text/
 tools/java/org/unicode/cldr/util/StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringId.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StripUTF8BOMInputStream.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/SupplementalData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/SupplementalDataInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/TestStateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/TestUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
