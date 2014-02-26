@@ -8958,6 +8958,7 @@ tools/java/org/unicode/cldr/tool/IdToPath.java svneol=native#text/plain%3Bcharse
 tools/java/org/unicode/cldr/tool/LanguageCodeConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/LikelySubtags.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/LocaleReplacements.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/Main.java -text
 tools/java/org/unicode/cldr/tool/MakeTransliterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/MatchStrings.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/Misc.java svneol=native#text/plain%3Bcharset%3Dutf-8
