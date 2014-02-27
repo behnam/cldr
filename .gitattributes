@@ -1345,7 +1345,6 @@ common/transforms/Thai-ThaiSemi.xml svneol=native#text/xml
 common/transforms/ThaiLogical-Latin.xml svneol=native#text/xml
 common/transforms/Turkmen-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Ukrainian-Latin-BGN.xml svneol=native#text/xml
-common/transforms/Uyghur-Latin.xml -text
 common/transforms/Uzbek-Latin-BGN.xml svneol=native#text/xml
 common/transforms/az-Lower.xml svneol=native#text/xml
 common/transforms/az-Title.xml svneol=native#text/xml
@@ -1394,6 +1393,7 @@ common/transforms/tlh-tlh_FONIPA.xml svneol=native#text/xml
 common/transforms/tr-Lower.xml svneol=native#text/xml
 common/transforms/tr-Title.xml svneol=native#text/xml
 common/transforms/tr-Upper.xml svneol=native#text/xml
+common/transforms/ug-Latin.xml -text
 common/transforms/uz_Cyrl-uz_Latn.xml svneol=native#text/xml
 common/transforms/yo-yo_BJ.xml -text
 common/transforms/zh_Latn_PINYIN-ru.xml svneol=native#text/xml
