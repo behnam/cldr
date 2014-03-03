@@ -2748,6 +2748,7 @@ seed/main/sa_IN.xml svneol=native#text/xml
 seed/main/sid.xml svneol=native#text/xml
 seed/main/sid_ET.xml svneol=native#text/xml
 seed/main/syr.xml svneol=native#text/xml
+seed/main/syr_IQ.xml svneol=native#text/xml
 seed/main/syr_SY.xml svneol=native#text/xml
 seed/main/tk.xml svneol=native#text/xml
 seed/main/tk_Latn.xml svneol=native#text/xml
