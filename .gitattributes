@@ -9141,6 +9141,7 @@ tools/java/org/unicode/cldr/util/LruMap.java svneol=native#text/plain%3Bcharset%
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/MapComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/MergeLists.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/NodeListIterator.java -text
 tools/java/org/unicode/cldr/util/Pair.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathDescription.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathHeader.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9199,6 +9200,7 @@ tools/java/org/unicode/cldr/util/XMLFileReader.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/util/XMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/XMLValidator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/XMessageFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/XPathExpressionParser.java -text
 tools/java/org/unicode/cldr/util/XPathParts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/XPathTokenizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ZoneInflections.java svneol=native#text/plain%3Bcharset%3Dutf-8
