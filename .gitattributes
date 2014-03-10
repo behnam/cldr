@@ -23539,6 +23539,7 @@ maint-25/keyboards/osx/bo-t-k0-osx-qwerty.xml svneol=native#text/xml
 maint-25/keyboards/osx/bo-t-k0-osx.xml svneol=native#text/xml
 maint-25/keyboards/osx/chr-t-k0-osx-qwerty.xml svneol=native#text/xml
 maint-25/keyboards/osx/chr-t-k0-osx.xml svneol=native#text/xml
+maint-25/keyboards/osx/ckb-t-k0-osx.xml svneol=native#text/xml
 maint-25/keyboards/osx/cs-t-k0-osx-qwerty.xml svneol=native#text/xml
 maint-25/keyboards/osx/cs-t-k0-osx.xml svneol=native#text/xml
 maint-25/keyboards/osx/cy-t-k0-osx.xml svneol=native#text/xml
@@ -23606,7 +23607,6 @@ maint-25/keyboards/osx/kk-t-k0-osx.xml svneol=native#text/xml
 maint-25/keyboards/osx/km-t-k0-osx.xml svneol=native#text/xml
 maint-25/keyboards/osx/kn-t-k0-osx-qwerty.xml svneol=native#text/xml
 maint-25/keyboards/osx/kn-t-k0-osx.xml svneol=native#text/xml
-maint-25/keyboards/osx/ku-t-k0-osx.xml svneol=native#text/xml
 maint-25/keyboards/osx/lt-t-k0-osx-var.xml svneol=native#text/xml
 maint-25/keyboards/osx/lt-t-k0-osx.xml svneol=native#text/xml
 maint-25/keyboards/osx/lv-t-k0-osx.xml svneol=native#text/xml
@@ -23683,6 +23683,7 @@ maint-25/keyboards/windows/bo-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/bs-Cyrl-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/chr-t-k0-windows-phonetic.xml svneol=native#text/xml
 maint-25/keyboards/windows/chr-t-k0-windows.xml svneol=native#text/xml
+maint-25/keyboards/windows/ckb-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/cs-t-k0-windows-extended.xml svneol=native#text/xml
 maint-25/keyboards/windows/cs-t-k0-windows-qwerty.xml svneol=native#text/xml
 maint-25/keyboards/windows/cs-t-k0-windows.xml svneol=native#text/xml
@@ -23767,7 +23768,6 @@ maint-25/keyboards/windows/km-t-k0-windows-extended.xml svneol=native#text/xml
 maint-25/keyboards/windows/km-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/kn-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/ko-t-k0-windows.xml svneol=native#text/xml
-maint-25/keyboards/windows/ku-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/ky-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/lb-t-k0-windows.xml svneol=native#text/xml
 maint-25/keyboards/windows/lis-t-k0-windows-extended.xml svneol=native#text/xml
@@ -29830,6 +29830,8 @@ maint-25/tools/java/com/ibm/icu/text/ListFormat.java svneol=native#text/plain%3B
 maint-25/tools/java/com/ibm/icu/text/ListFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/find-unrun-tests.sh -text
 maint-25/tools/java/how_to_notes.txt svneol=native#text/plain
+maint-25/tools/java/libs/guava-16.0.1-sources.jar -text
+maint-25/tools/java/libs/guava-16.0.1.jar -text
 maint-25/tools/java/libs/icu4j-src.jar -text
 maint-25/tools/java/libs/icu4j.jar -text
 maint-25/tools/java/libs/utilities-src.jar -text
@@ -30309,6 +30311,7 @@ maint-25/tools/java/org/unicode/cldr/util/LanguageTagParser.java svneol=native#t
 maint-25/tools/java/org/unicode/cldr/util/LenientDateParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/Level.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/LocaleIDParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
+maint-25/tools/java/org/unicode/cldr/util/LockSupportMap.java -text
 maint-25/tools/java/org/unicode/cldr/util/Log.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/LogicalGrouping.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/LruMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -30361,6 +30364,7 @@ maint-25/tools/java/org/unicode/cldr/util/Transformer.java svneol=native#text/pl
 maint-25/tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+maint-25/tools/java/org/unicode/cldr/util/VariableAndPathParser.java -text
 maint-25/tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/VerifyCompactNumbers.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/util/VerifyZones.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -30476,6 +30480,8 @@ maint-25/tools/java/org/unicode/cldr/util/data/test/ru-zh.txt svneol=native#text
 maint-25/tools/java/org/unicode/cldr/util/data/test/sk-ja.txt svneol=native#text/plain
 maint-25/tools/java/org/unicode/cldr/util/data/test/sk-sk_FONIPA.txt svneol=native#text/plain
 maint-25/tools/java/org/unicode/cldr/util/data/test/sk_FONIPA-ja.txt svneol=native#text/plain
+maint-25/tools/java/org/unicode/cldr/util/data/test/widthSpecification.xml -text
+maint-25/tools/java/org/unicode/cldr/util/data/test/widthSpecification.xsd -text
 maint-25/tools/java/org/unicode/cldr/util/data/test/zh_Latn_PINYIN-ru.txt svneol=native#text/plain
 maint-25/tools/java/org/unicode/cldr/util/data/testLdml2Icu.txt svneol=native#text/plain
 maint-25/tools/java/org/unicode/cldr/util/data/test_help_messages.html svneol=native#text/html
