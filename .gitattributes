@@ -9136,6 +9136,7 @@ tools/java/org/unicode/cldr/util/LanguageTagParser.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/LenientDateParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Level.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LocaleIDParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/LockSupportMap.java -text
 tools/java/org/unicode/cldr/util/Log.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LogicalGrouping.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LruMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
