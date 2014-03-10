@@ -8655,6 +8655,8 @@ tools/java/com/ibm/icu/text/ListFormat.java svneol=native#text/plain%3Bcharset%3
 tools/java/com/ibm/icu/text/ListFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/find-unrun-tests.sh -text
 tools/java/how_to_notes.txt svneol=native#text/plain
+tools/java/libs/guava-16.0.1-sources.jar -text
+tools/java/libs/guava-16.0.1.jar -text
 tools/java/libs/icu4j-src.jar -text
 tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities-src.jar -text
