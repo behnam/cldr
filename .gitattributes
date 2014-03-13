@@ -30090,6 +30090,7 @@ maint-25/tools/java/org/unicode/cldr/tool/FallbackIterator.java svneol=native#te
 maint-25/tools/java/org/unicode/cldr/tool/FallbackIteratorDataGenerator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/tool/FilterCharacterFallbacks.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/tool/FilterFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
+maint-25/tools/java/org/unicode/cldr/tool/FindPluralDifferences.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/tool/FindPreferredHours.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/tool/FindWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 maint-25/tools/java/org/unicode/cldr/tool/FixDelimiters.java svneol=native#text/plain%3Bcharset%3Dutf-8
