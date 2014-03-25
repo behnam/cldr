@@ -9030,6 +9030,7 @@ tools/java/org/unicode/cldr/unittest/TestBasic_ja.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/unittest/TestBcp47Numbers.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestBcp47Transforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestCLDRFile.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/unittest/TestCLDRLocaleCoverage.java -text
 tools/java/org/unicode/cldr/unittest/TestCLDRUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestCanonicalIds.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
