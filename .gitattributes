@@ -8986,6 +8986,8 @@ tools/java/org/unicode/cldr/tool/ShowPlurals.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/tool/ShowZoneEquivalences.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/SimpleLocaleParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/TablePrinter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/TestVettingViewer.java -text
+tools/java/org/unicode/cldr/tool/TestVettingViewerPerf.java -text
 tools/java/org/unicode/cldr/tool/ToolConstants.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ToolUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/VettingAdder.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9185,8 +9187,6 @@ tools/java/org/unicode/cldr/util/StripUTF8BOMInputStream.java svneol=native#text
 tools/java/org/unicode/cldr/util/SupplementalDataInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/TestStateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/TestUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/TestVettingViewer.java -text
-tools/java/org/unicode/cldr/util/TestVettingViewerPerf.java -text
 tools/java/org/unicode/cldr/util/TextCldrFile.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Timer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/TimezoneFormatter.java svneol=native#text/plain%3Bcharset%3Dutf-8
