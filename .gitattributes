@@ -9107,6 +9107,8 @@ tools/java/org/unicode/cldr/util/Containment.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/CoreCoverageInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter2.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/CoverageInfo.java -text
+tools/java/org/unicode/cldr/util/CoverageInformationGettable.java -text
 tools/java/org/unicode/cldr/util/DateTimeCanonicalizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DateTimeFormats.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
