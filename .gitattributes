@@ -9339,5 +9339,6 @@ tools/scripts/fixSVNProps.sh -text svneol=native#application/x-sh
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh
 tools/scripts/sidewaysCharts.sh -text svneol=native#application/x-sh
+tools/scripts/uca/blankweights.sed -text
 tools/scripts/web/bugdiffs -text
 /unicode-license.txt svneol=native#text/plain%3Bcharset%3Dutf-8
