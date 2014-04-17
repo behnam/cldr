@@ -8676,7 +8676,9 @@ tools/java/org/unicode/cldr/draft/CompoundTransform.java svneol=native#text/plai
 tools/java/org/unicode/cldr/draft/EnumLookup.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ExemplarInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ExtractCountItems.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/draft/FileUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/FileCopier.java -text
+tools/java/org/unicode/cldr/draft/FileProcessor.java -text
+tools/java/org/unicode/cldr/draft/FileReaders.java -text
 tools/java/org/unicode/cldr/draft/FilteredTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/FixArchaic.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/FormatSpecialData.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8709,10 +8711,12 @@ tools/java/org/unicode/cldr/draft/Rule.java svneol=native#text/plain%3Bcharset%3
 tools/java/org/unicode/cldr/draft/ScriptCategories.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/ScriptMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/SemiFileReader.java -text
 tools/java/org/unicode/cldr/draft/ShortestCanonicalForm.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachine.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachineBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachineTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/StringIterables.java -text
 tools/java/org/unicode/cldr/draft/Subheader.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/TestMixedScript.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/TransformTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
