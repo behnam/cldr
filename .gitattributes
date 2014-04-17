@@ -8676,9 +8676,6 @@ tools/java/org/unicode/cldr/draft/CompoundTransform.java svneol=native#text/plai
 tools/java/org/unicode/cldr/draft/EnumLookup.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ExemplarInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ExtractCountItems.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/draft/FileCopier.java -text
-tools/java/org/unicode/cldr/draft/FileProcessor.java -text
-tools/java/org/unicode/cldr/draft/FileReaders.java -text
 tools/java/org/unicode/cldr/draft/FilteredTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/FixArchaic.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/FormatSpecialData.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8711,12 +8708,10 @@ tools/java/org/unicode/cldr/draft/Rule.java svneol=native#text/plain%3Bcharset%3
 tools/java/org/unicode/cldr/draft/ScriptCategories.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/ScriptMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/draft/SemiFileReader.java -text
 tools/java/org/unicode/cldr/draft/ShortestCanonicalForm.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachine.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachineBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachineTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/draft/StringIterables.java -text
 tools/java/org/unicode/cldr/draft/Subheader.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/TestMixedScript.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/TransformTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9128,6 +9123,9 @@ tools/java/org/unicode/cldr/util/EnumNames.java svneol=native#text/plain%3Bchars
 tools/java/org/unicode/cldr/util/EscapingUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ExtractCollationRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Factory.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/FileCopier.java -text
+tools/java/org/unicode/cldr/util/FileProcessor.java -text
+tools/java/org/unicode/cldr/util/FileReaders.java -text
 tools/java/org/unicode/cldr/util/FindDTDOrder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ICUServiceBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/InputStreamFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9170,6 +9168,7 @@ tools/java/org/unicode/cldr/util/RegexFileParser.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/util/RegexLookup.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/RegexUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Segmenter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/SemiFileReader.java -text
 tools/java/org/unicode/cldr/util/SetComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/SimpleDictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/SimpleEquivalenceClass.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9184,6 +9183,7 @@ tools/java/org/unicode/cldr/util/StateDictionary.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/util/StateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringId.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/StringIterables.java -text
 tools/java/org/unicode/cldr/util/StripUTF8BOMInputStream.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/SupplementalDataInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/TestStateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
