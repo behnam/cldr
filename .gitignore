@@ -214,6 +214,8 @@ tryout_6646/tools/cldr-apps/dist
 tryout_6646/tools/cldr-apps/doc
 tryout_6646/tools/cldr-apps/nbbuild
 tryout_6646/tools/cldr-apps/testing_cldr_home
+tryout_6646/tools/cldr-unittest/build
+tryout_6646/tools/cldr-unittest/build.properties
 tryout_6646/tools/java/*.jar
 tryout_6646/tools/java/.build.properties.swp
 tryout_6646/tools/java/build

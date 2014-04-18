@@ -35671,27 +35671,7 @@ tryout_6646/common/rbnf/el.xml svneol=native#text/xml
 tryout_6646/common/rbnf/en.xml svneol=native#text/xml
 tryout_6646/common/rbnf/eo.xml svneol=native#text/xml
 tryout_6646/common/rbnf/es.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_419.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_AR.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_BO.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_CL.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_CO.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_CR.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_CU.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_DO.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_EC.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_GT.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_HN.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_MX.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_NI.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_PA.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_PE.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_PR.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_PY.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_SV.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_US.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_UY.xml svneol=native#text/xml
-tryout_6646/common/rbnf/es_VE.xml svneol=native#text/xml
+tryout_6646/common/rbnf/es_003.xml -text
 tryout_6646/common/rbnf/et.xml svneol=native#text/xml
 tryout_6646/common/rbnf/fa.xml svneol=native#text/xml
 tryout_6646/common/rbnf/fa_AF.xml svneol=native#text/xml
@@ -35728,13 +35708,7 @@ tryout_6646/common/rbnf/nl.xml svneol=native#text/xml
 tryout_6646/common/rbnf/nn.xml svneol=native#text/xml
 tryout_6646/common/rbnf/pl.xml svneol=native#text/xml
 tryout_6646/common/rbnf/pt.xml svneol=native#text/xml
-tryout_6646/common/rbnf/pt_AO.xml svneol=native#text/xml
-tryout_6646/common/rbnf/pt_GW.xml svneol=native#text/xml
-tryout_6646/common/rbnf/pt_MO.xml svneol=native#text/xml
-tryout_6646/common/rbnf/pt_MZ.xml svneol=native#text/xml
 tryout_6646/common/rbnf/pt_PT.xml svneol=native#text/xml
-tryout_6646/common/rbnf/pt_ST.xml svneol=native#text/xml
-tryout_6646/common/rbnf/pt_TL.xml svneol=native#text/xml
 tryout_6646/common/rbnf/ro.xml svneol=native#text/xml
 tryout_6646/common/rbnf/root.xml svneol=native#text/xml
 tryout_6646/common/rbnf/ru.xml svneol=native#text/xml
@@ -37792,13 +37766,12 @@ tryout_6646/tools/cldr-apps/WebContent/WEB-INF/jspf/session.jspf -text svneol=un
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/jspf/stcontext.jspf -text
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/activation.jar -text
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/antlr-runtime-3.4.jar -text
-tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/commons-codec-1.8.jar -text
-tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar -text
-tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.0.1.jar -text
+tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/commons-codec-1.9.jar -text
+tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/commons-fileupload-1.3.1.jar -text
+tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/commons-io-2.4.jar -text
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/derby-10.10.1.1.jar -text
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/jdom-1.1.jar -text
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/jna-3.4.0.jar -text
-tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/license-apache-commons.txt svneol=native#text/plain
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/license-derby.txt svneol=native#text/plain
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/license-jdom.txt svneol=native#text/plain
 tryout_6646/tools/cldr-apps/WebContent/WEB-INF/lib/license-mail.txt svneol=native#text/plain
@@ -43250,7 +43223,13 @@ tryout_6646/tools/cldr-apps/src/org/unicode/cldr/web/WebContext.java svneol=nati
 tryout_6646/tools/cldr-apps/src/org/unicode/cldr/web/XPathMatcher.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/cldr-apps/src/org/unicode/cldr/web/XPathTable.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
+tryout_6646/tools/cldr-unittest/.classpath -text svneol=unset#text/plain
+tryout_6646/tools/cldr-unittest/.project -text svneol=unset#text/plain
+tryout_6646/tools/cldr-unittest/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+tryout_6646/tools/cldr-unittest/build-sample.properties -text
+tryout_6646/tools/cldr-unittest/build.xml svneol=native#text/xml
 tryout_6646/tools/java/build.xml svneol=native#text/xml
+tryout_6646/tools/java/cldr-tools.properties -text
 tryout_6646/tools/java/com/ibm/icu/dev/test/GenderInfoTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/java/com/ibm/icu/dev/test/ListFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/java/com/ibm/icu/text/GenderInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -43768,6 +43747,7 @@ tryout_6646/tools/java/org/unicode/cldr/util/RandomStringGenerator.java svneol=n
 tryout_6646/tools/java/org/unicode/cldr/util/RangeAbbreviator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/java/org/unicode/cldr/util/ReferenceStringSearch.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/java/org/unicode/cldr/util/RegexFileParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tryout_6646/tools/java/org/unicode/cldr/util/RegexLogger.java -text
 tryout_6646/tools/java/org/unicode/cldr/util/RegexLookup.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/java/org/unicode/cldr/util/RegexUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tryout_6646/tools/java/org/unicode/cldr/util/Segmenter.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -43946,5 +43926,6 @@ tryout_6646/tools/scripts/fixSVNProps.sh -text svneol=native#application/x-sh
 tryout_6646/tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 tryout_6646/tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh
 tryout_6646/tools/scripts/sidewaysCharts.sh -text svneol=native#application/x-sh
+tryout_6646/tools/scripts/uca/blankweights.sed -text
 tryout_6646/tools/scripts/web/bugdiffs -text
 tryout_6646/unicode-license.txt svneol=native#text/plain%3Bcharset%3Dutf-8
