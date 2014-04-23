@@ -3189,6 +3189,7 @@ tools/cldr-apps/WebContent/WEB-INF/lib/svnkit-1.7.4.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/svnkit-cli-1.7.4.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/svnkit-javahl16-1.7.4.jar -text
 tools/cldr-apps/WebContent/WEB-INF/lib/trilead-ssh2-1.0.0-build214.jar -text
+tools/cldr-apps/WebContent/WEB-INF/tags/base.tag -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tags/st/menu.tag -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/DynamicDataSection.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/GMT_format.jsp -text
@@ -3213,6 +3214,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/generalinfo.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/group_separator.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/hidden.html svneol=native#text/html
 tools/cldr-apps/WebContent/WEB-INF/tmpl/index.jsp -text
+tools/cldr-apps/WebContent/WEB-INF/tmpl/js_include.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/language_country.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/list_patterns.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/local_currency.jsp -text
@@ -3234,6 +3236,7 @@ tools/cldr-apps/WebContent/WEB-INF/tmpl/r_numbers.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_rxt.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_steps.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_vetting.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/WEB-INF/tmpl/r_vetting_json.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_zones.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/report_menu.jsp -text
 tools/cldr-apps/WebContent/WEB-INF/tmpl/row.jsp -text
@@ -3266,6 +3269,8 @@ tools/cldr-apps/WebContent/conf.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/conf2.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/contributed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/createAndLogin.jsp -text
+tools/cldr-apps/WebContent/css/bootstrap.min.css -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/css/redesign.css -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dnah.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dojoroot/dijit/BackgroundIframe.js svneol=native#text/javascript
@@ -8483,23 +8488,33 @@ tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/widget/templates/ChatSession.html
 tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/xmppSession.js svneol=native#text/javascript
 tools/cldr-apps/WebContent/dojoroot/surveyTool/nls/stui.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/feedback.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/flag-d.png -text
 tools/cldr-apps/WebContent/flag.png -text
+tools/cldr-apps/WebContent/fonts/glyphicons-halflings-regular.eot -text
+tools/cldr-apps/WebContent/fonts/glyphicons-halflings-regular.svg -text
+tools/cldr-apps/WebContent/fonts/glyphicons-halflings-regular.ttf -text
+tools/cldr-apps/WebContent/fonts/glyphicons-halflings-regular.woff -text
 tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
 tools/cldr-apps/WebContent/helpHtml.jsp -text
 tools/cldr-apps/WebContent/index.jsp -text
+tools/cldr-apps/WebContent/js/bootstrap.min.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/cldr-setup.js -text
 tools/cldr-apps/WebContent/js/g.bar.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.dot.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.line.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/jquery.autosize.min.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/redesign.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/review.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/lock.jsp -text
 tools/cldr-apps/WebContent/lock.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/login.jsp -text
+tools/cldr-apps/WebContent/logs/feedback.log -text
 tools/cldr-apps/WebContent/missing.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/myvotes.jsp -text
 tools/cldr-apps/WebContent/mzToContinentMap.jsp -text svneol=unset#text/plain
@@ -8584,6 +8599,7 @@ tools/cldr-apps/src/org/unicode/cldr/web/DefaultDataSubmissionResultHandler.java
 tools/cldr-apps/src/org/unicode/cldr/web/DisputePageManager.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/EphemeralSettings.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/ExampleBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-apps/src/org/unicode/cldr/web/FeedBack.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/IntHash.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/InterestSort.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/JspWebContext.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8598,6 +8614,7 @@ tools/cldr-apps/src/org/unicode/cldr/web/Partition.java svneol=native#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/PathHeaderSort.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/Race.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/Registerable.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-apps/src/org/unicode/cldr/web/ReviewHide.java -text svneol=unset#text/plain
 tools/cldr-apps/src/org/unicode/cldr/web/STFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/STPoolingListener.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/web/SortMode.java svneol=native#text/plain%3Bcharset%3Dutf-8
