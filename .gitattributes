@@ -8639,6 +8639,7 @@ tools/cldr-apps/src/org/unicode/cldr/web/XPathTable.java svneol=native#text/plai
 tools/cldr-apps/src/org/unicode/cldr/web/package.html svneol=native#text/html
 tools/cldr-unittest/.classpath -text svneol=unset#text/plain
 tools/cldr-unittest/.project -text svneol=unset#text/plain
+tools/cldr-unittest/.settings/org.eclipse.core.resources.prefs -text
 tools/cldr-unittest/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
 tools/cldr-unittest/build-sample.properties -text
 tools/cldr-unittest/build.xml svneol=native#text/xml
