@@ -668,6 +668,7 @@ common/main/gl.xml svneol=native#text/xml
 common/main/gl_ES.xml svneol=native#text/xml
 common/main/gsw.xml svneol=native#text/xml
 common/main/gsw_CH.xml svneol=native#text/xml
+common/main/gsw_FR.xml svneol=native#text/xml
 common/main/gsw_LI.xml svneol=native#text/xml
 common/main/gu.xml svneol=native#text/xml
 common/main/gu_IN.xml svneol=native#text/xml
