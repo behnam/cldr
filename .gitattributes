@@ -8515,6 +8515,7 @@ tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/redesign.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/review.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
+tools/cldr-apps/WebContent/loader.gif -text
 tools/cldr-apps/WebContent/lock.jsp -text
 tools/cldr-apps/WebContent/lock.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/login.jsp -text
