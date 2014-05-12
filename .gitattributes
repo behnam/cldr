@@ -8686,6 +8686,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCLDRLocaleCoverage.java -t
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCLDRUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCanonicalIds.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingTransforms.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8730,6 +8731,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUExtension.java svneol=nat
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestVariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestXMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TextFileReader.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.dtd -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.xml svneol=native#text/xml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset#text/plain
