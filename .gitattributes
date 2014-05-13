@@ -9212,6 +9212,7 @@ tools/java/org/unicode/cldr/util/MergeLists.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/NodeListIterator.java -text
 tools/java/org/unicode/cldr/util/Pair.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathDescription.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/PathGenerators.java -text
 tools/java/org/unicode/cldr/util/PathHeader.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathStarrer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
