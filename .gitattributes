@@ -3148,6 +3148,7 @@ tools/cldr-apps-watcher/app.js svneol=native#text/javascript
 tools/cldr-apps-watcher/config/SOMEHOST.json -text
 tools/cldr-apps-watcher/config/default.json -text
 tools/cldr-apps-watcher/package.json -text
+tools/cldr-apps-watcher/public/favicon.ico -text
 tools/cldr-apps-watcher/public/javascripts/stwatcher-client.js svneol=native#text/javascript
 tools/cldr-apps-watcher/public/stylesheets/style.css svneol=native#text/css
 tools/cldr-apps-watcher/routes/index.js svneol=native#text/javascript
