@@ -1,0 +1,11 @@
+/*.jar
+/.build.properties.swp
+/build
+/build.properties
+/classes
+/dist
+org/unicode/cldr/icu/Result.java
+org/unicode/cldr/icu/Test.java
+org/unicode/cldr/icu/TestStax.java
+org/unicode/cldr/icu/XPathMatcherTree.java
+/out
