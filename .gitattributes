@@ -2759,6 +2759,9 @@ seed/main/quc.xml svneol=native#text/xml
 seed/main/quc_GT.xml svneol=native#text/xml
 seed/main/sa.xml svneol=native#text/xml
 seed/main/sa_IN.xml svneol=native#text/xml
+seed/main/sd.xml -text
+seed/main/sd_Arab.xml svneol=native#text/xml
+seed/main/sd_Arab_PK.xml svneol=native#text/xml
 seed/main/sid.xml svneol=native#text/xml
 seed/main/sid_ET.xml svneol=native#text/xml
 seed/main/sma.xml svneol=native#text/xml
