@@ -3208,6 +3208,7 @@ tools/cldr-apps/WebContent/EmbeddedReport.jsp -text
 tools/cldr-apps/WebContent/RefreshRow.jsp -text
 tools/cldr-apps/WebContent/STLogo.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/SampleNumber.jsp svneol=native#text/plain
+tools/cldr-apps/WebContent/WEB-INF/jspf/bulkinfo.jspf -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/WEB-INF/jspf/debug_jsp.jspf -text
 tools/cldr-apps/WebContent/WEB-INF/jspf/dojoheader.jspf svneol=native#text/plain
 tools/cldr-apps/WebContent/WEB-INF/jspf/r_steps_complete.jspf -text
