@@ -8629,6 +8629,7 @@ tools/cldr-apps/src/org/json/license.html svneol=native#text/html
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/OldTestMain.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestAll.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestIntHash.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestMisc.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestSTFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestUserSettingsData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-apps/src/org/unicode/cldr/unittest/web/TestXPathTable.java svneol=native#text/plain%3Bcharset%3Dutf-8
