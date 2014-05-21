@@ -9070,6 +9070,7 @@ tools/java/org/unicode/cldr/tool/ConvertLanguageData.java svneol=native#text/pla
 tools/java/org/unicode/cldr/tool/ConvertXTB.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CountItems.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CountryCodeConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/DebugRegexLookup.java -text
 tools/java/org/unicode/cldr/tool/DiffWithParent.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/DumpCoverage.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ExtractIsoCurrencyData.java svneol=native#text/plain%3Bcharset%3Dutf-8
