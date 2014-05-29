@@ -8543,6 +8543,7 @@ tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/widget/ChatSession.js svneol=nati
 tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/widget/templates/ChatSession.html svneol=native#text/html
 tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/xmppSession.js svneol=native#text/javascript
 tools/cldr-apps/WebContent/dojoroot/surveyTool/nls/stui.js -text svneol=unset#text/javascript
+tools/cldr-apps/WebContent/example.png -text
 tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/feedback.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/flag-d.png -text
@@ -8554,6 +8555,7 @@ tools/cldr-apps/WebContent/fonts/glyphicons-halflings-regular.woff -text
 tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
 tools/cldr-apps/WebContent/helpHtml.jsp -text
+tools/cldr-apps/WebContent/hint.png -text
 tools/cldr-apps/WebContent/index.jsp -text
 tools/cldr-apps/WebContent/js/bootstrap.min.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/cldr-setup.js -text
