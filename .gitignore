@@ -22,6 +22,7 @@ tools/cldr-apps-watcher/node_modules
 tools/cldr-apps/WebContent/*.esproj
 tools/cldr-apps/WebContent/Thumbs.db
 tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
+tools/cldr-apps/WebContent/js/special/srl.js
 tools/cldr-apps/WebContent/srl.jsp
 tools/cldr-apps/build
 tools/cldr-apps/build.properties

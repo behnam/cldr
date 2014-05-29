@@ -8568,6 +8568,9 @@ tools/cldr-apps/WebContent/js/jquery.autosize.min.js -text svneol=unset#text/pla
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/redesign.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/review.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/SpecialPage.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/search.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/statistics.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/loader.gif -text
 tools/cldr-apps/WebContent/lock.jsp -text
