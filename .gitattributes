@@ -8572,6 +8572,7 @@ tools/cldr-apps/WebContent/js/special/SpecialPage.js -text svneol=unset#text/pla
 tools/cldr-apps/WebContent/js/special/blank.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/search.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/statistics.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/tc-emaillist.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/loader.gif -text
 tools/cldr-apps/WebContent/lock.jsp -text
@@ -8596,7 +8597,6 @@ tools/cldr-apps/WebContent/statistics.jsp svneol=native#text/plain
 tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
-tools/cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/tc-flagged.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/unconfirmed.png -text svneol=unset#image/png
