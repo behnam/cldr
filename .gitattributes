@@ -8569,6 +8569,7 @@ tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/redesign.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/review.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/SpecialPage.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/blank.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/search.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/statistics.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
