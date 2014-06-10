@@ -9103,7 +9103,6 @@ tools/java/org/unicode/cldr/util/ChainedMap.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/CharSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharacterFallbacks.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/CldrUtility.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CompactStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9111,6 +9110,7 @@ tools/java/org/unicode/cldr/util/Containment.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/CoreCoverageInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter2.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/CoverageInfo.java -text
 tools/java/org/unicode/cldr/util/DateTimeCanonicalizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DateTimeFormats.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9144,14 +9144,14 @@ tools/java/org/unicode/cldr/util/LanguageTagParser.java svneol=native#text/plain
 tools/java/org/unicode/cldr/util/LenientDateParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Level.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LocaleIDParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/LockSupportMap.java -text
+tools/java/org/unicode/cldr/util/LockSupportMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Log.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LogicalGrouping.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LruMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/MapComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/MergeLists.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/NodeListIterator.java -text
+tools/java/org/unicode/cldr/util/NodeListIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Pair.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathDescription.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathHeader.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9170,6 +9170,7 @@ tools/java/org/unicode/cldr/util/RandomStringGenerator.java svneol=native#text/p
 tools/java/org/unicode/cldr/util/RangeAbbreviator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ReferenceStringSearch.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/RegexFileParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/RegexLogger.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/RegexLookup.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/RegexUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Segmenter.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9186,6 +9187,7 @@ tools/java/org/unicode/cldr/util/StackTracker.java svneol=native#text/plain%3Bch
 tools/java/org/unicode/cldr/util/StandardCodes.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StateDictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/StringArrayToMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringId.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringIterables.java -text
@@ -9200,7 +9202,7 @@ tools/java/org/unicode/cldr/util/Transformer.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/VariableAndPathParser.java -text
+tools/java/org/unicode/cldr/util/VariableAndPathParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VerifyCompactNumbers.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VerifyZones.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9214,7 +9216,7 @@ tools/java/org/unicode/cldr/util/XMLFileReader.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/util/XMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/XMLValidator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/XMessageFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/XPathExpressionParser.java -text
+tools/java/org/unicode/cldr/util/XPathExpressionParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/XPathParts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/XPathTokenizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ZoneInflections.java svneol=native#text/plain%3Bcharset%3Dutf-8
