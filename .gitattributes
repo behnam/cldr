@@ -8607,6 +8607,9 @@ tools/cldr-apps/WebContent/v.jsp -text
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/xpath-linkify/cldr-xpath-linkify.css svneol=native#text/css
+tools/cldr-apps/WebContent/xpath-linkify/cldr-xpath-linkify.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/xpath-linkify/example-xpath-linkify.html svneol=native#text/html
 tools/cldr-apps/WebContent/xpath.jsp -text
 tools/cldr-apps/WebContent/xpath_results.jsp -text
 tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
