@@ -3169,6 +3169,7 @@ tools/SurveyConsole/WebContent/js/dojo/dojo/uacss.js -text
 tools/SurveyConsole/WebContent/js/dojo/dojo/window.js -text
 tools/SurveyConsole/WebContent/js/surveyconfig.js.sample -text
 tools/SurveyConsole/WebContent/js/surveyconsole.js -text
+tools/build.xml svneol=native#text/xml
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
