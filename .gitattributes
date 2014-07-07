@@ -3169,6 +3169,7 @@ tools/SurveyConsole/WebContent/js/dojo/dojo/uacss.js -text
 tools/SurveyConsole/WebContent/js/dojo/dojo/window.js -text
 tools/SurveyConsole/WebContent/js/surveyconfig.js.sample -text
 tools/SurveyConsole/WebContent/js/surveyconsole.js -text
+tools/build.xml svneol=native#text/xml
 tools/c/genldml/Readme.txt svneol=native#text/plain
 tools/c/genldml/resources/res-files-list.txt svneol=native#text/plain
 tools/c/genldml/resources/root.txt svneol=native#text/plain
@@ -8543,6 +8544,7 @@ tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/widget/ChatSession.js svneol=nati
 tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/widget/templates/ChatSession.html svneol=native#text/html
 tools/cldr-apps/WebContent/dojoroot/dojox/xmpp/xmppSession.js svneol=native#text/javascript
 tools/cldr-apps/WebContent/dojoroot/surveyTool/nls/stui.js -text svneol=unset#text/javascript
+tools/cldr-apps/WebContent/example.png -text
 tools/cldr-apps/WebContent/feed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/feedback.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/flag-d.png -text
@@ -8554,6 +8556,7 @@ tools/cldr-apps/WebContent/fonts/glyphicons-halflings-regular.woff -text
 tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
 tools/cldr-apps/WebContent/helpHtml.jsp -text
+tools/cldr-apps/WebContent/hint.png -text
 tools/cldr-apps/WebContent/index.jsp -text
 tools/cldr-apps/WebContent/js/bootstrap.min.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/cldr-setup.js -text
@@ -8566,6 +8569,13 @@ tools/cldr-apps/WebContent/js/jquery.autosize.min.js -text svneol=unset#text/pla
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/redesign.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/review.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/SpecialPage.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/blank.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/forum.js svneol=native#text/javascript
+tools/cldr-apps/WebContent/js/special/search.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/statistics.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/tc-emaillist.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/vsummary.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/loader.gif -text
 tools/cldr-apps/WebContent/lock.jsp -text
@@ -8590,7 +8600,6 @@ tools/cldr-apps/WebContent/statistics.jsp svneol=native#text/plain
 tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
-tools/cldr-apps/WebContent/tc-emaillist.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/tc-flagged.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/unconfirmed.png -text svneol=unset#image/png
@@ -8599,6 +8608,9 @@ tools/cldr-apps/WebContent/v.jsp -text
 tools/cldr-apps/WebContent/vote.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/vsummary.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/warn.png -text svneol=unset#image/png
+tools/cldr-apps/WebContent/xpath-linkify/cldr-xpath-linkify.css svneol=native#text/css
+tools/cldr-apps/WebContent/xpath-linkify/cldr-xpath-linkify.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/xpath-linkify/example-xpath-linkify.html svneol=native#text/html
 tools/cldr-apps/WebContent/xpath.jsp -text
 tools/cldr-apps/WebContent/xpath_results.jsp -text
 tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
@@ -8729,6 +8741,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCanonicalIds.java svneol=n
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingTransforms.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9194,12 +9207,12 @@ tools/java/org/unicode/cldr/util/CLDRLocale.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/CLDRPaths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CLDRTool.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CLDRTransforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/CLDRURLS.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CachingEntityResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ChainedMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharacterFallbacks.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/CldrUtility.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CompactStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9207,6 +9220,7 @@ tools/java/org/unicode/cldr/util/Containment.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/CoreCoverageInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter2.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/CoverageInfo.java -text
 tools/java/org/unicode/cldr/util/DateTimeCanonicalizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DateTimeFormats.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9283,6 +9297,7 @@ tools/java/org/unicode/cldr/util/StackTracker.java svneol=native#text/plain%3Bch
 tools/java/org/unicode/cldr/util/StandardCodes.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StateDictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/StaticCLDRURLS.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringArrayToMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringId.java svneol=native#text/plain%3Bcharset%3Dutf-8
