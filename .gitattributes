@@ -1408,6 +1408,7 @@ rootunihan/common/uca/UCA_Rules.txt svneol=native#text/plain
 rootunihan/common/uca/UCA_Rules_SHORT.txt svneol=native#text/plain
 rootunihan/common/uca/allkeys_CLDR.txt svneol=native#text/plain
 rootunihan/common/uca/allkeys_DUCET.txt svneol=native#text/plain
+rootunihan/common/uca/unihan-index.txt svneol=native#text/plain
 rootunihan/exemplars/.project -text svneol=unset#text/plain
 rootunihan/exemplars/main/aai_Latn.xml svneol=native#text/xml
 rootunihan/exemplars/main/aak_Latn.xml svneol=native#text/xml
