@@ -2751,7 +2751,7 @@ seed/main/quc.xml svneol=native#text/xml
 seed/main/quc_GT.xml svneol=native#text/xml
 seed/main/sa.xml svneol=native#text/xml
 seed/main/sa_IN.xml svneol=native#text/xml
-seed/main/sd.xml -text
+seed/main/sd.xml svneol=native#text/xml
 seed/main/sd_Arab.xml svneol=native#text/xml
 seed/main/sd_Arab_PK.xml svneol=native#text/xml
 seed/main/sid.xml svneol=native#text/xml
@@ -9190,6 +9190,7 @@ tools/java/org/unicode/cldr/util/ChainedMap.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/CharSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CharacterFallbacks.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/CldrUtility.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CompactStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9197,7 +9198,7 @@ tools/java/org/unicode/cldr/util/Containment.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/CoreCoverageInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Counter2.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/CoverageInfo.java -text
+tools/java/org/unicode/cldr/util/CoverageInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DateTimeCanonicalizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DateTimeFormats.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9244,7 +9245,7 @@ tools/java/org/unicode/cldr/util/PathDescription.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/util/PathHeader.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathStarrer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/PatternCache.java -text
+tools/java/org/unicode/cldr/util/PatternCache.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PatternPlaceholders.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PluralRanges.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PluralRulesUtil.java svneol=native#text/plain%3Bcharset%3Dutf-8
