@@ -319,6 +319,7 @@ common/collation/se.xml svneol=native#text/xml
 common/collation/si.xml svneol=native#text/xml
 common/collation/sk.xml svneol=native#text/xml
 common/collation/sl.xml svneol=native#text/xml
+common/collation/smn.xml svneol=native#text/xml
 common/collation/sq.xml svneol=native#text/xml
 common/collation/sr.xml svneol=native#text/xml
 common/collation/sr_Latn.xml svneol=native#text/xml
