@@ -1373,7 +1373,6 @@ common/transforms/tlh-tlh_FONIPA.xml svneol=native#text/xml
 common/transforms/tr-Lower.xml svneol=native#text/xml
 common/transforms/tr-Title.xml svneol=native#text/xml
 common/transforms/tr-Upper.xml svneol=native#text/xml
-common/transforms/ug-Latin.xml svneol=native#text/xml
 common/transforms/uz_Cyrl-uz_Latn.xml svneol=native#text/xml
 common/transforms/yo-yo_BJ.xml svneol=native#text/xml
 common/transforms/zh_Latn_PINYIN-ru.xml svneol=native#text/xml
@@ -2791,6 +2790,7 @@ seed/main/wo_Latn.xml svneol=native#text/xml
 seed/main/wo_Latn_SN.xml svneol=native#text/xml
 seed/main/xh.xml svneol=native#text/xml
 seed/main/xh_ZA.xml svneol=native#text/xml
+seed/transforms/ug-Latin.xml -text
 specs/ldml/big_red_switch.html svneol=native#text/html
 specs/ldml/charts.html svneol=native#text/html
 specs/ldml/cldr.css -text svneol=unset#text/css
