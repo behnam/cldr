@@ -66,6 +66,17 @@
 7365oldvotesdaip/cldr-apps/doc
 7365oldvotesdaip/cldr-apps/nbbuild
 7365oldvotesdaip/cldr-apps/testing_cldr_home
+99uli7794/java/*.jar
+99uli7794/java/.build.properties.swp
+99uli7794/java/build
+99uli7794/java/build.properties
+99uli7794/java/classes
+99uli7794/java/dist
+99uli7794/java/org/unicode/cldr/icu/Result.java
+99uli7794/java/org/unicode/cldr/icu/Test.java
+99uli7794/java/org/unicode/cldr/icu/TestStax.java
+99uli7794/java/org/unicode/cldr/icu/XPathMatcherTree.java
+99uli7794/java/out
 c2323/tools/cldr-apps/build
 c2323/tools/cldr-apps/src/org/unicode/cldr/web/Junk.java
 c2323/tools/java/*.jar
