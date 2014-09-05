@@ -37,6 +37,8 @@ tools/cldr-apps/nbbuild
 tools/cldr-apps/testing_cldr_home
 tools/cldr-unittest/build
 tools/cldr-unittest/build.properties
+tools/dist
+tools/dist.conf/distExcludes.txt
 tools/java/*.jar
 tools/java/.build.properties.swp
 tools/java/build
