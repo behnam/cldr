@@ -2793,7 +2793,7 @@ seed/main/xh_ZA.xml svneol=native#text/xml
 seed/transforms/ug-Latin.xml svneol=native#text/xml
 specs/ldml/big_red_switch.html svneol=native#text/html
 specs/ldml/charts.html svneol=native#text/html
-specs/ldml/cldr.css -text svneol=unset#text/css
+specs/ldml/cldr.css svneol=native#text/css
 specs/ldml/comparison_charts.html svneol=native#text/html
 specs/ldml/corrigenda.html svneol=native#text/html
 specs/ldml/data_formats.html svneol=native#text/html
@@ -2832,7 +2832,7 @@ specs/ldml/version/1.6.1.html svneol=native#text/html
 specs/ldml/version/1.6.html svneol=native#text/html%3Bcharset%3Dutf-8
 specs/ldml/vetting.html svneol=native#text/html
 specs/ldml/xmlGuide.html svneol=native#text/html
-specs/rfc/draft-davis-t-langtag-ext.css svneol=native#text/plain
+specs/rfc/draft-davis-t-langtag-ext.css svneol=native#text/css
 specs/rfc/draft-davis-t-langtag-ext.html svneol=native#text/html
 specs/rfc/draft-davis-t-langtag-ext.txt svneol=native#text/plain
 specs/rfc/draft-davis-t-langtag-ext.xml svneol=native#text/xml
@@ -3326,8 +3326,8 @@ tools/cldr-apps/WebContent/conf.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/conf2.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/contributed.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/createAndLogin.jsp -text
-tools/cldr-apps/WebContent/css/bootstrap.min.css -text svneol=unset#text/plain
-tools/cldr-apps/WebContent/css/redesign.css -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/css/bootstrap.min.css svneol=native#text/css
+tools/cldr-apps/WebContent/css/redesign.css svneol=native#text/css
 tools/cldr-apps/WebContent/disp.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dnah.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dojoroot/dijit/BackgroundIframe.js svneol=native#text/javascript
@@ -4320,7 +4320,7 @@ tools/cldr-apps/WebContent/dojoroot/dojo/_base/window.js -text svneol=unset#appl
 tools/cldr-apps/WebContent/dojoroot/dojo/_base/xhr.js -text svneol=unset#application/javascript
 tools/cldr-apps/WebContent/dojoroot/dojo/_firebug/LICENSE -text
 tools/cldr-apps/WebContent/dojoroot/dojo/_firebug/errorIcon.png -text svneol=unset#image/png
-tools/cldr-apps/WebContent/dojoroot/dojo/_firebug/firebug.css -text
+tools/cldr-apps/WebContent/dojoroot/dojo/_firebug/firebug.css svneol=native#text/css
 tools/cldr-apps/WebContent/dojoroot/dojo/_firebug/firebug.js -text svneol=unset#application/javascript
 tools/cldr-apps/WebContent/dojoroot/dojo/_firebug/infoIcon.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dojoroot/dojo/_firebug/tab_lft_norm.png -text svneol=unset#image/png
@@ -4638,8 +4638,8 @@ tools/cldr-apps/WebContent/dojoroot/dojo/require.js -text svneol=unset#applicati
 tools/cldr-apps/WebContent/dojoroot/dojo/resources/LICENSE -text
 tools/cldr-apps/WebContent/dojoroot/dojo/resources/blank.gif -text
 tools/cldr-apps/WebContent/dojoroot/dojo/resources/blank.html svneol=native#text/html
-tools/cldr-apps/WebContent/dojoroot/dojo/resources/dnd.css -text
-tools/cldr-apps/WebContent/dojoroot/dojo/resources/dojo.css -text
+tools/cldr-apps/WebContent/dojoroot/dojo/resources/dnd.css svneol=native#text/css
+tools/cldr-apps/WebContent/dojoroot/dojo/resources/dojo.css svneol=native#text/css
 tools/cldr-apps/WebContent/dojoroot/dojo/resources/iframe_history.html svneol=native#text/html
 tools/cldr-apps/WebContent/dojoroot/dojo/resources/images/dndCopy.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/dojoroot/dojo/resources/images/dndMove.png -text svneol=unset#image/png
@@ -8599,7 +8599,7 @@ tools/cldr-apps/WebContent/star.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/statistics.jsp svneol=native#text/plain
 tools/cldr-apps/WebContent/stop.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/submit.jsp -text svneol=unset#text/plain
-tools/cldr-apps/WebContent/surveytool.css -text svneol=unset#text/css
+tools/cldr-apps/WebContent/surveytool.css svneol=native#text/css
 tools/cldr-apps/WebContent/tc-flagged.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/tc-mzfix.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/unconfirmed.png -text svneol=unset#image/png
@@ -8617,7 +8617,7 @@ tools/cldr-apps/WebContent/zoom.png -text svneol=unset#image/png
 tools/cldr-apps/build-sample.properties -text
 tools/cldr-apps/docs/image-sources/chat.intaglio -text
 tools/cldr-apps/docs/readme-staging.txt svneol=native#text/plain
-tools/cldr-apps/docs/readme.css -text svneol=unset#text/css
+tools/cldr-apps/docs/readme.css svneol=native#text/css
 tools/cldr-apps/docs/stops.html svneol=native#text/html%3Bcharset%3Dutf-8
 tools/cldr-apps/docs/stops.txt svneol=native#text/plain
 tools/cldr-apps/readme.txt svneol=native#text/plain
@@ -8851,7 +8851,7 @@ tools/java/libs/xercesImpl.jar -text
 tools/java/org/unicode/cldr/ant/CLDRBuild.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/ant/CLDRConverterTool.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
-tools/java/org/unicode/cldr/common.css -text svneol=unset#text/css
+tools/java/org/unicode/cldr/common.css svneol=native#text/css
 tools/java/org/unicode/cldr/draft/Categories.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/CharData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/CharEncoder.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9172,25 +9172,25 @@ tools/java/org/unicode/cldr/tool/ToolUtilities.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/tool/VettingAdder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/WritePluralRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/WritePluralRulesSpreadsheets.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/bytype-index.css -text
+tools/java/org/unicode/cldr/tool/bytype-index.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/bytype-index.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/dataModifiers.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/delimiterFixes.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/errors.css svneol=native#text/css
-tools/java/org/unicode/cldr/tool/index.css -text
+tools/java/org/unicode/cldr/tool/index.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/keyboards-index.html svneol=native#text/html
-tools/java/org/unicode/cldr/tool/keyboards.css -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/keyboards.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/modify_config.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/resolver/CldrResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/resolver/ResolutionType.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/resolver/ResolverUtils.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/summary-index.css -text
+tools/java/org/unicode/cldr/tool/summary-index.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/summary-index.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/supplemental.html svneol=native#text/html
-tools/java/org/unicode/cldr/tool/transforms-index.css -text
+tools/java/org/unicode/cldr/tool/transforms-index.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/wsb-dtd.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/tool/xmb-dtd.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/tool/xmbSkip.txt svneol=native#text/plain
@@ -9417,7 +9417,7 @@ tools/java/org/unicode/cldr/util/data/transforms/und-IPA.txt svneol=native#text/
 tools/java/org/unicode/cldr/util/data/tzdb-version.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/zone.tab -text
 tools/java/org/unicode/cldr/util/package.html svneol=native#text/html
-tools/java/org/unicode/cldr/util/vettingView.css -text
+tools/java/org/unicode/cldr/util/vettingView.css svneol=native#text/css
 tools/java/org/unicode/cldr/util/vettingView.js -text
 tools/java/org/unicode/cldr/util/vettingViewerHead.txt svneol=native#text/plain
 tools/java/readme.txt svneol=native#text/plain
