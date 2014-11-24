@@ -9230,6 +9230,7 @@ tools/java/org/unicode/cldr/util/DayPeriodConverter.java -text
 tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DayPeriods.java -text
 tools/java/org/unicode/cldr/util/DayPeriodsCheck.java -text
+tools/java/org/unicode/cldr/util/DayPeriodsOld.java -text
 tools/java/org/unicode/cldr/util/DelegatingIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DeprecationChecker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Dictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
