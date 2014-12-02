@@ -3308,6 +3308,8 @@ t7722/seed/main/byn.xml svneol=native#text/xml
 t7722/seed/main/byn_ER.xml svneol=native#text/xml
 t7722/seed/main/cch.xml svneol=native#text/xml
 t7722/seed/main/cch_NG.xml svneol=native#text/xml
+t7722/seed/main/ce.xml svneol=native#text/xml
+t7722/seed/main/ce_RU.xml svneol=native#text/xml
 t7722/seed/main/ckb.xml svneol=native#text/xml
 t7722/seed/main/ckb_IQ.xml svneol=native#text/xml
 t7722/seed/main/ckb_IR.xml svneol=native#text/xml
@@ -9851,7 +9853,11 @@ t7722/tools/java/org/unicode/cldr/util/Counter2.java svneol=native#text/plain%3B
 t7722/tools/java/org/unicode/cldr/util/CoverageInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t7722/tools/java/org/unicode/cldr/util/DateTimeCanonicalizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t7722/tools/java/org/unicode/cldr/util/DateTimeFormats.java svneol=native#text/plain%3Bcharset%3Dutf-8
+t7722/tools/java/org/unicode/cldr/util/DayPeriodConverter.java -text
 t7722/tools/java/org/unicode/cldr/util/DayPeriodInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
+t7722/tools/java/org/unicode/cldr/util/DayPeriods.java -text
+t7722/tools/java/org/unicode/cldr/util/DayPeriodsCheck.java -text
+t7722/tools/java/org/unicode/cldr/util/DayPeriodsOld.java -text
 t7722/tools/java/org/unicode/cldr/util/DelegatingIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t7722/tools/java/org/unicode/cldr/util/DeprecationChecker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 t7722/tools/java/org/unicode/cldr/util/Dictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
