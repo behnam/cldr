@@ -9256,6 +9256,7 @@ tools/java/org/unicode/cldr/util/Iso639Data.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/IsoCurrencyParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/IsoRegionData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LDMLUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/LanguageGroup.java -text
 tools/java/org/unicode/cldr/util/LanguageTagCanonicalizer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LanguageTagParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/LenientDateParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
