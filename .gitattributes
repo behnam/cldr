@@ -1,5 +1,6 @@
 * text=auto !eol
 /apache-license.txt svneol=native#text/plain
+common/annotations/en.xml -text
 common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
