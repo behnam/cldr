@@ -8731,6 +8731,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/RegexTransform.java svneol=nat
 tools/cldr-unittest/src/org/unicode/cldr/unittest/SimpleHtmlParserTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/StandardCodesTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestAll.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestAnnotations.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestAttributeValues.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestBCP47.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestBasic.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9200,6 +9201,7 @@ tools/java/org/unicode/cldr/tool/transforms-index.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/wsb-dtd.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/tool/xmb-dtd.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/tool/xmbSkip.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/Annotations.java -text
 tools/java/org/unicode/cldr/util/ApproximateWidth.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/BoilerplateUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Builder.java svneol=native#text/plain%3Bcharset%3Dutf-8
