@@ -131,6 +131,17 @@ cldrapps-inmem-4182/doc
 common.ver6375/.project
 common.ver6375/collation/und*.xml
 common.ver6375/main/und*.xml
+java-7984/java/*.jar
+java-7984/java/.build.properties.swp
+java-7984/java/build
+java-7984/java/build.properties
+java-7984/java/classes
+java-7984/java/dist
+java-7984/java/org/unicode/cldr/icu/Result.java
+java-7984/java/org/unicode/cldr/icu/Test.java
+java-7984/java/org/unicode/cldr/icu/TestStax.java
+java-7984/java/org/unicode/cldr/icu/XPathMatcherTree.java
+java-7984/java/out
 locale2544/tools/cldr-apps/WebContent/Thumbs.db
 locale2544/tools/cldr-apps/WebContent/WEB-INF/tmpl/r_srltest.jsp
 locale2544/tools/cldr-apps/build
