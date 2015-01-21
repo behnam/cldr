@@ -1,6 +1,27 @@
 * text=auto !eol
 /apache-license.txt svneol=native#text/plain
+common/annotations/ar.xml -text
+common/annotations/da.xml -text
+common/annotations/de.xml -text
 common/annotations/en.xml -text
+common/annotations/es.xml -text
+common/annotations/es_419.xml -text
+common/annotations/fr.xml -text
+common/annotations/ga.xml -text
+common/annotations/is.xml -text
+common/annotations/it.xml -text
+common/annotations/ja.xml -text
+common/annotations/ko.xml -text
+common/annotations/nl.xml -text
+common/annotations/nn.xml -text
+common/annotations/pl.xml -text
+common/annotations/pt.xml -text
+common/annotations/ru.xml -text
+common/annotations/sv.xml -text
+common/annotations/th.xml -text
+common/annotations/tr.xml -text
+common/annotations/zh.xml -text
+common/annotations/zh_Hant.xml -text
 common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
