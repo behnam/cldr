@@ -2808,6 +2808,7 @@ seed/main/wa.xml svneol=native#text/xml
 seed/main/wa_BE.xml svneol=native#text/xml
 seed/main/wal.xml svneol=native#text/xml
 seed/main/wal_ET.xml svneol=native#text/xml
+seed/main/wbp.xml -text
 seed/main/wo.xml svneol=native#text/xml
 seed/main/wo_Latn.xml svneol=native#text/xml
 seed/main/wo_Latn_SN.xml svneol=native#text/xml
