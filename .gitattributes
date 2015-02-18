@@ -26,6 +26,7 @@ common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
 common/bcp47/number.xml svneol=native#text/xml
+common/bcp47/segmentation.xml -text
 common/bcp47/timezone.xml svneol=native#text/xml
 common/bcp47/transform.xml svneol=native#text/xml
 common/bcp47/transform_ime.xml svneol=native#text/xml
