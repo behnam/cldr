@@ -184,6 +184,7 @@ common/casing/prg.xml svneol=native#text/xml
 common/casing/ps.xml svneol=native#text/xml
 common/casing/pt.xml svneol=native#text/xml
 common/casing/pt_PT.xml svneol=native#text/xml
+common/casing/qu.xml svneol=native#text/xml
 common/casing/rm.xml svneol=native#text/xml
 common/casing/rn.xml svneol=native#text/xml
 common/casing/ro.xml svneol=native#text/xml
