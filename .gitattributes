@@ -8752,6 +8752,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/GenerateTransformTest.java svn
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LanguageTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LikelySubtagsTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/LocaleMatcherTest.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/NumberingSystemsTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/ObjectMatcherFactory.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/RegexTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
