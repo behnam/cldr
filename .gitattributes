@@ -9110,7 +9110,7 @@ tools/java/org/unicode/cldr/tool/CheckLangTagBNF.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/tool/CollectExemplars.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/CompareOyster.java -text
+tools/java/org/unicode/cldr/tool/CompareOyster.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareStockDatetime.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareSuppress.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ConvertLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9138,7 +9138,7 @@ tools/java/org/unicode/cldr/tool/GenerateAttributeList.java svneol=native#text/p
 tools/java/org/unicode/cldr/tool/GenerateBcp47Bits.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateBcp47Text.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateBirth.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/GenerateCasingChart.java -text
+tools/java/org/unicode/cldr/tool/GenerateCasingChart.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateChangeChart.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateCldrCollationTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateCldrDateTimeTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
