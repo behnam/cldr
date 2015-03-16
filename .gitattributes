@@ -9132,6 +9132,7 @@ tools/java/org/unicode/cldr/tool/FindPreferredHours.java svneol=native#text/plai
 tools/java/org/unicode/cldr/tool/FindWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/FixDelimiters.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/FixTransformNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/FormattedFileWriter.java -text
 tools/java/org/unicode/cldr/tool/GenerateAliases.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateAllCharts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateApproximateWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
