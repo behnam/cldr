@@ -16,6 +16,7 @@ common/annotations/nl.xml svneol=native#text/xml
 common/annotations/nn.xml svneol=native#text/xml
 common/annotations/pl.xml svneol=native#text/xml
 common/annotations/pt.xml svneol=native#text/xml
+common/annotations/root.xml -text
 common/annotations/ru.xml svneol=native#text/xml
 common/annotations/sv.xml svneol=native#text/xml
 common/annotations/th.xml svneol=native#text/xml
