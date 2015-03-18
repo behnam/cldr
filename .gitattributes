@@ -9105,6 +9105,7 @@ tools/java/org/unicode/cldr/tool/CLDRFileTransformer.java svneol=native#text/pla
 tools/java/org/unicode/cldr/tool/CLDRFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CLDRModify.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/Chart.java -text
+tools/java/org/unicode/cldr/tool/ChartAnnotations.java -text
 tools/java/org/unicode/cldr/tool/ChartDayPeriods.java -text
 tools/java/org/unicode/cldr/tool/ChartDelta.java -text
 tools/java/org/unicode/cldr/tool/ChartLanguageMatching.java -text
@@ -9360,6 +9361,7 @@ tools/java/org/unicode/cldr/util/Timer.java svneol=native#text/plain%3Bcharset%3
 tools/java/org/unicode/cldr/util/TimezoneFormatter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Transformer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/UnicodeRelation.java -text
 tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariableAndPathParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
