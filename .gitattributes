@@ -9200,6 +9200,7 @@ tools/java/org/unicode/cldr/tool/SearchXml.java svneol=native#text/plain%3Bchars
 tools/java/org/unicode/cldr/tool/ShowChildren.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowCoverageLevels.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/ShowDtdDiffs.java -text
 tools/java/org/unicode/cldr/tool/ShowKeyboards.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowLanguages.java svneol=native#text/plain%3Bcharset%3Dutf-8
