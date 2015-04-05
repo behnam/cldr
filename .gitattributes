@@ -9154,6 +9154,7 @@ tools/java/org/unicode/cldr/tool/GenerateComparison.java svneol=native#text/plai
 tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateDayPeriodChart.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateDecompCollationRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GenerateDtd.java -text
 tools/java/org/unicode/cldr/tool/GenerateEnums.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateG2xG2.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain%3Bcharset%3Dutf-8
