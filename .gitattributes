@@ -26,6 +26,7 @@ common/annotations/zh_Hant.xml svneol=native#text/xml
 common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
+common/bcp47/measure.xml -text
 common/bcp47/number.xml svneol=native#text/xml
 common/bcp47/segmentation.xml svneol=native#text/xml
 common/bcp47/timezone.xml svneol=native#text/xml
