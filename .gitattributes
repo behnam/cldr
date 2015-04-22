@@ -1079,6 +1079,7 @@ common/rbnf/lv.xml svneol=native#text/xml
 common/rbnf/mk.xml svneol=native#text/xml
 common/rbnf/ms.xml svneol=native#text/xml
 common/rbnf/mt.xml svneol=native#text/xml
+common/rbnf/my.xml -text
 common/rbnf/nb.xml svneol=native#text/xml
 common/rbnf/nci.xml svneol=native#text/xml
 common/rbnf/nl.xml svneol=native#text/xml
