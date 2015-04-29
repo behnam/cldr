@@ -9318,6 +9318,7 @@ tools/java/org/unicode/cldr/util/MapComparator.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/util/MergeLists.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/MyanmarZawgyiConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/NodeListIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/Organization.java -text
 tools/java/org/unicode/cldr/util/Pair.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathDescription.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/PathHeader.java svneol=native#text/plain%3Bcharset%3Dutf-8
