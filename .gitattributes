@@ -2733,6 +2733,9 @@ seed/main/kpe_GN.xml svneol=native#text/xml
 seed/main/kpe_LR.xml svneol=native#text/xml
 seed/main/ku.xml svneol=native#text/xml
 seed/main/ku_TR.xml svneol=native#text/xml
+seed/main/lrc.xml -text
+seed/main/lrc_IQ.xml -text
+seed/main/lrc_IR.xml -text
 seed/main/mi.xml svneol=native#text/xml
 seed/main/mi_NZ.xml svneol=native#text/xml
 seed/main/mn_Mong.xml svneol=native#text/xml
