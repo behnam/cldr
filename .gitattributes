@@ -9173,6 +9173,7 @@ tools/java/org/unicode/cldr/tool/GenerateScriptMetadata.txt svneol=native#text/p
 tools/java/org/unicode/cldr/tool/GenerateSeedDurations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateSidewaysView.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateStatistics.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GenerateSubdivisions.java -text
 tools/java/org/unicode/cldr/tool/GenerateSupplementalZoneData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateTempDateData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
