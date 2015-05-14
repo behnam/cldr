@@ -8606,6 +8606,7 @@ tools/cldr-apps/WebContent/js/special/forum.js svneol=native#text/javascript
 tools/cldr-apps/WebContent/js/special/search.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/statistics.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/tc-emaillist.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/users.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/vsummary.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/survey.js -text svneol=unset#text/javascript
 tools/cldr-apps/WebContent/loader.gif -text
