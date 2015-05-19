@@ -3207,10 +3207,11 @@ tools/c/genldml/resources/root.txt svneol=native#text/plain
 tools/cldr-apps-watcher/.cfignore -text
 tools/cldr-apps-watcher/Readme.md -text
 tools/cldr-apps-watcher/app.js svneol=native#text/javascript
-tools/cldr-apps-watcher/config/SOMEHOST.json -text
-tools/cldr-apps-watcher/config/default.json -text
+tools/cldr-apps-watcher/designdocs/designdocs.js svneol=native#text/javascript
+tools/cldr-apps-watcher/launchConfigurations/stwatcher.launch -text
 tools/cldr-apps-watcher/manifest.yml -text
 tools/cldr-apps-watcher/package.json -text
+tools/cldr-apps-watcher/project.json -text
 tools/cldr-apps-watcher/public/favicon.ico -text
 tools/cldr-apps-watcher/public/javascripts/stwatcher-client.js svneol=native#text/javascript
 tools/cldr-apps-watcher/public/stylesheets/style.css svneol=native#text/css

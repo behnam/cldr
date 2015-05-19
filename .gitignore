@@ -15,10 +15,6 @@ tools/SurveyConsole/build
 tools/SurveyConsole/push.*
 tools/cldr-apps-watcher/*.esproj
 tools/cldr-apps-watcher/.git
-tools/cldr-apps-watcher/config/akka.json
-tools/cldr-apps-watcher/config/gdx.json
-tools/cldr-apps-watcher/config/milu.json
-tools/cldr-apps-watcher/config/runtime.json
 tools/cldr-apps-watcher/loopy.sh
 tools/cldr-apps-watcher/node_modules
 tools/cldr-apps/WebContent/*.esproj
