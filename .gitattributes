@@ -2749,6 +2749,7 @@ seed/main/ms_Arab.xml svneol=native#text/xml
 seed/main/ms_Arab_BN.xml svneol=native#text/xml
 seed/main/ms_Arab_MY.xml svneol=native#text/xml
 seed/main/mzn.xml -text
+seed/main/mzn_IR.xml -text
 seed/main/nds.xml svneol=native#text/xml
 seed/main/nds_DE.xml svneol=native#text/xml
 seed/main/nds_NL.xml svneol=native#text/xml
