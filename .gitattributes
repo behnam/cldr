@@ -2672,6 +2672,10 @@ seed/main/aa_ER.xml svneol=native#text/xml
 seed/main/aa_ET.xml svneol=native#text/xml
 seed/main/arn.xml svneol=native#text/xml
 seed/main/arn_CL.xml svneol=native#text/xml
+seed/main/azb.xml -text
+seed/main/azb_IQ.xml -text
+seed/main/azb_IR.xml -text
+seed/main/azb_TR.xml -text
 seed/main/ba.xml svneol=native#text/xml
 seed/main/ba_RU.xml svneol=native#text/xml
 seed/main/bgn.xml svneol=native#text/xml
