@@ -2775,6 +2775,9 @@ seed/main/sa.xml svneol=native#text/xml
 seed/main/sa_IN.xml svneol=native#text/xml
 seed/main/sd.xml svneol=native#text/xml
 seed/main/sd_PK.xml svneol=native#text/xml
+seed/main/sdh.xml -text
+seed/main/sdh_IQ.xml -text
+seed/main/sdh_IR.xml -text
 seed/main/sid.xml svneol=native#text/xml
 seed/main/sid_ET.xml svneol=native#text/xml
 seed/main/sma.xml svneol=native#text/xml
