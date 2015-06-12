@@ -8793,6 +8793,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationMapMaker.java svn
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollators.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestComparisonBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCompatibility.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCoverage.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCoverageLevel.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCoverageLevel.txt svneol=native#text/plain
