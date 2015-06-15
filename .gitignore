@@ -22,10 +22,7 @@
 6301tally/tools/SurveyConsole/build
 6301tally/tools/SurveyConsole/push.*
 6301tally/tools/cldr-apps-watcher/*.esproj
-6301tally/tools/cldr-apps-watcher/config/akka.json
-6301tally/tools/cldr-apps-watcher/config/gdx.json
-6301tally/tools/cldr-apps-watcher/config/milu.json
-6301tally/tools/cldr-apps-watcher/config/runtime.json
+6301tally/tools/cldr-apps-watcher/.git
 6301tally/tools/cldr-apps-watcher/loopy.sh
 6301tally/tools/cldr-apps-watcher/node_modules
 6301tally/tools/cldr-apps/WebContent/*.esproj
