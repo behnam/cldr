@@ -3356,6 +3356,7 @@ tools/cldr-apps/WebContent/WEB-INF/web.xml svneol=native#text/xml
 tools/cldr-apps/WebContent/about.jsp -text
 tools/cldr-apps/WebContent/adduser.jsp -text
 tools/cldr-apps/WebContent/admin-OutputAllFiles.jsp -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/admin-softToHardVotes.jsp -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/admin-usersWithOldVotes.jsp -text
 tools/cldr-apps/WebContent/approved.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/bar0.png -text svneol=unset#image/png
