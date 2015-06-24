@@ -8615,11 +8615,13 @@ tools/cldr-apps/WebContent/js/g.line.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.pie.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/g.raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/jquery.autosize.min.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/modules/usermap.js -text
 tools/cldr-apps/WebContent/js/raphael.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/redesign.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/review.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/SpecialPage.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/blank.js -text svneol=unset#text/plain
+tools/cldr-apps/WebContent/js/special/flagged.js -text
 tools/cldr-apps/WebContent/js/special/forum.js svneol=native#text/javascript
 tools/cldr-apps/WebContent/js/special/search.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/statistics.js -text svneol=unset#text/plain
