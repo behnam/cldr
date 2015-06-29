@@ -8812,6 +8812,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestDisplayAndInputProcessor.j
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestExampleGenerator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestExamples.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestExternalCodeAPIs.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestFactory.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestFallbackIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestFmwkPlus.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestIdentifierInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
