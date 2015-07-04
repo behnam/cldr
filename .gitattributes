@@ -9141,6 +9141,7 @@ tools/java/org/unicode/cldr/tool/CheckLangTagBNF.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/tool/CollectExemplars.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareHanTransliterators.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/CompareIso3166_1Status.java -text
 tools/java/org/unicode/cldr/tool/CompareOyster.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareStockDatetime.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CompareSuppress.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9384,6 +9385,8 @@ tools/java/org/unicode/cldr/util/StringArrayToMap.java svneol=native#text/plain%
 tools/java/org/unicode/cldr/util/StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringId.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringIterables.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/StringRange.java -text
+tools/java/org/unicode/cldr/util/StringRangeTest.java -text
 tools/java/org/unicode/cldr/util/StripUTF8BOMInputStream.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/SupplementalDataInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/TestStateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9456,6 +9459,7 @@ tools/java/org/unicode/cldr/util/data/external/alternate_locode_name.txt svneol=
 tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_literacy.html svneol=native#text/html
 tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/iso_3166_status.txt -text
 tools/java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/subdivisionData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/us_census.txt svneol=native#text/plain
