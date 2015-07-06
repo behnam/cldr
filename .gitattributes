@@ -1125,6 +1125,7 @@ common/segments/root.xml svneol=native#text/xml
 common/segments/ru.xml svneol=native#text/xml
 common/segments/zh.xml svneol=native#text/xml
 common/segments/zh_Hant.xml svneol=native#text/xml
+common/subdivisions/en.xml -text
 common/supplemental/characters.xml svneol=native#text/xml
 common/supplemental/coverageLevels.xml svneol=native#text/xml
 common/supplemental/dayPeriods.xml svneol=native#text/xml
