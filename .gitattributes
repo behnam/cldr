@@ -8838,6 +8838,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestRangeAbbreviator.java svne
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestReferenceStringSearch.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestScriptMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestSubdivisions.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestSupplementalInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestTransforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUCharacterIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
