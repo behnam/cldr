@@ -1373,6 +1373,10 @@ common/uca/UCA_Rules_SHORT.txt svneol=native#text/plain
 common/uca/allkeys_CLDR.txt svneol=native#text/plain
 common/uca/allkeys_DUCET.txt svneol=native#text/plain
 common/uca/unihan-index.txt svneol=native#text/plain
+common/validity/language.xml -text
+common/validity/region.xml -text
+common/validity/script.xml -text
+common/validity/variant.xml -text
 exemplars/.project -text svneol=unset#text/plain
 exemplars/main/aai_Latn.xml svneol=native#text/xml
 exemplars/main/aak_Latn.xml svneol=native#text/xml
@@ -8844,6 +8848,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestTransforms.java svneol=nat
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUCharacterIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestValidity.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestVariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestXMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TextFileReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9206,6 +9211,7 @@ tools/java/org/unicode/cldr/tool/GenerateTempDateData.java svneol=native#text/pl
 tools/java/org/unicode/cldr/tool/GenerateTransform.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateTransformCharts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateUnicodeCounts.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GenerateValidityXml.java -text
 tools/java/org/unicode/cldr/tool/GenerateXMB.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GeneratedPluralSamples.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GetChanges.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9401,6 +9407,7 @@ tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/UnicodeRelation.java -text
 tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/Validity.java -text
 tools/java/org/unicode/cldr/util/VariableAndPathParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VerifyCompactNumbers.java svneol=native#text/plain%3Bcharset%3Dutf-8
