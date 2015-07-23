@@ -1148,6 +1148,7 @@ common/segments/ru.xml svneol=native#text/xml
 common/segments/zh.xml svneol=native#text/xml
 common/segments/zh_Hant.xml svneol=native#text/xml
 common/subdivisions/en.xml -text
+common/supplemental/attributeValueValidity.xml -text
 common/supplemental/characters.xml svneol=native#text/xml
 common/supplemental/coverageLevels.xml svneol=native#text/xml
 common/supplemental/dayPeriods.xml svneol=native#text/xml
@@ -9260,6 +9261,7 @@ tools/java/org/unicode/cldr/tool/TablePrinter.java svneol=native#text/plain%3Bch
 tools/java/org/unicode/cldr/tool/ToolConfig.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ToolConstants.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ToolUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/VerifyAttributeValues.java -text
 tools/java/org/unicode/cldr/tool/VettingAdder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/WritePluralRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/WritePluralRulesSpreadsheets.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -9287,6 +9289,7 @@ tools/java/org/unicode/cldr/tool/xmb-dtd.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/tool/xmbSkip.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/Annotations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ApproximateWidth.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/AttributeValueValidity.java -text
 tools/java/org/unicode/cldr/util/BoilerplateUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Builder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/CLDRConfig.java svneol=native#text/plain%3Bcharset%3Dutf-8
