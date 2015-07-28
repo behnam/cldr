@@ -8968,7 +8968,6 @@ tools/java/org/unicode/cldr/draft/Rule.java svneol=native#text/plain%3Bcharset%3
 tools/java/org/unicode/cldr/draft/ScriptCategories.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/ScriptData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/ScriptMetadata.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/draft/SetX.java -text
 tools/java/org/unicode/cldr/draft/ShortestCanonicalForm.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachine.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/StateMachineBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
