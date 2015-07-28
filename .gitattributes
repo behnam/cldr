@@ -1401,6 +1401,7 @@ common/validity/language.xml -text
 common/validity/region.xml -text
 common/validity/script.xml -text
 common/validity/subdivision.xml -text
+common/validity/unit.xml -text
 common/validity/variant.xml -text
 exemplars/.project -text svneol=unset#text/plain
 exemplars/main/aai_Latn.xml svneol=native#text/xml
