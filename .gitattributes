@@ -1456,7 +1456,7 @@ exemplars/main/awb_Latn.xml svneol=native#text/xml
 exemplars/main/awo_Latn.xml svneol=native#text/xml
 exemplars/main/awx_Latn.xml svneol=native#text/xml
 exemplars/main/ayb_Latn.xml svneol=native#text/xml
-exemplars/main/azb_Arab.xml svneol=native#text/xml
+exemplars/main/az_Arab.xml svneol=native#text/xml
 exemplars/main/bal_Arab.xml svneol=native#text/xml
 exemplars/main/bav_Latn.xml svneol=native#text/xml
 exemplars/main/bba_Latn.xml svneol=native#text/xml
@@ -2704,10 +2704,10 @@ seed/main/aa_ER.xml svneol=native#text/xml
 seed/main/aa_ET.xml svneol=native#text/xml
 seed/main/arn.xml svneol=native#text/xml
 seed/main/arn_CL.xml svneol=native#text/xml
-seed/main/azb.xml -text
-seed/main/azb_IQ.xml -text
-seed/main/azb_IR.xml -text
-seed/main/azb_TR.xml -text
+seed/main/az_Arab.xml -text
+seed/main/az_Arab_IQ.xml -text
+seed/main/az_Arab_IR.xml -text
+seed/main/az_Arab_TR.xml -text
 seed/main/ba.xml svneol=native#text/xml
 seed/main/ba_RU.xml svneol=native#text/xml
 seed/main/bgn.xml svneol=native#text/xml
