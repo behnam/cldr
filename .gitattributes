@@ -9108,6 +9108,7 @@ tools/java/org/unicode/cldr/test/CheckDisplayCollisions.java svneol=native#text/
 tools/java/org/unicode/cldr/test/CheckExemplars.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckForCopy.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckForExemplars.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/test/CheckForInheritanceMarkers.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/test/CheckLogicalGroupings.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckMetazones.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/CheckNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
