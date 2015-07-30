@@ -9324,7 +9324,6 @@ tools/java/org/unicode/cldr/util/DayPeriods.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/util/DayPeriodsCheck.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DayPeriodsOld.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DelegatingIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/DeprecationChecker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Dictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DictionaryStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DiscreteComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
