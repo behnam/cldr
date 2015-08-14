@@ -1336,6 +1336,7 @@ common/transforms/ThaiLogical-Latin.xml svneol=native#text/xml
 common/transforms/Turkmen-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Ukrainian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Uzbek-Latin-BGN.xml svneol=native#text/xml
+common/transforms/am-am_FONIPA.xml -text
 common/transforms/az-Lower.xml svneol=native#text/xml
 common/transforms/az-Title.xml svneol=native#text/xml
 common/transforms/az-Upper.xml svneol=native#text/xml
@@ -8867,6 +8868,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/common/main/root.xml svneol=native#text/xml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/IPA-XSampa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/XSampa-IPA.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-am_FONIPA.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cs-cs_FONIPA.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cs-ja.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cs-ko.txt svneol=native#text/plain
