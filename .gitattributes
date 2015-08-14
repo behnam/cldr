@@ -9151,6 +9151,7 @@ tools/java/org/unicode/cldr/tool/ChartAnnotations.java svneol=native#text/plain%
 tools/java/org/unicode/cldr/tool/ChartCollation.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ChartDayPeriods.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ChartDelta.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/ChartDtdDelta.java -text
 tools/java/org/unicode/cldr/tool/ChartLanguageMatching.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ChartSubdivisions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CheckEnglishCurrencyNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
