@@ -1149,6 +1149,7 @@ common/segments/ru.xml svneol=native#text/xml
 common/segments/zh.xml svneol=native#text/xml
 common/segments/zh_Hant.xml svneol=native#text/xml
 common/subdivisions/en.xml svneol=native#text/xml
+common/subdivisions/root.xml -text
 common/supplemental/attributeValueValidity.xml svneol=native#text/xml
 common/supplemental/characters.xml svneol=native#text/xml
 common/supplemental/coverageLevels.xml svneol=native#text/xml
