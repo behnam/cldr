@@ -493,6 +493,7 @@ common/main/en_150.xml svneol=native#text/xml
 common/main/en_AG.xml svneol=native#text/xml
 common/main/en_AI.xml svneol=native#text/xml
 common/main/en_AS.xml svneol=native#text/xml
+common/main/en_AT.xml -text
 common/main/en_AU.xml svneol=native#text/xml
 common/main/en_BB.xml svneol=native#text/xml
 common/main/en_BE.xml svneol=native#text/xml
@@ -503,12 +504,17 @@ common/main/en_BW.xml svneol=native#text/xml
 common/main/en_BZ.xml svneol=native#text/xml
 common/main/en_CA.xml svneol=native#text/xml
 common/main/en_CC.xml svneol=native#text/xml
+common/main/en_CH.xml -text
 common/main/en_CK.xml svneol=native#text/xml
 common/main/en_CM.xml svneol=native#text/xml
 common/main/en_CX.xml svneol=native#text/xml
+common/main/en_CY.xml -text
+common/main/en_DE.xml -text
 common/main/en_DG.xml svneol=native#text/xml
+common/main/en_DK.xml -text
 common/main/en_DM.xml svneol=native#text/xml
 common/main/en_ER.xml svneol=native#text/xml
+common/main/en_FI.xml -text
 common/main/en_FJ.xml svneol=native#text/xml
 common/main/en_FK.xml svneol=native#text/xml
 common/main/en_FM.xml svneol=native#text/xml
@@ -522,6 +528,7 @@ common/main/en_GU.xml svneol=native#text/xml
 common/main/en_GY.xml svneol=native#text/xml
 common/main/en_HK.xml svneol=native#text/xml
 common/main/en_IE.xml svneol=native#text/xml
+common/main/en_IL.xml -text
 common/main/en_IM.xml svneol=native#text/xml
 common/main/en_IN.xml svneol=native#text/xml
 common/main/en_IO.xml svneol=native#text/xml
@@ -546,6 +553,7 @@ common/main/en_MY.xml svneol=native#text/xml
 common/main/en_NA.xml svneol=native#text/xml
 common/main/en_NF.xml svneol=native#text/xml
 common/main/en_NG.xml svneol=native#text/xml
+common/main/en_NL.xml -text
 common/main/en_NR.xml svneol=native#text/xml
 common/main/en_NU.xml svneol=native#text/xml
 common/main/en_NZ.xml svneol=native#text/xml
@@ -559,8 +567,10 @@ common/main/en_RW.xml svneol=native#text/xml
 common/main/en_SB.xml svneol=native#text/xml
 common/main/en_SC.xml svneol=native#text/xml
 common/main/en_SD.xml svneol=native#text/xml
+common/main/en_SE.xml -text
 common/main/en_SG.xml svneol=native#text/xml
 common/main/en_SH.xml svneol=native#text/xml
+common/main/en_SI.xml -text
 common/main/en_SL.xml svneol=native#text/xml
 common/main/en_SS.xml svneol=native#text/xml
 common/main/en_SX.xml svneol=native#text/xml
