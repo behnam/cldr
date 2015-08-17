@@ -252,6 +252,7 @@ common/collation/az.xml svneol=native#text/xml
 common/collation/be.xml svneol=native#text/xml
 common/collation/bg.xml svneol=native#text/xml
 common/collation/bn.xml svneol=native#text/xml
+common/collation/bo.xml -text
 common/collation/bs.xml svneol=native#text/xml
 common/collation/bs_Cyrl.xml svneol=native#text/xml
 common/collation/ca.xml svneol=native#text/xml
