@@ -9507,9 +9507,6 @@ tools/java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=nat
 tools/java/org/unicode/cldr/util/data/external/subdivisionData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/us_census.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/extraLanguagesAndScripts.txt svneol=native#text/plain
-tools/java/org/unicode/cldr/util/data/iso-639-3_Code_Tables_20150505/iso-639-3_Code_Tables_20150505/iso-639-3-macrolanguages_20150112.tab -text
-tools/java/org/unicode/cldr/util/data/iso-639-3_Code_Tables_20150505/iso-639-3_Code_Tables_20150505/iso-639-3_Name_Index_20150505.tab -text
-tools/java/org/unicode/cldr/util/data/iso-639-3_Code_Tables_20150505/iso-639-3_Code_Tables_20150505/iso-639-3_Retirements_20150112.tab -text
 tools/java/org/unicode/cldr/util/data/iso4217raw.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/langtagRegex.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/langtagTest.txt svneol=native#text/plain
