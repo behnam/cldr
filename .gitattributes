@@ -8802,6 +8802,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/GenerateTransformTest.java svn
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LanguageTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LikelySubtagsTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/LocaleMatcherShim.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LocaleMatcherTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/NumberingSystemsTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/ObjectMatcherFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -8925,6 +8926,7 @@ tools/java/build.xml svneol=native#text/xml
 tools/java/cldr-tools.properties -text
 tools/java/com/ibm/icu/dev/test/GenderInfoTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/dev/test/ListFormatTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/com/ibm/icu/dev/util/Relation.java -text
 tools/java/com/ibm/icu/text/GenderInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
