@@ -1083,6 +1083,7 @@ common/rbnf/cs.xml svneol=native#text/xml
 common/rbnf/cy.xml svneol=native#text/xml
 common/rbnf/da.xml svneol=native#text/xml
 common/rbnf/de.xml svneol=native#text/xml
+common/rbnf/de_CH.xml -text
 common/rbnf/ee.xml svneol=native#text/xml
 common/rbnf/el.xml svneol=native#text/xml
 common/rbnf/en.xml svneol=native#text/xml
