@@ -277,6 +277,9 @@ buildbot8583/tools/java/org/unicode/cldr/icu/Test.java
 buildbot8583/tools/java/org/unicode/cldr/icu/TestStax.java
 buildbot8583/tools/java/org/unicode/cldr/icu/XPathMatcherTree.java
 buildbot8583/tools/java/out
+buildbot8583/tools/scripts/build/bin-build/.git
+buildbot8583/tools/scripts/build/bin-build/config.ini
+buildbot8583/tools/scripts/build/bin-build/stbitten-env.sh
 c2323/tools/cldr-apps/build
 c2323/tools/cldr-apps/src/org/unicode/cldr/web/Junk.java
 c2323/tools/java/*.jar
