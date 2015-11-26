@@ -8897,6 +8897,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-es-fon
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-es.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-it.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cs-fonipa-t-cs.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/dv-Latn-t-dv-m0-bgn.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/eo-fonipa-t-eo.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/es-419-fonipa-t-es-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/es-fonipa-t-es.txt svneol=native#text/plain
