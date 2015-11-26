@@ -8925,6 +8925,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/my-fonipa-t
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/pl-fonipa-t-pl.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/rm-fonipa-sursilv-t-rm-sursilv.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ro-fonipa-t-ro.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ru-Latn-t-ru-m0-bgn.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ru-t-ja-Latn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ru-t-zh-Latn-pinyin.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sat-fonipa-t-sat-Olck.txt -text
