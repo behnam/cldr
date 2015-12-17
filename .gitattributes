@@ -4021,6 +4021,7 @@ tools/java/org/unicode/cldr/tool/GenerateAllCharts.java svneol=native#text/plain
 tools/java/org/unicode/cldr/tool/GenerateApproximateWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateAttributeList.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateBcp47Bits.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GenerateBcp47Tests.java -text
 tools/java/org/unicode/cldr/tool/GenerateBcp47Text.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateBirth.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateCasingChart.java svneol=native#text/plain%3Bcharset%3Dutf-8
