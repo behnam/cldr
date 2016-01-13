@@ -1428,6 +1428,7 @@ common/transforms/uz_Cyrl-uz_Latn.xml svneol=native#text/xml
 common/transforms/xh-xh_FONIPA.xml -text
 common/transforms/yo-yo_BJ.xml svneol=native#text/xml
 common/transforms/zh_Latn_PINYIN-ru.xml svneol=native#text/xml
+common/transforms/zu-zu_FONIPA.xml -text
 common/uca/CollationTest_CLDR_NON_IGNORABLE.txt svneol=native#text/plain
 common/uca/CollationTest_CLDR_NON_IGNORABLE_SHORT.txt svneol=native#text/plain
 common/uca/CollationTest_CLDR_SHIFTED.txt svneol=native#text/plain
@@ -3750,6 +3751,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/zh-t-es-419
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/zh-t-es-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/zh-t-es.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/zh-t-ru.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/zu-fonipa-t-zu.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/xmb/en.xml svneol=native#text/xml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/package.html svneol=native#text/html
 tools/dist.conf/includes-common.txt svneol=native#text/plain
