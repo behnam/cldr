@@ -1,6 +1,8 @@
 * text=auto !eol
 /apache-license.txt svneol=native#text/plain
 common/annotations/ar.xml svneol=native#text/xml
+common/annotations/as.xml -text
+common/annotations/bn.xml -text
 common/annotations/da.xml svneol=native#text/xml
 common/annotations/de.xml svneol=native#text/xml
 common/annotations/en.xml svneol=native#text/xml
@@ -8,17 +10,26 @@ common/annotations/es.xml svneol=native#text/xml
 common/annotations/es_419.xml svneol=native#text/xml
 common/annotations/fr.xml svneol=native#text/xml
 common/annotations/ga.xml svneol=native#text/xml
+common/annotations/gu.xml -text
+common/annotations/hi.xml -text
 common/annotations/is.xml svneol=native#text/xml
 common/annotations/it.xml svneol=native#text/xml
 common/annotations/ja.xml svneol=native#text/xml
+common/annotations/kn.xml -text
 common/annotations/ko.xml svneol=native#text/xml
+common/annotations/ml.xml -text
+common/annotations/mr.xml -text
 common/annotations/nl.xml svneol=native#text/xml
 common/annotations/nn.xml svneol=native#text/xml
+common/annotations/or.xml -text
+common/annotations/pa.xml -text
 common/annotations/pl.xml svneol=native#text/xml
 common/annotations/pt.xml svneol=native#text/xml
 common/annotations/root.xml svneol=native#text/xml
 common/annotations/ru.xml svneol=native#text/xml
 common/annotations/sv.xml svneol=native#text/xml
+common/annotations/ta.xml -text
+common/annotations/te.xml -text
 common/annotations/th.xml svneol=native#text/xml
 common/annotations/tr.xml svneol=native#text/xml
 common/annotations/zh.xml svneol=native#text/xml
