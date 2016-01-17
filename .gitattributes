@@ -1401,6 +1401,7 @@ common/transforms/lt-Lower.xml svneol=native#text/xml
 common/transforms/lt-Title.xml svneol=native#text/xml
 common/transforms/lt-Upper.xml svneol=native#text/xml
 common/transforms/mn-mn_Latn-MNS.xml -text
+common/transforms/my-am.xml -text
 common/transforms/my-my_FONIPA.xml -text
 common/transforms/nl-Title.xml svneol=native#text/xml
 common/transforms/pl-am.xml -text
@@ -3707,6 +3708,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-es.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-hy-arevmda.txt -text svneol=unset#application/octet-stream
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-hy.txt -text svneol=unset#application/octet-stream
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-it.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-my.txt -text svneol=unset#application/octet-stream
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-pl.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-ro.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-si.txt -text svneol=unset#application/octet-stream
