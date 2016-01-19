@@ -3673,6 +3673,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestIntMap.java svneol=native#
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestKeyboard.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestKeyboardModifierSet.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestLdml2ICU.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestLdml2IcuCompleteness.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestLocalCurrency.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestLocale.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestLruMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
