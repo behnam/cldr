@@ -3709,7 +3709,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-am-fon
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-cs.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-es-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-es.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-hy-arevmda.txt -text svneol=unset#application/octet-stream
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-hy-arevmda.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-hy.txt -text svneol=unset#application/octet-stream
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-it.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-kk.txt -text
