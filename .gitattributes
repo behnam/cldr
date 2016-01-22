@@ -20,8 +20,8 @@ common/annotations/kn.xml -text
 common/annotations/ko.xml svneol=native#text/xml
 common/annotations/ml.xml -text
 common/annotations/mr.xml -text
+common/annotations/nb.xml svneol=native#text/xml
 common/annotations/nl.xml svneol=native#text/xml
-common/annotations/nn.xml svneol=native#text/xml
 common/annotations/or.xml -text
 common/annotations/pa.xml -text
 common/annotations/pl.xml svneol=native#text/xml
