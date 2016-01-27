@@ -1410,6 +1410,7 @@ common/transforms/az-Upper.xml svneol=native#text/xml
 common/transforms/ch-ch_FONIPA.xml svneol=native#text/xml
 common/transforms/cs-am.xml -text
 common/transforms/cs-cs_FONIPA.xml svneol=native#text/xml
+common/transforms/cs-fa.xml -text
 common/transforms/cs-ja.xml svneol=native#text/xml
 common/transforms/cs-ko.xml svneol=native#text/xml
 common/transforms/cs_FONIPA-ja.xml svneol=native#text/xml
@@ -1451,11 +1452,13 @@ common/transforms/my-am.xml -text
 common/transforms/my-my_FONIPA.xml -text
 common/transforms/nl-Title.xml svneol=native#text/xml
 common/transforms/pl-am.xml -text
+common/transforms/pl-fa.xml -text
 common/transforms/pl-ja.xml svneol=native#text/xml
 common/transforms/pl-pl_FONIPA.xml svneol=native#text/xml
 common/transforms/pl_FONIPA-ja.xml svneol=native#text/xml
 common/transforms/rm_SURSILV-rm_FONIPA_SURSILV.xml -text
 common/transforms/ro-am.xml -text
+common/transforms/ro-fa.xml -text
 common/transforms/ro-ja.xml svneol=native#text/xml
 common/transforms/ro-ro_FONIPA.xml svneol=native#text/xml
 common/transforms/ro_FONIPA-ja.xml svneol=native#text/xml
@@ -1467,6 +1470,7 @@ common/transforms/si-am.xml -text
 common/transforms/si-si_FONIPA.xml -text
 common/transforms/si-si_Latn.xml -text
 common/transforms/sk-am.xml -text
+common/transforms/sk-fa.xml -text
 common/transforms/sk-ja.xml svneol=native#text/xml
 common/transforms/sk-sk_FONIPA.xml svneol=native#text/xml
 common/transforms/sk_FONIPA-ja.xml svneol=native#text/xml
@@ -1474,6 +1478,7 @@ common/transforms/tlh-tlh_FONIPA.xml svneol=native#text/xml
 common/transforms/tr-Lower.xml svneol=native#text/xml
 common/transforms/tr-Title.xml svneol=native#text/xml
 common/transforms/tr-Upper.xml svneol=native#text/xml
+common/transforms/und_FONIPA-fa.xml -text
 common/transforms/uz_Cyrl-uz_Latn.xml svneol=native#text/xml
 common/transforms/xh-xh_FONIPA.xml -text
 common/transforms/yo-yo_BJ.xml svneol=native#text/xml
@@ -3767,6 +3772,10 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/dv-Latn-t-d
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/eo-fonipa-t-eo.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/es-419-fonipa-t-es-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/es-fonipa-t-es.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-cs.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-pl.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-ro.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-sk.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-arevmda-fonipa-t-hy-arevmda.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-fonipa-t-hy.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ia-fonipa-t-ia.txt -text
