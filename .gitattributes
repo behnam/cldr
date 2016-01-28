@@ -1475,6 +1475,7 @@ common/transforms/ro_FONIPA-ja.xml svneol=native#text/xml
 common/transforms/ru-ja.xml svneol=native#text/xml
 common/transforms/ru-zh.xml svneol=native#text/xml
 common/transforms/ru_Latn-ru-BGN.xml -text
+common/transforms/sat-fa.xml -text
 common/transforms/sat_Olck-sat_FONIPA.xml -text
 common/transforms/si-am.xml -text
 common/transforms/si-fa.xml -text
@@ -3797,6 +3798,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-ky.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-my.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-pl.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-ro.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-sat.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-si.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-sk.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-tlh.txt -text
