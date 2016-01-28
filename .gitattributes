@@ -1404,6 +1404,7 @@ common/transforms/Turkmen-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Ukrainian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Uzbek-Latin-BGN.xml svneol=native#text/xml
 common/transforms/am-am_FONIPA.xml -text
+common/transforms/am-ar.xml -text
 common/transforms/am-fa.xml -text
 common/transforms/az-Lower.xml svneol=native#text/xml
 common/transforms/az-Title.xml svneol=native#text/xml
@@ -3804,6 +3805,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-sk.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-tlh.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-xh.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-zu.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-am.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-cs.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-pl.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-ro.txt -text
