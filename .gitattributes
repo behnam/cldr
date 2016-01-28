@@ -1494,9 +1494,11 @@ common/transforms/tr-Title.xml svneol=native#text/xml
 common/transforms/tr-Upper.xml svneol=native#text/xml
 common/transforms/und_FONIPA-fa.xml -text
 common/transforms/uz_Cyrl-uz_Latn.xml svneol=native#text/xml
+common/transforms/xh-fa.xml -text
 common/transforms/xh-xh_FONIPA.xml -text
 common/transforms/yo-yo_BJ.xml svneol=native#text/xml
 common/transforms/zh_Latn_PINYIN-ru.xml svneol=native#text/xml
+common/transforms/zu-fa.xml -text
 common/transforms/zu-zu_FONIPA.xml -text
 common/uca/CollationTest_CLDR_NON_IGNORABLE.txt svneol=native#text/plain
 common/uca/CollationTest_CLDR_NON_IGNORABLE_SHORT.txt svneol=native#text/plain
@@ -3804,6 +3806,8 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-sat.tx
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-si.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-sk.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-tlh.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-xh.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-zu.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-arevmda-fonipa-t-hy-arevmda.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-fonipa-t-hy.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ia-fonipa-t-ia.txt -text
