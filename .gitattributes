@@ -1409,6 +1409,7 @@ common/transforms/am-fa.xml svneol=native#text/xml
 common/transforms/az-Lower.xml svneol=native#text/xml
 common/transforms/az-Title.xml svneol=native#text/xml
 common/transforms/az-Upper.xml svneol=native#text/xml
+common/transforms/ch-ar.xml -text
 common/transforms/ch-ch_FONIPA.xml svneol=native#text/xml
 common/transforms/cs-am.xml svneol=native#text/xml
 common/transforms/cs-ar.xml svneol=native#text/xml
@@ -3821,6 +3822,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-tlh.tx
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-xh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/am-t-zu.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-am.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-ch.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-cs.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-eo.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-es-419.txt -text
@@ -3840,6 +3842,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-sk.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-tlh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-xh.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-zu.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ch-fonipa-t-ch.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cs-fonipa-t-cs.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/dv-Latn-t-dv-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/eo-fonipa-t-eo.txt svneol=native#text/plain
