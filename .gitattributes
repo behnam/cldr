@@ -653,6 +653,7 @@ common/main/es.xml svneol=native#text/xml
 common/main/es_419.xml svneol=native#text/xml
 common/main/es_AR.xml svneol=native#text/xml
 common/main/es_BO.xml svneol=native#text/xml
+common/main/es_BR.xml -text
 common/main/es_CL.xml svneol=native#text/xml
 common/main/es_CO.xml svneol=native#text/xml
 common/main/es_CR.xml svneol=native#text/xml
@@ -955,8 +956,11 @@ common/main/ps_AF.xml svneol=native#text/xml
 common/main/pt.xml svneol=native#text/xml
 common/main/pt_AO.xml svneol=native#text/xml
 common/main/pt_BR.xml svneol=native#text/xml
+common/main/pt_CH.xml -text
 common/main/pt_CV.xml svneol=native#text/xml
+common/main/pt_GQ.xml -text
 common/main/pt_GW.xml svneol=native#text/xml
+common/main/pt_LU.xml -text
 common/main/pt_MO.xml svneol=native#text/xml
 common/main/pt_MZ.xml svneol=native#text/xml
 common/main/pt_PT.xml svneol=native#text/xml
