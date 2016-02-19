@@ -4567,6 +4567,32 @@ tools/java/readme.txt svneol=native#text/plain
 tools/python/.project -text
 tools/python/.pydevproject -text
 tools/scripts/CLDRWrapper -text
+tools/scripts/build/bin-build/ConsoleCheckCLDR -text
+tools/scripts/build/bin-build/KILLALLJAVA.sh -text
+tools/scripts/build/bin-build/XMLValidator -text
+tools/scripts/build/bin-build/bootloop.sh -text
+tools/scripts/build/bin-build/build-icu4c.sh -text
+tools/scripts/build/bin-build/cleanup.sh -text
+tools/scripts/build/bin-build/config.ini.sample -text
+tools/scripts/build/bin-build/fixperm.sh -text
+tools/scripts/build/bin-build/kick-server.sh -text
+tools/scripts/build/bin-build/manualbuild.txt -text
+tools/scripts/build/bin-build/post-cldr-apps.sh -text
+tools/scripts/build/bin-build/post-cldr-tools.sh -text
+tools/scripts/build/bin-build/post-common.sh -text
+tools/scripts/build/bin-build/post-jsps.sh -text
+tools/scripts/build/bin-build/run-tests.sh -text
+tools/scripts/build/bin-build/runbitten.sh -text
+tools/scripts/build/bin-build/runtidy.sh -text
+tools/scripts/build/bin-build/setenv-common.sh -text
+tools/scripts/build/bin-build/start-buildbot.sh -text
+tools/scripts/build/bin-build/start-serverless-bot.sh -text
+tools/scripts/build/bin-build/startifdown.sh -text
+tools/scripts/build/bin-build/stbitten-env.sh.sample -text
+tools/scripts/build/bin-build/unittest.sh -text
+tools/scripts/build/bin-build/update-currev.sh -text
+tools/scripts/build/bin-build/update-icu4c.sh -text
+tools/scripts/build/bin-build/xml-validate-all.sh -text
 tools/scripts/fixSVNProps.sh -text svneol=native#application/x-sh
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh

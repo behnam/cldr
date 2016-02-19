@@ -48,3 +48,6 @@ tools/java/org/unicode/cldr/icu/Test.java
 tools/java/org/unicode/cldr/icu/TestStax.java
 tools/java/org/unicode/cldr/icu/XPathMatcherTree.java
 tools/java/out
+tools/scripts/build/bin-build/.git
+tools/scripts/build/bin-build/config.ini
+tools/scripts/build/bin-build/stbitten-env.sh
