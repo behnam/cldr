@@ -1,4 +1,5 @@
 * text=auto !eol
+.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
 /apache-license.txt svneol=native#text/plain
 common/annotations/af.xml svneol=native#text/xml
 common/annotations/am.xml svneol=native#text/xml
