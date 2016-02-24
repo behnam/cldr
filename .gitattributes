@@ -3715,6 +3715,7 @@ tools/cldr-unittest/.classpath -text svneol=unset#text/plain
 tools/cldr-unittest/.project -text svneol=unset#text/plain
 tools/cldr-unittest/.settings/org.eclipse.core.resources.prefs -text
 tools/cldr-unittest/.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+tools/cldr-unittest/.settings/org.eclipse.jdt.ui.prefs -text
 tools/cldr-unittest/build-sample.properties -text
 tools/cldr-unittest/build.xml svneol=native#text/xml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/CheckLanguageCodeConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
