@@ -14,6 +14,7 @@ common/annotations/da.xml svneol=native#text/xml
 common/annotations/de.xml svneol=native#text/xml
 common/annotations/el.xml svneol=native#text/xml
 common/annotations/en.xml svneol=native#text/xml
+common/annotations/en_001.xml -text
 common/annotations/en_GB.xml svneol=native#text/xml
 common/annotations/es.xml svneol=native#text/xml
 common/annotations/es_419.xml svneol=native#text/xml
