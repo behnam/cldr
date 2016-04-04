@@ -3947,6 +3947,7 @@ tools/java/libs/guava-sources.jar -text
 tools/java/libs/guava-version.txt svneol=native#text/plain
 tools/java/libs/guava.jar -text
 tools/java/libs/icu4j-src.jar -text
+tools/java/libs/icu4j-version.txt svneol=native#text/plain
 tools/java/libs/icu4j.jar -text
 tools/java/libs/utilities-src.jar -text
 tools/java/libs/utilities.jar -text
