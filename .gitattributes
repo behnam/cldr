@@ -3735,6 +3735,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/RegexTransform.java svneol=nat
 tools/cldr-unittest/src/org/unicode/cldr/unittest/SimpleHtmlParserTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/StandardCodesTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestAll.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestAlt.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestAnnotations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestAttributeValues.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestBCP47.java svneol=native#text/plain%3Bcharset%3Dutf-8
