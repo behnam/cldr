@@ -3806,6 +3806,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestValidity.java svneol=nativ
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestVariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestXMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TextFileReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/UnicodeSetPrettyPrinterTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.dtd -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.xml svneol=native#text/xml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset#text/plain
@@ -4463,6 +4464,7 @@ tools/java/org/unicode/cldr/util/Tokenizer.java svneol=native#text/plain%3Bchars
 tools/java/org/unicode/cldr/util/Transformer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/UExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/UnicodeRelation.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/UnicodeSetPrettyPrinter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Validity.java svneol=native#text/plain%3Bcharset%3Dutf-8
