@@ -4058,6 +4058,7 @@ tools/java/org/unicode/cldr/draft/picker/PickerData_Southeast_Asian_Scripts.html
 tools/java/org/unicode/cldr/draft/picker/PickerData_Symbol.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/blocks_subblocks.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/categories.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/draft/picker/categories2.txt -text
 tools/java/org/unicode/cldr/draft/picker/header.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/index.html svneol=native#text/html
 tools/java/org/unicode/cldr/draft/picker/renamingLog.txt svneol=native#text/plain
