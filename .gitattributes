@@ -3804,6 +3804,7 @@ T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/TestValidity.java svneol
 T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/TestVariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/TestXMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/TextFileReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
+T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/VoteEntries.java -text svneol=unset#text/plain
 T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.dtd -text
 T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.xml svneol=native#text/xml
 T6301/tools/cldr-unittest/src/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset#text/plain
