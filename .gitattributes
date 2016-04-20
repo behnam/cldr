@@ -1,4 +1,5 @@
 * text=auto !eol
+T6301/CLDR6301.pdf -text
 T6301/ICU-LICENSE -text
 T6301/apache-license.txt svneol=native#text/plain
 T6301/common/annotations/af.xml svneol=native#text/xml
