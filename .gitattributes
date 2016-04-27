@@ -4415,6 +4415,7 @@ tools/java/org/unicode/cldr/util/LruMap.java svneol=native#text/plain%3Bcharset%
 tools/java/org/unicode/cldr/util/MainTimeZones.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/MapComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/MergeLists.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/MultiComparator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/MyanmarZawgyiConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/NodeListIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Organization.java svneol=native#text/plain%3Bcharset%3Dutf-8
