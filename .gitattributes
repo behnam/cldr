@@ -1,4 +1,5 @@
 * text=auto !eol
+/CLDR6301_design.pdf -text
 /ICU-LICENSE -text
 /apache-license.txt svneol=native#text/plain
 common/annotations/af.xml svneol=native#text/xml
@@ -3809,6 +3810,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestVariantFolder.java svneol=
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestXMLSource.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TextFileReader.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/UnicodeSetPrettyPrinterTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/VoteEntries.java -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.dtd -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/TestCLDRLocale.xml svneol=native#text/xml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/common/dtd/ldml.dtd -text svneol=unset#text/plain
