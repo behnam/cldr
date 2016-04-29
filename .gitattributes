@@ -1,5 +1,4 @@
 * text=auto !eol
-/CLDR6301_design.pdf -text
 /ICU-LICENSE -text
 /apache-license.txt svneol=native#text/plain
 common/annotations/af.xml svneol=native#text/xml
