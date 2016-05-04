@@ -523,6 +523,7 @@ common/main/de_AT.xml svneol=native#text/xml
 common/main/de_BE.xml svneol=native#text/xml
 common/main/de_CH.xml svneol=native#text/xml
 common/main/de_DE.xml svneol=native#text/xml
+common/main/de_IT.xml -text
 common/main/de_LI.xml svneol=native#text/xml
 common/main/de_LU.xml svneol=native#text/xml
 common/main/dje.xml svneol=native#text/xml
