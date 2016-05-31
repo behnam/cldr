@@ -4549,7 +4549,7 @@ tools/java/org/unicode/cldr/util/data/external/alternate_country_names.txt svneo
 tools/java/org/unicode/cldr/util/data/external/alternate_language_names.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/alternate_locode_name.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=native#text/plain
-tools/java/org/unicode/cldr/util/data/external/factbook_literacy.txt -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/data/external/factbook_literacy.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/iso_3166_status.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=native#text/plain
