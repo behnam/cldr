@@ -4202,6 +4202,7 @@ tools/java/org/unicode/cldr/tool/ChartDelta.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/tool/ChartDtdDelta.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ChartLanguageMatching.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ChartSubdivisions.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/CheckAnnotations.java -text
 tools/java/org/unicode/cldr/tool/CheckEnglishCurrencyNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CheckHtmlFiles.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CheckLangTagBNF.java svneol=native#text/plain%3Bcharset%3Dutf-8
