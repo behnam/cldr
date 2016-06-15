@@ -1135,6 +1135,7 @@ common/main/zh_Hant_MO.xml svneol=native#text/xml
 common/main/zh_Hant_TW.xml svneol=native#text/xml
 common/main/zu.xml svneol=native#text/xml
 common/main/zu_ZA.xml svneol=native#text/xml
+common/properties/GlueAfterZwj.txt -text
 common/properties/scriptMetadata.txt svneol=native#text/plain
 common/rbnf/af.xml svneol=native#text/xml
 common/rbnf/am.xml svneol=native#text/xml
