@@ -1254,6 +1254,7 @@ common/transforms/Arabic-Latin.xml svneol=native#text/xml
 common/transforms/Armenian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Azerbaijani-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Belarusian-Latin-BGN.xml svneol=native#text/xml
+common/transforms/Bengali-Arabic.xml -text
 common/transforms/Bengali-Devanagari.xml svneol=native#text/xml
 common/transforms/Bengali-Gujarati.xml svneol=native#text/xml
 common/transforms/Bengali-Gurmukhi.xml svneol=native#text/xml
@@ -1267,6 +1268,7 @@ common/transforms/Bengali-Telugu.xml svneol=native#text/xml
 common/transforms/Bulgarian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/CanadianAboriginal-Latin.xml svneol=native#text/xml
 common/transforms/Cyrillic-Latin.xml svneol=native#text/xml
+common/transforms/Devanagari-Arabic.xml -text
 common/transforms/Devanagari-Bengali.xml svneol=native#text/xml
 common/transforms/Devanagari-Gujarati.xml svneol=native#text/xml
 common/transforms/Devanagari-Gurmukhi.xml svneol=native#text/xml
@@ -1283,6 +1285,7 @@ common/transforms/Georgian-Latin.xml svneol=native#text/xml
 common/transforms/Greek-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Greek-Latin.xml svneol=native#text/xml
 common/transforms/Greek_Latin_UNGEGN.xml svneol=native#text/xml
+common/transforms/Gujarati-Arabic.xml -text
 common/transforms/Gujarati-Bengali.xml svneol=native#text/xml
 common/transforms/Gujarati-Devanagari.xml svneol=native#text/xml
 common/transforms/Gujarati-Gurmukhi.xml svneol=native#text/xml
@@ -1293,6 +1296,7 @@ common/transforms/Gujarati-Malayalam.xml svneol=native#text/xml
 common/transforms/Gujarati-Oriya.xml svneol=native#text/xml
 common/transforms/Gujarati-Tamil.xml svneol=native#text/xml
 common/transforms/Gujarati-Telugu.xml svneol=native#text/xml
+common/transforms/Gurmukhi-Arabic.xml -text
 common/transforms/Gurmukhi-Bengali.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Devanagari.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Gujarati.xml svneol=native#text/xml
@@ -1312,6 +1316,7 @@ common/transforms/Hebrew-Latin.xml svneol=native#text/xml
 common/transforms/Hiragana-Katakana.xml svneol=native#text/xml
 common/transforms/Hiragana-Latin.xml svneol=native#text/xml
 common/transforms/IPA-XSampa.xml svneol=native#text/xml
+common/transforms/InterIndic-Arabic.xml -text
 common/transforms/InterIndic-Bengali.xml svneol=native#text/xml
 common/transforms/InterIndic-Devanagari.xml svneol=native#text/xml
 common/transforms/InterIndic-Gujarati.xml svneol=native#text/xml
@@ -1323,6 +1328,7 @@ common/transforms/InterIndic-Oriya.xml svneol=native#text/xml
 common/transforms/InterIndic-Tamil.xml svneol=native#text/xml
 common/transforms/InterIndic-Telugu.xml svneol=native#text/xml
 common/transforms/Jamo-Latin.xml svneol=native#text/xml
+common/transforms/Kannada-Arabic.xml -text
 common/transforms/Kannada-Bengali.xml svneol=native#text/xml
 common/transforms/Kannada-Devanagari.xml svneol=native#text/xml
 common/transforms/Kannada-Gujarati.xml svneol=native#text/xml
@@ -1358,6 +1364,7 @@ common/transforms/Latin-Tamil.xml svneol=native#text/xml
 common/transforms/Latin-Telugu.xml svneol=native#text/xml
 common/transforms/Latin-Thai.xml svneol=native#text/xml
 common/transforms/Macedonian-Latin-BGN.xml svneol=native#text/xml
+common/transforms/Malayalam-Arabic.xml -text
 common/transforms/Malayalam-Bengali.xml svneol=native#text/xml
 common/transforms/Malayalam-Devanagari.xml svneol=native#text/xml
 common/transforms/Malayalam-Gujarati.xml svneol=native#text/xml
@@ -1370,6 +1377,7 @@ common/transforms/Malayalam-Tamil.xml svneol=native#text/xml
 common/transforms/Malayalam-Telugu.xml svneol=native#text/xml
 common/transforms/Maldivian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Mongolian-Latin-BGN.xml svneol=native#text/xml
+common/transforms/Oriya-Arabic.xml -text
 common/transforms/Oriya-Bengali.xml svneol=native#text/xml
 common/transforms/Oriya-Devanagari.xml svneol=native#text/xml
 common/transforms/Oriya-Gujarati.xml svneol=native#text/xml
@@ -1387,6 +1395,7 @@ common/transforms/Russian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Serbian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Simplified-Traditional.xml svneol=native#text/xml
 common/transforms/Syriac-Latin.xml svneol=native#text/xml
+common/transforms/Tamil-Arabic.xml -text
 common/transforms/Tamil-Bengali.xml svneol=native#text/xml
 common/transforms/Tamil-Devanagari.xml svneol=native#text/xml
 common/transforms/Tamil-Gujarati.xml svneol=native#text/xml
@@ -1397,6 +1406,7 @@ common/transforms/Tamil-Latin.xml svneol=native#text/xml
 common/transforms/Tamil-Malayalam.xml svneol=native#text/xml
 common/transforms/Tamil-Oriya.xml svneol=native#text/xml
 common/transforms/Tamil-Telugu.xml svneol=native#text/xml
+common/transforms/Telugu-Arabic.xml -text
 common/transforms/Telugu-Bengali.xml svneol=native#text/xml
 common/transforms/Telugu-Devanagari.xml svneol=native#text/xml
 common/transforms/Telugu-Gujarati.xml svneol=native#text/xml
@@ -3973,6 +3983,15 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/si-Latn-t-s
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/si-fonipa-t-si.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sk-fonipa-t-sk.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/tlh-fonipa-t-tlh.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-beng.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-deva.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-gujr.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-guru.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-knda.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-mlym.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-orya.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-taml.txt -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-telu.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Beng-t-und-deva.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Beng-t-und-gujr.txt -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Beng-t-und-guru.txt -text svneol=unset#text/plain
