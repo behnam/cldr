@@ -4438,6 +4438,7 @@ tools/java/org/unicode/cldr/tool/GetChanges.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/tool/GetDescriptions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GetLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/IdToPath.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/KeymanCheck.java -text
 tools/java/org/unicode/cldr/tool/LanguageCodeConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/LikelySubtags.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ListUnits.java svneol=native#text/plain%3Bcharset%3Dutf-8
