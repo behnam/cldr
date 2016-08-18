@@ -1226,6 +1226,8 @@ common/segments/root.xml svneol=native#text/xml
 common/segments/ru.xml svneol=native#text/xml
 common/segments/zh.xml svneol=native#text/xml
 common/segments/zh_Hant.xml svneol=native#text/xml
+common/subdivisions/de.xml -text
+common/subdivisions/de_CH.xml -text
 common/subdivisions/en.xml svneol=native#text/xml
 common/subdivisions/root.xml svneol=native#text/xml
 common/supplemental/attributeValueValidity.xml svneol=native#text/xml
