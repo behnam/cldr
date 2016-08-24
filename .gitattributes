@@ -6,10 +6,13 @@ common/annotations/am.xml svneol=native#text/xml
 common/annotations/ar.xml svneol=native#text/xml
 common/annotations/as.xml svneol=native#text/xml
 common/annotations/az.xml svneol=native#text/xml
+common/annotations/be.xml -text
 common/annotations/bg.xml svneol=native#text/xml
 common/annotations/bn.xml svneol=native#text/xml
+common/annotations/bs.xml -text
 common/annotations/ca.xml svneol=native#text/xml
 common/annotations/cs.xml svneol=native#text/xml
+common/annotations/cy.xml -text
 common/annotations/da.xml svneol=native#text/xml
 common/annotations/de.xml svneol=native#text/xml
 common/annotations/el.xml svneol=native#text/xml
@@ -19,11 +22,13 @@ common/annotations/en_GB.xml svneol=native#text/xml
 common/annotations/es.xml svneol=native#text/xml
 common/annotations/es_419.xml svneol=native#text/xml
 common/annotations/et.xml svneol=native#text/xml
+common/annotations/eu.xml -text
 common/annotations/fa.xml svneol=native#text/xml
 common/annotations/fi.xml svneol=native#text/xml
 common/annotations/fil.xml svneol=native#text/xml
 common/annotations/fr.xml svneol=native#text/xml
 common/annotations/ga.xml svneol=native#text/xml
+common/annotations/gl.xml -text
 common/annotations/gu.xml svneol=native#text/xml
 common/annotations/he.xml svneol=native#text/xml
 common/annotations/hi.xml svneol=native#text/xml
@@ -77,6 +82,7 @@ common/annotations/uz.xml svneol=native#text/xml
 common/annotations/vi.xml svneol=native#text/xml
 common/annotations/zh.xml svneol=native#text/xml
 common/annotations/zh_Hant.xml svneol=native#text/xml
+common/annotations/zu.xml -text
 common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
