@@ -2964,6 +2964,8 @@ seed/main/mi_NZ.xml svneol=native#text/xml
 seed/main/mn_Mong.xml svneol=native#text/xml
 seed/main/mn_Mong_CN.xml svneol=native#text/xml
 seed/main/mn_Mong_MN.xml svneol=native#text/xml
+seed/main/mni.xml -text
+seed/main/mni_IN.xml -text
 seed/main/moh.xml svneol=native#text/xml
 seed/main/moh_CA.xml svneol=native#text/xml
 seed/main/ms_Arab.xml svneol=native#text/xml
