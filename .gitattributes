@@ -412,6 +412,7 @@ common/collation/tr.xml svneol=native#text/xml
 common/collation/ug.xml svneol=native#text/xml
 common/collation/uk.xml svneol=native#text/xml
 common/collation/ur.xml svneol=native#text/xml
+common/collation/uz.xml svneol=native#text/xml%3Bcharset%3Dutf-8
 common/collation/vi.xml svneol=native#text/xml
 common/collation/vo.xml svneol=native#text/xml
 common/collation/wae.xml svneol=native#text/xml
