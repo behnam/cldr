@@ -1272,6 +1272,7 @@ common/transforms/Bengali-Malayalam.xml svneol=native#text/xml
 common/transforms/Bengali-Oriya.xml svneol=native#text/xml
 common/transforms/Bengali-Tamil.xml svneol=native#text/xml
 common/transforms/Bengali-Telugu.xml svneol=native#text/xml
+common/transforms/Bengali-ur.xml -text
 common/transforms/Bulgarian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/CanadianAboriginal-Latin.xml svneol=native#text/xml
 common/transforms/Cyrillic-Latin.xml svneol=native#text/xml
@@ -1286,6 +1287,7 @@ common/transforms/Devanagari-Malayalam.xml svneol=native#text/xml
 common/transforms/Devanagari-Oriya.xml svneol=native#text/xml
 common/transforms/Devanagari-Tamil.xml svneol=native#text/xml
 common/transforms/Devanagari-Telugu.xml svneol=native#text/xml
+common/transforms/Devanagari-ur.xml -text
 common/transforms/Fullwidth-Halfwidth.xml svneol=native#text/xml
 common/transforms/Georgian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Georgian-Latin.xml svneol=native#text/xml
@@ -1303,6 +1305,7 @@ common/transforms/Gujarati-Malayalam.xml svneol=native#text/xml
 common/transforms/Gujarati-Oriya.xml svneol=native#text/xml
 common/transforms/Gujarati-Tamil.xml svneol=native#text/xml
 common/transforms/Gujarati-Telugu.xml svneol=native#text/xml
+common/transforms/Gujarati-ur.xml -text
 common/transforms/Gurmukhi-Arabic.xml -text
 common/transforms/Gurmukhi-Bengali.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Devanagari.xml svneol=native#text/xml
@@ -1314,6 +1317,7 @@ common/transforms/Gurmukhi-Malayalam.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Oriya.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Tamil.xml svneol=native#text/xml
 common/transforms/Gurmukhi-Telugu.xml svneol=native#text/xml
+common/transforms/Gurmukhi-ur.xml -text
 common/transforms/Han-Latin-Names.xml svneol=native#text/xml
 common/transforms/Han-Latin.xml svneol=native#text/xml
 common/transforms/Han-Spacedhan.xml svneol=native#text/xml
@@ -1334,6 +1338,7 @@ common/transforms/InterIndic-Malayalam.xml svneol=native#text/xml
 common/transforms/InterIndic-Oriya.xml svneol=native#text/xml
 common/transforms/InterIndic-Tamil.xml svneol=native#text/xml
 common/transforms/InterIndic-Telugu.xml svneol=native#text/xml
+common/transforms/InterIndic-ur.xml -text
 common/transforms/Jamo-Latin.xml svneol=native#text/xml
 common/transforms/Kannada-Arabic.xml -text
 common/transforms/Kannada-Bengali.xml svneol=native#text/xml
@@ -1346,6 +1351,7 @@ common/transforms/Kannada-Malayalam.xml svneol=native#text/xml
 common/transforms/Kannada-Oriya.xml svneol=native#text/xml
 common/transforms/Kannada-Tamil.xml svneol=native#text/xml
 common/transforms/Kannada-Telugu.xml svneol=native#text/xml
+common/transforms/Kannada-ur.xml -text
 common/transforms/Katakana-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Kazakh-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Kirghiz-Latin-BGN.xml svneol=native#text/xml
@@ -1382,6 +1388,7 @@ common/transforms/Malayalam-Latin.xml svneol=native#text/xml
 common/transforms/Malayalam-Oriya.xml svneol=native#text/xml
 common/transforms/Malayalam-Tamil.xml svneol=native#text/xml
 common/transforms/Malayalam-Telugu.xml svneol=native#text/xml
+common/transforms/Malayalam-ur.xml -text
 common/transforms/Maldivian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Mongolian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Oriya-Arabic.xml -text
@@ -1395,6 +1402,7 @@ common/transforms/Oriya-Latin.xml svneol=native#text/xml
 common/transforms/Oriya-Malayalam.xml svneol=native#text/xml
 common/transforms/Oriya-Tamil.xml svneol=native#text/xml
 common/transforms/Oriya-Telugu.xml svneol=native#text/xml
+common/transforms/Oriya-ur.xml -text
 common/transforms/Pashto-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Persian-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Pinyin-NumericPinyin.xml svneol=native#text/xml
@@ -1413,6 +1421,7 @@ common/transforms/Tamil-Latin.xml svneol=native#text/xml
 common/transforms/Tamil-Malayalam.xml svneol=native#text/xml
 common/transforms/Tamil-Oriya.xml svneol=native#text/xml
 common/transforms/Tamil-Telugu.xml svneol=native#text/xml
+common/transforms/Tamil-ur.xml -text
 common/transforms/Telugu-Arabic.xml -text
 common/transforms/Telugu-Bengali.xml svneol=native#text/xml
 common/transforms/Telugu-Devanagari.xml svneol=native#text/xml
@@ -1424,6 +1433,7 @@ common/transforms/Telugu-Latin.xml svneol=native#text/xml
 common/transforms/Telugu-Malayalam.xml svneol=native#text/xml
 common/transforms/Telugu-Oriya.xml svneol=native#text/xml
 common/transforms/Telugu-Tamil.xml svneol=native#text/xml
+common/transforms/Telugu-ur.xml -text
 common/transforms/Thaana-Latin.xml svneol=native#text/xml
 common/transforms/Thai-Latin.xml svneol=native#text/xml
 common/transforms/Thai-ThaiLogical.xml svneol=native#text/xml
