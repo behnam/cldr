@@ -4397,6 +4397,7 @@ tools/java/org/unicode/cldr/tool/ConvertXTB.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/tool/CountItems.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/CountryCodeConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/DeriveScripts.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/DiffCldr.java -text
 tools/java/org/unicode/cldr/tool/DiffWithParent.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/DumpCoverage.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ExtractIsoCurrencyData.java svneol=native#text/plain%3Bcharset%3Dutf-8
