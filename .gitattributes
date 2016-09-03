@@ -4733,12 +4733,16 @@ tools/java/org/unicode/cldr/util/data/external/Iso639-5.html svneol=native#text/
 tools/java/org/unicode/cldr/util/data/external/alternate_country_names.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/alternate_language_names.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/alternate_locode_name.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/eu_member_states_raw.txt -text
+tools/java/org/unicode/cldr/util/data/external/ez_member_states_raw.txt -text
 tools/java/org/unicode/cldr/util/data/external/factbook_gdp_ppp.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_literacy.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/factbook_population.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/iso_3166_status.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/m49_raw.txt -text
 tools/java/org/unicode/cldr/util/data/external/other_country_data.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/subdivisionData.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/external/un_member_states_raw.txt -text
 tools/java/org/unicode/cldr/util/data/external/us_census.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/extraLanguagesAndScripts.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/iso4217raw.txt svneol=native#text/plain
