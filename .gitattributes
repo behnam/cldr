@@ -15,6 +15,7 @@ common/annotations/cs.xml svneol=native#text/xml
 common/annotations/cy.xml svneol=native#text/xml
 common/annotations/da.xml svneol=native#text/xml
 common/annotations/de.xml svneol=native#text/xml
+common/annotations/de_CH.xml -text
 common/annotations/el.xml svneol=native#text/xml
 common/annotations/en.xml svneol=native#text/xml
 common/annotations/en_001.xml svneol=native#text/xml
@@ -69,6 +70,7 @@ common/annotations/sk.xml svneol=native#text/xml
 common/annotations/sl.xml svneol=native#text/xml
 common/annotations/sq.xml svneol=native#text/xml
 common/annotations/sr.xml svneol=native#text/xml
+common/annotations/sr_Latn.xml -text
 common/annotations/sv.xml svneol=native#text/xml
 common/annotations/sw.xml svneol=native#text/xml
 common/annotations/ta.xml svneol=native#text/xml
