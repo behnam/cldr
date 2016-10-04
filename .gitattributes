@@ -4818,6 +4818,9 @@ tools/scripts/build/bin-build/unittest.sh -text
 tools/scripts/build/bin-build/update-currev.sh -text
 tools/scripts/build/bin-build/update-icu4c.sh -text
 tools/scripts/build/bin-build/xml-validate-all.sh -text
+tools/scripts/cldr-sideways-users/README.md -text
+tools/scripts/cldr-sideways-users/index.js -text
+tools/scripts/cldr-sideways-users/package.json -text
 tools/scripts/fixSVNProps.sh -text svneol=native#application/x-sh
 tools/scripts/interimVettingTool.sh -text svneol=native#application/x-sh
 tools/scripts/platformDiffTool.sh -text svneol=native#application/x-sh
