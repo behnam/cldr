@@ -51,5 +51,3 @@ tools/java/out
 tools/scripts/build/bin-build/.git
 tools/scripts/build/bin-build/config.ini
 tools/scripts/build/bin-build/stbitten-env.sh
-tools/scripts/cldr-sideways-users/node_modules
-tools/scripts/cldr-sideways-users/users.*
