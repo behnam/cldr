@@ -3115,6 +3115,7 @@ specs/rfc/rfc2629-other.ent svneol=native#text/plain
 specs/rfc/rfc2629-xhtml.ent svneol=native#text/plain
 specs/rfc/rfc2629.dtd svneol=native#text/plain
 specs/rfc/rfc2629.xslt svneol=native#text/plain
+specs/site/release-30.html -text
 tools/SurveyConsole/.classpath -text
 tools/SurveyConsole/.project -text
 tools/SurveyConsole/WebContent/META-INF/MANIFEST.MF -text
