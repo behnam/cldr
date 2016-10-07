@@ -4476,6 +4476,7 @@ tools/java/org/unicode/cldr/tool/ModifyCase.java svneol=native#text/plain%3Bchar
 tools/java/org/unicode/cldr/tool/Option.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/PivotData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/PluralRulesFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/ReadSql.java -text
 tools/java/org/unicode/cldr/tool/ReadXMB.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ScriptPopulations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/SearchCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
