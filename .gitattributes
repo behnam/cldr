@@ -4355,6 +4355,7 @@ tools/java/org/unicode/cldr/test/ExampleGenerator.java svneol=native#text/plain%
 tools/java/org/unicode/cldr/test/FactoryCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/FlexibleDateFromCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/FlexibleDateTime.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/test/HelpMessages.java -text
 tools/java/org/unicode/cldr/test/OutdatedPaths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/PrintTransitions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/test/QuickCheck.java svneol=native#text/plain%3Bcharset%3Dutf-8
