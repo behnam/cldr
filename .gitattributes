@@ -4197,6 +4197,7 @@ tools/java/org/unicode/cldr/draft/UnicodeSetFilteredTransform.java svneol=native
 tools/java/org/unicode/cldr/draft/UnicodeSetFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/UnicodeSetStates.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/UnmodifiableBitSet.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/XLocaleMatcher.java -text
 tools/java/org/unicode/cldr/draft/idnaContextRules.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/idnaTestCases.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/idnaTestLog.txt svneol=native#text/plain
