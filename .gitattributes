@@ -4148,6 +4148,7 @@ tools/java/org/unicode/cldr/ant/CLDRBuild.java svneol=native#text/plain%3Bcharse
 tools/java/org/unicode/cldr/ant/CLDRConverterTool.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/ant/package.html svneol=native#text/html
 tools/java/org/unicode/cldr/common.css svneol=native#text/css
+tools/java/org/unicode/cldr/draft/Array2D.java -text
 tools/java/org/unicode/cldr/draft/Categories.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/CharData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/CharEncoder.java svneol=native#text/plain%3Bcharset%3Dutf-8
