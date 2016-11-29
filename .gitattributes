@@ -2940,6 +2940,9 @@ seed/main/byn.xml svneol=native#text/xml
 seed/main/byn_ER.xml svneol=native#text/xml
 seed/main/cch.xml svneol=native#text/xml
 seed/main/cch_NG.xml svneol=native#text/xml
+seed/main/ccp.xml -text
+seed/main/ccp_BD.xml -text
+seed/main/ccp_IN.xml -text
 seed/main/co.xml svneol=native#text/xml
 seed/main/co_FR.xml svneol=native#text/xml
 seed/main/cv.xml svneol=native#text/xml
