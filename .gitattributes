@@ -4173,6 +4173,7 @@ tools/java/org/unicode/cldr/draft/GapStringTest.java svneol=native#text/plain%3B
 tools/java/org/unicode/cldr/draft/GenerateLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/GeneratePickerData.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/IdentifierInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/IntDistanceNode.java -text
 tools/java/org/unicode/cldr/draft/Iterables.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/JsonConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/Keyboard.java svneol=native#text/plain%3Bcharset%3Dutf-8
