@@ -3787,6 +3787,7 @@ tools/cldr-unittest/build.xml svneol=native#text/xml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/CheckLanguageCodeConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/CheckResult.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/CheckYear.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/DataDrivenTestHelper.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/ForwardingIterable.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/GenerateTransformTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/LanguageInfoTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -3838,7 +3839,6 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestExamples.txt svneol=native
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestExternalCodeAPIs.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestFallbackIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/cldr-unittest/src/org/unicode/cldr/unittest/TestFileHander.java -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestFmwkPlus.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestIdentifierInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestIdentity.java svneol=native#text/plain%3Bcharset%3Dutf-8
