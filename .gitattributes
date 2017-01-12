@@ -93,6 +93,7 @@ common/bcp47/segmentation.xml svneol=native#text/xml
 common/bcp47/timezone.xml svneol=native#text/xml
 common/bcp47/transform-destination.xml svneol=native#text/xml
 common/bcp47/transform.xml svneol=native#text/xml
+common/bcp47/transform_hybrid.xml -text svneol=unset#text/plain
 common/bcp47/transform_ime.xml svneol=native#text/xml
 common/bcp47/transform_keyboard.xml svneol=native#text/xml
 common/bcp47/transform_mt.xml svneol=native#text/xml
