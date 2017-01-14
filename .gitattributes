@@ -670,6 +670,7 @@ common/main/es_419.xml svneol=native#text/xml
 common/main/es_AR.xml svneol=native#text/xml
 common/main/es_BO.xml svneol=native#text/xml
 common/main/es_BR.xml svneol=native#text/xml
+common/main/es_BZ.xml -text
 common/main/es_CL.xml svneol=native#text/xml
 common/main/es_CO.xml svneol=native#text/xml
 common/main/es_CR.xml svneol=native#text/xml
