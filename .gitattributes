@@ -1580,6 +1580,7 @@ common/transforms/sk-fa.xml svneol=native#text/xml
 common/transforms/sk-ja.xml svneol=native#text/xml
 common/transforms/sk-sk_FONIPA.xml svneol=native#text/xml
 common/transforms/sk_FONIPA-ja.xml svneol=native#text/xml
+common/transforms/ta-ta_FONIPA.xml -text
 common/transforms/tlh-am.xml svneol=native#text/xml
 common/transforms/tlh-ar.xml svneol=native#text/xml
 common/transforms/tlh-chr.xml svneol=native#text/xml
@@ -4017,6 +4018,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sat-fonipa-
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/si-Latn-t-si.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/si-fonipa-t-si.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sk-fonipa-t-sk.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ta-fonipa-t-ta.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/tlh-fonipa-t-tlh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-beng.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-deva.txt svneol=native#text/plain
