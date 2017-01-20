@@ -1736,6 +1736,7 @@ exemplars/main/bqc.xml svneol=native#text/xml
 exemplars/main/bqp.xml svneol=native#text/xml
 exemplars/main/brz.xml svneol=native#text/xml
 exemplars/main/bsj.xml svneol=native#text/xml
+exemplars/main/bsq.xml -text
 exemplars/main/bsq_Latn.xml svneol=native#text/xml
 exemplars/main/bst.xml svneol=native#text/xml
 exemplars/main/btt.xml svneol=native#text/xml
