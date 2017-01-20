@@ -1720,6 +1720,7 @@ exemplars/main/bkc.xml svneol=native#text/xml
 exemplars/main/bkm.xml svneol=native#text/xml
 exemplars/main/bkq.xml svneol=native#text/xml
 exemplars/main/bkv.xml svneol=native#text/xml
+exemplars/main/blt.xml -text
 exemplars/main/blt_Latn.xml svneol=native#text/xml
 exemplars/main/bmh.xml svneol=native#text/xml
 exemplars/main/bmk.xml svneol=native#text/xml
