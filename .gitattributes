@@ -2157,6 +2157,7 @@ exemplars/main/roo.xml svneol=native#text/xml
 exemplars/main/rro.xml svneol=native#text/xml
 exemplars/main/rwo.xml svneol=native#text/xml
 exemplars/main/saf.xml svneol=native#text/xml
+exemplars/main/sav.xml -text
 exemplars/main/sav_Arab.xml svneol=native#text/xml
 exemplars/main/sba.xml svneol=native#text/xml
 exemplars/main/sbe.xml svneol=native#text/xml
