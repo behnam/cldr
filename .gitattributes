@@ -4464,6 +4464,7 @@ tools/java/org/unicode/cldr/tool/PivotData.java svneol=native#text/plain%3Bchars
 tools/java/org/unicode/cldr/tool/PluralRulesFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ReadSql.java -text
 tools/java/org/unicode/cldr/tool/ReadXMB.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/RegexModify.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ScriptPopulations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/SearchCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/SearchXml.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4489,6 +4490,7 @@ tools/java/org/unicode/cldr/tool/VerifyAttributeValues.java svneol=native#text/p
 tools/java/org/unicode/cldr/tool/VettingAdder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/WritePluralRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/WritePluralRulesSpreadsheets.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/XMLModify.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/bytype-index.css svneol=native#text/css
 tools/java/org/unicode/cldr/tool/bytype-index.html svneol=native#text/html
 tools/java/org/unicode/cldr/tool/chart-template.html svneol=native#text/html
