@@ -1714,6 +1714,7 @@ exemplars/main/bjh.xml svneol=native#text/xml
 exemplars/main/bji.xml svneol=native#text/xml
 exemplars/main/bjo.xml svneol=native#text/xml
 exemplars/main/bjr.xml svneol=native#text/xml
+exemplars/main/bjt.xml -text
 exemplars/main/bjt_Arab.xml svneol=native#text/xml
 exemplars/main/bjz.xml svneol=native#text/xml
 exemplars/main/bkc.xml svneol=native#text/xml
