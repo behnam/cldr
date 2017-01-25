@@ -1696,6 +1696,7 @@ exemplars/main/bcu.xml svneol=native#text/xml
 exemplars/main/bdd.xml svneol=native#text/xml
 exemplars/main/bef.xml svneol=native#text/xml
 exemplars/main/beh.xml svneol=native#text/xml
+exemplars/main/bej.xml -text
 exemplars/main/bej_Latn.xml svneol=native#text/xml
 exemplars/main/bet.xml svneol=native#text/xml
 exemplars/main/bex.xml svneol=native#text/xml
