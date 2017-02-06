@@ -1788,6 +1788,7 @@ exemplars/main/bkq.xml svneol=native#text/xml
 exemplars/main/bkv.xml svneol=native#text/xml
 exemplars/main/blt.xml -text
 exemplars/main/blt_Latn.xml svneol=native#text/xml
+exemplars/main/blt_Tavt_VN.xml -text svneol=unset#text/plain
 exemplars/main/bmh.xml svneol=native#text/xml
 exemplars/main/bmk.xml svneol=native#text/xml
 exemplars/main/bmq.xml svneol=native#text/xml
