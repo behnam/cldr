@@ -2770,6 +2770,7 @@ keyboards/windows/ar-t-k0-windows-azerty.xml svneol=native#text/xml
 keyboards/windows/ar-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/as-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/az-Cyrl-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/az-t-k0-windows-extended.xml -text
 keyboards/windows/az-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ba-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/be-t-k0-windows.xml svneol=native#text/xml
@@ -2782,8 +2783,10 @@ keyboards/windows/bm-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/bn-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/bn-t-k0-windows-qwerty.xml svneol=native#text/xml
 keyboards/windows/bn-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/bo-t-k0-windows-extended.xml -text
 keyboards/windows/bo-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/bs-Cyrl-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/bug-t-k0-windows.xml -text
 keyboards/windows/chr-t-k0-windows-phonetic.xml svneol=native#text/xml
 keyboards/windows/chr-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ckb-t-k0-windows.xml svneol=native#text/xml
@@ -2802,6 +2805,7 @@ keyboards/windows/dsb-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/dv-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/dv-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/dyu-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/dz-t-k0-windows.xml -text
 keyboards/windows/el-Latn-t-k0-windows-el220.xml svneol=native#text/xml
 keyboards/windows/el-Latn-t-k0-windows-el319.xml svneol=native#text/xml
 keyboards/windows/el-Latn-t-k0-windows.xml svneol=native#text/xml
@@ -2837,6 +2841,8 @@ keyboards/windows/fr-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ga-Ogam-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ga-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/gd-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/gn-t-k0-windows.xml -text
+keyboards/windows/got-t-k0-windows.xml -text
 keyboards/windows/gu-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ha-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/haw-t-k0-windows.xml svneol=native#text/xml
@@ -2844,7 +2850,6 @@ keyboards/windows/he-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/he-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/hi-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/hi-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/hr-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/hu-t-k0-windows-101key.xml svneol=native#text/xml
 keyboards/windows/hu-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/hy-AREVMDA-t-k0-windows.xml svneol=native#text/xml
@@ -2858,6 +2863,7 @@ keyboards/windows/it-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/iu-t-k0-windows-var.xml svneol=native#text/xml
 keyboards/windows/iu-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ja-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/jv-t-k0-windows.xml -text
 keyboards/windows/ka-t-k0-windows-legacy-var.xml svneol=native#text/xml
 keyboards/windows/ka-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/ka-t-k0-windows-qwerty.xml svneol=native#text/xml
@@ -2872,6 +2878,7 @@ keyboards/windows/km-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/kn-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ko-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ky-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/la-Ital-t-k0-windows.xml -text
 keyboards/windows/lb-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/lis-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/lis-t-k0-windows.xml svneol=native#text/xml
@@ -2879,6 +2886,7 @@ keyboards/windows/lo-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/lt-t-k0-windows-lt1205.xml svneol=native#text/xml
 keyboards/windows/lt-t-k0-windows-lt1582.xml svneol=native#text/xml
 keyboards/windows/lt-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/lv-t-k0-windows-extended.xml -text
 keyboards/windows/lv-t-k0-windows-qwerty.xml svneol=native#text/xml
 keyboards/windows/lv-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/man-t-k0-windows.xml svneol=native#text/xml
@@ -2886,6 +2894,7 @@ keyboards/windows/mi-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/mk-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/mk-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ml-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/mn-Mong-t-k0-windows-extended.xml -text
 keyboards/windows/mn-Mong-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/mn-Phag-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/mn-t-k0-windows.xml svneol=native#text/xml
@@ -2915,6 +2924,7 @@ keyboards/windows/ru-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/ru-t-k0-windows-phonetic.xml svneol=native#text/xml
 keyboards/windows/ru-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sah-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/sat-Olck-t-k0-windows.xml -text
 keyboards/windows/se-FI-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/se-SE-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/se-t-k0-windows.xml svneol=native#text/xml
@@ -2923,9 +2933,11 @@ keyboards/windows/si-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sk-t-k0-windows-qwerty.xml svneol=native#text/xml
 keyboards/windows/sk-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sl-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/so-Osma-t-k0-windows.xml -text
 keyboards/windows/sq-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sr-Latn-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sr-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/srb-t-k0-windows.xml -text
 keyboards/windows/sv-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/sv-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/syr-t-k0-windows-qwerty.xml svneol=native#text/xml
@@ -2943,7 +2955,9 @@ keyboards/windows/tmh-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/tn-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/tr-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/tr-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/tt-t-k0-windows-legacy.xml -text
 keyboards/windows/tt-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/tzm-t-k0-windows.xml -text
 keyboards/windows/ug-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/ug-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/uk-t-k0-windows-extended.xml svneol=native#text/xml
