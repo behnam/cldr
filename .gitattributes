@@ -2908,6 +2908,7 @@ keyboards/windows/ne-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/nl-BE-t-k0-windows-var.xml svneol=native#text/xml
 keyboards/windows/nl-BE-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/nl-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/non-t-k0-windows.xml -text
 keyboards/windows/nso-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/or-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/pa-t-k0-windows.xml svneol=native#text/xml
