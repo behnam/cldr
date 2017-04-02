@@ -4626,6 +4626,7 @@ tools/java/org/unicode/cldr/tool/GenerateG2xG2.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateKaraList.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/GenerateLanguageContainment.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/GenerateLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateLikelySubtagTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateMaximalLocales.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4936,6 +4937,10 @@ tools/java/org/unicode/cldr/util/data/langtagTest.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/language-subtag-registry -text
 tools/java/org/unicode/cldr/util/data/language_list.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/language_script_raw.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/util/data/languages/childToParent.tsv -text
+tools/java/org/unicode/cldr/util/data/languages/entityToCode.tsv -text
+tools/java/org/unicode/cldr/util/data/languages/entityToLabel.tsv -text
+tools/java/org/unicode/cldr/util/data/languages/readme.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/leapseconds -text
 tools/java/org/unicode/cldr/util/data/localeReplacements.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/lstreg.txt svneol=native#text/plain
