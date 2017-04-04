@@ -4836,7 +4836,6 @@ tools/java/org/unicode/cldr/util/StandardCodes.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/util/StateDictionary.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StateDictionaryBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StaticCLDRURLS.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/StringArrayToMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringId.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/StringIterables.java svneol=native#text/plain%3Bcharset%3Dutf-8
