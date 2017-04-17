@@ -3143,6 +3143,8 @@ seed/main/ha_Arab_NG.xml svneol=native#text/xml
 seed/main/ha_Arab_SD.xml svneol=native#text/xml
 seed/main/ia.xml svneol=native#text/xml
 seed/main/ia_FR.xml svneol=native#text/xml
+seed/main/io.xml svneol=native#text/xml
+seed/main/io_001.xml -text
 seed/main/iu.xml svneol=native#text/xml
 seed/main/iu_CA.xml svneol=native#text/xml
 seed/main/iu_Latn.xml svneol=native#text/xml
