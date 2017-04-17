@@ -1218,7 +1218,6 @@ common/main/yo.xml svneol=native#text/xml
 common/main/yo_BJ.xml svneol=native#text/xml
 common/main/yo_NG.xml svneol=native#text/xml
 common/main/yue.xml svneol=native#text/xml
-common/main/yue_HK.xml svneol=native#text/xml
 common/main/yue_Hans.xml -text
 common/main/yue_Hans_CN.xml -text
 common/main/yue_Hant.xml -text
