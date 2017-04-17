@@ -1219,6 +1219,10 @@ common/main/yo_BJ.xml svneol=native#text/xml
 common/main/yo_NG.xml svneol=native#text/xml
 common/main/yue.xml svneol=native#text/xml
 common/main/yue_HK.xml svneol=native#text/xml
+common/main/yue_Hans.xml -text
+common/main/yue_Hans_CN.xml -text
+common/main/yue_Hant.xml -text
+common/main/yue_Hant_HK.xml -text
 common/main/zgh.xml svneol=native#text/xml
 common/main/zgh_MA.xml svneol=native#text/xml
 common/main/zh.xml svneol=native#text/xml
@@ -1307,6 +1311,7 @@ common/rbnf/tr.xml svneol=native#text/xml
 common/rbnf/uk.xml svneol=native#text/xml
 common/rbnf/vi.xml svneol=native#text/xml
 common/rbnf/yue.xml svneol=native#text/xml
+common/rbnf/yue_Hans.xml -text
 common/rbnf/zh.xml svneol=native#text/xml
 common/rbnf/zh_Hant.xml svneol=native#text/xml
 common/segments/de.xml svneol=native#text/xml
