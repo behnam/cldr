@@ -1246,6 +1246,7 @@ common/rbnf/be.xml svneol=native#text/xml
 common/rbnf/bg.xml svneol=native#text/xml
 common/rbnf/bs.xml svneol=native#text/xml
 common/rbnf/ca.xml svneol=native#text/xml
+common/rbnf/chr.xml -text
 common/rbnf/cs.xml svneol=native#text/xml
 common/rbnf/cy.xml svneol=native#text/xml
 common/rbnf/da.xml svneol=native#text/xml
