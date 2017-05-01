@@ -3818,6 +3818,7 @@ tools/cldr-apps/WebContent/js/special/SpecialPage.js -text svneol=unset#text/pla
 tools/cldr-apps/WebContent/js/special/blank.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/flagged.js -text
 tools/cldr-apps/WebContent/js/special/forum.js svneol=native#text/javascript
+tools/cldr-apps/WebContent/js/special/prevforum.js -text
 tools/cldr-apps/WebContent/js/special/search.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/statistics.js -text svneol=unset#text/plain
 tools/cldr-apps/WebContent/js/special/tc-emaillist.js -text svneol=unset#text/plain
