@@ -1400,7 +1400,6 @@ common/subdivisions/zh_Hant.xml svneol=native#text/xml
 common/subdivisions/zu.xml svneol=native#text/xml
 common/supplemental/attributeValueValidity.xml svneol=native#text/xml
 common/supplemental/characters.xml svneol=native#text/xml
-common/supplemental/coverageLevels.newxml -text
 common/supplemental/coverageLevels.xml svneol=native#text/xml
 common/supplemental/dayPeriods.xml svneol=native#text/xml
 common/supplemental/genderList.xml svneol=native#text/xml
