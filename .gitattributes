@@ -4323,6 +4323,8 @@ tools/java/com/ibm/icu/dev/test/TestLog.java svneol=native#text/plain%3Bcharset%
 tools/java/com/ibm/icu/dev/test/TestLogWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/dev/test/TestUtil.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/dev/test/UTF16Util.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/com/ibm/icu/impl/DayPeriodRules.java -text
+tools/java/com/ibm/icu/text/DateTimePatternGenerator.java -text
 tools/java/com/ibm/icu/text/GenderInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
