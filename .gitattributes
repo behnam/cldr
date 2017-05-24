@@ -1241,6 +1241,7 @@ common/main/zu_ZA.xml svneol=native#text/xml
 common/properties/ExtendedPictographic.txt svneol=native#text/plain
 common/properties/scriptMetadata.txt svneol=native#text/plain
 common/rbnf/af.xml svneol=native#text/xml
+common/rbnf/ak.xml -text
 common/rbnf/am.xml svneol=native#text/xml
 common/rbnf/ar.xml svneol=native#text/xml
 common/rbnf/az.xml svneol=native#text/xml
