@@ -1614,6 +1614,7 @@ common/transforms/am-fa.xml svneol=native#text/xml
 common/transforms/az-Lower.xml svneol=native#text/xml
 common/transforms/az-Title.xml svneol=native#text/xml
 common/transforms/az-Upper.xml svneol=native#text/xml
+common/transforms/blt-fonipa-t-blt.xml -text
 common/transforms/ch-am.xml svneol=native#text/xml
 common/transforms/ch-ar.xml svneol=native#text/xml
 common/transforms/ch-ch_FONIPA.xml svneol=native#text/xml
@@ -4114,6 +4115,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-sk.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-tlh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-xh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-zu.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/blt-fonipa-t-blt.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ch-fonipa-t-ch.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-fonipa-t-chr.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-t-am.txt svneol=native#text/plain
