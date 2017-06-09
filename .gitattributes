@@ -3154,6 +3154,8 @@ seed/main/iu.xml svneol=native#text/xml
 seed/main/iu_CA.xml svneol=native#text/xml
 seed/main/iu_Latn.xml svneol=native#text/xml
 seed/main/iu_Latn_CA.xml svneol=native#text/xml
+seed/main/jbo.xml -text
+seed/main/jbo_001.xml -text
 seed/main/jv.xml svneol=native#text/xml
 seed/main/jv_ID.xml svneol=native#text/xml
 seed/main/kaj.xml svneol=native#text/xml
