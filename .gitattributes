@@ -4681,6 +4681,7 @@ tools/java/org/unicode/cldr/tool/Misc.java svneol=native#text/plain%3Bcharset%3D
 tools/java/org/unicode/cldr/tool/ModifyCase.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/Option.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/PivotData.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/PluralMinimalPairs.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/PluralRulesFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/PrepareRootAnnotations.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ReadSql.java svneol=native#text/plain%3Bcharset%3Dutf-8
