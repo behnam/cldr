@@ -4879,6 +4879,7 @@ tools/java/org/unicode/cldr/util/UnicodeSetPrettyPrinter.java svneol=native#text
 tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Validity.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/util/ValuePathStatus.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/VariableAndPathParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariableReplacer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
