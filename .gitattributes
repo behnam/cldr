@@ -4118,6 +4118,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-sk.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-tlh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-xh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-zu.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/az-t-az-cyrl-m0-bgn.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/blt-fonipa-t-blt.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ch-fonipa-t-ch.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-fonipa-t-chr.txt svneol=native#text/plain
