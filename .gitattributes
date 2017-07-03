@@ -1455,6 +1455,7 @@ common/transforms/Devanagari-Telugu.xml svneol=native#text/xml
 common/transforms/Devanagari-ur.xml svneol=native#text/xml
 common/transforms/Fullwidth-Halfwidth.xml svneol=native#text/xml
 common/transforms/Georgian-Latin-BGN.xml svneol=native#text/xml
+common/transforms/Georgian-Latin-BGN_1981.xml svneol=native#text/xml
 common/transforms/Georgian-Latin.xml svneol=native#text/xml
 common/transforms/Greek-Latin-BGN.xml svneol=native#text/xml
 common/transforms/Greek-Latin.xml svneol=native#text/xml
@@ -4194,7 +4195,8 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-ro.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-ru.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-sk-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-sk.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ka-Latn-t-ka-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ka-Latn-t-ka-m0-bgn-1981.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ka-Latn-t-ka-m0-bgn-2009.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/kk-Latn-t-kk-m0-bgn.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/kk-fonipa-t-kk.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ko-t-cs-fonipa.txt svneol=native#text/plain
