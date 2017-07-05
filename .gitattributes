@@ -1818,6 +1818,7 @@ exemplars/main/any.xml svneol=native#text/xml
 exemplars/main/aoj.xml svneol=native#text/xml
 exemplars/main/aom.xml svneol=native#text/xml
 exemplars/main/apc.xml svneol=native#text/xml
+exemplars/main/apd.xml -text svneol=unset#text/xml
 exemplars/main/apd_Latn.xml svneol=native#text/xml
 exemplars/main/ape.xml svneol=native#text/xml
 exemplars/main/apr.xml svneol=native#text/xml
