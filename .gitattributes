@@ -2476,6 +2476,7 @@ exemplars/main/yut.xml svneol=native#text/xml
 exemplars/main/yuw.xml svneol=native#text/xml
 exemplars/main/zdj.xml svneol=native#text/xml
 exemplars/main/zia.xml svneol=native#text/xml
+exemplars/main/zlm.xml -text svneol=unset#text/xml
 exemplars/main/zlm_Arab.xml svneol=native#text/xml
 exemplars/main/zne.xml svneol=native#text/xml
 keyboards/.project -text svneol=unset#text/plain
