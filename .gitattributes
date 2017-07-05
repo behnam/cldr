@@ -3072,6 +3072,8 @@ seed/casing/aa.xml svneol=native#text/xml
 seed/casing/byn.xml svneol=native#text/xml
 seed/casing/en_Dsrt.xml svneol=native#text/xml
 seed/casing/ia.xml svneol=native#text/xml
+seed/casing/iu.xml -text
+seed/casing/iu_Latn.xml -text
 seed/casing/kpe.xml svneol=native#text/xml
 seed/casing/nr.xml svneol=native#text/xml
 seed/casing/nso.xml svneol=native#text/xml
