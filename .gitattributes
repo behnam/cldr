@@ -4013,6 +4013,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCanonicalIds.java svneol=n
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingTransforms.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckDisplayCollisions.java -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrFactory.java -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
