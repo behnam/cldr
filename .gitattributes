@@ -2084,6 +2084,7 @@ exemplars/main/idi.xml svneol=native#text/xml
 exemplars/main/idu.xml svneol=native#text/xml
 exemplars/main/ife.xml svneol=native#text/xml
 exemplars/main/ife_BJ.xml svneol=native#text/xml
+exemplars/main/ife_TG.xml -text svneol=unset#text/plain
 exemplars/main/igb.xml svneol=native#text/xml
 exemplars/main/ige.xml svneol=native#text/xml
 exemplars/main/ijj.xml svneol=native#text/xml
