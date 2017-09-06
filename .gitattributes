@@ -1276,6 +1276,7 @@ common/rbnf/de_CH.xml svneol=native#text/xml
 common/rbnf/ee.xml svneol=native#text/xml
 common/rbnf/el.xml svneol=native#text/xml
 common/rbnf/en.xml svneol=native#text/xml
+common/rbnf/en_001.xml -text svneol=unset#text/plain
 common/rbnf/en_IN.xml svneol=native#text/xml
 common/rbnf/eo.xml svneol=native#text/xml
 common/rbnf/es.xml svneol=native#text/xml
