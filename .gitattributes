@@ -3095,6 +3095,7 @@ keyboards/windows/zh-MO-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/zh-SG-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/zh-t-k0-windows.xml svneol=native#text/xml
 /readme.html svneol=native#text/html
+seed/annotations/und.xml -text
 seed/casing/aa.xml svneol=native#text/xml
 seed/casing/byn.xml svneol=native#text/xml
 seed/casing/en_Dsrt.xml svneol=native#text/xml
