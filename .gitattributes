@@ -1391,6 +1391,7 @@ common/subdivisions/be.xml svneol=native#text/xml
 common/subdivisions/bg.xml svneol=native#text/xml
 common/subdivisions/bn.xml svneol=native#text/xml
 common/subdivisions/ca.xml svneol=native#text/xml
+common/subdivisions/ccp.xml -text
 common/subdivisions/cs.xml svneol=native#text/xml
 common/subdivisions/da.xml svneol=native#text/xml
 common/subdivisions/de.xml svneol=native#text/xml
