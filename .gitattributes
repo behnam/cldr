@@ -4366,6 +4366,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Telu-t-
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Telu-t-und-taml.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-fonipa-t-und-fonxsamp.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-fonxsamp-t-und-fonipa.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-t-d0-ascii.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-t-d0-publish.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-t-s0-publish.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ur-t-und-beng.txt svneol=native#text/plain
