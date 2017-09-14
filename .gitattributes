@@ -5,14 +5,14 @@ common/annotations/af.xml svneol=native#text/xml
 common/annotations/am.xml svneol=native#text/xml
 common/annotations/ar.xml svneol=native#text/xml
 common/annotations/as.xml svneol=native#text/xml
-common/annotations/ast.xml -text svneol=unset#text/plain
+common/annotations/ast.xml svneol=native#text/xml
 common/annotations/az.xml svneol=native#text/xml
 common/annotations/be.xml svneol=native#text/xml
 common/annotations/bg.xml svneol=native#text/xml
 common/annotations/bn.xml svneol=native#text/xml
 common/annotations/bs.xml svneol=native#text/xml
 common/annotations/ca.xml svneol=native#text/xml
-common/annotations/chr.xml -text svneol=unset#text/plain
+common/annotations/chr.xml svneol=native#text/xml
 common/annotations/cs.xml svneol=native#text/xml
 common/annotations/cy.xml svneol=native#text/xml
 common/annotations/da.xml svneol=native#text/xml
@@ -21,23 +21,23 @@ common/annotations/de_CH.xml svneol=native#text/xml
 common/annotations/el.xml svneol=native#text/xml
 common/annotations/en.xml svneol=native#text/xml
 common/annotations/en_001.xml svneol=native#text/xml
-common/annotations/en_AU.xml -text svneol=unset#text/plain
-common/annotations/en_CA.xml -text svneol=unset#text/plain
-common/annotations/en_GB.xml -text svneol=unset#text/plain
+common/annotations/en_AU.xml svneol=native#text/xml
+common/annotations/en_CA.xml svneol=native#text/xml
+common/annotations/en_GB.xml svneol=native#text/xml
 common/annotations/es.xml svneol=native#text/xml
 common/annotations/es_419.xml svneol=native#text/xml
-common/annotations/es_MX.xml -text svneol=unset#text/plain
-common/annotations/es_US.xml -text svneol=unset#text/plain
+common/annotations/es_MX.xml svneol=native#text/xml
+common/annotations/es_US.xml svneol=native#text/xml
 common/annotations/et.xml svneol=native#text/xml
 common/annotations/eu.xml svneol=native#text/xml
 common/annotations/fa.xml svneol=native#text/xml
 common/annotations/fi.xml svneol=native#text/xml
 common/annotations/fil.xml svneol=native#text/xml
-common/annotations/fo.xml -text svneol=unset#text/plain
+common/annotations/fo.xml svneol=native#text/xml
 common/annotations/fr.xml svneol=native#text/xml
-common/annotations/fr_CA.xml -text svneol=unset#text/plain
+common/annotations/fr_CA.xml svneol=native#text/xml
 common/annotations/ga.xml svneol=native#text/xml
-common/annotations/gd.xml -text svneol=unset#text/plain
+common/annotations/gd.xml svneol=native#text/xml
 common/annotations/gl.xml svneol=native#text/xml
 common/annotations/gu.xml svneol=native#text/xml
 common/annotations/he.xml svneol=native#text/xml
@@ -50,7 +50,7 @@ common/annotations/is.xml svneol=native#text/xml
 common/annotations/it.xml svneol=native#text/xml
 common/annotations/ja.xml svneol=native#text/xml
 common/annotations/ka.xml svneol=native#text/xml
-common/annotations/kab.xml -text svneol=unset#text/plain
+common/annotations/kab.xml svneol=native#text/xml
 common/annotations/kk.xml svneol=native#text/xml
 common/annotations/km.xml svneol=native#text/xml
 common/annotations/kn.xml svneol=native#text/xml
@@ -68,17 +68,17 @@ common/annotations/my.xml svneol=native#text/xml
 common/annotations/nb.xml svneol=native#text/xml
 common/annotations/ne.xml svneol=native#text/xml
 common/annotations/nl.xml svneol=native#text/xml
-common/annotations/nn.xml -text svneol=unset#text/plain
+common/annotations/nn.xml svneol=native#text/xml
 common/annotations/or.xml svneol=native#text/xml
 common/annotations/pa.xml svneol=native#text/xml
 common/annotations/pl.xml svneol=native#text/xml
-common/annotations/ps.xml -text svneol=unset#text/plain
+common/annotations/ps.xml svneol=native#text/xml
 common/annotations/pt.xml svneol=native#text/xml
 common/annotations/pt_PT.xml svneol=native#text/xml
 common/annotations/ro.xml svneol=native#text/xml
 common/annotations/root.xml svneol=native#text/xml
 common/annotations/ru.xml svneol=native#text/xml
-common/annotations/sd.xml -text svneol=unset#text/plain
+common/annotations/sd.xml svneol=native#text/xml
 common/annotations/si.xml svneol=native#text/xml
 common/annotations/sk.xml svneol=native#text/xml
 common/annotations/sl.xml svneol=native#text/xml
@@ -90,119 +90,119 @@ common/annotations/sw.xml svneol=native#text/xml
 common/annotations/ta.xml svneol=native#text/xml
 common/annotations/te.xml svneol=native#text/xml
 common/annotations/th.xml svneol=native#text/xml
-common/annotations/tk.xml -text svneol=unset#text/plain
-common/annotations/to.xml -text svneol=unset#text/plain
+common/annotations/tk.xml svneol=native#text/xml
+common/annotations/to.xml svneol=native#text/xml
 common/annotations/tr.xml svneol=native#text/xml
 common/annotations/uk.xml svneol=native#text/xml
 common/annotations/ur.xml svneol=native#text/xml
 common/annotations/uz.xml svneol=native#text/xml
 common/annotations/vi.xml svneol=native#text/xml
-common/annotations/yue.xml -text svneol=unset#text/plain
+common/annotations/yue.xml svneol=native#text/xml
 common/annotations/zh.xml svneol=native#text/xml
 common/annotations/zh_Hant.xml svneol=native#text/xml
-common/annotations/zh_Hant_HK.xml -text svneol=unset#text/plain
+common/annotations/zh_Hant_HK.xml svneol=native#text/xml
 common/annotations/zu.xml svneol=native#text/xml
-common/annotationsDerived/af.xml -text svneol=unset#text/plain
-common/annotationsDerived/am.xml -text svneol=unset#text/plain
-common/annotationsDerived/ar.xml -text svneol=unset#text/plain
-common/annotationsDerived/as.xml -text svneol=unset#text/plain
-common/annotationsDerived/ast.xml -text svneol=unset#text/plain
-common/annotationsDerived/az.xml -text svneol=unset#text/plain
-common/annotationsDerived/be.xml -text svneol=unset#text/plain
-common/annotationsDerived/bg.xml -text svneol=unset#text/plain
-common/annotationsDerived/bn.xml -text svneol=unset#text/plain
-common/annotationsDerived/bs.xml -text svneol=unset#text/plain
-common/annotationsDerived/ca.xml -text svneol=unset#text/plain
-common/annotationsDerived/chr.xml -text svneol=unset#text/plain
-common/annotationsDerived/cs.xml -text svneol=unset#text/plain
-common/annotationsDerived/cy.xml -text svneol=unset#text/plain
-common/annotationsDerived/da.xml -text svneol=unset#text/plain
-common/annotationsDerived/de.xml -text svneol=unset#text/plain
-common/annotationsDerived/de_CH.xml -text svneol=unset#text/plain
-common/annotationsDerived/el.xml -text svneol=unset#text/plain
-common/annotationsDerived/en.xml -text svneol=unset#text/plain
-common/annotationsDerived/en_001.xml -text svneol=unset#text/plain
-common/annotationsDerived/en_AU.xml -text svneol=unset#text/plain
-common/annotationsDerived/en_CA.xml -text svneol=unset#text/plain
-common/annotationsDerived/en_GB.xml -text svneol=unset#text/plain
-common/annotationsDerived/es.xml -text svneol=unset#text/plain
-common/annotationsDerived/es_419.xml -text svneol=unset#text/plain
-common/annotationsDerived/es_MX.xml -text svneol=unset#text/plain
-common/annotationsDerived/es_US.xml -text svneol=unset#text/plain
-common/annotationsDerived/et.xml -text svneol=unset#text/plain
-common/annotationsDerived/eu.xml -text svneol=unset#text/plain
-common/annotationsDerived/fa.xml -text svneol=unset#text/plain
-common/annotationsDerived/fi.xml -text svneol=unset#text/plain
-common/annotationsDerived/fil.xml -text svneol=unset#text/plain
-common/annotationsDerived/fo.xml -text svneol=unset#text/plain
-common/annotationsDerived/fr.xml -text svneol=unset#text/plain
-common/annotationsDerived/fr_CA.xml -text svneol=unset#text/plain
-common/annotationsDerived/ga.xml -text svneol=unset#text/plain
-common/annotationsDerived/gd.xml -text svneol=unset#text/plain
-common/annotationsDerived/gl.xml -text svneol=unset#text/plain
-common/annotationsDerived/gu.xml -text svneol=unset#text/plain
-common/annotationsDerived/he.xml -text svneol=unset#text/plain
-common/annotationsDerived/hi.xml -text svneol=unset#text/plain
-common/annotationsDerived/hr.xml -text svneol=unset#text/plain
-common/annotationsDerived/hu.xml -text svneol=unset#text/plain
-common/annotationsDerived/hy.xml -text svneol=unset#text/plain
-common/annotationsDerived/id.xml -text svneol=unset#text/plain
-common/annotationsDerived/is.xml -text svneol=unset#text/plain
-common/annotationsDerived/it.xml -text svneol=unset#text/plain
-common/annotationsDerived/ja.xml -text svneol=unset#text/plain
-common/annotationsDerived/ka.xml -text svneol=unset#text/plain
-common/annotationsDerived/kab.xml -text svneol=unset#text/plain
-common/annotationsDerived/kk.xml -text svneol=unset#text/plain
-common/annotationsDerived/km.xml -text svneol=unset#text/plain
-common/annotationsDerived/kn.xml -text svneol=unset#text/plain
-common/annotationsDerived/ko.xml -text svneol=unset#text/plain
-common/annotationsDerived/ky.xml -text svneol=unset#text/plain
-common/annotationsDerived/lo.xml -text svneol=unset#text/plain
-common/annotationsDerived/lt.xml -text svneol=unset#text/plain
-common/annotationsDerived/lv.xml -text svneol=unset#text/plain
-common/annotationsDerived/mk.xml -text svneol=unset#text/plain
-common/annotationsDerived/ml.xml -text svneol=unset#text/plain
-common/annotationsDerived/mn.xml -text svneol=unset#text/plain
-common/annotationsDerived/mr.xml -text svneol=unset#text/plain
-common/annotationsDerived/ms.xml -text svneol=unset#text/plain
-common/annotationsDerived/my.xml -text svneol=unset#text/plain
-common/annotationsDerived/nb.xml -text svneol=unset#text/plain
-common/annotationsDerived/ne.xml -text svneol=unset#text/plain
-common/annotationsDerived/nl.xml -text svneol=unset#text/plain
-common/annotationsDerived/nn.xml -text svneol=unset#text/plain
-common/annotationsDerived/or.xml -text svneol=unset#text/plain
-common/annotationsDerived/pa.xml -text svneol=unset#text/plain
-common/annotationsDerived/pl.xml -text svneol=unset#text/plain
-common/annotationsDerived/ps.xml -text svneol=unset#text/plain
-common/annotationsDerived/pt.xml -text svneol=unset#text/plain
-common/annotationsDerived/pt_PT.xml -text svneol=unset#text/plain
-common/annotationsDerived/ro.xml -text svneol=unset#text/plain
-common/annotationsDerived/root.xml -text svneol=unset#text/plain
-common/annotationsDerived/ru.xml -text svneol=unset#text/plain
-common/annotationsDerived/sd.xml -text svneol=unset#text/plain
-common/annotationsDerived/si.xml -text svneol=unset#text/plain
-common/annotationsDerived/sk.xml -text svneol=unset#text/plain
-common/annotationsDerived/sl.xml -text svneol=unset#text/plain
-common/annotationsDerived/sq.xml -text svneol=unset#text/plain
-common/annotationsDerived/sr.xml -text svneol=unset#text/plain
-common/annotationsDerived/sr_Latn.xml -text svneol=unset#text/plain
-common/annotationsDerived/sv.xml -text svneol=unset#text/plain
-common/annotationsDerived/sw.xml -text svneol=unset#text/plain
-common/annotationsDerived/ta.xml -text svneol=unset#text/plain
-common/annotationsDerived/te.xml -text svneol=unset#text/plain
-common/annotationsDerived/th.xml -text svneol=unset#text/plain
-common/annotationsDerived/tk.xml -text svneol=unset#text/plain
-common/annotationsDerived/to.xml -text svneol=unset#text/plain
-common/annotationsDerived/tr.xml -text svneol=unset#text/plain
-common/annotationsDerived/uk.xml -text svneol=unset#text/plain
-common/annotationsDerived/ur.xml -text svneol=unset#text/plain
-common/annotationsDerived/uz.xml -text svneol=unset#text/plain
-common/annotationsDerived/vi.xml -text svneol=unset#text/plain
-common/annotationsDerived/yue.xml -text svneol=unset#text/plain
-common/annotationsDerived/zh.xml -text svneol=unset#text/plain
-common/annotationsDerived/zh_Hant.xml -text svneol=unset#text/plain
-common/annotationsDerived/zh_Hant_HK.xml -text svneol=unset#text/plain
-common/annotationsDerived/zu.xml -text svneol=unset#text/plain
+common/annotationsDerived/af.xml svneol=native#text/xml
+common/annotationsDerived/am.xml svneol=native#text/xml
+common/annotationsDerived/ar.xml svneol=native#text/xml
+common/annotationsDerived/as.xml svneol=native#text/xml
+common/annotationsDerived/ast.xml svneol=native#text/xml
+common/annotationsDerived/az.xml svneol=native#text/xml
+common/annotationsDerived/be.xml svneol=native#text/xml
+common/annotationsDerived/bg.xml svneol=native#text/xml
+common/annotationsDerived/bn.xml svneol=native#text/xml
+common/annotationsDerived/bs.xml svneol=native#text/xml
+common/annotationsDerived/ca.xml svneol=native#text/xml
+common/annotationsDerived/chr.xml svneol=native#text/xml
+common/annotationsDerived/cs.xml svneol=native#text/xml
+common/annotationsDerived/cy.xml svneol=native#text/xml
+common/annotationsDerived/da.xml svneol=native#text/xml
+common/annotationsDerived/de.xml svneol=native#text/xml
+common/annotationsDerived/de_CH.xml svneol=native#text/xml
+common/annotationsDerived/el.xml svneol=native#text/xml
+common/annotationsDerived/en.xml svneol=native#text/xml
+common/annotationsDerived/en_001.xml svneol=native#text/xml
+common/annotationsDerived/en_AU.xml svneol=native#text/xml
+common/annotationsDerived/en_CA.xml svneol=native#text/xml
+common/annotationsDerived/en_GB.xml svneol=native#text/xml
+common/annotationsDerived/es.xml svneol=native#text/xml
+common/annotationsDerived/es_419.xml svneol=native#text/xml
+common/annotationsDerived/es_MX.xml svneol=native#text/xml
+common/annotationsDerived/es_US.xml svneol=native#text/xml
+common/annotationsDerived/et.xml svneol=native#text/xml
+common/annotationsDerived/eu.xml svneol=native#text/xml
+common/annotationsDerived/fa.xml svneol=native#text/xml
+common/annotationsDerived/fi.xml svneol=native#text/xml
+common/annotationsDerived/fil.xml svneol=native#text/xml
+common/annotationsDerived/fo.xml svneol=native#text/xml
+common/annotationsDerived/fr.xml svneol=native#text/xml
+common/annotationsDerived/fr_CA.xml svneol=native#text/xml
+common/annotationsDerived/ga.xml svneol=native#text/xml
+common/annotationsDerived/gd.xml svneol=native#text/xml
+common/annotationsDerived/gl.xml svneol=native#text/xml
+common/annotationsDerived/gu.xml svneol=native#text/xml
+common/annotationsDerived/he.xml svneol=native#text/xml
+common/annotationsDerived/hi.xml svneol=native#text/xml
+common/annotationsDerived/hr.xml svneol=native#text/xml
+common/annotationsDerived/hu.xml svneol=native#text/xml
+common/annotationsDerived/hy.xml svneol=native#text/xml
+common/annotationsDerived/id.xml svneol=native#text/xml
+common/annotationsDerived/is.xml svneol=native#text/xml
+common/annotationsDerived/it.xml svneol=native#text/xml
+common/annotationsDerived/ja.xml svneol=native#text/xml
+common/annotationsDerived/ka.xml svneol=native#text/xml
+common/annotationsDerived/kab.xml svneol=native#text/xml
+common/annotationsDerived/kk.xml svneol=native#text/xml
+common/annotationsDerived/km.xml svneol=native#text/xml
+common/annotationsDerived/kn.xml svneol=native#text/xml
+common/annotationsDerived/ko.xml svneol=native#text/xml
+common/annotationsDerived/ky.xml svneol=native#text/xml
+common/annotationsDerived/lo.xml svneol=native#text/xml
+common/annotationsDerived/lt.xml svneol=native#text/xml
+common/annotationsDerived/lv.xml svneol=native#text/xml
+common/annotationsDerived/mk.xml svneol=native#text/xml
+common/annotationsDerived/ml.xml svneol=native#text/xml
+common/annotationsDerived/mn.xml svneol=native#text/xml
+common/annotationsDerived/mr.xml svneol=native#text/xml
+common/annotationsDerived/ms.xml svneol=native#text/xml
+common/annotationsDerived/my.xml svneol=native#text/xml
+common/annotationsDerived/nb.xml svneol=native#text/xml
+common/annotationsDerived/ne.xml svneol=native#text/xml
+common/annotationsDerived/nl.xml svneol=native#text/xml
+common/annotationsDerived/nn.xml svneol=native#text/xml
+common/annotationsDerived/or.xml svneol=native#text/xml
+common/annotationsDerived/pa.xml svneol=native#text/xml
+common/annotationsDerived/pl.xml svneol=native#text/xml
+common/annotationsDerived/ps.xml svneol=native#text/xml
+common/annotationsDerived/pt.xml svneol=native#text/xml
+common/annotationsDerived/pt_PT.xml svneol=native#text/xml
+common/annotationsDerived/ro.xml svneol=native#text/xml
+common/annotationsDerived/root.xml svneol=native#text/xml
+common/annotationsDerived/ru.xml svneol=native#text/xml
+common/annotationsDerived/sd.xml svneol=native#text/xml
+common/annotationsDerived/si.xml svneol=native#text/xml
+common/annotationsDerived/sk.xml svneol=native#text/xml
+common/annotationsDerived/sl.xml svneol=native#text/xml
+common/annotationsDerived/sq.xml svneol=native#text/xml
+common/annotationsDerived/sr.xml svneol=native#text/xml
+common/annotationsDerived/sr_Latn.xml svneol=native#text/xml
+common/annotationsDerived/sv.xml svneol=native#text/xml
+common/annotationsDerived/sw.xml svneol=native#text/xml
+common/annotationsDerived/ta.xml svneol=native#text/xml
+common/annotationsDerived/te.xml svneol=native#text/xml
+common/annotationsDerived/th.xml svneol=native#text/xml
+common/annotationsDerived/tk.xml svneol=native#text/xml
+common/annotationsDerived/to.xml svneol=native#text/xml
+common/annotationsDerived/tr.xml svneol=native#text/xml
+common/annotationsDerived/uk.xml svneol=native#text/xml
+common/annotationsDerived/ur.xml svneol=native#text/xml
+common/annotationsDerived/uz.xml svneol=native#text/xml
+common/annotationsDerived/vi.xml svneol=native#text/xml
+common/annotationsDerived/yue.xml svneol=native#text/xml
+common/annotationsDerived/zh.xml svneol=native#text/xml
+common/annotationsDerived/zh_Hant.xml svneol=native#text/xml
+common/annotationsDerived/zh_Hant_HK.xml svneol=native#text/xml
+common/annotationsDerived/zu.xml svneol=native#text/xml
 common/bcp47/calendar.xml svneol=native#text/xml
 common/bcp47/collation.xml svneol=native#text/xml
 common/bcp47/currency.xml svneol=native#text/xml
@@ -1142,8 +1142,8 @@ common/main/saq.xml svneol=native#text/xml
 common/main/saq_KE.xml svneol=native#text/xml
 common/main/sbp.xml svneol=native#text/xml
 common/main/sbp_TZ.xml svneol=native#text/xml
-common/main/sd.xml -text svneol=unset#text/plain
-common/main/sd_PK.xml -text svneol=unset#text/plain
+common/main/sd.xml svneol=native#text/xml
+common/main/sd_PK.xml svneol=native#text/xml
 common/main/se.xml svneol=native#text/xml
 common/main/se_FI.xml svneol=native#text/xml
 common/main/se_NO.xml svneol=native#text/xml
@@ -1267,10 +1267,10 @@ common/main/yo.xml svneol=native#text/xml
 common/main/yo_BJ.xml svneol=native#text/xml
 common/main/yo_NG.xml svneol=native#text/xml
 common/main/yue.xml svneol=native#text/xml
-common/main/yue_Hans.xml -text
-common/main/yue_Hans_CN.xml -text
-common/main/yue_Hant.xml -text
-common/main/yue_Hant_HK.xml -text
+common/main/yue_Hans.xml svneol=native#text/xml
+common/main/yue_Hans_CN.xml svneol=native#text/xml
+common/main/yue_Hant.xml svneol=native#text/xml
+common/main/yue_Hant_HK.xml svneol=native#text/xml
 common/main/zgh.xml svneol=native#text/xml
 common/main/zgh_MA.xml svneol=native#text/xml
 common/main/zh.xml svneol=native#text/xml
@@ -1288,7 +1288,7 @@ common/main/zu_ZA.xml svneol=native#text/xml
 common/properties/ExtendedPictographic.txt svneol=native#text/plain
 common/properties/scriptMetadata.txt svneol=native#text/plain
 common/rbnf/af.xml svneol=native#text/xml
-common/rbnf/ak.xml -text
+common/rbnf/ak.xml svneol=native#text/xml
 common/rbnf/am.xml svneol=native#text/xml
 common/rbnf/ar.xml svneol=native#text/xml
 common/rbnf/az.xml svneol=native#text/xml
@@ -1296,7 +1296,7 @@ common/rbnf/be.xml svneol=native#text/xml
 common/rbnf/bg.xml svneol=native#text/xml
 common/rbnf/bs.xml svneol=native#text/xml
 common/rbnf/ca.xml svneol=native#text/xml
-common/rbnf/chr.xml -text
+common/rbnf/chr.xml svneol=native#text/xml
 common/rbnf/cs.xml svneol=native#text/xml
 common/rbnf/cy.xml svneol=native#text/xml
 common/rbnf/da.xml svneol=native#text/xml
@@ -1305,7 +1305,7 @@ common/rbnf/de_CH.xml svneol=native#text/xml
 common/rbnf/ee.xml svneol=native#text/xml
 common/rbnf/el.xml svneol=native#text/xml
 common/rbnf/en.xml svneol=native#text/xml
-common/rbnf/en_001.xml -text svneol=unset#text/plain
+common/rbnf/en_001.xml svneol=native#text/xml
 common/rbnf/en_IN.xml svneol=native#text/xml
 common/rbnf/eo.xml svneol=native#text/xml
 common/rbnf/es.xml svneol=native#text/xml
@@ -1335,7 +1335,7 @@ common/rbnf/km.xml svneol=native#text/xml
 common/rbnf/ko.xml svneol=native#text/xml
 common/rbnf/ky.xml svneol=native#text/xml
 common/rbnf/lo.xml svneol=native#text/xml
-common/rbnf/lrc.xml -text
+common/rbnf/lrc.xml svneol=native#text/xml
 common/rbnf/lt.xml svneol=native#text/xml
 common/rbnf/lv.xml svneol=native#text/xml
 common/rbnf/mk.xml svneol=native#text/xml
@@ -1364,7 +1364,7 @@ common/rbnf/tr.xml svneol=native#text/xml
 common/rbnf/uk.xml svneol=native#text/xml
 common/rbnf/vi.xml svneol=native#text/xml
 common/rbnf/yue.xml svneol=native#text/xml
-common/rbnf/yue_Hans.xml -text
+common/rbnf/yue_Hans.xml svneol=native#text/xml
 common/rbnf/zh.xml svneol=native#text/xml
 common/rbnf/zh_Hant.xml svneol=native#text/xml
 common/segments/de.xml svneol=native#text/xml
@@ -1385,13 +1385,13 @@ common/segments/zh_Hant.xml svneol=native#text/xml
 common/subdivisions/af.xml svneol=native#text/xml
 common/subdivisions/am.xml svneol=native#text/xml
 common/subdivisions/ar.xml svneol=native#text/xml
-common/subdivisions/as.xml -text svneol=unset#text/plain
+common/subdivisions/as.xml svneol=native#text/xml
 common/subdivisions/az.xml svneol=native#text/xml
 common/subdivisions/be.xml svneol=native#text/xml
 common/subdivisions/bg.xml svneol=native#text/xml
 common/subdivisions/bn.xml svneol=native#text/xml
 common/subdivisions/ca.xml svneol=native#text/xml
-common/subdivisions/ccp.xml -text
+common/subdivisions/ccp.xml svneol=native#text/xml
 common/subdivisions/cs.xml svneol=native#text/xml
 common/subdivisions/da.xml svneol=native#text/xml
 common/subdivisions/de.xml svneol=native#text/xml
@@ -1430,14 +1430,14 @@ common/subdivisions/ms.xml svneol=native#text/xml
 common/subdivisions/nb.xml svneol=native#text/xml
 common/subdivisions/ne.xml svneol=native#text/xml
 common/subdivisions/nl.xml svneol=native#text/xml
-common/subdivisions/or.xml -text svneol=unset#text/plain
+common/subdivisions/or.xml svneol=native#text/xml
 common/subdivisions/pl.xml svneol=native#text/xml
-common/subdivisions/ps.xml -text svneol=unset#text/plain
+common/subdivisions/ps.xml svneol=native#text/xml
 common/subdivisions/pt.xml svneol=native#text/xml
 common/subdivisions/ro.xml svneol=native#text/xml
 common/subdivisions/root.xml svneol=native#text/xml
 common/subdivisions/ru.xml svneol=native#text/xml
-common/subdivisions/sd.xml -text svneol=unset#text/plain
+common/subdivisions/sd.xml svneol=native#text/xml
 common/subdivisions/si.xml svneol=native#text/xml
 common/subdivisions/sk.xml svneol=native#text/xml
 common/subdivisions/sl.xml svneol=native#text/xml
@@ -1447,7 +1447,7 @@ common/subdivisions/sw.xml svneol=native#text/xml
 common/subdivisions/ta.xml svneol=native#text/xml
 common/subdivisions/te.xml svneol=native#text/xml
 common/subdivisions/th.xml svneol=native#text/xml
-common/subdivisions/tk.xml -text svneol=unset#text/plain
+common/subdivisions/tk.xml svneol=native#text/xml
 common/subdivisions/tr.xml svneol=native#text/xml
 common/subdivisions/uk.xml svneol=native#text/xml
 common/subdivisions/ur.xml svneol=native#text/xml
@@ -1670,7 +1670,7 @@ common/transforms/am-fa.xml svneol=native#text/xml
 common/transforms/az-Lower.xml svneol=native#text/xml
 common/transforms/az-Title.xml svneol=native#text/xml
 common/transforms/az-Upper.xml svneol=native#text/xml
-common/transforms/blt-fonipa-t-blt.xml -text
+common/transforms/blt-fonipa-t-blt.xml svneol=native#text/xml
 common/transforms/ch-am.xml svneol=native#text/xml
 common/transforms/ch-ar.xml svneol=native#text/xml
 common/transforms/ch-ch_FONIPA.xml svneol=native#text/xml
@@ -1686,8 +1686,8 @@ common/transforms/cs-ja.xml svneol=native#text/xml
 common/transforms/cs-ko.xml svneol=native#text/xml
 common/transforms/cs_FONIPA-ja.xml svneol=native#text/xml
 common/transforms/cs_FONIPA-ko.xml svneol=native#text/xml
-common/transforms/cy-fonipa-t-cy.xml -text
-common/transforms/de-ASCII.xml -text
+common/transforms/cy-fonipa-t-cy.xml svneol=native#text/xml
+common/transforms/de-ASCII.xml svneol=native#text/xml
 common/transforms/dsb-dsb_FONIPA.xml svneol=native#text/xml
 common/transforms/el-Lower.xml svneol=native#text/xml
 common/transforms/el-Title.xml svneol=native#text/xml
@@ -1873,7 +1873,7 @@ exemplars/main/any.xml svneol=native#text/xml
 exemplars/main/aoj.xml svneol=native#text/xml
 exemplars/main/aom.xml svneol=native#text/xml
 exemplars/main/apc.xml svneol=native#text/xml
-exemplars/main/apd.xml -text svneol=unset#text/xml
+exemplars/main/apd.xml svneol=native#text/xml
 exemplars/main/apd_Latn.xml svneol=native#text/xml
 exemplars/main/ape.xml svneol=native#text/xml
 exemplars/main/apr.xml svneol=native#text/xml
@@ -2115,7 +2115,7 @@ exemplars/main/idi.xml svneol=native#text/xml
 exemplars/main/idu.xml svneol=native#text/xml
 exemplars/main/ife.xml svneol=native#text/xml
 exemplars/main/ife_BJ.xml svneol=native#text/xml
-exemplars/main/ife_TG.xml -text svneol=unset#text/plain
+exemplars/main/ife_TG.xml svneol=native#text/xml
 exemplars/main/igb.xml svneol=native#text/xml
 exemplars/main/ige.xml svneol=native#text/xml
 exemplars/main/ijj.xml svneol=native#text/xml
@@ -2371,7 +2371,7 @@ exemplars/main/res.xml svneol=native#text/xml
 exemplars/main/rhg.xml svneol=native#text/xml
 exemplars/main/rna.xml svneol=native#text/xml
 exemplars/main/roo.xml svneol=native#text/xml
-exemplars/main/root.xml -text svneol=unset#text/plain
+exemplars/main/root.xml svneol=native#text/xml
 exemplars/main/rro.xml svneol=native#text/xml
 exemplars/main/rwo.xml svneol=native#text/xml
 exemplars/main/saf.xml svneol=native#text/xml
@@ -2533,7 +2533,7 @@ exemplars/main/yut.xml svneol=native#text/xml
 exemplars/main/yuw.xml svneol=native#text/xml
 exemplars/main/zdj.xml svneol=native#text/xml
 exemplars/main/zia.xml svneol=native#text/xml
-exemplars/main/zlm.xml -text svneol=unset#text/xml
+exemplars/main/zlm.xml svneol=native#text/xml
 exemplars/main/zlm_Arab.xml svneol=native#text/xml
 exemplars/main/zne.xml svneol=native#text/xml
 keyboards/.project -text svneol=unset#text/plain
@@ -2921,7 +2921,7 @@ keyboards/windows/ar-t-k0-windows-azerty.xml svneol=native#text/xml
 keyboards/windows/ar-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/as-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/az-Cyrl-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/az-t-k0-windows-extended.xml -text
+keyboards/windows/az-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/az-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ba-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/be-t-k0-windows.xml svneol=native#text/xml
@@ -2934,10 +2934,10 @@ keyboards/windows/bm-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/bn-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/bn-t-k0-windows-qwerty.xml svneol=native#text/xml
 keyboards/windows/bn-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/bo-t-k0-windows-extended.xml -text
+keyboards/windows/bo-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/bo-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/bs-Cyrl-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/bug-t-k0-windows.xml -text
+keyboards/windows/bug-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/chr-t-k0-windows-phonetic.xml svneol=native#text/xml
 keyboards/windows/chr-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ckb-t-k0-windows.xml svneol=native#text/xml
@@ -2956,7 +2956,7 @@ keyboards/windows/dsb-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/dv-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/dv-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/dyu-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/dz-t-k0-windows.xml -text
+keyboards/windows/dz-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/el-Latn-t-k0-windows-el220.xml svneol=native#text/xml
 keyboards/windows/el-Latn-t-k0-windows-el319.xml svneol=native#text/xml
 keyboards/windows/el-Latn-t-k0-windows.xml svneol=native#text/xml
@@ -2992,8 +2992,8 @@ keyboards/windows/fr-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ga-Ogam-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ga-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/gd-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/gn-t-k0-windows.xml -text
-keyboards/windows/got-t-k0-windows.xml -text
+keyboards/windows/gn-t-k0-windows.xml svneol=native#text/xml
+keyboards/windows/got-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/gu-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ha-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/haw-t-k0-windows.xml svneol=native#text/xml
@@ -3014,7 +3014,7 @@ keyboards/windows/it-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/iu-t-k0-windows-var.xml svneol=native#text/xml
 keyboards/windows/iu-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ja-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/jv-t-k0-windows.xml -text
+keyboards/windows/jv-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ka-t-k0-windows-legacy-var.xml svneol=native#text/xml
 keyboards/windows/ka-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/ka-t-k0-windows-qwerty.xml svneol=native#text/xml
@@ -3029,7 +3029,7 @@ keyboards/windows/km-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/kn-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ko-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ky-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/la-Ital-t-k0-windows.xml -text
+keyboards/windows/la-Ital-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/lb-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/lis-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/lis-t-k0-windows.xml svneol=native#text/xml
@@ -3037,7 +3037,7 @@ keyboards/windows/lo-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/lt-t-k0-windows-lt1205.xml svneol=native#text/xml
 keyboards/windows/lt-t-k0-windows-lt1582.xml svneol=native#text/xml
 keyboards/windows/lt-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/lv-t-k0-windows-extended.xml -text
+keyboards/windows/lv-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/lv-t-k0-windows-qwerty.xml svneol=native#text/xml
 keyboards/windows/lv-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/man-t-k0-windows.xml svneol=native#text/xml
@@ -3045,7 +3045,7 @@ keyboards/windows/mi-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/mk-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/mk-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ml-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/mn-Mong-t-k0-windows-extended.xml -text
+keyboards/windows/mn-Mong-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/mn-Mong-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/mn-Phag-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/mn-t-k0-windows.xml svneol=native#text/xml
@@ -3059,7 +3059,7 @@ keyboards/windows/ne-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/nl-BE-t-k0-windows-var.xml svneol=native#text/xml
 keyboards/windows/nl-BE-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/nl-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/non-t-k0-windows.xml -text
+keyboards/windows/non-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/nso-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/or-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/pa-t-k0-windows.xml svneol=native#text/xml
@@ -3076,7 +3076,7 @@ keyboards/windows/ru-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/ru-t-k0-windows-phonetic.xml svneol=native#text/xml
 keyboards/windows/ru-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sah-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/sat-Olck-t-k0-windows.xml -text
+keyboards/windows/sat-Olck-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/se-FI-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/se-SE-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/se-t-k0-windows.xml svneol=native#text/xml
@@ -3085,11 +3085,11 @@ keyboards/windows/si-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sk-t-k0-windows-qwerty.xml svneol=native#text/xml
 keyboards/windows/sk-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sl-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/so-Osma-t-k0-windows.xml -text
+keyboards/windows/so-Osma-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sq-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sr-Latn-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sr-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/srb-t-k0-windows.xml -text
+keyboards/windows/srb-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/sv-t-k0-windows-extended.xml svneol=native#text/xml
 keyboards/windows/sv-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/syr-t-k0-windows-qwerty.xml svneol=native#text/xml
@@ -3107,9 +3107,9 @@ keyboards/windows/tmh-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/tn-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/tr-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/tr-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/tt-t-k0-windows-legacy.xml -text
+keyboards/windows/tt-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/tt-t-k0-windows.xml svneol=native#text/xml
-keyboards/windows/tzm-t-k0-windows.xml -text
+keyboards/windows/tzm-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/ug-t-k0-windows-legacy.xml svneol=native#text/xml
 keyboards/windows/ug-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/uk-t-k0-windows-extended.xml svneol=native#text/xml
@@ -3125,13 +3125,13 @@ keyboards/windows/zh-MO-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/zh-SG-t-k0-windows.xml svneol=native#text/xml
 keyboards/windows/zh-t-k0-windows.xml svneol=native#text/xml
 /readme.html svneol=native#text/html
-seed/annotations/und.xml -text
+seed/annotations/und.xml svneol=native#text/xml
 seed/casing/aa.xml svneol=native#text/xml
 seed/casing/byn.xml svneol=native#text/xml
 seed/casing/en_Dsrt.xml svneol=native#text/xml
 seed/casing/ia.xml svneol=native#text/xml
-seed/casing/iu.xml -text
-seed/casing/iu_Latn.xml -text
+seed/casing/iu.xml svneol=native#text/xml
+seed/casing/iu_Latn.xml svneol=native#text/xml
 seed/casing/kpe.xml svneol=native#text/xml
 seed/casing/nr.xml svneol=native#text/xml
 seed/casing/nso.xml svneol=native#text/xml
@@ -3205,13 +3205,13 @@ seed/main/ha_Arab_SD.xml svneol=native#text/xml
 seed/main/ia.xml svneol=native#text/xml
 seed/main/ia_FR.xml svneol=native#text/xml
 seed/main/io.xml svneol=native#text/xml
-seed/main/io_001.xml -text
+seed/main/io_001.xml svneol=native#text/xml
 seed/main/iu.xml svneol=native#text/xml
 seed/main/iu_CA.xml svneol=native#text/xml
 seed/main/iu_Latn.xml svneol=native#text/xml
 seed/main/iu_Latn_CA.xml svneol=native#text/xml
-seed/main/jbo.xml -text
-seed/main/jbo_001.xml -text
+seed/main/jbo.xml svneol=native#text/xml
+seed/main/jbo_001.xml svneol=native#text/xml
 seed/main/jv.xml svneol=native#text/xml
 seed/main/jv_ID.xml svneol=native#text/xml
 seed/main/kaj.xml svneol=native#text/xml
@@ -3249,7 +3249,7 @@ seed/main/oc.xml svneol=native#text/xml
 seed/main/oc_FR.xml svneol=native#text/xml
 seed/main/quc.xml svneol=native#text/xml
 seed/main/quc_GT.xml svneol=native#text/xml
-seed/main/root.xml -text svneol=unset#text/plain
+seed/main/root.xml svneol=native#text/xml
 seed/main/sa.xml svneol=native#text/xml
 seed/main/sa_IN.xml svneol=native#text/xml
 seed/main/sdh.xml svneol=native#text/xml
@@ -4055,9 +4055,9 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCanonicalIds.java svneol=n
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCasingTransforms.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckDisplayCollisions.java -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckDisplayCollisions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrFactory.java -text svneol=unset#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4169,10 +4169,10 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-sk.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-tlh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-xh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ar-t-zu.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/az-t-az-cyrl-m0-bgn.txt -text
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/be-Latn-t-be-m0-bgn.txt -text
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/bg-Latn-t-bg-m0-bgn.txt -text
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/blt-fonipa-t-blt.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/az-t-az-cyrl-m0-bgn.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/be-Latn-t-be-m0-bgn.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/bg-Latn-t-bg-m0-bgn.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/blt-fonipa-t-blt.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ch-fonipa-t-ch.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-fonipa-t-chr.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-t-am.txt svneol=native#text/plain
@@ -4197,14 +4197,14 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-t-tlh.t
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-t-xh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/chr-t-zu.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cs-fonipa-t-cs.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cy-fonipa-t-cy.txt -text
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/de-t-de-d0-ascii.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/cy-fonipa-t-cy.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/de-t-de-d0-ascii.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/dv-Latn-t-dv-m0-bgn.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/el-Latn-t-el-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/el-Latn-t-el-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/eo-fonipa-t-eo.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/es-419-fonipa-t-es-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/es-fonipa-t-es.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-Latn-t-fa-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-Latn-t-fa-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-am.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-ch.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-cs.txt svneol=native#text/plain
@@ -4226,8 +4226,8 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-sk.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-tlh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-xh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/fa-t-zu.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/he-Latn-t-he-m0-bgn.txt -text
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-Latn-t-hy-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/he-Latn-t-he-m0-bgn.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-Latn-t-hy-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-arevmda-fonipa-t-hy-arevmda.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-fonipa-t-hy.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ia-fonipa-t-ia.txt svneol=native#text/plain
@@ -4244,16 +4244,16 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-ro.txt
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-ru.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-sk-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-sk.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ka-Latn-t-ka-m0-bgn-1981.txt -text
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ka-Latn-t-ka-m0-bgn-2009.txt -text
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/kk-Latn-t-kk-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ka-Latn-t-ka-m0-bgn-1981.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ka-Latn-t-ka-m0-bgn-2009.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/kk-Latn-t-kk-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/kk-fonipa-t-kk.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ko-t-cs-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ko-t-cs.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ko-t-ja-Latn.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ky-Latn-t-ky-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ky-Latn-t-ky-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ky-fonipa-t-ky.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/mk-Latn-t-mk-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/mk-Latn-t-mk-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/mn-Latn-t-mn-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/mn-Latn-t-mn-m0-mns.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/my-fonipa-t-my.txt svneol=native#text/plain
@@ -4269,11 +4269,11 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sat-fonipa-
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/si-Latn-t-si.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/si-fonipa-t-si.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sk-fonipa-t-sk.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sr-Latn-t-sr-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/sr-Latn-t-sr-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ta-fonipa-t-ta.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/tk-t-tk-Cyrl-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/tk-t-tk-Cyrl-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/tlh-fonipa-t-tlh.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/uk-Latn-t-uk-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/uk-Latn-t-uk-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-beng.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-deva.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Arab-t-und-gujr.txt svneol=native#text/plain
@@ -4366,7 +4366,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Telu-t-
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-Telu-t-und-taml.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-fonipa-t-und-fonxsamp.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-fonxsamp-t-und-fonipa.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-t-d0-ascii.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-t-d0-ascii.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-t-d0-publish.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/und-t-s0-publish.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ur-t-und-beng.txt svneol=native#text/plain
@@ -4378,7 +4378,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ur-t-und-ml
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ur-t-und-orya.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ur-t-und-taml.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ur-t-und-telu.txt svneol=native#text/plain
-tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/uz-t-uz-Cyrl-m0-bgn.txt -text
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/uz-t-uz-Cyrl-m0-bgn.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/xh-fonipa-t-xh.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/zh-t-es-419.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/zh-t-es-fonipa.txt svneol=native#text/plain
@@ -4400,8 +4400,8 @@ tools/java/com/ibm/icu/dev/test/TestLog.java svneol=native#text/plain%3Bcharset%
 tools/java/com/ibm/icu/dev/test/TestLogWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/dev/test/TestUtil.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/dev/test/UTF16Util.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/com/ibm/icu/impl/DayPeriodRules.java -text
-tools/java/com/ibm/icu/text/DateTimePatternGenerator.java -text
+tools/java/com/ibm/icu/impl/DayPeriodRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/com/ibm/icu/text/DateTimePatternGenerator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/GenderInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormat.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/com/ibm/icu/text/ListFormatData.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4481,44 +4481,44 @@ tools/java/org/unicode/cldr/draft/XLocaleMatcher.java svneol=native#text/plain%3
 tools/java/org/unicode/cldr/draft/idnaContextRules.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/idnaTestCases.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/draft/idnaTestLog.txt svneol=native#text/plain
-tools/java/org/unicode/cldr/draft/keyboard/CharacterMap.java -text
-tools/java/org/unicode/cldr/draft/keyboard/IsoLayoutPosition.java -text
-tools/java/org/unicode/cldr/draft/keyboard/KeyMap.java -text
-tools/java/org/unicode/cldr/draft/keyboard/Keyboard.java -text
-tools/java/org/unicode/cldr/draft/keyboard/KeyboardBuilder.java -text
-tools/java/org/unicode/cldr/draft/keyboard/KeyboardId.java -text
-tools/java/org/unicode/cldr/draft/keyboard/KeyboardIdMap.java -text
-tools/java/org/unicode/cldr/draft/keyboard/KeyboardSettings.java -text
-tools/java/org/unicode/cldr/draft/keyboard/KeyboardTool.java -text
-tools/java/org/unicode/cldr/draft/keyboard/KeycodeMap.java -text
-tools/java/org/unicode/cldr/draft/keyboard/ModifierKey.java -text
-tools/java/org/unicode/cldr/draft/keyboard/ModifierKeyCombination.java -text
-tools/java/org/unicode/cldr/draft/keyboard/ModifierKeyCombinationSet.java -text
-tools/java/org/unicode/cldr/draft/keyboard/ModifierKeySimplifier.java -text
-tools/java/org/unicode/cldr/draft/keyboard/Transform.java -text
-tools/java/org/unicode/cldr/draft/keyboard/osx/KeylayoutParser.java -text
-tools/java/org/unicode/cldr/draft/keyboard/osx/TransformTree.java -text
+tools/java/org/unicode/cldr/draft/keyboard/CharacterMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/IsoLayoutPosition.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/KeyMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/Keyboard.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/KeyboardBuilder.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/KeyboardId.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/KeyboardIdMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/KeyboardSettings.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/KeyboardTool.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/KeycodeMap.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/ModifierKey.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/ModifierKeyCombination.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/ModifierKeyCombinationSet.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/ModifierKeySimplifier.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/Transform.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/osx/KeylayoutParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/osx/TransformTree.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/keyboard/osx/osx-keycodes.csv -text
 tools/java/org/unicode/cldr/draft/keyboard/osx/osx-locales.csv -text
-tools/java/org/unicode/cldr/draft/keyboard/out/KeyboardToXml.java -text
-tools/java/org/unicode/cldr/draft/keyboard/out/KeycodeMapToXml.java -text
-tools/java/org/unicode/cldr/draft/keyboard/out/XmlWriter.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/CharacterMapTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/IsoLayoutPositionTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/KeyMapTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/KeyboardIdTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/KeyboardSettingsTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/KeyboardTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/KeycodeMapTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeyCombinationSetTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeyCombinationTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeySimplifierTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeyTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/RunTests.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/TransformTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/windows/KlcParserTest.java -text
-tools/java/org/unicode/cldr/draft/keyboard/test/windows/test_layout.txt -text
-tools/java/org/unicode/cldr/draft/keyboard/windows/KlcParser.java -text
+tools/java/org/unicode/cldr/draft/keyboard/out/KeyboardToXml.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/out/KeycodeMapToXml.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/out/XmlWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/CharacterMapTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/IsoLayoutPositionTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/KeyMapTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/KeyboardIdTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/KeyboardSettingsTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/KeyboardTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/KeycodeMapTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeyCombinationSetTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeyCombinationTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeySimplifierTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/ModifierKeyTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/RunTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/TransformTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/windows/KlcParserTest.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/draft/keyboard/test/windows/test_layout.txt svneol=native#text/plain
+tools/java/org/unicode/cldr/draft/keyboard/windows/KlcParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/draft/keyboard/windows/windows-keycodes.csv -text
 tools/java/org/unicode/cldr/draft/keyboard/windows/windows-locales.csv -text
 tools/java/org/unicode/cldr/draft/normalizeForMatchExceptions.txt svneol=native#text/plain
@@ -4707,14 +4707,14 @@ tools/java/org/unicode/cldr/tool/GenerateCoverageLevels.java svneol=native#text/
 tools/java/org/unicode/cldr/tool/GenerateDayPeriodChart.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateDayPeriods.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateDecompCollationRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/GenerateDerivedAnnotations.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/GenerateDerivedAnnotations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateDtd.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateEnums.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateG2xG2.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateIndexCharacters.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateItemCounts.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateKaraList.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/GenerateLanguageContainment.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/GenerateLanguageContainment.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateLikelySubtagTests.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/GenerateMaximalLocales.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4746,20 +4746,20 @@ tools/java/org/unicode/cldr/tool/LikelySubtags.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/tool/ListUnits.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/LocaleReplacements.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/Main.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/MakeAnnotationHistogram.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/MakeAnnotationHistogram.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/MakeTransliterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/MatchStrings.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/Misc.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ModifyCase.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/Option.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/PivotData.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/PluralMinimalPairs.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/PluralMinimalPairs.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/PluralRulesFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/PrepareRootAnnotations.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/PrepareRootAnnotations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ReadSql.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ReadXMB.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/RegexModify.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/tool/RemoveEmptyCLDR.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/tool/RemoveEmptyCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ScriptPopulations.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/SearchCLDR.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/SearchXml.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4857,7 +4857,7 @@ tools/java/org/unicode/cldr/util/DtdDataCheck.java svneol=native#text/plain%3Bch
 tools/java/org/unicode/cldr/util/DtdType.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/DualWriter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ElementAttributeInfo.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/Emoji.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/Emoji.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/EnumNames.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/EscapingUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/ExtractCollationRules.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4950,7 +4950,7 @@ tools/java/org/unicode/cldr/util/UnicodeSetPrettyPrinter.java svneol=native#text
 tools/java/org/unicode/cldr/util/Unlocode.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Utf8StringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Validity.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/ValuePathStatus.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/ValuePathStatus.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariableAndPathParser.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariableReplacer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VariantFolder.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -4959,7 +4959,7 @@ tools/java/org/unicode/cldr/util/VerifyZones.java svneol=native#text/plain%3Bcha
 tools/java/org/unicode/cldr/util/VettingViewer.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/Visitor.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/VoteResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
-tools/java/org/unicode/cldr/util/WikiSubdivisionLanguages.java -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/WikiSubdivisionLanguages.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/WikipediaOfficialLanguages.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/With.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/util/WorldBankInfo.txt svneol=native#text/plain
@@ -5002,7 +5002,7 @@ tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt svneol
 tools/java/org/unicode/cldr/util/data/dl_cldr_extensions.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/util/data/dl_iso_table_a1.xml svneol=native#text/xml
 tools/java/org/unicode/cldr/util/data/dl_iso_table_a3.xml svneol=native#text/xml
-tools/java/org/unicode/cldr/util/data/emoji/emoji-test.txt -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/data/emoji/emoji-test.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/etcetera -text
 tools/java/org/unicode/cldr/util/data/europe -text
 tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart1.csv -text
@@ -5036,7 +5036,7 @@ tools/java/org/unicode/cldr/util/data/language_script_raw.txt svneol=native#text
 tools/java/org/unicode/cldr/util/data/languages/childToParent.tsv -text
 tools/java/org/unicode/cldr/util/data/languages/entityToCode.tsv -text
 tools/java/org/unicode/cldr/util/data/languages/entityToLabel.tsv -text
-tools/java/org/unicode/cldr/util/data/languages/readme.txt -text svneol=unset#text/plain
+tools/java/org/unicode/cldr/util/data/languages/readme.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/leapseconds -text
 tools/java/org/unicode/cldr/util/data/localeReplacements.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/lstreg.txt svneol=native#text/plain
