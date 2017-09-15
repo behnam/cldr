@@ -4107,6 +4107,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestSupplementalInfo.java svne
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestTransforms.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUCharacterIterator.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUExtension.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUnContainment.java -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUnicodeProperty.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestUtilities.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestValidity.java svneol=native#text/plain%3Bcharset%3Dutf-8
@@ -5009,6 +5010,7 @@ tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv
 tools/java/org/unicode/cldr/util/data/external/Cities-CountryCapitals.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/Cities-Over1M.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/Iso639-5.html svneol=native#text/html
+tools/java/org/unicode/cldr/util/data/external/UnCodes.txt -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/util/data/external/alternate_country_names.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/alternate_language_names.txt svneol=native#text/plain
 tools/java/org/unicode/cldr/util/data/external/alternate_locode_name.txt svneol=native#text/plain
