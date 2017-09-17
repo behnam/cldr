@@ -4058,6 +4058,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckCLDR.java svneol=nati
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckDisplayCollisions.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCheckWidths.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrFactory.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrFileWrite.java -text svneol=unset#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCldrResolver.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationMapMaker.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/cldr-unittest/src/org/unicode/cldr/unittest/TestCollationStringByteConverter.java svneol=native#text/plain%3Bcharset%3Dutf-8
