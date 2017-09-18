@@ -200,6 +200,7 @@ common/annotationsDerived/ur.xml svneol=native#text/xml
 common/annotationsDerived/uz.xml svneol=native#text/xml
 common/annotationsDerived/vi.xml svneol=native#text/xml
 common/annotationsDerived/yue.xml svneol=native#text/xml
+common/annotationsDerived/yue_Hans.xml -text svneol=unset#text/plain
 common/annotationsDerived/zh.xml svneol=native#text/xml
 common/annotationsDerived/zh_Hant.xml svneol=native#text/xml
 common/annotationsDerived/zh_Hant_HK.xml svneol=native#text/xml
