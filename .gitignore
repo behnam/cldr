@@ -43,6 +43,7 @@ tools/java/build
 tools/java/build.properties
 tools/java/classes
 tools/java/dist
+tools/java/doc
 tools/java/org/unicode/cldr/icu/Result.java
 tools/java/org/unicode/cldr/icu/Test.java
 tools/java/org/unicode/cldr/icu/TestStax.java
