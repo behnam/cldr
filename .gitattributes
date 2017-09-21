@@ -2910,6 +2910,7 @@ keyboards/osx/uk-t-k0-osx.xml svneol=native#text/xml
 keyboards/osx/ur-t-k0-osx.xml svneol=native#text/xml
 keyboards/osx/uz-Arab-t-k0-osx.xml svneol=native#text/xml
 keyboards/osx/vi-t-k0-osx.xml svneol=native#text/xml
+keyboards/und/dz-t-k0-windows.xml -text svneol=unset#text/plain
 keyboards/und/lt-t-k0-osx-var.xml svneol=native#text/xml
 keyboards/und/ug-t-k0-android-600dpi.xml svneol=native#text/xml
 keyboards/und/ug-t-k0-android-768dpi.xml svneol=native#text/xml
