@@ -4780,6 +4780,7 @@ tools/java/org/unicode/cldr/tool/ShowKeyboards.java svneol=native#text/plain%3Bc
 tools/java/org/unicode/cldr/tool/ShowLanguageData.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowLanguages.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowLocaleCoverage.java svneol=native#text/plain%3Bcharset%3Dutf-8
+tools/java/org/unicode/cldr/tool/ShowPathHeaderDescriptions.java -text svneol=unset#text/plain
 tools/java/org/unicode/cldr/tool/ShowPlurals.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowRegionalVariants.java svneol=native#text/plain%3Bcharset%3Dutf-8
 tools/java/org/unicode/cldr/tool/ShowStarredCoverage.java svneol=native#text/plain%3Bcharset%3Dutf-8
