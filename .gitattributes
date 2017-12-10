@@ -6988,6 +6988,7 @@ tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-Latn-t-h
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-arevmda-fonipa-t-hy-arevmda.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/hy-fonipa-t-hy.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ia-fonipa-t-ia.txt svneol=native#text/plain
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-Latn-t-ja-hrkt-m0-bgn.txt -text
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-cs-fonipa.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-cs.txt svneol=native#text/plain
 tools/cldr-unittest/src/org/unicode/cldr/unittest/data/transformtest/ja-t-es-419.txt svneol=native#text/plain
