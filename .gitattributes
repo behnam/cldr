@@ -1288,6 +1288,7 @@ common/main/zh_Hant_TW.xml svneol=native#text/xml
 common/main/zu.xml svneol=native#text/xml
 common/main/zu_ZA.xml svneol=native#text/xml
 common/properties/ExtendedPictographic.txt svneol=native#text/plain
+common/properties/labels.txt -text svneol=unset#text/plain
 common/properties/scriptMetadata.txt svneol=native#text/plain
 common/rbnf/af.xml svneol=native#text/xml
 common/rbnf/ak.xml svneol=native#text/xml
