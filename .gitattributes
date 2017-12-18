@@ -1987,6 +1987,7 @@ exemplars/main/bzw.xml svneol=native#text/xml
 exemplars/main/can.xml svneol=native#text/xml
 exemplars/main/cbj.xml svneol=native#text/xml
 exemplars/main/cfa.xml svneol=native#text/xml
+exemplars/main/cho.xml -text
 exemplars/main/cjv.xml svneol=native#text/xml
 exemplars/main/ckl.xml svneol=native#text/xml
 exemplars/main/cko.xml svneol=native#text/xml
