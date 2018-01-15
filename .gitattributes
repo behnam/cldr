@@ -1351,6 +1351,7 @@ common/rbnf/nn.xml svneol=native#text/xml
 common/rbnf/pl.xml svneol=native#text/xml
 common/rbnf/pt.xml svneol=native#text/xml
 common/rbnf/pt_PT.xml svneol=native#text/xml
+common/rbnf/qu.xml -text
 common/rbnf/ro.xml svneol=native#text/xml
 common/rbnf/root.xml svneol=native#text/xml
 common/rbnf/ru.xml svneol=native#text/xml
