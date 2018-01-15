@@ -1362,6 +1362,7 @@ common/rbnf/sq.xml svneol=native#text/xml
 common/rbnf/sr.xml svneol=native#text/xml
 common/rbnf/sr_Latn.xml svneol=native#text/xml
 common/rbnf/sv.xml svneol=native#text/xml
+common/rbnf/sw.xml -text
 common/rbnf/ta.xml svneol=native#text/xml
 common/rbnf/th.xml svneol=native#text/xml
 common/rbnf/tr.xml svneol=native#text/xml
