@@ -1337,6 +1337,7 @@ common/rbnf/kl.xml svneol=native#text/xml
 common/rbnf/km.xml svneol=native#text/xml
 common/rbnf/ko.xml svneol=native#text/xml
 common/rbnf/ky.xml svneol=native#text/xml
+common/rbnf/lb.xml -text
 common/rbnf/lo.xml svneol=native#text/xml
 common/rbnf/lrc.xml svneol=native#text/xml
 common/rbnf/lt.xml svneol=native#text/xml
