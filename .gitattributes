@@ -1317,6 +1317,7 @@ common/rbnf/es_419.xml svneol=native#text/xml
 common/rbnf/et.xml svneol=native#text/xml
 common/rbnf/fa.xml svneol=native#text/xml
 common/rbnf/fa_AF.xml svneol=native#text/xml
+common/rbnf/ff.xml -text
 common/rbnf/fi.xml svneol=native#text/xml
 common/rbnf/fil.xml svneol=native#text/xml
 common/rbnf/fo.xml svneol=native#text/xml
