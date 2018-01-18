@@ -1364,7 +1364,6 @@ common/rbnf/sl.xml svneol=native#text/xml
 common/rbnf/sq.xml svneol=native#text/xml
 common/rbnf/sr.xml svneol=native#text/xml
 common/rbnf/sr_Latn.xml svneol=native#text/xml
-common/rbnf/su.xml -text
 common/rbnf/sv.xml svneol=native#text/xml
 common/rbnf/sw.xml -text
 common/rbnf/ta.xml svneol=native#text/xml
@@ -3318,6 +3317,7 @@ seed/main/wbp_AU.xml svneol=native#text/xml
 seed/main/xh.xml svneol=native#text/xml
 seed/main/xh_ZA.xml svneol=native#text/xml
 seed/rbnf/nci.xml svneol=native#text/xml
+seed/rbnf/su.xml -text
 seed/transforms/ug-Latin.xml svneol=native#text/xml
 specs/ldml/big_red_switch.html svneol=native#text/html
 specs/ldml/charts.html svneol=native#text/html
