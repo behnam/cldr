@@ -1932,6 +1932,7 @@ common/rbnf/be.xml svneol=native#text/xml
 common/rbnf/bg.xml svneol=native#text/xml
 common/rbnf/bs.xml svneol=native#text/xml
 common/rbnf/ca.xml svneol=native#text/xml
+common/rbnf/ccp.xml -text
 common/rbnf/chr.xml svneol=native#text/xml
 common/rbnf/cs.xml svneol=native#text/xml
 common/rbnf/cy.xml svneol=native#text/xml
