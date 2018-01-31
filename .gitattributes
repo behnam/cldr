@@ -4512,7 +4512,6 @@ tools/cldr-apps/WebContent/hand.png -text svneol=unset#image/png
 tools/cldr-apps/WebContent/header.jspf -text
 tools/cldr-apps/WebContent/helpHtml.jsp -text
 tools/cldr-apps/WebContent/hint.png -text
-tools/cldr-apps/WebContent/images/android/.DS_Store -text
 tools/cldr-apps/WebContent/images/android/android_0023.png -text
 tools/cldr-apps/WebContent/images/android/android_0023_20e3.png -text
 tools/cldr-apps/WebContent/images/android/android_002a.png -text
