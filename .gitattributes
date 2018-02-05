@@ -2,7 +2,6 @@
 /ICU-LICENSE -text
 /apache-license.txt svneol=native#text/plain
 common/annotations/af.xml svneol=native#text/xml
-common/annotations/af_NA.xml svneol=native#text/xml
 common/annotations/af_ZA.xml svneol=native#text/xml
 common/annotations/agq.xml svneol=native#text/xml
 common/annotations/agq_CM.xml svneol=native#text/xml
