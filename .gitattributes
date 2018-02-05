@@ -2359,6 +2359,7 @@ common/transforms/es_FONIPA-es_419_FONIPA.xml svneol=native#text/xml
 common/transforms/es_FONIPA-ja.xml svneol=native#text/xml
 common/transforms/es_FONIPA-zh.xml svneol=native#text/xml
 common/transforms/fa-fa_FONIPA.xml -text
+common/transforms/ha-ha_NE.xml svneol=native#text/xml
 common/transforms/hy-am.xml svneol=native#text/xml
 common/transforms/hy-ar.xml svneol=native#text/xml
 common/transforms/hy-chr.xml svneol=native#text/xml
