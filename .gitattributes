@@ -1039,6 +1039,7 @@ common/casing/teo.xml svneol=native#text/xml
 common/casing/tg.xml svneol=native#text/xml
 common/casing/th.xml svneol=native#text/xml
 common/casing/ti.xml svneol=native#text/xml
+common/casing/tk.xml svneol=native#text/xml
 common/casing/to.xml svneol=native#text/xml
 common/casing/tr.xml svneol=native#text/xml
 common/casing/twq.xml svneol=native#text/xml
